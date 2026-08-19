@@ -1,0 +1,37 @@
+{
+ "stand": "2026-08-19T14:37",
+ "beitraege": [
+  {
+   "id": "17909520351460015",
+   "titel": "",
+   "bild": "/assets/instagram/17909520351460015.jpg",
+   "link": "https://www.instagram.com/reel/DcOB9-FipZW/",
+   "datum": "2026-08-19",
+   "art": "VIDEO"
+  },
+  {
+   "id": "17903498742543008",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 31",
+   "bild": "/assets/instagram/17903498742543008.jpg",
+   "link": "https://www.instagram.com/reel/DcN-lTiEXCD/",
+   "datum": "2026-08-19",
+   "art": "VIDEO"
+  },
+  {
+   "id": "17952537651252308",
+   "titel": "Passwort-Spraying: Ein Passwort, viele Konten, ein großes Risiko",
+   "bild": "/assets/instagram/17952537651252308.jpg",
+   "link": "https://www.instagram.com/reel/DcNmgOCkyIN/",
+   "datum": "2026-08-19",
+   "art": "VIDEO"
+  },
+  {
+   "id": "17908913256280717",
+   "titel": "MACsec: Verschlüsselung direkt im LAN",
+   "bild": "/assets/instagram/17908913256280717.jpg",
+   "link": "https://www.instagram.com/reel/DcL_hV2AoEB/",
+   "datum": "2026-08-18",
+   "art": "VIDEO"
+  }
+ ]
+}
