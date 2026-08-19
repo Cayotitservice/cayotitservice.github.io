@@ -1,0 +1,74 @@
+# Cayot IT Service - Angebote
+
+> IT-Dienstleister in Bad Kreuznach, Einzugsgebiet 100 km (Nahetal, Bingen, Ingelheim, Koblenz, Kaiserslautern, Wiesbaden).
+> Hauptseite: https://www.itscayot.com/
+
+## Angebotsseiten
+
+- [Sicherheitscheck von außen](https://cayotitservice.github.io/angebote/sicherheitscheck-von-au-en-gratis-pentest.html): Bei unserem selbstentwickelten Public Discovery Scan wird die Erkundungsphase
+eines Angreifers simuliert. Damit liefern wir Ihnen und Ihren Endkunden eine
+umfassende Analyse öffentlich einsehbarer Schwachstellen und
+Sicherheitslücken einer Domain.
+Dabei handelt es sich um einen passiven Scan, bei dem nur öffentliche Quellen
+genutzt werden.
+Ziel:
+- Erkennung potenzieller Angriffsflächen und Ergreifen von
+Sicherheitsmaßnahmen
+- [Lokaler IT-Notdienst](https://cayotitservice.github.io/angebote/lokaler-it-notdienst.html): Typische Faelle: PC startet nicht mehr; WLAN funktioniert nicht; der Drucker spinnt; ein neuer PC muss eingerichtet werden; Daten vom alten Rechner uebernehmen; NAS einrichten; Microsoft-Konto reparieren; Outlook funktioniert nicht; Backup einrichten. GANZ WICHTIG und muss klar auf der Seite stehen: Es wird mindestens eine halbe Stunde berechnet, danach nach tatsaechlichem Aufwand. Das gehoert offen kommuniziert, am besten in den Ablauf oder die FAQ - nicht verstecken. Wir kommen persoenlich vorbei oder helfen per Fernwartung, je nachdem was schneller geht. Zielgruppe sind ausdruecklich auch Privatleute und Einzelunternehmer, nicht nur Firmen.
+- [Microsoft 365 Service](https://cayotitservice.github.io/angebote/microsoft-365-service.html): Wir schauen uns an: Benutzerkonten, Mehr-Faktor-Anmeldung (MFA), Adminrollen, alte Benutzer die niemand geloescht hat, Lizenzen (wofuer wird eigentlich bezahlt), Entra, Geraete, OneDrive, SharePoint, Defender, Mailweiterleitungen und die grundlegende Sicherheit. Es gibt das als laufende Betreuung nach Aufwand ODER als festes Paket 'M365 Quick Check'. Beim Quick Check bekommt der Kunde danach eine kurze, verstaendliche Liste mit Ampel-Bewertung: gruen = passt, gelb = sollte geaendert werden, rot = dringend. Die Umsetzung der Punkte wird danach getrennt beauftragt und berechnet - das gehoert klar gesagt, damit niemand ueberrascht ist. KEINE Preise nennen, auch keinen Festpreis - nur 'Festpreis auf Anfrage'. Das Ampel-Ergebnis ist der Star der Seite: kurz, verstaendlich, kein Fachbericht, den niemand liest.
+- [NAS und Backup Service](https://cayotitservice.github.io/angebote/nas-und-backup-service.html): Typische Auftraege: neue Synology einrichten; alte Synology auf eine neue migrieren; PCs automatisch sichern; Microsoft 365 auf die Synology sichern (Mails, OneDrive, SharePoint); Fotos und Dokumente zentral speichern statt auf zehn Rechnern; das NAS sicher von aussen erreichbar machen; ein Backup-Konzept erstellen, das auch einen Ausfall ueberlebt. Eingerichtet werden ausserdem DHCP, DNS, Docker, VPN und weiteres. Wichtig: Im Anschluss ist laufende Wartung und Ueberwachung moeglich - also nicht nur aufbauen und weg sein, sondern dranbleiben und melden, wenn eine Platte stirbt oder eine Sicherung nicht durchlaeuft. Kernbotschaft: Ein Backup, das noch nie zurueckgespielt wurde, ist kein Backup.
+- [E-Mail-Sicherheitscheck](https://cayotitservice.github.io/angebote/e-mail-sicherheitscheck.html): Geprueft werden: SPF, DKIM, DMARC, die DNS-Eintraege, die Microsoft-365-Konfiguration, die Mehr-Faktor-Anmeldung, eingerichtete Weiterleitungen und verdaechtige Postfachregeln (ein Klassiker nach einem gehackten Konto) sowie die grundlegende Mail-Sicherheit. Das ist ein festes, abgeschlossenes Produkt - keine Beratung nach Stunden. KEINE Preise nennen, nur 'Festpreis auf Anfrage'. Danach ist die Umsetzung moeglich: entweder mit Trend Micro als Schutzloesung inklusive Lizenzen und Wartungsvertrag, oder als Schulung, damit Ihr das Werkzeug selbst verwalten koennt - beide Wege gehoeren gleichwertig auf die Seite. Verstaendlich erklaeren, WARUM das wichtig ist: Ohne SPF/DKIM/DMARC kann jeder Mails im Namen der Firma verschicken - an Kunden, an die Buchhaltung, mit geaenderter Bankverbindung.
+- [IT-Checkup für kleine Unternehmen](https://cayotitservice.github.io/angebote/it-checkup-fuer-kleine-unternehmen.html): Fuer Unternehmen bis etwa 15 Mitarbeiter. Wir nehmen uns typischerweise drei bis fuenf Stunden und schauen uns an: Internetanschluss und Firewall, die PCs, Updates, Virenschutz, Backup, Microsoft 365, Passwoerter und Mehr-Faktor-Anmeldung, Datenschutz-Risiken, das NAS, das WLAN, Benutzerrechte und die Notfallvorsorge. Das Ergebnis ist das eigentliche Produkt: die 20 wichtigsten Massnahmen, sortiert nach Dringlichkeit, jeweils mit einem realistischen Kostenrahmen. Dazu ausgearbeitete Dokumente und ein Vorschlag, in welcher Reihenfolge man vorgeht. KEINE Preise nennen, nur 'Festpreis auf Anfrage'. Der Kunde soll danach zum ersten Mal wissen, was er hat und was es kostet, das in Ordnung zu bringen - und er kann selbst entscheiden, wer es umsetzt.
+- [Ihre IT-Abteilung](https://cayotitservice.github.io/angebote/eure-it-abteilung.html): Ihr bucht ein monatliches Stundenkontingent und habt damit eine feste Ansprechperson - vom ganz normalen Alltagsproblem (First Level: Drucker, Passwort, neuer Mitarbeiter) bis zur strategischen Beratung: Einkauf, Ausrichtung der Digitalisierung und der Security-Strategie. Alles kann besprochen werden. Der Nutzen ist die Verlaesslichkeit: Es gibt jemanden, der Eure Umgebung KENNT und nicht bei jedem Anruf von vorne anfaengt - und man muss niemanden fest einstellen. KEINE Preise und keine Stundensaetze nennen. Ehrlich bleiben: Das ersetzt keine grosse IT-Abteilung, aber fuer Betriebe ohne eigene IT ist es genau das, was fehlt.
+- [Cyberversicherung vorbereiten](https://cayotitservice.github.io/angebote/cyberversicherung-vorbereiten.html): WICHTIG - genau so formulieren, nicht anders: Wir vermitteln und verkaufen KEINE Versicherungen. Wir pruefen den Ist-Zustand, arbeiten die Anforderungen ab, die Versicherer heute stellen (MFA, Backup, Virenschutz, Notfallplan, Rechtevergabe), dokumentieren das nachvollziehbar und begleiten Euch - abgeschlossen wird bei Eurem Makler oder Versicherer. Das gehoert klar und selbstbewusst auf die Seite, nicht als Kleingedrucktes. Der Grund ist ein echter Nutzen fuer den Kunden: Viele Antraege scheitern oder die Police zahlt im Schadensfall nicht, weil im Fragebogen Dinge bestaetigt wurden, die technisch gar nicht umgesetzt sind. Genau das verhindern wir. Danach: Umsetzung von Massnahmen zur Vorbeugung und Begleitung im Umgang mit der aktuellen Bedrohungslage. KEINE Preise nennen.
+- [IT-Dokumente](https://cayotitservice.github.io/angebote/it-dokumente.html): Ihr braucht ein Administrationskonzept? Eine Security-Roadmap? Eine Risikobewertung fuer ein Projekt? Oder einfach nur ordentliche Onboarding-Checklisten fuer neue Mitarbeiter? Wir stellen alles bereit, angepasst an Eure Wuensche und Euren Betrieb - keine Vorlage von der Stange, in der noch der Name einer anderen Firma steht. WICHTIG, muss klar auf der Seite stehen (eigener Abschnitt oder FAQ): Das ist KEINE Rechtsberatung, sondern reine Erstellung nach Best Practice. Eine anwaltliche Pruefung der kundenspezifischen Anforderungen empfehlen wir ausdruecklich im Vorfeld. KEINE Preise nennen. Nutzen: Dokumente, die man im Ernstfall - Audit, Versicherung, Ausfall, Mitarbeiterwechsel - wirklich vorzeigen und benutzen kann.
+- [Security-Paket für Unternehmen](https://cayotitservice.github.io/angebote/security-paket-fuer-unternehmen.html): Das volle Sicherheitspaket, drei Bausteine, die zusammengehören und aufeinander abgestimmt sind:
+1. E-MAIL-SICHERHEIT: Schutz vor Phishing, gefälschten Absendern und Schadanhängen. Dazu gehören SPF, DKIM und DMARC, damit niemand in Ihrem Namen schreiben kann.
+2. ENDGERÄTESCHUTZ (Endpoint): moderner Schutz auf jedem Rechner und Server, der nicht nur bekannte Viren erkennt, sondern auch verdächtiges Verhalten - inklusive Überwachung, damit ein Vorfall auffällt, während er passiert, und nicht Wochen später.
+3. FIREWALL: der Schutz an der Grenze zwischen Ihrem Netz und dem Internet. WAHLWEISE als Gerät bei Ihnen im Haus (on premise), zum Beispiel Sophos - für Betriebe, die ihre Absicherung im eigenen Serverschrank haben wollen.
+
+Der eigentliche Verkaufspunkt ist das ZUSAMMENSPIEL: Die drei Bausteine reden miteinander und werden von EINER Stelle betreut. Wer sich E-Mail-Schutz beim einen, Virenschutz beim anderen und die Firewall beim dritten holt, hat drei Rechnungen, drei Ansprechpartner - und im Ernstfall zeigt jeder auf den anderen.
+
+Ehrlich dazusagen: Es gibt keinen hundertprozentigen Schutz. Was es gibt, ist die Kombination aus Abwehr, Erkennung und jemandem, der hinschaut.
+
+KEINE Preise nennen - Paketpreis auf Anfrage, weil er von der Zahl der Geräte und Postfächer abhängt.
+- [KI-Assistent für Ihren Betrieb](https://cayotitservice.github.io/angebote/ki-assistent-fuer-ihren-betrieb.html): Ein KI-Assistent, der LOKAL im Betrieb läuft, auf einem eigenen Rechner. Das ist der Kern: Die Daten bleiben im Haus.
+
+WAS SO EIN ASSISTENT KANN (das ist keine Aufzählung von Möglichkeiten, sondern das, was bei uns selbst seit Monaten wirklich läuft):
+- Er wird gesprochen bedient. Man fragt ihn wie einen Kollegen, er antwortet und führt aus.
+- Er sortiert das Postfach: erkennt, was eine Aufgabe ist, legt Anhänge ab und räumt Mails in die richtigen Ordner.
+- Er hält Termine über mehrere Kalender hinweg zusammen.
+- Er arbeitet im Ticketsystem mit: Tickets ansehen, kommentieren, Vorschläge hineinschreiben.
+- Er kennt die Zahlen: offene Rechnungen, Kosten, Auswertungen - und rechnet auf Zuruf.
+- Er erfasst Arbeitszeiten und wertet sie nach Kunde aus.
+- Er räumt Dateiablagen auf und schlägt vor, wohin etwas gehört.
+- Er beobachtet die Sicherheitslage und meldet, was auffällt.
+- Nachts prüft er sich selbst und meldet, was nicht mehr stimmt.
+- Jeder Mitarbeiter sieht nur, was zu seiner Rolle gehört - die Buchhaltung andere Dinge als die Technik.
+
+MITGELIEFERT WIRD EIN SICHERHEITSKONZEPT: schriftlich, mit Zugriffswegen, Rollen, Datenwegen und Notfallplan. Nicht als Beiwerk, sondern weil ein Assistent mit Zugriff auf Mail, Kalender und Zahlen ohne dieses Konzept fahrlässig wäre.
+
+AUF WUNSCH Wartung und Betreuung: Updates, Überwachung, neue Funktionen, Ansprechpartner bei Fragen.
+
+Ehrlich dazusagen: Das ist kein Produkt von der Stange. Es wird auf den Betrieb zugeschnitten, und das braucht Zeit und Gespräche. Dafür gehört es hinterher wirklich dem Kunden.
+
+KEINE Preise nennen.
+- [Digitale Tafeln für Besprechungsraum und Klassenzimmer](https://cayotitservice.github.io/angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html): WAS WIR ANBIETEN: interaktive Displays von Kindermann - vom einzelnen Board bis zum komplett ausgestatteten Besprechungsraum oder Klassenzimmer.
+
+MONTAGE: fest an der Wand oder freistehend auf einem Rollwagen. Auf Wunsch höhenverstellbar - manuell oder elektrisch. Das ist kein Zubehör-Detail: eine Tafel auf fester Höhe passt entweder den Kindern oder den Erwachsenen, nie beiden.
+
+DRAHTLOS PRÄSENTIEREN: Klick&Show. Sender an den eigenen Laptop stecken, Knopf drücken, Bild ist auf dem Display. Kein Kabelsuchen, keine Software-Installation, kein WLAN-Passwort für Gäste.
+
+BYOM - die eigene Videokonferenz mitbringen: Kamera und Mikrofon des Raums lassen sich drahtlos mit dem eigenen Teams-, Zoom- oder Webex-Konto nutzen. Der Gast startet seine Besprechung wie immer vom eigenen Laptop und benutzt trotzdem die Raumtechnik.
+
+TON: auf Wunsch mit Lautsprecher-Tischvariante, damit man am anderen Ende auch verstanden wird - der eingebaute Laptop-Ton reicht in einem echten Raum nicht.
+
+GRÖSSEN: verschiedene Diagonalen, passend zum Raum. Welche die richtige ist, hängt vom Abstand der hintersten Reihe ab - das schauen wir uns vor Ort an.
+
+WAS WIR DABEI MACHEN: Beratung zur Größe und Montageart, Lieferung, Aufbau, Einrichtung im Netzwerk, Anbindung an die vorhandene Umgebung - und eine Schulung, damit das Gerät danach auch benutzt wird und nicht als teure Tafel an der Wand hängt.
+
+FÜR WEN: Schulen und Bildungseinrichtungen, Praxen, Handwerks- und Industriebetriebe, Büros mit Besprechungsräumen.
+
+DER TYPISCHE ANLASS: Der Beamer ist alt, das Bild blass, jede Besprechung fängt mit zehn Minuten Kabelsuchen an - oder es steht ein neuer Raum an und man will es diesmal richtig machen. Wer schon ein Board hat, das keiner benutzt, ist auch richtig bei uns: meistens fehlt nur die Einrichtung und eine Stunde Einweisung.
+
+TONFALL: keine Preise nennen, keine technischen Datenblätter, keine Superlative. Wer hier liest, will wissen, ob wir das für ihn übernehmen - nicht, wie viele Berührpunkte der Bildschirm erkennt.
