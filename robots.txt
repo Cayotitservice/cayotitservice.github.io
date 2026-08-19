@@ -1,2 +1,5 @@
+# Alle Suchmaschinen und KI-Crawler duerfen alles lesen - genau darum geht es hier.
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://www.itscayot.com/sitemap.xml
