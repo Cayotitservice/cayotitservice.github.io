@@ -1,5 +1,2 @@
-# Alle Suchmaschinen und KI-Crawler duerfen alles lesen - genau darum geht es hier.
 User-agent: *
-Allow: /
-
-Sitemap: https://cayotitservice.github.io/sitemap.xml
+Disallow: /
