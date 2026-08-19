@@ -1,0 +1,1705 @@
+{
+  "sicherheitscheck-von-au-en-gratis-pentest": {
+    "topic": "Sicherheitscheck von außen - Gratis Pentest",
+    "brief": "Bei unserem selbstentwickelten Public Discovery Scan wird die Erkundungsphase\r\neines Angreifers simuliert. Damit liefern wir Ihnen und Ihren Endkunden eine\r\numfassende Analyse öffentlich einsehbarer Schwachstellen und\r\nSicherheitslücken einer Domain.\r\nDabei handelt es sich um einen passiven Scan, bei dem nur öffentliche Quellen\r\ngenutzt werden.\r\nZiel:\r\n- Erkennung potenzieller Angriffsflächen und Ergreifen von\r\nSicherheitsmaßnahmen",
+    "path": "angebote/sicherheitscheck-von-au-en-gratis-pentest.html",
+    "assets": [
+      "assets/sicherheitscheck-von-au-en-gratis-pentest/hero_bild.png",
+      "assets/sicherheitscheck-von-au-en-gratis-pentest/zweitbild.png",
+      "assets/sicherheitscheck-von-au-en-gratis-pentest/hintergrund_bild.png"
+    ],
+    "hero_titel": "Was Angreifer vor dem ersten Klick sehen",
+    "thema": "Bei unserem selbstentwickelten Public Discovery Scan wird die Erkundungsphase\r\neines Angreifers simuliert. Damit liefern wir Ihnen und Ihren Endkunden eine\r\numfassende Analyse öffentlich einsehbarer Schwachstellen und\r\nSicherheitslücken einer Domain.\r\nDabei handelt es sich um einen passiven Scan, bei dem nur öffentliche Quellen\r\ngenutzt werden.\r\nZiel:\r\n- Erkennung potenzieller Angriffsflächen und Ergreifen von\r\nSicherheitsmaßnahmen",
+    "ueberarbeitet": "2026-08-10T00:35:28",
+    "bildrichtung": "Ein einzelner heller Lichtpunkt im halbdunklen Raum, starker Kontrast, alles andere ruhig",
+    "aufbau": "bild_oben",
+    "kategorie": "Sicherheit",
+    "kurzbeschreibung": "Eine passive Analyse aller öffentlich sichtbaren Informationen zu Ihrer Domain, mit Bericht und Handlungsempfehlungen.",
+    "titel": "Sicherheitscheck von außen",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "karten",
+    "inhalt": {
+      "kategorie": "Sicherheit",
+      "hero_titel": "Was Angreifer vor dem ersten Klick sehen",
+      "hero_unterzeile": "Der Public Discovery Scan prüft, welche Informationen zu Ihrer Domain öffentlich einsehbar sind. Sie erhalten eine strukturierte Übersicht der Schwachstellen, bevor sie jemand anderes findet.",
+      "fuer_wen": [
+        "IT-Verantwortliche in Unternehmen ohne eigene Sicherheitsabteilung",
+        "Geschäftsführer und Selbständige, die für ihre Domain und Kundendaten verantwortlich sind",
+        "IT-Dienstleister und Systemhäuser, die ihren Endkunden eine unabhängige Prüfung anbieten möchten",
+        "Betreiber von Webseiten und Online-Shops, die wissen wollen, welche Informationen über sie öffentlich abrufbar sind"
+      ],
+      "problem_ueberschrift": "Was von außen sichtbar ist, wissen die wenigsten",
+      "problem": [
+        {
+          "titel": "Unbekannte Angriffsfläche",
+          "text": "Viele Unternehmen kennen nicht alle Systeme, die über ihre Domain öffentlich erreichbar sind. Alte Subdomains, vergessene Mailserver oder offene Dienste bleiben oft über Jahre unbemerkt."
+        },
+        {
+          "titel": "Veraltete Einträge bleiben liegen",
+          "text": "DNS-Einträge, Zertifikate und Mailserver-Konfigurationen werden eingerichtet und danach nicht mehr geprüft. Was einmal korrekt war, kann Jahre später ein Einfallstor sein."
+        },
+        {
+          "titel": "Die erste Phase eines Angriffs bleibt unbemerkt",
+          "text": "Bevor ein Angreifer aktiv wird, sammelt er öffentlich verfügbare Informationen über sein Ziel. Genau diese Erkundungsphase löst keine Alarme aus und wird deshalb selten bemerkt."
+        }
+      ],
+      "loesung_ueberschrift": "Der Public Discovery Scan",
+      "loesung": [
+        {
+          "titel": "Passive Erkundung wie ein Angreifer",
+          "text": "Unser selbst entwickelter Scan wertet ausschließlich öffentlich zugängliche Quellen aus, etwa DNS-Einträge, Zertifikate und Suchmaschinen-Treffer. Es findet kein aktiver Zugriff auf Ihre Systeme statt.",
+          "bild": "Nahaufnahme einer Hand an einer Tastatur, im unscharfen Hintergrund ein Monitor mit verbundenen Punkten und Linien, kein lesbarer Text"
+        },
+        {
+          "titel": "Vollständige Auswertung Ihrer Domain",
+          "text": "Sie erhalten eine strukturierte Übersicht aller gefundenen Auffälligkeiten, von veralteten Zertifikaten bis zu Diensten, die eigentlich nicht öffentlich erreichbar sein sollten.",
+          "bild": "Ein mehrseitiger ausgedruckter Bericht mit farbig markierten Abschnitten liegt auf einem Besprechungstisch, daneben ein Stift"
+        },
+        {
+          "titel": "Konkrete Einordnung nach Risiko",
+          "text": "Zu jedem Fund liefern wir eine Einschätzung, wie kritisch er ist, und einen Vorschlag zur Behebung. Sie entscheiden, welche Punkte zuerst angegangen werden.",
+          "bild": "Zwei Personen sitzen am Tisch, eine zeigt mit dem Finger auf eine Zeile in einem ausgedruckten Dokument, Nahaufnahme der Hände"
+        },
+        {
+          "titel": "Auch für Ihre Endkunden nutzbar",
+          "text": "IT-Dienstleister können den Scan als eigenständige Leistung anbieten und ihren Kunden eine unabhängige Prüfung der eigenen Außensicht liefern.",
+          "bild": "Eine Hand übergibt einen gehefteten Bericht über einen Tisch an eine zweite Person, Nahaufnahme der Übergabe"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Domain benennen",
+          "text": "Sie teilen uns mit, welche Domain geprüft werden soll. Ein Zugriff auf Ihre Systeme ist dafür nicht nötig."
+        },
+        {
+          "titel": "Passiver Scan",
+          "text": "Unser System wertet öffentlich verfügbare Quellen aus, darunter DNS-Einträge, Zertifikate und öffentliche Register. Ihre Systeme werden dabei nicht aktiv angesprochen."
+        },
+        {
+          "titel": "Auswertung durch uns",
+          "text": "Die Ergebnisse werden von uns geprüft und nach Risiko eingeordnet, bevor Sie sie erhalten."
+        },
+        {
+          "titel": "Bericht und Gespräch",
+          "text": "Sie bekommen einen verständlichen Bericht. Bei Bedarf besprechen wir die Ergebnisse gemeinsam mit Ihnen."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Keine Systemzugriffe nötig",
+          "text": "Der Scan arbeitet ausschließlich mit öffentlich zugänglichen Informationen, ohne Eingriff in Ihre Infrastruktur."
+        },
+        {
+          "titel": "Die Sicht eines Angreifers",
+          "text": "Sie sehen Ihre Domain genau so, wie sie in der Erkundungsphase eines Angriffs erscheint."
+        },
+        {
+          "titel": "Verständlich aufbereitet",
+          "text": "Die Ergebnisse werden nach Risiko eingeordnet und nicht als reine Rohdaten geliefert."
+        },
+        {
+          "titel": "Auch für Ihre Kunden einsetzbar",
+          "text": "IT-Dienstleister können den Scan als eigenständige Leistung an ihre Endkunden weitergeben."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Greifen Sie dabei auf unsere Systeme zu?",
+          "antwort": "Nein. Der Scan ist passiv und nutzt ausschließlich öffentlich einsehbare Quellen wie DNS-Einträge, Zertifikate und öffentliche Register. Ein aktiver Zugriff auf Ihre Infrastruktur findet nicht statt."
+        },
+        {
+          "frage": "Was genau wird geprüft?",
+          "antwort": "Wir werten öffentlich sichtbare Informationen zu Ihrer Domain aus, etwa Subdomains, DNS-Konfiguration, Zertifikate, Mailserver-Einträge und Treffer in Suchmaschinen."
+        },
+        {
+          "frage": "Eignet sich der Scan auch für kleinere Unternehmen?",
+          "antwort": "Ja. Der Scan eignet sich für jede Domain, unabhängig von Branche oder Größe. Auch Einzelunternehmer mit eigener Webseite profitieren von der Auswertung."
+        },
+        {
+          "frage": "Wie lange dauert die Auswertung?",
+          "antwort": "Das hängt vom Umfang der Domain ab. Sobald wir wissen, welche Domain geprüft werden soll, können wir Ihnen einen Zeitrahmen nennen."
+        },
+        {
+          "frage": "Kann ich den Scan für die Kunden meiner Firma nutzen?",
+          "antwort": "Ja. IT-Dienstleister und Systemhäuser setzen den Scan häufig ein, um ihren Endkunden eine unabhängige Prüfung der Außensicht anzubieten."
+        }
+      ],
+      "cta_titel": "Domain auf Sichtbarkeit prüfen lassen",
+      "cta_text": "Sagen Sie uns, welche Domain geprüft werden soll, den Rest übernehmen wir.",
+      "seo_beschreibung": "Public Discovery Scan: passive Prüfung öffentlich sichtbarer Schwachstellen Ihrer Domain, ohne Zugriff auf Ihre Systeme.",
+      "kurzbeschreibung": "Eine passive Analyse aller öffentlich sichtbaren Informationen zu Ihrer Domain, mit Bericht und Handlungsempfehlungen.",
+      "hero_bild": "Ein Maschendrahtzaun im Gegenlicht der Abenddämmerung, Blick von außen auf ein Gebäude, das im Unscharfen liegt",
+      "zweitbild": "Nahaufnahme eines geschlossenen Vorhängeschlosses an einem Metalltor, Streiflicht von der Seite",
+      "hintergrund_bild": "Ein dezent angedeuteter Serverraum im Halbdunkel, ein einzelner heller Lichtpunkt in Form einer leuchtenden Status-LED an einem Rack durchbricht die Dunkelheit, starker Kontrast, alle übrigen Konturen ruhig und unscharf"
+    },
+    "bilder": {
+      "hero_bild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/hero_bild.png",
+      "zweitbild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/zweitbild.png",
+      "hintergrund_bild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:08:55"
+  },
+  "lokaler-it-notdienst": {
+    "titel": "Lokaler IT-Notdienst",
+    "stil": "Sachlich, warm und direkt. Kein Marketing-Geschwurbel, keine Angstmache. So schreiben, dass ein Handwerker und ein Steuerberater es gleich gut verstehen. KEINE Preise, keine Euro-Betraege, keine Stundensaetze - stattdessen 'Preis nach Aufwand' oder 'Festpreis auf Anfrage'. Ton: der Nachbar, der sich wirklich auskennt und schnell da ist.",
+    "thema": "Typische Faelle: PC startet nicht mehr; WLAN funktioniert nicht; der Drucker spinnt; ein neuer PC muss eingerichtet werden; Daten vom alten Rechner uebernehmen; NAS einrichten; Microsoft-Konto reparieren; Outlook funktioniert nicht; Backup einrichten. GANZ WICHTIG und muss klar auf der Seite stehen: Es wird mindestens eine halbe Stunde berechnet, danach nach tatsaechlichem Aufwand. Das gehoert offen kommuniziert, am besten in den Ablauf oder die FAQ - nicht verstecken. Wir kommen persoenlich vorbei oder helfen per Fernwartung, je nachdem was schneller geht. Zielgruppe sind ausdruecklich auch Privatleute und Einzelunternehmer, nicht nur Firmen.",
+    "produkt": "Schnelle IT-Hilfe vor Ort und per Fernwartung in Bad Kreuznach und Umgebung.",
+    "path": "angebote/lokaler-it-notdienst.html",
+    "assets": [
+      "assets/lokaler-it-notdienst/hero_bild.png",
+      "assets/lokaler-it-notdienst/zweitbild.png",
+      "assets/lokaler-it-notdienst/hintergrund_bild.png"
+    ],
+    "hero_titel": "Schnelle Hilfe, wenn der Rechner streikt",
+    "bildrichtung": "Aufsicht von schräg oben, geometrische Muster und klare Ordnung, dezentes Türkis",
+    "erstellt": "2026-08-07T23:00:34",
+    "ueberarbeitet": "2026-08-10T00:36:40",
+    "aufbau": "klassisch",
+    "kategorie": "Soforthilfe",
+    "kurzbeschreibung": "Schnelle IT-Hilfe vor Ort oder per Fernwartung in Bad Kreuznach und Umgebung, für Privatleute, Selbständige und Betriebe.",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "zeilen",
+    "inhalt": {
+      "kategorie": "Soforthilfe",
+      "hero_titel": "Schnelle Hilfe, wenn der Rechner streikt",
+      "hero_unterzeile": "Wir kommen bei Ihnen vorbei oder verbinden uns per Fernwartung mit Ihrem Gerät - für Privatleute, Selbständige und Betriebe in Bad Kreuznach und rund 100 Kilometer Umkreis.",
+      "fuer_wen": [
+        "Privatleute, deren PC, WLAN oder Drucker nicht mehr funktioniert",
+        "Einzelunternehmer und Selbständige ohne eigene IT-Abteilung",
+        "Handwerksbetriebe mit Büro und Werkstatt",
+        "Kleine Firmen, die schnell wieder arbeitsfähig sein müssen"
+      ],
+      "problem_ueberschrift": "Wenn die Technik genau jetzt ausfällt",
+      "problem": [
+        {
+          "titel": "Der Rechner steht still",
+          "text": "Der PC startet nicht mehr, Outlook lässt sich nicht öffnen oder der Drucker verweigert die Arbeit. Für Privatleute ist das ärgerlich, für ein Geschäft bedeutet es Stillstand."
+        },
+        {
+          "titel": "Keine eigene IT-Abteilung",
+          "text": "Wer selbständig arbeitet oder einen kleinen Betrieb führt, hat oft niemanden im Haus, der sich mit Netzwerk, Konten oder Backups auskennt. Für jede Kleinigkeit einen Fachmann zu finden, kostet Zeit, die fehlt."
+        },
+        {
+          "titel": "Unklar, wer zuständig ist",
+          "text": "Der Router stammt vom Internetanbieter, der Drucker vom Fachhandel, die Software von einem dritten Anbieter. Bei einem Problem schiebt jeder auf den anderen, und die eigentliche Ursache bleibt ungeklärt."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir konkret für Sie tun",
+      "loesung": [
+        {
+          "titel": "Fehler vor Ort finden",
+          "text": "Wir kommen zu Ihnen nach Hause oder ins Büro und sehen uns Gerät und Anschlüsse direkt an. Viele Ursachen lassen sich nur so zuverlässig erkennen, etwa bei Kabeln, Steckdosen oder der Hardware selbst.",
+          "bild": "Hände untersuchen ein geöffnetes Computergehäuse, ein Schraubendreher liegt griffbereit daneben, warmes Licht aus einem Wohnzimmer"
+        },
+        {
+          "titel": "Hilfe per Fernwartung",
+          "text": "Bei Software-Problemen wie Outlook, Windows-Updates oder dem Microsoft-Konto reicht oft eine Fernwartungssitzung. Sie sehen auf Ihrem Bildschirm, was wir tun, und können jederzeit nachfragen.",
+          "bild": "Bildschirm mit laufender Fernwartungssitzung, Mauszeiger auf einem geöffneten Fenster, im Vordergrund eine Hand auf der Maus"
+        },
+        {
+          "titel": "Geräte einrichten und Daten umziehen",
+          "text": "Ein neuer PC, ein neues NAS oder ein anderer Drucker - wir richten das Gerät ein und übernehmen Ihre Daten vom alten Rechner. Danach läuft alles wieder so, wie Sie es gewohnt sind.",
+          "bild": "Zwei Festplatten nebeneinander auf einem Tisch, verbunden mit einem Datenkabel, eine Hand hält eine der Platten fest"
+        },
+        {
+          "titel": "Backup und Router in Ordnung bringen",
+          "text": "Wir richten ein automatisches Backup ein, damit Fotos und Dokumente nicht verloren gehen, und sorgen dafür, dass WLAN und Router wieder stabil laufen.",
+          "bild": "WLAN-Router hinter einem Regal, Kabel sauber verlegt, Statuslichter leicht sichtbar im Halbdunkel"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Anruf oder Nachricht",
+          "text": "Sie schildern kurz, was nicht funktioniert. Wir sagen Ihnen, ob ein Besuch nötig ist oder Fernwartung reicht."
+        },
+        {
+          "titel": "Vor-Ort-Termin oder Fernwartung",
+          "text": "Je nach Fall kommen wir bei Ihnen vorbei oder verbinden uns per Fernwartung mit Ihrem Gerät. Das legen wir gemeinsam mit Ihnen fest."
+        },
+        {
+          "titel": "Fehler beheben",
+          "text": "Wir suchen die Ursache, beheben sie und erklären Ihnen, was das Problem war und wie es dazu kam."
+        },
+        {
+          "titel": "Abrechnung nach Aufwand",
+          "text": "Berechnet wird mindestens die erste halbe Stunde plus Anfahrt, danach der tatsächliche Zeitaufwand. Sie erhalten eine nachvollziehbare Rechnung."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Vor Ort in Bad Kreuznach und Umgebung",
+          "text": "Wir sind in Bad Kreuznach und im Umkreis von rund 100 Kilometern innerhalb kurzer Zeit bei Ihnen."
+        },
+        {
+          "titel": "Fernwartung ohne lange Wartezeit",
+          "text": "Viele Probleme lösen wir per Fernwartung noch am selben Tag, ohne dass Sie einen Termin abwarten müssen."
+        },
+        {
+          "titel": "Klare Abrechnung",
+          "text": "Sie wissen vorher, dass mindestens eine halbe Stunde plus Anfahrt berechnet wird, danach zählt der tatsächliche Aufwand."
+        },
+        {
+          "titel": "Für Privat und Beruf",
+          "text": "Ob privater Rechner oder Firmen-PC - wir kennen beide Seiten und richten uns nach Ihrem Bedarf."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wie groß ist Ihr Einzugsgebiet",
+          "antwort": "Wir sind in Bad Kreuznach und im Umkreis von rund 100 Kilometern vor Ort für Sie erreichbar. Bei größerer Entfernung helfen wir häufig per Fernwartung."
+        },
+        {
+          "frage": "Was kostet ein Einsatz",
+          "antwort": "Berechnet wird mindestens die erste halbe Stunde plus Anfahrt, danach der tatsächliche Aufwand. Den genauen Rahmen besprechen wir vorab mit Ihnen."
+        },
+        {
+          "frage": "Kommen Sie vorbei oder arbeiten Sie per Fernwartung",
+          "antwort": "Beides ist möglich. Wir besprechen mit Ihnen, was für Ihr Problem sinnvoll ist, und legen das gemeinsam fest."
+        },
+        {
+          "frage": "Helfen Sie auch Privatpersonen",
+          "antwort": "Ja. Ein großer Teil unserer Einsätze sind private Haushalte, dazu Einzelunternehmer und kleine Betriebe."
+        },
+        {
+          "frage": "Was mache ich, wenn mein PC gar nicht mehr startet",
+          "antwort": "Schildern Sie uns kurz, was passiert, wenn Sie ihn einschalten. Oft lässt sich schon am Telefon einschätzen, ob ein Besuch nötig ist."
+        }
+      ],
+      "cta_titel": "Jetzt Kontakt aufnehmen",
+      "cta_text": "Schildern Sie uns kurz Ihr Problem, wir sagen Ihnen den nächsten Schritt.",
+      "seo_beschreibung": "IT-Notdienst in Bad Kreuznach: Hilfe vor Ort oder per Fernwartung bei PC, WLAN, Drucker und Backup. Für Privat und Betrieb.",
+      "kurzbeschreibung": "Schnelle IT-Hilfe vor Ort oder per Fernwartung in Bad Kreuznach und Umgebung, für Privatleute, Selbständige und Betriebe.",
+      "hero_bild": "Geöffnete Werkzeugtasche mit Schraubendreher und Kabeln vor einer Wohnungstür, im Hintergrund ein Treppenhaus",
+      "zweitbild": "Hand hält ein Messgerät an eine offene Netzteilbuchse eines aufgeklappten Computergehäuses auf einem Tisch",
+      "hintergrund_bild": "Aufsicht von schräg oben auf ein geordnet ausgebreitetes Werkzeugset aus Schraubendrehern, Kabeln und einer Taschenlampe auf dunklem Untergrund, klare geometrische Anordnung, dezente türkise Lichtreflexion"
+    },
+    "bilder": {
+      "hero_bild": "/assets/lokaler-it-notdienst/hero_bild.png",
+      "zweitbild": "/assets/lokaler-it-notdienst/zweitbild.png",
+      "hintergrund_bild": "/assets/lokaler-it-notdienst/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:08:59"
+  },
+  "microsoft-365-service": {
+    "titel": "Microsoft 365 Service",
+    "stil": "Sachlich, warm und direkt. Kein Marketing-Geschwurbel, keine Angstmache. So schreiben, dass ein Handwerker und ein Steuerberater es gleich gut verstehen. KEINE Preise, keine Euro-Betraege, keine Stundensaetze - stattdessen 'Preis nach Aufwand' oder 'Festpreis auf Anfrage'. Ton: Ordnung schaffen, wo ueber Jahre gewachsen wurde.",
+    "thema": "Wir schauen uns an: Benutzerkonten, Mehr-Faktor-Anmeldung (MFA), Adminrollen, alte Benutzer die niemand geloescht hat, Lizenzen (wofuer wird eigentlich bezahlt), Entra, Geraete, OneDrive, SharePoint, Defender, Mailweiterleitungen und die grundlegende Sicherheit. Es gibt das als laufende Betreuung nach Aufwand ODER als festes Paket 'M365 Quick Check'. Beim Quick Check bekommt der Kunde danach eine kurze, verstaendliche Liste mit Ampel-Bewertung: gruen = passt, gelb = sollte geaendert werden, rot = dringend. Die Umsetzung der Punkte wird danach getrennt beauftragt und berechnet - das gehoert klar gesagt, damit niemand ueberrascht ist. KEINE Preise nennen, auch keinen Festpreis - nur 'Festpreis auf Anfrage'. Das Ampel-Ergebnis ist der Star der Seite: kurz, verstaendlich, kein Fachbericht, den niemand liest.",
+    "produkt": "Microsoft 365 pruefen, aufraeumen und sicher einstellen - fuer Betriebe mit 2 bis 20 Mitarbeitern.",
+    "path": "angebote/microsoft-365-service.html",
+    "assets": [
+      "assets/microsoft-365-service/hero_bild.png",
+      "assets/microsoft-365-service/zweitbild.png",
+      "assets/microsoft-365-service/hintergrund_bild.png"
+    ],
+    "hero_titel": "Klarheit über Ihr Microsoft 365",
+    "bildrichtung": "Aufsicht von schräg oben, geometrische Muster und klare Ordnung, dezentes Türkis",
+    "erstellt": "2026-08-07T23:05:04",
+    "ueberarbeitet": "2026-08-10T00:18:20",
+    "aufbau": "klassisch",
+    "kategorie": "Microsoft 365",
+    "kurzbeschreibung": "Ein verständlicher Check Ihres Microsoft 365 mit Ampel-Bewertung für Konten, Rechte und Sicherheit.",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "chips",
+    "inhalt": {
+      "kategorie": "Microsoft 365",
+      "hero_titel": "Klarheit über Ihr Microsoft 365",
+      "hero_unterzeile": "Wir prüfen Konten, Zugriffsrechte, Geräte und Sicherheitseinstellungen in Ihrem Microsoft 365 und fassen das Ergebnis in einer kurzen Ampel-Liste zusammen: grün, gelb, rot. Sie sehen sofort, wo Handlungsbedarf besteht.",
+      "fuer_wen": [
+        "Ein Mitarbeiter hat vor Monaten das Unternehmen verlassen, sein Postfach und seine Lizenz laufen aber weiter",
+        "Die Rechnung für Microsoft 365 steigt jedes Jahr, aber niemand kann sagen, wofür genau bezahlt wird",
+        "Ein früherer IT-Dienstleister hat Adminrechte vergeben, die heute niemand mehr zuordnen kann",
+        "Die Zwei-Faktor-Anmeldung ist bei manchen Konten aktiv, bei anderen nicht - aus Gewohnheit, nicht aus Plan"
+      ],
+      "problem_ueberschrift": "Was sich über die Jahre in Microsoft 365 ansammelt",
+      "problem": [
+        {
+          "titel": "Karteikonten",
+          "text": "Mitarbeiter kommen und gehen, ihre Konten und Lizenzen bleiben oft bestehen. Jedes davon ist ein mögliches Einfallstor und kostet zusätzlich Geld."
+        },
+        {
+          "titel": "Rechte ohne Überblick",
+          "text": "Über Jahre wurden Adminrollen und Freigaben vergeben - von wechselnden Mitarbeitern, von externen Dienstleistern, aus der Not eines Moments. Wer heute Zugriff auf was hat, weiß oft niemand mehr genau."
+        },
+        {
+          "titel": "Sicherheit nach Zufall",
+          "text": "Die Zwei-Faktor-Anmeldung ist bei einem Teil der Konten aktiv, beim Rest nicht. Mailweiterleitungen wurden eingerichtet und nie wieder geprüft."
+        }
+      ],
+      "loesung_ueberschrift": "Der M365 Quick Check im Überblick",
+      "loesung": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns Benutzerkonten, Adminrollen, Geräte, Entra, OneDrive, SharePoint, Defender und Mailweiterleitungen an. Alte Konten und ungenutzte Lizenzen fallen dabei sofort auf.",
+          "bild": "Zwei Kollegen stehen an einem Stehtisch und sehen sich gemeinsam eine ausgedruckte Übersicht mit mehreren Spalten an"
+        },
+        {
+          "titel": "Ampel-Liste statt Fachbericht",
+          "text": "Das Ergebnis bekommen Sie als kurze, verständliche Liste: grün heißt passt, gelb heißt sollte geändert werden, rot heißt dringend.",
+          "bild": "Nahaufnahme eines Blattes auf einem Besprechungstisch, einzelne Zeilen sind am Rand grün, gelb und rot markiert"
+        },
+        {
+          "titel": "Sicherheit einordnen",
+          "text": "MFA-Status, Adminrollen und Freigaben werden einzeln bewertet, nicht pauschal. So sehen Sie genau, welches Konto welches Risiko trägt.",
+          "bild": "Ein Schlüsselbund liegt neben einem Mitarbeiterausweis auf einem hellen Schreibtisch"
+        },
+        {
+          "titel": "Lizenzen klären",
+          "text": "Wir gleichen ab, welche Lizenzen aktiv genutzt werden und welche seit Monaten ungenutzt mitlaufen. Das Ergebnis zeigt, wo tatsächlich gespart werden kann.",
+          "bild": "Eine Hand streicht mit einem Textmarker eine Position auf einem ausgedruckten Rechnungsblatt durch, ein Ordner liegt daneben"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Kurzgespräch",
+          "text": "Wir klären, ob laufende Betreuung oder ein einmaliger Quick Check zu Ihrem Betrieb passt."
+        },
+        {
+          "titel": "Prüfung im Tenant",
+          "text": "Mit einem eingeschränkten Zugang sehen wir uns Konten, Rollen, Geräte und Einstellungen an. Ihr laufender Betrieb wird dabei nicht gestört."
+        },
+        {
+          "titel": "Ampel-Liste",
+          "text": "Sie erhalten die Bewertung in verständlicher Sprache, geordnet nach grün, gelb und rot."
+        },
+        {
+          "titel": "Umsetzung getrennt beauftragt",
+          "text": "Sie entscheiden, welche Punkte zuerst angegangen werden. Die Umsetzung wird separat vereinbart und berechnet."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Klarer Überblick",
+          "text": "Statt eines Berichts voller Fachbegriffe bekommen Sie eine Liste, die auf einen Blick zeigt, wo Handlungsbedarf besteht."
+        },
+        {
+          "titel": "Weniger unnötige Kosten",
+          "text": "Ungenutzte Lizenzen und vergessene Konten werden sichtbar - und damit vermeidbar."
+        },
+        {
+          "titel": "Sie behalten die Entscheidung",
+          "text": "Welche Punkte zuerst umgesetzt werden, bestimmen Sie. Nichts wird automatisch mitverkauft."
+        },
+        {
+          "titel": "Unabhängige Einschätzung",
+          "text": "Auch wenn bereits ein anderer Dienstleister betreut, liefert der Quick Check eine zweite, neutrale Sicht auf den Zustand."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Was kostet der M365 Quick Check?",
+          "antwort": "Der Quick Check ist ein festes Paket, der Preis richtet sich nach der Anzahl der Konten - Festpreis auf Anfrage."
+        },
+        {
+          "frage": "Wird die Umsetzung der roten und gelben Punkte gleich mit erledigt?",
+          "antwort": "Nein. Der Quick Check liefert die Bewertung, die Umsetzung wird danach getrennt beauftragt und berechnet."
+        },
+        {
+          "frage": "Brauchen Sie vollen Admin-Zugang?",
+          "antwort": "Für die Prüfung reicht ein eingeschränkter, nachvollziehbarer Zugang. Wir richten das gemeinsam mit Ihnen ein."
+        },
+        {
+          "frage": "Wir haben schon einen IT-Dienstleister - lohnt sich der Check trotzdem?",
+          "antwort": "Ja. Der Quick Check ist eine unabhängige zweite Einschätzung und ersetzt keine laufende Betreuung."
+        },
+        {
+          "frage": "Wie lange dauert die Prüfung?",
+          "antwort": "Das hängt von der Anzahl der Konten und der Größe des Tenants ab. Den Zeitrahmen klären wir im Kurzgespräch."
+        }
+      ],
+      "cta_titel": "Quick Check anfragen",
+      "cta_text": "Schreiben Sie uns, wir klären im Kurzgespräch, was zu Ihrem Betrieb passt.",
+      "seo_beschreibung": "Microsoft 365 Quick Check: Konten, Rechte, MFA und Lizenzen geprüft - Ergebnis als klare Ampel-Liste. Für Betriebe mit 2 bis 20 Mitarbeitern.",
+      "kurzbeschreibung": "Ein verständlicher Check Ihres Microsoft 365 mit Ampel-Bewertung für Konten, Rechte und Sicherheit.",
+      "hero_bild": "Zwei Kollegen sitzen an einem Stehtisch und blicken gemeinsam auf einen ausgedruckten Bericht mit farbigen Randmarkierungen",
+      "zweitbild": "Nahaufnahme einer Hand, die mit einem grünen, einem gelben und einem roten Textmarker eine Liste auf Papier markiert",
+      "hintergrund_bild": "Aufsicht von schräg oben auf einen aufgeräumten Besprechungstisch: ordentlich gestapelte Papiere, eine Checkliste, ein Schlüsselbund und ein Kalenderblatt in geometrischer Anordnung, dezente türkise Akzente in den Randmarkierungen"
+    },
+    "bilder": {
+      "hero_bild": "/assets/microsoft-365-service/hero_bild.png",
+      "zweitbild": "/assets/microsoft-365-service/zweitbild.png",
+      "hintergrund_bild": "/assets/microsoft-365-service/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:09:02"
+  },
+  "nas-und-backup-service": {
+    "titel": "NAS und Backup Service",
+    "stil": "Sachlich, warm und direkt. Kein Marketing-Geschwurbel, keine Angstmache. So schreiben, dass ein Handwerker und ein Steuerberater es gleich gut verstehen. KEINE Preise, keine Euro-Betraege, keine Stundensaetze - stattdessen 'Preis nach Aufwand' oder 'Festpreis auf Anfrage'. Ton: ruhig und gruendlich. Daten sind das, was man nicht nachkaufen kann.",
+    "thema": "Typische Auftraege: neue Synology einrichten; alte Synology auf eine neue migrieren; PCs automatisch sichern; Microsoft 365 auf die Synology sichern (Mails, OneDrive, SharePoint); Fotos und Dokumente zentral speichern statt auf zehn Rechnern; das NAS sicher von aussen erreichbar machen; ein Backup-Konzept erstellen, das auch einen Ausfall ueberlebt. Eingerichtet werden ausserdem DHCP, DNS, Docker, VPN und weiteres. Wichtig: Im Anschluss ist laufende Wartung und Ueberwachung moeglich - also nicht nur aufbauen und weg sein, sondern dranbleiben und melden, wenn eine Platte stirbt oder eine Sicherung nicht durchlaeuft. Kernbotschaft: Ein Backup, das noch nie zurueckgespielt wurde, ist kein Backup.",
+    "produkt": "Synology-NAS einrichten, umziehen und richtig absichern - damit die Daten zentral liegen und wirklich gesichert sind.",
+    "path": "angebote/nas-und-backup-service.html",
+    "assets": [
+      "assets/nas-und-backup-service/hero_bild.png",
+      "assets/nas-und-backup-service/zweitbild.png",
+      "assets/nas-und-backup-service/hintergrund_bild.png"
+    ],
+    "hero_titel": "Ein Ort für alle Daten - im Büro und unterwegs",
+    "bildrichtung": "Nahaufnahme mit geringer Schärfentiefe, warmes Bernsteinlicht, weicher Hintergrund",
+    "erstellt": "2026-08-07T23:07:52",
+    "ueberarbeitet": "2026-08-10T00:38:01",
+    "aufbau": "wechsel",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Ein zentraler, überwachter Speicherort für all Ihre Daten - mit Zugriff von unterwegs und geprüfter Sicherung.",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "trennstrich",
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Ein Ort für alle Daten - im Büro und unterwegs",
+      "hero_unterzeile": "Wir richten Ihre Synology so ein, dass Dateien, Fotos und Dokumente an einem Ort liegen, jeder Mitarbeiter nur sieht, was er sehen soll, und Sie auch von unterwegs darauf zugreifen. Sicherung ist ein Teil davon, nicht der einzige Grund für ein NAS.",
+      "fuer_wen": [
+        "Handwerksbetriebe und kleine Firmen, deren Dateien auf mehreren Rechnern verstreut liegen",
+        "Einzelunternehmer und Selbständige, die unterwegs auf ihre Unterlagen zugreifen müssen",
+        "Kanzleien und Praxen, die Zugriffsrechte je Mitarbeiter klar regeln müssen",
+        "Privathaushalte mit Fotos und Dokumenten auf mehreren Geräten"
+      ],
+      "problem_ueberschrift": "Wenn Daten überall und nirgends liegen",
+      "problem": [
+        {
+          "titel": "Verstreute Dateien",
+          "text": "Ein Dokument liegt auf dem Rechner im Büro, eine zweite Version auf dem Laptop, eine dritte auf einem USB-Stick. Niemand weiß mehr sicher, welche davon die aktuelle ist."
+        },
+        {
+          "titel": "Kein Zugriff von unterwegs",
+          "text": "Beim Kundentermin fehlt genau die Datei, die auf dem Rechner im Büro liegt. Ohne zentrale Ablage bleibt nur der Anruf und das Warten auf jemanden vor Ort."
+        },
+        {
+          "titel": "Kein Blick auf den Zustand",
+          "text": "Das NAS steht seit der Einrichtung im Schrank und läuft. Ob eine Platte Probleme macht oder eine Sicherung tatsächlich durchläuft, sieht niemand, bis es zu spät ist."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir einrichten - und dabei im Blick behalten",
+      "loesung": [
+        {
+          "titel": "Zentrale Ablage",
+          "text": "Alle Dateien liegen auf einem Gerät im Haus statt verteilt auf mehreren Rechnern. Ordnerstruktur und Namensgebung legen wir gemeinsam mit Ihnen fest, damit sich das System bewährt und nicht wieder zuwächst.",
+          "bild": "Nahaufnahme einer Hand, die eine Festplatte in ein geöffnetes NAS-Gehäuse mit mehreren Laufwerksschächten einschiebt, warmes Seitenlicht"
+        },
+        {
+          "titel": "Zugriff von unterwegs, Rechte je Mitarbeiter",
+          "text": "Über eine gesicherte Verbindung erreichen Sie Ihre Dateien auch von außerhalb des Büros. Jeder Mitarbeiter bekommt genau die Rechte, die für seine Arbeit nötig sind, nicht mehr.",
+          "bild": "Hand steckt einen Schlüssel in ein Türschloss an einer Bürotür, Nahaufnahme mit unscharfem Hintergrund"
+        },
+        {
+          "titel": "Netzwerkdienste im Hintergrund",
+          "text": "DHCP, DNS, VPN und bei Bedarf Docker-Container richten wir so ein, dass Geräte im Netzwerk automatisch die richtigen Adressen bekommen und ein Fernzugriff sauber abgesichert ist.",
+          "bild": "Netzwerkdose in einer Wand, aus der eine Hand ein Kabel zieht und in ein Gerät steckt, Nahaufnahme"
+        },
+        {
+          "titel": "Sicherung, die getestet wird",
+          "text": "PCs, Microsoft 365 mit Mails, OneDrive und SharePoint werden auf das NAS gesichert. Nach der Einrichtung spielen wir eine Sicherung testweise zurück, denn eine Sicherung, die das nie durchlaufen hat, ist keine.",
+          "bild": "Zwei Festplatten liegen nebeneinander auf einer Werkbank, eine wird gerade aus einem geöffneten Gehäuse gezogen, Nahaufnahme"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir schauen uns an, wie viele Rechner und Nutzer es gibt, welche Dienste gebraucht werden und wie viel Speicherplatz sinnvoll ist."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Das NAS wird installiert oder eine bestehende Synology übernommen, Ordner und Zugriffsrechte werden angelegt, Netzwerkdienste eingerichtet."
+        },
+        {
+          "titel": "Sicherung anlegen",
+          "text": "Backup-Pläne für PCs und Microsoft 365 werden erstellt und einmal testweise zurückgespielt, damit sie im Ernstfall auch wirklich funktionieren."
+        },
+        {
+          "titel": "Laufende Betreuung",
+          "text": "Wir behalten das NAS im Blick und melden uns, wenn eine Platte Anzeichen von Verschleiß zeigt oder eine Sicherung nicht durchgelaufen ist."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein Ort für alle Daten",
+          "text": "Dateien liegen an einer Stelle statt verteilt auf mehreren Rechnern und Sticks. Jeder findet die aktuelle Version."
+        },
+        {
+          "titel": "Zugriff von überall",
+          "text": "Unterwegs oder im Homeoffice erreichen Sie Ihre Unterlagen, ohne Dateien per E-Mail hin- und herzuschicken."
+        },
+        {
+          "titel": "Rechte klar geregelt",
+          "text": "Jeder Mitarbeiter sieht nur, was für seine Arbeit nötig ist. Nicht mehr, nicht weniger."
+        },
+        {
+          "titel": "Sicherung, die geprüft ist",
+          "text": "Im Ernstfall lässt sich tatsächlich etwas zurückspielen, weil wir das vorher getestet haben."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Welche Synology-Modelle richten Sie ein?",
+          "antwort": "Wir arbeiten mit den gängigen Modellen für kleine Betriebe und Privathaushalte, von Geräten mit einer Festplatte bis zu mehreren Laufwerken im Verbund. Welches Modell zu Ihrem Bedarf passt, klären wir vorab."
+        },
+        {
+          "frage": "Kann ich eine bestehende Synology übernehmen statt einer neuen?",
+          "antwort": "Ja. Wir übernehmen oder migrieren bestehende Geräte auf ein neues, inklusive Ordnerstruktur, Rechten und Einstellungen."
+        },
+        {
+          "frage": "Sichert das NAS auch Microsoft 365?",
+          "antwort": "Ja. Mails, OneDrive und SharePoint lassen sich zusätzlich auf dem NAS sichern, getrennt von Microsofts eigener, zeitlich begrenzter Wiederherstellung."
+        },
+        {
+          "frage": "Was passiert, wenn eine Festplatte ausfällt?",
+          "antwort": "Bei laufender Überwachung melden wir uns, sobald erste Warnzeichen auftreten, und tauschen die Platte, bevor daraus ein Datenverlust wird."
+        },
+        {
+          "frage": "Testen Sie, ob die Sicherung wirklich funktioniert?",
+          "antwort": "Ja. Eine Sicherung, die noch nie zurückgespielt wurde, ist keine. Wir testen die Rücksicherung nach der Einrichtung und in regelmäßigen Abständen danach."
+        }
+      ],
+      "cta_titel": "Bringen Sie Ihre Daten an einen Ort",
+      "cta_text": "Schreiben Sie uns, wir schauen uns Ihre aktuelle Situation an und sagen Ihnen, was ein NAS für Sie leisten kann.",
+      "seo_beschreibung": "Synology-NAS einrichten, umziehen und absichern: zentrale Ablage, Zugriff von unterwegs, Rechte je Nutzer und geprüfte Sicherung.",
+      "kurzbeschreibung": "Ein zentraler, überwachter Speicherort für all Ihre Daten - mit Zugriff von unterwegs und geprüfter Sicherung.",
+      "hero_bild": "Nahaufnahme einer Hand, die eine Festplatte in ein geöffnetes NAS-Gehäuse mit mehreren Laufwerksschächten einschiebt, warmes Seitenlicht auf dem Metall",
+      "zweitbild": "Netzwerkdose in einer Wand, aus der eine Hand ein Kabel zieht und in ein Gerät steckt, Nahaufnahme mit unscharfem Hintergrund",
+      "hintergrund_bild": "Nahaufnahme einer halb eingeschobenen Festplatte in einem geöffneten NAS-Gehäuse, warmes Bernsteinlicht auf der Metalloberfläche, geringe Schärfentiefe, weicher unscharfer Hintergrund mit sanftem Bokeh"
+    },
+    "bilder": {
+      "hero_bild": "/assets/nas-und-backup-service/hero_bild.png",
+      "zweitbild": "/assets/nas-und-backup-service/zweitbild.png",
+      "hintergrund_bild": "/assets/nas-und-backup-service/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:09:06"
+  },
+  "e-mail-sicherheitscheck": {
+    "titel": "E-Mail-Sicherheitscheck",
+    "stil": "Sachlich, warm und direkt. Kein Marketing-Geschwurbel, keine Angstmache. So schreiben, dass ein Handwerker und ein Steuerberater es gleich gut verstehen. KEINE Preise, keine Euro-Betraege, keine Stundensaetze - stattdessen 'Preis nach Aufwand' oder 'Festpreis auf Anfrage'. Ton: konkret und ohne Panikmache. Ein Check, kein Cybersecurity-Consulting.",
+    "thema": "Geprueft werden: SPF, DKIM, DMARC, die DNS-Eintraege, die Microsoft-365-Konfiguration, die Mehr-Faktor-Anmeldung, eingerichtete Weiterleitungen und verdaechtige Postfachregeln (ein Klassiker nach einem gehackten Konto) sowie die grundlegende Mail-Sicherheit. Das ist ein festes, abgeschlossenes Produkt - keine Beratung nach Stunden. KEINE Preise nennen, nur 'Festpreis auf Anfrage'. Danach ist die Umsetzung moeglich: entweder mit Trend Micro als Schutzloesung inklusive Lizenzen und Wartungsvertrag, oder als Schulung, damit Ihr das Werkzeug selbst verwalten koennt - beide Wege gehoeren gleichwertig auf die Seite. Verstaendlich erklaeren, WARUM das wichtig ist: Ohne SPF/DKIM/DMARC kann jeder Mails im Namen der Firma verschicken - an Kunden, an die Buchhaltung, mit geaenderter Bankverbindung.",
+    "produkt": "Pruefung, ob in Eurem Namen Mails verschickt werden koennen und ob Euer Postfach sauber eingestellt ist.",
+    "path": "angebote/e-mail-sicherheitscheck.html",
+    "assets": [
+      "assets/e-mail-sicherheitscheck/hero_bild.png",
+      "assets/e-mail-sicherheitscheck/zweitbild.png",
+      "assets/e-mail-sicherheitscheck/hintergrund_bild.png"
+    ],
+    "hero_titel": "Kontrolle darüber, wer in Ihrem Namen mailt",
+    "bildrichtung": "Strenges, sich wiederholendes Raster im Detail, Grau mit einem einzelnen grünen Akzent",
+    "erstellt": "2026-08-07T23:10:30",
+    "ueberarbeitet": "2026-08-10T00:39:34",
+    "aufbau": "bild_oben",
+    "kategorie": "Sicherheit",
+    "kurzbeschreibung": "Wir prüfen und richten SPF, DKIM und DMARC für Ihre Domain ein, damit niemand unbemerkt in Ihrem Namen mailt.",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "chips",
+    "inhalt": {
+      "kategorie": "Sicherheit",
+      "hero_titel": "Kontrolle darüber, wer in Ihrem Namen mailt",
+      "hero_unterzeile": "Wir prüfen, ob unbemerkt Mails im Namen Ihrer Firma verschickt werden können, und richten SPF, DKIM und DMARC anschließend so ein, dass nur noch Ihre eigenen Server als Absender gelten.",
+      "fuer_wen": [
+        "Einzelunternehmer, die Rechnungen per Mail versenden",
+        "Handwerksbetriebe mit einem gemeinsamen Firmenpostfach",
+        "Firmen mit Microsoft 365, aber ohne eigene IT-Abteilung",
+        "Vereine und Praxen, deren Domain schon einmal für Spam-Mails missbraucht wurde"
+      ],
+      "problem_ueberschrift": "Wenn eine Mail nicht von Ihnen ist, aber so aussieht",
+      "problem": [
+        {
+          "titel": "Gefälschter Absender",
+          "text": "Ohne SPF, DKIM und DMARC kann praktisch jeder eine Mail schreiben, die aussieht, als käme sie von Ihrer Domain. Der Empfänger sieht Ihren Namen und vertraut der Nachricht."
+        },
+        {
+          "titel": "Geänderte Bankverbindung",
+          "text": "Eine gefälschte Rechnung mit neuer Kontonummer, verschickt im Namen Ihrer Firma an einen Kunden oder die eigene Buchhaltung, reicht oft schon für einen echten finanziellen Schaden."
+        },
+        {
+          "titel": "Unbemerkte Postfachregeln",
+          "text": "Nach einem gestohlenen Passwort legen Angreifer häufig eine stille Weiterleitung oder eine Regel an, die bestimmte Mails unauffällig aussortiert. Das fällt im Alltag oft monatelang nicht auf."
+        }
+      ],
+      "loesung_ueberschrift": "Vom Befund zur wirksamen Einstellung",
+      "loesung": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir prüfen SPF-, DKIM- und DMARC-Einträge, die DNS-Konfiguration, die Microsoft-365-Einstellungen, die Mehr-Faktor-Anmeldung sowie bestehende Weiterleitungen und Postfachregeln. Sie erhalten eine Übersicht, wo Lücken bestehen.",
+          "bild": "Eine Hand hält einen ausgedruckten Bericht mit mehreren farbig markierten Zeilen über einem Schreibtisch, im Hintergrund unscharf ein Aktenordner"
+        },
+        {
+          "titel": "Einträge setzen",
+          "text": "Wir tragen die fehlenden oder fehlerhaften SPF-, DKIM- und DMARC-Einträge direkt im DNS Ihrer Domain ein, nicht nur als Hinweis im Bericht. Danach ist die Absenderprüfung für Ihre Domain aktiv.",
+          "bild": "Nahaufnahme einer Hand, die an einer Tastatur eine Zeile in einem Konfigurationsfeld einträgt, der Bildschirm zeigt nur unscharfe Balken ohne lesbaren Text"
+        },
+        {
+          "titel": "Wirkung kontrollieren",
+          "text": "Nach der Umstellung schicken wir Testmails und prüfen die Zustellung. So sehen wir, ob SPF, DKIM und DMARC greifen und keine echte Mail dabei verloren geht.",
+          "bild": "Ein Briefumschlag liegt auf einem kleinen Poststapel, eine Hand drückt gerade einen Stempel darauf"
+        },
+        {
+          "titel": "Schutz oder Schulung",
+          "text": "Danach entscheiden Sie: Wir richten Trend Micro als Schutzprogramm ein, inklusive Lizenzen und Wartungsvertrag, oder wir zeigen Ihnen und Ihrem Team, wie Sie die Einstellungen künftig selbst pflegen.",
+          "bild": "Zwei Personen sitzen sich an einem Besprechungstisch gegenüber, eine zeigt der anderen etwas auf einem ausgedruckten Blatt, im Hintergrund eine Wandtafel mit einer einfachen Skizze"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Prüfung",
+          "text": "Wir sehen uns SPF, DKIM, DMARC, DNS, die Microsoft-365-Konfiguration, die Mehr-Faktor-Anmeldung, Weiterleitungen und Postfachregeln an."
+        },
+        {
+          "titel": "Einträge setzen",
+          "text": "Wir korrigieren oder ergänzen die DNS-Einträge für SPF, DKIM und DMARC für Ihre Domain."
+        },
+        {
+          "titel": "Wirkung prüfen",
+          "text": "Wir verschicken Testmails und prüfen, ob die Einträge greifen und keine reguläre Mail verloren geht."
+        },
+        {
+          "titel": "Ergebnis und nächster Schritt",
+          "text": "Sie erhalten einen Bericht sowie ein Angebot für Trend Micro als Schutzprogramm oder für eine Schulung."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Klarheit über den Ist-Zustand",
+          "text": "Sie wissen genau, welche Einträge fehlen und wo jemand in Ihrem Namen mailen könnte."
+        },
+        {
+          "titel": "Aktive Absenderprüfung",
+          "text": "Nach der Umsetzung sind SPF, DKIM und DMARC für Ihre Domain eingerichtet und wirksam."
+        },
+        {
+          "titel": "Fester Rahmen",
+          "text": "Ein abgeschlossenes Projekt mit Festpreis auf Anfrage, keine offene Beratung nach Stunden."
+        },
+        {
+          "titel": "Zwei Wege danach",
+          "text": "Sie entscheiden zwischen einem betreuten Schutzprogramm oder einer Schulung für die eigene Verwaltung."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Was ist der Unterschied zwischen SPF, DKIM und DMARC?",
+          "antwort": "SPF legt fest, welche Server für Ihre Domain Mails verschicken dürfen. DKIM signiert jede Mail digital, damit sie unterwegs nicht verändert wird. DMARC sagt dem Empfänger, was mit einer Mail passieren soll, die beide Prüfungen nicht besteht."
+        },
+        {
+          "frage": "Reicht die Prüfung oder müssen die Einträge auch neu gesetzt werden?",
+          "antwort": "Eine Prüfung allein schützt niemanden. Deshalb setzen wir die fehlenden oder fehlerhaften Einträge im Anschluss direkt um und kontrollieren, ob sie wirken."
+        },
+        {
+          "frage": "Was passiert, wenn schon einmal ein Konto gehackt wurde?",
+          "antwort": "Wir schauen uns gezielt Weiterleitungen und Postfachregeln an, die nach einem Konto-Diebstahl oft unbemerkt eingerichtet werden, zum Beispiel eine stille Kopie an eine fremde Adresse."
+        },
+        {
+          "frage": "Muss ich mich für Trend Micro entscheiden?",
+          "antwort": "Nein. Sie können die Einstellungen nach einer kurzen Schulung auch selbst pflegen. Trend Micro bieten wir als zweite Möglichkeit an, wenn Sie die laufende Wartung abgeben möchten."
+        },
+        {
+          "frage": "Wie lange dauert der Check?",
+          "antwort": "Der Check ist ein abgeschlossenes Projekt mit festem Umfang, keine offene Beratung nach Stunden. Den genauen Ablauf und einen Termin klären wir nach Ihrer Anfrage."
+        }
+      ],
+      "cta_titel": "Lassen Sie Ihr Postfach prüfen",
+      "cta_text": "Fordern Sie den E-Mail-Sicherheitscheck an und erfahren Sie, wer wirklich in Ihrem Namen mailen kann.",
+      "seo_beschreibung": "E-Mail-Sicherheitscheck: SPF, DKIM und DMARC prüfen und einrichten lassen. Festpreis auf Anfrage, für Firmen und Selbständige.",
+      "kurzbeschreibung": "Wir prüfen und richten SPF, DKIM und DMARC für Ihre Domain ein, damit niemand unbemerkt in Ihrem Namen mailt.",
+      "hero_bild": "Eine Hand drückt ein Wachssiegel auf einen Briefumschlag, im Hintergrund unscharf ein kleiner Stapel weiterer Umschläge",
+      "zweitbild": "Eine verschlossene Briefkastenanlage mit mehreren gleich großen Fächern, in einem der Schlösser steckt ein Schlüssel",
+      "hintergrund_bild": "Ein streng rasterförmiges Fächerregal aus grauem Metall mit vielen gleich großen Ablagefächern in Reihen, in einem einzigen Fach leuchtet ein schmaler grüner Streifen, gedämpftes Seitenlicht, geringe Schärfentiefe im Hintergrund"
+    },
+    "bilder": {
+      "hero_bild": "/assets/e-mail-sicherheitscheck/hero_bild.png",
+      "zweitbild": "/assets/e-mail-sicherheitscheck/zweitbild.png",
+      "hintergrund_bild": "/assets/e-mail-sicherheitscheck/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:09:09"
+  },
+  "it-checkup-fuer-kleine-unternehmen": {
+    "titel": "IT-Checkup für kleine Unternehmen",
+    "stil": "Sachlich, warm und direkt. Kein Marketing-Geschwurbel, keine Angstmache. So schreiben, dass ein Handwerker und ein Steuerberater es gleich gut verstehen. KEINE Preise, keine Euro-Betraege, keine Stundensaetze - stattdessen 'Preis nach Aufwand' oder 'Festpreis auf Anfrage'. Ton: Klarheit statt Angst. Endlich mal eine ehrliche Bestandsaufnahme.",
+    "thema": "Fuer Unternehmen bis etwa 15 Mitarbeiter. Wir nehmen uns typischerweise drei bis fuenf Stunden und schauen uns an: Internetanschluss und Firewall, die PCs, Updates, Virenschutz, Backup, Microsoft 365, Passwoerter und Mehr-Faktor-Anmeldung, Datenschutz-Risiken, das NAS, das WLAN, Benutzerrechte und die Notfallvorsorge. Das Ergebnis ist das eigentliche Produkt: die 20 wichtigsten Massnahmen, sortiert nach Dringlichkeit, jeweils mit einem realistischen Kostenrahmen. Dazu ausgearbeitete Dokumente und ein Vorschlag, in welcher Reihenfolge man vorgeht. KEINE Preise nennen, nur 'Festpreis auf Anfrage'. Der Kunde soll danach zum ersten Mal wissen, was er hat und was es kostet, das in Ordnung zu bringen - und er kann selbst entscheiden, wer es umsetzt.",
+    "produkt": "Einmal komplett draufschauen: Wo steht Eure IT wirklich - und was ist wirklich dringend?",
+    "path": "angebote/it-checkup-fuer-kleine-unternehmen.html",
+    "assets": [
+      "assets/it-checkup-fuer-kleine-unternehmen/hero_bild.png",
+      "assets/it-checkup-fuer-kleine-unternehmen/zweitbild.png",
+      "assets/it-checkup-fuer-kleine-unternehmen/hintergrund_bild.png"
+    ],
+    "hero_titel": "Klarheit über Ihre IT - in einem Tag",
+    "bildrichtung": "Weiche Lichtspuren und Bewegung über einem unscharfen Motiv, Cyan auf Anthrazit",
+    "erstellt": "2026-08-07T23:13:46",
+    "ueberarbeitet": "2026-08-10T00:40:37",
+    "aufbau": "problem_zuerst",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Eine gründliche Bestandsaufnahme Ihrer IT mit priorisierter Maßnahmenliste und Kostenrahmen zum Nachlesen.",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "trennstrich",
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "Klarheit über Ihre IT - in einem Tag",
+      "hero_unterzeile": "Wir schauen uns Ihre gesamte Technik einmal gründlich an und legen offen, wo Handlungsbedarf besteht. Am Ende wissen Sie, was Sie haben, was dringend ist und mit welchem Kostenrahmen Sie rechnen müssen.",
+      "fuer_wen": [
+        "Inhaber eines kleinen Betriebs ohne eigene IT-Abteilung, der nie geprüft hat, ob Backup und Virenschutz tatsächlich funktionieren",
+        "Selbständige und Einzelunternehmer, die ihre Technik nebenbei selbst verwalten und wissen wollen, wo sie wirklich stehen",
+        "Neue Geschäftsführer oder Nachfolger, die einen Betrieb übernehmen und die vorhandene IT nicht kennen",
+        "Privatpersonen mit mehreren Geräten, NAS und Heimnetzwerk, die einen ehrlichen Überblick über Sicherheit und Datensicherung wollen"
+      ],
+      "problem_ueberschrift": "Niemand weiß wirklich, wie es um die IT steht",
+      "problem": [
+        {
+          "titel": "Vermutungen statt Fakten",
+          "text": "Die Firewall läuft, das Backup irgendwie auch - genau geprüft hat das nie jemand. Ob im Ernstfall wirklich alles wiederherstellbar ist, weiß niemand mit Sicherheit."
+        },
+        {
+          "titel": "Probleme fallen erst auf, wenn es zu spät ist",
+          "text": "Ein veraltetes System, ein offener Zugang, ein fehlendes Update - solche Dinge bleiben oft jahrelang unbemerkt. Bemerkt werden sie meist erst, wenn etwas ausfällt oder verloren geht."
+        },
+        {
+          "titel": "Investitionen ohne Grundlage",
+          "text": "Ohne eine echte Bestandsaufnahme lässt sich schwer sagen, was als Nächstes drankommt. Entscheidungen werden dann aus dem Bauch heraus getroffen, statt anhand von Prioritäten."
+        }
+      ],
+      "loesung_ueberschrift": "Eine gründliche Bestandsaufnahme, keine Verkaufsvorführung",
+      "loesung": [
+        {
+          "titel": "Vor-Ort-Prüfung Ihrer gesamten Technik",
+          "text": "Wir sehen uns Internetanschluss, Firewall, PCs, NAS und WLAN direkt bei Ihnen an. Dafür nehmen wir uns in der Regel drei bis fünf Stunden - je nach Größe Ihrer Umgebung.",
+          "bild": "Eine Hand prüft die Kabelanschlüsse an einem NAS-Gehäuse, im Hintergrund unscharf ein Router mit blinkenden Lichtern"
+        },
+        {
+          "titel": "Prüfung von Zugängen und Sicherheit",
+          "text": "Wir kontrollieren Passwörter, die Mehr-Faktor-Anmeldung, Benutzerrechte und typische Datenschutz-Risiken. Dabei zeigt sich oft, wer noch Zugriff auf Systeme hat, obwohl er ihn längst nicht mehr braucht.",
+          "bild": "Ein USB-Sicherheitsschlüssel steckt in einem Laptop-Anschluss, daneben liegt ein Schlüsselbund auf dem Tisch"
+        },
+        {
+          "titel": "Test von Backup und Notfallvorsorge",
+          "text": "Ein Backup, das nie getestet wurde, ist nur eine Vermutung. Wir prüfen, ob eine Sicherung im Ernstfall tatsächlich wiederhergestellt werden kann, und wie lange das dauern würde.",
+          "bild": "Eine Hand zieht eine externe Festplatte aus einem Schrankfach, das Kabel liegt griffbereit daneben"
+        },
+        {
+          "titel": "Der Maßnahmenplan mit Kostenrahmen",
+          "text": "Sie erhalten die 20 wichtigsten Maßnahmen, sortiert nach Dringlichkeit, jeweils mit einem realistischen Kostenrahmen. Dazu einen Vorschlag, in welcher Reihenfolge Sie vorgehen sollten - umsetzen kann das Sie selbst oder wir.",
+          "bild": "Ein ausgedrucktes Dokument mit farbig markierten Prioritätspunkten liegt auf einem Besprechungstisch, daneben eine Tasse Kaffee"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Kurzes Vorgespräch",
+          "text": "Wir klären, wie groß Ihre Umgebung ist und worauf wir besonders achten sollen."
+        },
+        {
+          "titel": "Termin vor Ort",
+          "text": "Drei bis fünf Stunden gehen wir Ihre Technik Punkt für Punkt durch - von der Firewall bis zum letzten PC."
+        },
+        {
+          "titel": "Auswertung",
+          "text": "Wir ordnen die Befunde nach Dringlichkeit und schätzen für jeden Punkt einen realistischen Kostenrahmen."
+        },
+        {
+          "titel": "Übergabe der Unterlagen",
+          "text": "Sie erhalten die ausgearbeiteten Dokumente und besprechen mit uns, wie Sie am besten vorgehen."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein vollständiges Bild",
+          "text": "Statt einzelner Vermutungen erhalten Sie eine Übersicht über Ihre gesamte IT an einem Termin."
+        },
+        {
+          "titel": "20 priorisierte Maßnahmen",
+          "text": "Jeder Punkt ist nach Dringlichkeit sortiert und mit einem Kostenrahmen versehen - keine vage Liste."
+        },
+        {
+          "titel": "Unabhängig von der Umsetzung",
+          "text": "Sie entscheiden selbst, wer die Maßnahmen umsetzt - wir oder ein anderer Anbieter."
+        },
+        {
+          "titel": "Belastbare Dokumentation",
+          "text": "Die Unterlagen eignen sich auch zur Vorlage bei Steuerberater, Versicherung oder Nachfolger."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Muss ich vorher etwas vorbereiten?",
+          "antwort": "Nein. Wir bringen alles Nötige mit und stimmen den Ablauf im Vorgespräch mit Ihnen ab."
+        },
+        {
+          "frage": "Sind Sie danach verpflichtet, die Maßnahmen bei Ihnen umsetzen zu lassen?",
+          "antwort": "Nein. Die Dokumente gehören Ihnen. Sie können selbst entscheiden, wer die Umsetzung übernimmt."
+        },
+        {
+          "frage": "Ist der Checkup auch für Privathaushalte sinnvoll?",
+          "antwort": "Ja. Sobald mehrere Geräte, ein NAS oder ein Heimnetzwerk im Spiel sind, lohnt sich der gleiche gründliche Blick wie in einem Betrieb."
+        },
+        {
+          "frage": "Wie lange dauert der Termin?",
+          "antwort": "In der Regel drei bis fünf Stunden vor Ort, abhängig von Anzahl der Geräte und Komplexität Ihrer Umgebung."
+        },
+        {
+          "frage": "Was, wenn keine akuten Probleme gefunden werden?",
+          "antwort": "Das kommt vor und ist ein gutes Ergebnis. Sie erhalten dann die Bestätigung, dass Ihre IT solide aufgestellt ist, plus Hinweise für die Zukunft."
+        }
+      ],
+      "cta_titel": "Verschaffen Sie sich Klarheit über Ihre IT",
+      "cta_text": "Vereinbaren Sie einen Termin für Ihren IT-Checkup - Festpreis auf Anfrage.",
+      "seo_beschreibung": "IT-Checkup für Betriebe und Privathaushalte: Wir prüfen Netzwerk, Sicherheit und Backup und liefern eine priorisierte Maßnahmenliste mit Kostenrahmen.",
+      "kurzbeschreibung": "Eine gründliche Bestandsaufnahme Ihrer IT mit priorisierter Maßnahmenliste und Kostenrahmen zum Nachlesen.",
+      "hero_bild": "Eine Hand hakt Punkte auf einer ausgedruckten Checkliste ab, daneben auf dem Tisch liegen ein Netzwerkkabel und ein kleiner Router",
+      "zweitbild": "Von oben fotografiert: ein ausgedrucktes Dokument mit farbig markierter Prioritätsliste neben einer Tasse Kaffee auf einem Holztisch",
+      "hintergrund_bild": "Weiche Lichtspuren und Bewegung über einem unscharfen Motiv aus gestapelten Aktenordnern und einer offenen Checkliste, Cyan auf Anthrazit, ruhige Tiefe ohne erkennbare Details"
+    },
+    "bilder": {
+      "hero_bild": "/assets/it-checkup-fuer-kleine-unternehmen/hero_bild.png",
+      "zweitbild": "/assets/it-checkup-fuer-kleine-unternehmen/zweitbild.png",
+      "hintergrund_bild": "/assets/it-checkup-fuer-kleine-unternehmen/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:09:13"
+  },
+  "eure-it-abteilung": {
+    "titel": "Ihre IT-Abteilung",
+    "stil": "Sachlich, warm und direkt. Kein Marketing-Geschwurbel, keine Angstmache. So schreiben, dass ein Handwerker und ein Steuerberater es gleich gut verstehen. KEINE Preise, keine Euro-Betraege, keine Stundensaetze - stattdessen 'Preis nach Aufwand' oder 'Festpreis auf Anfrage'. Ton: Partnerschaft auf Dauer, nicht Feuerwehreinsatz.",
+    "thema": "Ihr bucht ein monatliches Stundenkontingent und habt damit eine feste Ansprechperson - vom ganz normalen Alltagsproblem (First Level: Drucker, Passwort, neuer Mitarbeiter) bis zur strategischen Beratung: Einkauf, Ausrichtung der Digitalisierung und der Security-Strategie. Alles kann besprochen werden. Der Nutzen ist die Verlaesslichkeit: Es gibt jemanden, der Eure Umgebung KENNT und nicht bei jedem Anruf von vorne anfaengt - und man muss niemanden fest einstellen. KEINE Preise und keine Stundensaetze nennen. Ehrlich bleiben: Das ersetzt keine grosse IT-Abteilung, aber fuer Betriebe ohne eigene IT ist es genau das, was fehlt.",
+    "produkt": "Keine eigene IT? Kein Problem - Beratungsvertrag mit festem Stundenkontingent.",
+    "path": "angebote/eure-it-abteilung.html",
+    "assets": [
+      "assets/eure-it-abteilung/hero_bild.png",
+      "assets/eure-it-abteilung/zweitbild.png",
+      "assets/eure-it-abteilung/hintergrund_bild.png"
+    ],
+    "hero_titel": "Eine IT-Abteilung, ohne sie einzustellen",
+    "bildrichtung": "Glas und Spiegelungen, klare Linien, helles Blaugrau, viel Tageslicht",
+    "erstellt": "2026-08-07T23:16:32",
+    "ueberarbeitet": "2026-08-10T00:41:50",
+    "aufbau": "ruhig",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Ein monatliches Stundenkontingent mit fester Ansprechperson für alle IT-Fragen, ohne eigene IT-Stelle einzurichten.",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "zeilen",
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "Eine IT-Abteilung, ohne sie einzustellen",
+      "hero_unterzeile": "Sie buchen ein festes Stundenkontingent im Monat und haben damit eine feste Ansprechperson für Ihre IT. Vom Drucker, der nicht mehr will, bis zur Frage, welche Software als nächstes angeschafft wird.",
+      "fuer_wen": [
+        "Handwerksbetriebe, in denen der Chef nach Feierabend die IT nebenbei erledigt",
+        "Kleine Kanzleien und Praxen ohne eigene IT-Stelle",
+        "Betriebe, in denen ein technikaffiner Mitarbeiter die IT zusätzlich zu seiner eigentlichen Arbeit mitmacht",
+        "Selbständige und Einzelunternehmer, die niemanden fest einstellen wollen, aber verlässliche Unterstützung brauchen"
+      ],
+      "problem_ueberschrift": "Wenn die IT bei jemandem hängen bleibt, der eigentlich anderes zu tun hat",
+      "problem": [
+        {
+          "titel": "Der Chef als IT-Support",
+          "text": "Ein Mitarbeiter kommt mit einem Druckerproblem, gleichzeitig klemmt das Passwort im Warenwirtschaftssystem. Wer die IT nebenbei macht, unterbricht ständig die eigentliche Arbeit und kommt selten zu den größeren Fragen."
+        },
+        {
+          "titel": "Immer wieder von vorne erklären",
+          "text": "Ruft man bei wechselnden externen Helfern an, muss jedes Mal die ganze Umgebung neu erklärt werden: welche Programme laufen, wie das Netzwerk aufgebaut ist, was letztes Mal schon versucht wurde. Das kostet Zeit, bevor überhaupt geholfen wird."
+        },
+        {
+          "titel": "Keine Zeit für die großen Fragen",
+          "text": "Neue Software, ein zweiter Standort, die Frage nach Sicherheit bei Homeoffice - solche Themen bleiben liegen, weil schon das Tagesgeschäft die IT-Zeit aufbraucht. Entschieden wird dann oft aus dem Bauch heraus, nicht auf Basis einer echten Einschätzung."
+        }
+      ],
+      "loesung_ueberschrift": "Eine feste Ansprechperson, die Ihre Umgebung kennt",
+      "loesung": [
+        {
+          "titel": "Festes Stundenkontingent im Monat",
+          "text": "Sie vereinbaren ein monatliches Stundenkontingent. Innerhalb dieses Rahmens rufen Sie an, wenn etwas ist - für kleine Alltagsfragen genauso wie für längere Gespräche. Nicht genutzte Zeit verfällt nicht einfach ungenutzt, sie wird gemeinsam sinnvoll eingeteilt.",
+          "bild": "Ein Kalenderblatt mit handschriftlich markierten Stunden liegt auf einem Besprechungstisch, eine Hand hält daneben einen Stift"
+        },
+        {
+          "titel": "Eine Person, die Bescheid weiß",
+          "text": "Sie sprechen nicht bei jedem Anruf mit jemand anderem. Ihre Ansprechperson kennt Ihre Programme, Ihr Netzwerk und die Entscheidungen der letzten Monate. Das spart Erklärzeit und führt schneller zu einer brauchbaren Antwort.",
+          "bild": "Ein Aktenordner mit beschriftetem Rücken steht in einem Regal, eine Hand zieht ihn gerade heraus"
+        },
+        {
+          "titel": "Vom Drucker bis zur Digitalisierung",
+          "text": "Ein neues Passwort, ein neuer Mitarbeiter, der Zugang braucht, aber auch die Frage nach dem nächsten Software-Einkauf oder der Ausrichtung Ihrer Security - alles findet in denselben Gesprächen Platz. Sie müssen nicht entscheiden, was wichtig genug für einen Anruf ist.",
+          "bild": "Eine Hand hakt Punkte auf einer Checkliste ab, die auf einem Besprechungstisch liegt, im unscharfen Hintergrund steht ein Drucker"
+        },
+        {
+          "titel": "Ehrlich über die Grenzen",
+          "text": "Eine große, mehrköpfige IT-Abteilung ersetzt das nicht. Für einen Betrieb ohne eigene IT ist es aber genau die Lücke, die vorher offen war: jemand, der zuständig ist, ohne dass Sie jemanden einstellen müssen.",
+          "bild": "Zwei Personen stehen vor einem Flipchart mit einer einfachen Skizze aus Kästchen und Pfeilen, eine zeigt mit dem Finger darauf"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir schauen uns Ihre Geräte, Programme und Abläufe an, um zu verstehen, wo Sie stehen und was regelmäßig anfällt."
+        },
+        {
+          "titel": "Stundenkontingent festlegen",
+          "text": "Gemeinsam legen wir fest, wie viele Stunden im Monat zu Ihrem Betrieb passen. Das kann sich später anpassen, wenn sich Ihr Bedarf ändert."
+        },
+        {
+          "titel": "Laufender Kontakt",
+          "text": "Sie rufen an, schreiben oder wir schalten uns per Fernwartung auf einen Rechner - je nachdem, was das Thema erfordert."
+        },
+        {
+          "titel": "Regelmäßiger Rückblick",
+          "text": "In festen Abständen sprechen wir durch, was anstand, was noch offen ist und was strategisch als Nächstes sinnvoll wäre."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Gleiche Ansprechperson",
+          "text": "Sie erklären Ihre Umgebung nicht bei jedem Anruf neu, weil dieselbe Person Ihren Betrieb kennt."
+        },
+        {
+          "titel": "Kein Personalrisiko",
+          "text": "Keine Festanstellung, kein Ausfall durch Urlaub oder Krankheit, keine Suche nach einer Fachkraft."
+        },
+        {
+          "titel": "Alltag und Strategie in einem",
+          "text": "Dieselben Stunden decken das kleine Drucker-Problem und das Gespräch über die nächste Software-Anschaffung ab."
+        },
+        {
+          "titel": "Planbarer Aufwand",
+          "text": "Ein festes Kontingent im Monat statt unklarer Einzelrechnungen bei jedem Anruf."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Was passiert, wenn wir das Stundenkontingent in einem Monat nicht voll nutzen?",
+          "antwort": "Wir besprechen das offen. Häufig ergeben sich in ruhigen Monaten gute Gelegenheiten, liegen gebliebene Themen wie Updates oder eine bessere Ordnerstruktur anzugehen."
+        },
+        {
+          "frage": "Können wir jederzeit anrufen, oder gibt es feste Termine?",
+          "antwort": "Beides. Für akute Fragen sind wir erreichbar, für größere Themen vereinbaren wir feste Termine, damit genug Zeit dafür da ist."
+        },
+        {
+          "frage": "Ersetzt das eine eigene IT-Abteilung?",
+          "antwort": "Nein. Eine mehrköpfige Abteilung mit eigener Infrastruktur ersetzt das nicht. Für einen Betrieb ohne eigene IT-Stelle deckt es aber genau die Aufgaben ab, die sonst niemand zuverlässig übernimmt."
+        },
+        {
+          "frage": "Was, wenn wir in einem Monat deutlich mehr Stunden brauchen als vereinbart?",
+          "antwort": "Wir sprechen das an, sobald sich das abzeichnet, und stocken das Kontingent für diesen Zeitraum auf. Es entstehen keine versteckten Zusatzkosten ohne Absprache."
+        },
+        {
+          "frage": "Wie schnell bekommen wir Hilfe bei einem akuten Problem?",
+          "antwort": "Das hängt vom vereinbarten Kontingent und der Dringlichkeit ab. Für echte Notfälle sprechen wir vorab eine Reaktionszeit ab, damit Sie wissen, woran Sie sind."
+        }
+      ],
+      "cta_titel": "Lassen Sie uns über Ihre IT sprechen",
+      "cta_text": "In einem ersten Gespräch schauen wir uns Ihren Betrieb an und finden heraus, welches Stundenkontingent zu Ihnen passt.",
+      "seo_beschreibung": "Feste IT-Ansprechperson für Betriebe ohne eigene IT-Abteilung. Monatliches Stundenkontingent, vom Alltagsproblem bis zur Strategie.",
+      "kurzbeschreibung": "Ein monatliches Stundenkontingent mit fester Ansprechperson für alle IT-Fragen, ohne eigene IT-Stelle einzurichten.",
+      "hero_bild": "Zwei Personen sitzen an einem Besprechungstisch, vor ihnen liegt ein aufgeschlagener Ordner mit handschriftlichen Notizen, eine Hand zeigt auf eine Zeile",
+      "zweitbild": "Ein Telefon liegt neben einem aufgeschlagenen Terminkalender mit handschriftlichen Einträgen, eine Hand blättert die Seite um",
+      "hintergrund_bild": "Ein helles Besprechungszimmer mit Glaswänden, in denen sich Tageslicht in klaren, geraden Linien spiegelt, blaugraue Töne, ruhige leere Fläche im Vordergrund, im Hintergrund unscharf ein Tisch mit Papieren"
+    },
+    "bilder": {
+      "hero_bild": "/assets/eure-it-abteilung/hero_bild.png",
+      "zweitbild": "/assets/eure-it-abteilung/zweitbild.png",
+      "hintergrund_bild": "/assets/eure-it-abteilung/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:09:17"
+  },
+  "cyberversicherung-vorbereiten": {
+    "titel": "Cyberversicherung vorbereiten",
+    "stil": "Sachlich, warm und direkt. Kein Marketing-Geschwurbel, keine Angstmache. So schreiben, dass ein Handwerker und ein Steuerberater es gleich gut verstehen. KEINE Preise, keine Euro-Betraege, keine Stundensaetze - stattdessen 'Preis nach Aufwand' oder 'Festpreis auf Anfrage'. Ton: nuechtern und ehrlich. Kein Angstverkauf, sondern Hausaufgaben machen.",
+    "thema": "WICHTIG - genau so formulieren, nicht anders: Wir vermitteln und verkaufen KEINE Versicherungen. Wir pruefen den Ist-Zustand, arbeiten die Anforderungen ab, die Versicherer heute stellen (MFA, Backup, Virenschutz, Notfallplan, Rechtevergabe), dokumentieren das nachvollziehbar und begleiten Euch - abgeschlossen wird bei Eurem Makler oder Versicherer. Das gehoert klar und selbstbewusst auf die Seite, nicht als Kleingedrucktes. Der Grund ist ein echter Nutzen fuer den Kunden: Viele Antraege scheitern oder die Police zahlt im Schadensfall nicht, weil im Fragebogen Dinge bestaetigt wurden, die technisch gar nicht umgesetzt sind. Genau das verhindern wir. Danach: Umsetzung von Massnahmen zur Vorbeugung und Begleitung im Umgang mit der aktuellen Bedrohungslage. KEINE Preise nennen.",
+    "produkt": "Den Ist-Zustand pruefen, die Anforderungen des Versicherers erfuellen und Euch zum Abschluss begleiten.",
+    "path": "angebote/cyberversicherung-vorbereiten.html",
+    "assets": [
+      "assets/cyberversicherung-vorbereiten/hero_bild.png",
+      "assets/cyberversicherung-vorbereiten/zweitbild.png",
+      "assets/cyberversicherung-vorbereiten/hintergrund_bild.png"
+    ],
+    "hero_titel": "Damit Ihre Cyberversicherung im Schadensfall zahlt",
+    "bildrichtung": "Weitwinkel mit starken Fluchtlinien und viel Tiefe, kühles Blau, ruhige dunkle Flächen",
+    "erstellt": "2026-08-07T23:19:19",
+    "ueberarbeitet": "2026-08-10T00:43:13",
+    "aufbau": "ruhig",
+    "kategorie": "Sicherheit",
+    "kurzbeschreibung": "Wir prüfen, ob Ihre IT die Anforderungen Ihrer Cyberversicherung wirklich erfüllt, und setzen um, was noch fehlt.",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "chips",
+    "inhalt": {
+      "kategorie": "Sicherheit",
+      "hero_titel": "Damit Ihre Cyberversicherung im Schadensfall zahlt",
+      "hero_unterzeile": "Wir prüfen, ob Ihre IT die Anforderungen Ihres Versicherers tatsächlich erfüllt - MFA, Backup, Virenschutz, Notfallplan, Rechtevergabe. Abgeschlossen wird bei Ihrem Makler oder Versicherer, das übernehmen wir nicht.",
+      "fuer_wen": [
+        "Unternehmen, die gerade einen Antrag auf eine Cyberversicherung ausfüllen",
+        "Betriebe, deren Versicherer bei der Verlängerung neue Anforderungen stellt",
+        "Firmen mit bestehender Police, die die zugesagten Maßnahmen nie vollständig umgesetzt haben",
+        "Selbständige und Einzelunternehmer, die vom Makler nach MFA, Backup oder Notfallplan gefragt werden"
+      ],
+      "problem_ueberschrift": "Wenn der Fragebogen mehr verspricht, als die IT hält",
+      "problem": [
+        {
+          "titel": "Häkchen ohne Grundlage",
+          "text": "Im Antrag werden Mehrfaktor-Anmeldung, ein geregeltes Backup und ein Notfallplan bestätigt - oft ohne dass das im Betrieb tatsächlich so eingerichtet ist. Im Schadensfall prüft der Versicherer genau diese Angaben nach."
+        },
+        {
+          "titel": "Unklare Zusagen bei der Erneuerung",
+          "text": "Bei der Verlängerung fragen Versicherer heute detaillierter nach als noch vor wenigen Jahren. Wer die alten Antworten einfach übernimmt, riskiert, Dinge zuzusichern, die nicht mehr zutreffen."
+        },
+        {
+          "titel": "Police zahlt nicht",
+          "text": "Nach einem Vorfall verlangt der Versicherer Nachweise. Fehlen sie oder war eine Angabe im Fragebogen falsch, kann die Leistung ganz oder teilweise verweigert werden."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir prüfen und umsetzen",
+      "loesung": [
+        {
+          "titel": "Ist-Zustand aufnehmen",
+          "text": "Wir sehen uns Ihre Systeme, Zugänge und Sicherungen an und gleichen sie mit den Fragen ab, die Ihr Versicherer oder Makler stellt. Am Ende steht eine Liste dessen, was schon passt und was fehlt.",
+          "bild": "Zwei Hände über einem ausgedruckten Netzwerkplan auf einem Besprechungstisch, ein Kugelschreiber hakt Punkte auf einer Liste ab"
+        },
+        {
+          "titel": "Zugänge und Anmeldung absichern",
+          "text": "Wir richten Mehrfaktor-Anmeldung und eine saubere Rechtevergabe ein, sodass nur Zugriff hat, wer ihn braucht. Das ist einer der Punkte, die Versicherer heute am häufigsten prüfen.",
+          "bild": "Eine Hand steckt einen kleinen Sicherheitsschlüssel in ein Lesegerät an einer Bürotür, das grüne Licht am Gerät leuchtet"
+        },
+        {
+          "titel": "Backup und Notfallplan aufsetzen",
+          "text": "Wir richten eine geregelte Datensicherung ein und halten schriftlich fest, wer im Notfall was tut. Beides gehört zu den Standardfragen jedes Antrags.",
+          "bild": "Eine Hand schiebt eine Festplatte in ein NAS-Gehäuse, daneben liegt ein handschriftlicher Ablaufplan auf dem Tisch"
+        },
+        {
+          "titel": "Dokumentation für den Versicherer",
+          "text": "Wir fassen die geprüften und umgesetzten Punkte nachvollziehbar zusammen. Diese Unterlage können Sie Ihrem Makler oder Versicherer vorlegen und im Schadensfall wieder heranziehen.",
+          "bild": "Ein gebundener Bericht mit farbigen Reitern liegt auf einem Besprechungstisch, daneben ein geöffneter Aktenordner"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir klären, welche Police oder welcher Antrag konkret vorliegt und welche Anforderungen darin stehen."
+        },
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir prüfen Ihre Systeme vor Ort oder per Fernzugriff und gleichen den Stand mit den Anforderungen ab."
+        },
+        {
+          "titel": "Umsetzung",
+          "text": "Fehlende Punkte wie MFA, Backup oder Notfallplan werden eingerichtet und getestet."
+        },
+        {
+          "titel": "Übergabe",
+          "text": "Sie erhalten die Dokumentation für Ihren Makler oder Versicherer und können den Antrag oder die Verlängerung mit belastbaren Angaben stellen."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Antrag mit echten Angaben",
+          "text": "Sie beantworten den Fragebogen mit Angaben, die tatsächlich zutreffen, statt mit guten Absichten."
+        },
+        {
+          "titel": "Nachweis im Schadensfall",
+          "text": "Sie haben eine Dokumentation zur Hand, die Sie dem Versicherer im Ernstfall vorlegen können."
+        },
+        {
+          "titel": "Klarer Überblick",
+          "text": "Sie wissen genau, welche Punkte technisch schon stehen und welche noch offen sind."
+        },
+        {
+          "titel": "Unabhängige Prüfung",
+          "text": "Die Bewertung Ihrer IT kommt nicht vom Versicherer selbst, sondern von einer Stelle, die Ihre Interessen vertritt."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Verkaufen Sie auch die Versicherung?",
+          "antwort": "Nein. Wir vermitteln und verkaufen keine Versicherungen. Wir prüfen und bereiten die technische Seite vor und begleiten Sie dabei - abgeschlossen wird bei Ihrem Makler oder Versicherer."
+        },
+        {
+          "frage": "Was passiert, wenn Anforderungen fehlen?",
+          "antwort": "Wir zeigen Ihnen, was fehlt, und setzen es gemeinsam mit Ihnen um, bevor der Antrag gestellt oder verlängert wird."
+        },
+        {
+          "frage": "Passt das zu jedem Versicherer gleich?",
+          "antwort": "Die Anforderungen unterscheiden sich je nach Anbieter und Tarif. Wir richten uns nach dem, was Ihr Versicherer oder Makler konkret verlangt."
+        },
+        {
+          "frage": "Ich habe schon eine Police, lohnt sich das noch?",
+          "antwort": "Gerade dann. Wir prüfen, ob die im Fragebogen bestätigten Punkte tatsächlich umgesetzt sind, das schützt Sie im Schadensfall."
+        },
+        {
+          "frage": "Wie lange dauert die Vorbereitung?",
+          "antwort": "Das hängt vom Ist-Zustand ab. Nach der Bestandsaufnahme nennen wir Ihnen einen realistischen Zeitrahmen."
+        }
+      ],
+      "cta_titel": "Lassen Sie Ihre IT gegen den Fragebogen prüfen",
+      "cta_text": "Vereinbaren Sie eine Bestandsaufnahme, bevor Sie den Antrag unterschreiben oder verlängern.",
+      "seo_beschreibung": "Wir prüfen Ihre IT gegen die Anforderungen der Cyberversicherung - MFA, Backup, Notfallplan - und begleiten Sie bis zum Abschluss bei Ihrem Makler.",
+      "kurzbeschreibung": "Wir prüfen, ob Ihre IT die Anforderungen Ihrer Cyberversicherung wirklich erfüllt, und setzen um, was noch fehlt.",
+      "hero_bild": "Eine Hand dreht einen stabilen Schlüssel in einem massiven Türschloss, im Hintergrund unscharf ein Aktenordner auf einem Beistelltisch",
+      "zweitbild": "Nahaufnahme eines Vorhängeschlosses an einem Aktenschrank, daneben liegt ein Schlüsselbund auf der Tischplatte",
+      "hintergrund_bild": "Weitwinkelaufnahme eines langen, dunklen Flurs mit mehreren verschlossenen Türen in Reihe, starke Fluchtlinien führen in die Tiefe, kühles blaues Licht, ruhige dunkle Schattenflächen"
+    },
+    "bilder": {
+      "hero_bild": "/assets/cyberversicherung-vorbereiten/hero_bild.png",
+      "zweitbild": "/assets/cyberversicherung-vorbereiten/zweitbild.png",
+      "hintergrund_bild": "/assets/cyberversicherung-vorbereiten/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:09:21"
+  },
+  "it-dokumente": {
+    "titel": "IT-Dokumente",
+    "stil": "Sachlich, warm und direkt. Kein Marketing-Geschwurbel, keine Angstmache. So schreiben, dass ein Handwerker und ein Steuerberater es gleich gut verstehen. KEINE Preise, keine Euro-Betraege, keine Stundensaetze - stattdessen 'Preis nach Aufwand' oder 'Festpreis auf Anfrage'. Ton: handwerklich sauber. Papier, das im Ernstfall traegt.",
+    "thema": "Ihr braucht ein Administrationskonzept? Eine Security-Roadmap? Eine Risikobewertung fuer ein Projekt? Oder einfach nur ordentliche Onboarding-Checklisten fuer neue Mitarbeiter? Wir stellen alles bereit, angepasst an Eure Wuensche und Euren Betrieb - keine Vorlage von der Stange, in der noch der Name einer anderen Firma steht. WICHTIG, muss klar auf der Seite stehen (eigener Abschnitt oder FAQ): Das ist KEINE Rechtsberatung, sondern reine Erstellung nach Best Practice. Eine anwaltliche Pruefung der kundenspezifischen Anforderungen empfehlen wir ausdruecklich im Vorfeld. KEINE Preise nennen. Nutzen: Dokumente, die man im Ernstfall - Audit, Versicherung, Ausfall, Mitarbeiterwechsel - wirklich vorzeigen und benutzen kann.",
+    "produkt": "Administrationskonzept, Security-Roadmap, Risikobewertung, Onboarding-Checklisten - auf Euren Betrieb zugeschnitten.",
+    "path": "angebote/it-dokumente.html",
+    "assets": [
+      "assets/it-dokumente/hero_bild.png",
+      "assets/it-dokumente/zweitbild.png",
+      "assets/it-dokumente/hintergrund_bild.png"
+    ],
+    "hero_titel": "IT-Unterlagen, die im Ernstfall Bestand haben",
+    "bildrichtung": "Nahaufnahme mit geringer Schärfentiefe, warmes Bernsteinlicht, weicher Hintergrund",
+    "erstellt": "2026-08-07T23:21:58",
+    "ueberarbeitet": "2026-08-10T00:44:23",
+    "aufbau": "bild_oben",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Individuell erstellte IT-Dokumente wie Administrationskonzept, Security-Roadmap, Risikobewertung und Onboarding-Checkliste, passend zu Ihrem Betrieb.",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "karten",
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "IT-Unterlagen, die im Ernstfall Bestand haben",
+      "hero_unterzeile": "Administrationskonzept, Security-Roadmap, Risikobewertung oder Onboarding-Checkliste - erstellt nach Ihrer tatsächlichen Struktur, nicht nach einer fremden Vorlage. So haben Sie im Audit, bei der Versicherung oder beim Mitarbeiterwechsel etwas Vorzeigbares in der Hand.",
+      "fuer_wen": [
+        "Handwerksbetriebe, die für ein Audit oder eine Versicherung eine schriftliche Grundlage brauchen",
+        "Einzelunternehmer und Selbständige, die eine klare Struktur für Zugänge und Rollen dokumentieren wollen",
+        "Firmen ohne eigene IT-Abteilung, die eine Security-Roadmap für einen Kunden oder Fördergeber vorlegen müssen",
+        "Betriebe mit Mitarbeiterwechsel, die eine geordnete Onboarding-Checkliste statt loser Zettel brauchen"
+      ],
+      "problem_ueberschrift": "Wenn die Unterlagen fehlen",
+      "problem": [
+        {
+          "titel": "Vorlage aus dem Internet",
+          "text": "Eine heruntergeladene Vorlage klingt zunächst passend, steht aber noch mit fremdem Firmennamen im Kopf da. Die Struktur passt selten zu den eigenen Systemen und Rollen, und im Ernstfall fällt das genau dann auf, wenn es zählt."
+        },
+        {
+          "titel": "Kein Nachweis im Ernstfall",
+          "text": "Ein Prüfer, eine Versicherung oder ein Kunde fragt nach der IT-Struktur oder dem Sicherheitskonzept - und es gibt nichts Schriftliches vorzuzeigen. Mündliche Erklärungen reichen dann oft nicht aus."
+        },
+        {
+          "titel": "Wissen nur im Kopf eines Mitarbeiters",
+          "text": "Wer Zugänge verwaltet und was bei einem neuen Mitarbeiter einzurichten ist, weiß häufig nur eine Person. Fällt sie aus oder verlässt den Betrieb, fehlt die Übersicht - genau dann, wenn sie gebraucht wird."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir für Sie erstellen",
+      "loesung": [
+        {
+          "titel": "Administrationskonzept",
+          "text": "Wir dokumentieren, welche Systeme, Konten und Berechtigungen in Ihrem Betrieb existieren und wer worauf Zugriff hat. Das Ergebnis ist eine schriftliche Übersicht, die auch jemand anderes als der bisherige Ansprechpartner lesen und nutzen kann.",
+          "bild": "Zwei Hände über einem ausgedruckten Organigramm mit handschriftlichen Markierungen, warmes Licht auf dem Papier, Stift liegt daneben"
+        },
+        {
+          "titel": "Security-Roadmap",
+          "text": "Wir nehmen den aktuellen Stand Ihrer IT auf und legen fest, welche Sicherheitsmaßnahmen zuerst sinnvoll sind und welche später folgen können. Sie erhalten einen zeitlich geordneten Plan statt einer losen Liste von Vorschlägen.",
+          "bild": "Ein bedrucktes Blatt mit Zeitleiste und farbigen Markierungen auf einem Besprechungstisch, eine Hand zeigt mit einem Stift auf einen Abschnitt"
+        },
+        {
+          "titel": "Risikobewertung",
+          "text": "Für ein Projekt oder ein neues System listen wir die relevanten Risiken auf, bewerten sie nachvollziehbar und schlagen begründete Maßnahmen vor. Das Dokument lässt sich bei Nachfragen direkt vorlegen.",
+          "bild": "Nahaufnahme einer Tabelle mit angekreuzten und farbig hervorgehobenen Zeilen, ein Finger folgt einer Zeile"
+        },
+        {
+          "titel": "Onboarding-Checkliste",
+          "text": "Wir legen fest, welche Schritte bei einem neuen Mitarbeiter in welcher Reihenfolge nötig sind - von der Kontoerstellung bis zur Geräteübergabe. Nichts wird vergessen, weil es niemand mehr im Kopf behalten muss.",
+          "bild": "Klemmbrett mit gedruckter Checkliste, eine Hand hakt mit einem Kugelschreiber einen Punkt ab"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir sprechen mit Ihnen über Ihre Struktur, Ihre Systeme und darüber, wofür das Dokument später gebraucht wird."
+        },
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sichten vorhandene Unterlagen und fragen gezielt nach, wo Informationen fehlen oder veraltet sind."
+        },
+        {
+          "titel": "Entwurf",
+          "text": "Wir erstellen einen Entwurf, der zu Ihrem Betrieb passt - keine Vorlage von der Stange."
+        },
+        {
+          "titel": "Abstimmung und Übergabe",
+          "text": "Sie prüfen den Entwurf, wir passen ihn nach Ihren Rückmeldungen an und übergeben Ihnen das fertige Dokument."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Zum eigenen Betrieb passend",
+          "text": "Keine Vorlage mit fremdem Firmennamen im Kopf, sondern eine Struktur, die zu Ihren tatsächlichen Systemen und Rollen passt."
+        },
+        {
+          "titel": "Vorzeigbar im Ernstfall",
+          "text": "Das Dokument hält einem Audit, einer Versicherungsanfrage oder einem Systemausfall stand, weil es die reale Lage abbildet."
+        },
+        {
+          "titel": "Wissen unabhängig von einer Person",
+          "text": "Die Struktur bleibt erhalten, auch wenn ein Mitarbeiter ausfällt oder den Betrieb verlässt."
+        },
+        {
+          "titel": "Klarer Ablauf beim Onboarding",
+          "text": "Neue Mitarbeiter erhalten Zugänge und Geräte in einer festen Reihenfolge, ohne dass etwas vergessen wird."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Ist das eine rechtliche Beratung?",
+          "antwort": "Nein. Wir erstellen die Dokumente nach anerkannten fachlichen Standards, das ist keine Rechtsberatung. Wir empfehlen ausdrücklich, die Unterlagen vor der Verwendung von einer Anwältin oder einem Anwalt prüfen zu lassen, besonders wenn rechtlich bindende Anforderungen betroffen sind."
+        },
+        {
+          "frage": "Wie lange dauert die Erstellung?",
+          "antwort": "Das hängt vom Umfang und der Ausgangslage ab. Nach dem Erstgespräch nennen wir Ihnen einen realistischen Zeitrahmen."
+        },
+        {
+          "frage": "Was, wenn wir schon Unterlagen haben?",
+          "antwort": "Wir sichten vorhandene Dokumente und bauen darauf auf, statt bei Null anzufangen."
+        },
+        {
+          "frage": "Bekommen wir eine fertige Vorlage oder ein individuelles Dokument?",
+          "antwort": "Ein individuelles Dokument, abgestimmt auf Ihre Struktur, Ihre Systeme und Ihre Rollen. Keine Vorlage von der Stange."
+        },
+        {
+          "frage": "Was kostet die Erstellung?",
+          "antwort": "Der Aufwand richtet sich nach Umfang und Ausgangslage. Nach dem Erstgespräch erhalten Sie einen Festpreis auf Anfrage."
+        }
+      ],
+      "cta_titel": "Jetzt Dokumentation anfragen",
+      "cta_text": "Schildern Sie uns kurz, welches Dokument Sie brauchen, und wir melden uns mit einem Vorschlag für das weitere Vorgehen.",
+      "seo_beschreibung": "Administrationskonzept, Security-Roadmap, Risikobewertung und Onboarding-Checklisten - erstellt nach Ihrer Struktur, keine Vorlage von der Stange.",
+      "kurzbeschreibung": "Individuell erstellte IT-Dokumente wie Administrationskonzept, Security-Roadmap, Risikobewertung und Onboarding-Checkliste, passend zu Ihrem Betrieb.",
+      "hero_bild": "Zwei Personen an einem Besprechungstisch, eine Hand zeigt mit einem Stift auf ein ausgedrucktes Organigramm, warmes Licht fällt auf das Papier",
+      "zweitbild": "Nahaufnahme einer Hand, die mit einem Kugelschreiber einen Punkt auf einer gedruckten Checkliste abhakt",
+      "hintergrund_bild": "Nahaufnahme eines Stapels bedruckter Dokumente mit einem darauf liegenden Stift, geringe Schärfentiefe, warmes Bernsteinlicht, weich verschwommener Hintergrund"
+    },
+    "bilder": {
+      "hero_bild": "/assets/it-dokumente/hero_bild.png",
+      "zweitbild": "/assets/it-dokumente/zweitbild.png",
+      "hintergrund_bild": "/assets/it-dokumente/hintergrund_bild.png"
+    },
+    "neu_gesetzt": "2026-08-19T07:09:24"
+  },
+  "security-paket-fuer-unternehmen": {
+    "titel": "Security-Paket für Unternehmen",
+    "stil": "Sachlich und ruhig, kein Angstverkauf. Sicherheit ist Handwerk, kein Drama. KEINE Preise, keine Euro-Beträge.",
+    "thema": "Das volle Sicherheitspaket, drei Bausteine, die zusammengehören und aufeinander abgestimmt sind:\n1. E-MAIL-SICHERHEIT: Schutz vor Phishing, gefälschten Absendern und Schadanhängen. Dazu gehören SPF, DKIM und DMARC, damit niemand in Ihrem Namen schreiben kann.\n2. ENDGERÄTESCHUTZ (Endpoint): moderner Schutz auf jedem Rechner und Server, der nicht nur bekannte Viren erkennt, sondern auch verdächtiges Verhalten - inklusive Überwachung, damit ein Vorfall auffällt, während er passiert, und nicht Wochen später.\n3. FIREWALL: der Schutz an der Grenze zwischen Ihrem Netz und dem Internet. WAHLWEISE als Gerät bei Ihnen im Haus (on premise), zum Beispiel Sophos - für Betriebe, die ihre Absicherung im eigenen Serverschrank haben wollen.\n\nDer eigentliche Verkaufspunkt ist das ZUSAMMENSPIEL: Die drei Bausteine reden miteinander und werden von EINER Stelle betreut. Wer sich E-Mail-Schutz beim einen, Virenschutz beim anderen und die Firewall beim dritten holt, hat drei Rechnungen, drei Ansprechpartner - und im Ernstfall zeigt jeder auf den anderen.\n\nEhrlich dazusagen: Es gibt keinen hundertprozentigen Schutz. Was es gibt, ist die Kombination aus Abwehr, Erkennung und jemandem, der hinschaut.\n\nKEINE Preise nennen - Paketpreis auf Anfrage, weil er von der Zahl der Geräte und Postfächer abhängt.",
+    "produkt": "Rundumschutz aus einer Hand: E-Mail-Sicherheit, Endgeräteschutz und Firewall.",
+    "path": "angebote/security-paket-fuer-unternehmen.html",
+    "assets": [
+      "assets/security-paket-fuer-unternehmen/hero_bild.png",
+      "assets/security-paket-fuer-unternehmen/zweitbild.png",
+      "assets/security-paket-fuer-unternehmen/hintergrund_bild.png"
+    ],
+    "hero_titel": "Ein Sicherheitspaket, das zusammenspielt",
+    "kategorie": "Sicherheit",
+    "kurzbeschreibung": "Drei Schutzebenen, ein Ansprechpartner: E-Mail-Sicherheit, Endgeräteschutz und Firewall aufeinander abgestimmt.",
+    "bildrichtung": "Etwas Unscharfes im Vordergrund, dahinter das eigentliche Motiv scharf, tiefes Violett",
+    "aufbau": "problem_zuerst",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "trennstrich",
+    "erstellt": "2026-08-08T15:04:08",
+    "inhalt": {
+      "kategorie": "Sicherheit",
+      "hero_titel": "Ein Sicherheitspaket, das zusammenspielt",
+      "hero_unterzeile": "E-Mail-Schutz, Endgeräteschutz und Firewall aus einer Hand, aufeinander abgestimmt und von einer Stelle betreut. So verweist im Ernstfall niemand auf den anderen.",
+      "fuer_wen": [
+        "Handwerksbetriebe mit mehreren Rechnern und einem eigenen Server",
+        "Einzelunternehmer und Selbständige, die Kundendaten sicher verwalten müssen",
+        "Firmen ohne eigene IT-Abteilung, die Verantwortung nicht an drei Stellen aufteilen wollen",
+        "Kanzleien und Praxen, die für sensible Unterlagen einen belastbaren Schutz brauchen"
+      ],
+      "problem_ueberschrift": "Wenn jeder Anbieter nur sein Stück sieht",
+      "problem": [
+        {
+          "titel": "Drei Verträge, drei Zuständigkeiten",
+          "text": "Wer E-Mail-Schutz, Virenschutz und Firewall bei drei verschiedenen Anbietern kauft, hat drei Rechnungen und drei Support-Wege. Bei einem Vorfall zeigt jeder auf den anderen, und die Zeit läuft weiter."
+        },
+        {
+          "titel": "Gefälschte Absender",
+          "text": "Phishing-Mails, die aussehen wie von Ihrer eigenen Adresse, treffen Ihre Kunden und Ihre Mitarbeiter. Ohne saubere Absenderprüfung kann grundsätzlich jeder in Ihrem Namen schreiben, ohne dass es sofort auffällt."
+        },
+        {
+          "titel": "Ein Vorfall bleibt lange unbemerkt",
+          "text": "Klassischer Virenschutz erkennt vor allem, was er schon kennt. Ein Angriff, der sich unauffällig verhält, läuft dann Wochen lang im Hintergrund, bevor jemand ihn entdeckt."
+        }
+      ],
+      "loesung_ueberschrift": "Drei Bausteine, eine Betreuung",
+      "loesung": [
+        {
+          "titel": "E-Mail-Sicherheit",
+          "text": "Wir richten SPF, DKIM und DMARC für Ihre Domain ein, filtern Phishing-Versuche und Schadanhänge heraus. Damit kann niemand mehr unbemerkt in Ihrem Namen schreiben.",
+          "bild": "Eine Hand sortiert Briefe durch einen Schlitz mit sichtbarem Schloss, im Hintergrund unscharf ein Büroflur"
+        },
+        {
+          "titel": "Endgeräteschutz",
+          "text": "Auf jedem Rechner und Server läuft ein moderner Schutz, der nicht nur bekannte Viren erkennt, sondern auch verdächtiges Verhalten. Eine laufende Überwachung meldet einen Vorfall, während er passiert.",
+          "bild": "Ein Techniker steckt ein kleines Sicherheitsmodul in einen Firmenrechner, daneben ein Kontrollbildschirm mit farbigen Statusbalken"
+        },
+        {
+          "titel": "Firewall vor Ort",
+          "text": "Auf Wunsch steht die Firewall als eigenes Gerät bei Ihnen im Haus, etwa von Sophos, in Ihrem eigenen Serverschrank. Die Absicherung an der Grenze zum Internet bleibt so vollständig in Ihrer Hand.",
+          "bild": "Ein halb geöffneter Serverschrank mit einem kompakten Firewall-Gerät, Kabel sind ordentlich gebündelt"
+        },
+        {
+          "titel": "Eine Betreuung für alles",
+          "text": "Alle drei Bausteine sind aufeinander abgestimmt und werden von derselben Stelle betreut. Ein Ansprechpartner, ein Blick auf alle Warnungen, keine Zuständigkeitslücke.",
+          "bild": "Ein Servicetechniker sitzt vor einem Monitor mit einer Gesamtübersicht aus grünen und wenigen roten Feldern"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns Ihre Geräte, Postfächer und die vorhandene Netzwerktechnik an und klären, was schon abgesichert ist."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Wir richten E-Mail-Schutz, Endgeräteschutz und Firewall ein und stimmen die drei Bausteine so ab, dass sie zusammenarbeiten."
+        },
+        {
+          "titel": "Test und Feinabstimmung",
+          "text": "Wir prüfen die Einstellungen im laufenden Betrieb und passen sie an, damit legitime Post durchkommt und Angriffe hängen bleiben."
+        },
+        {
+          "titel": "Laufender Betrieb",
+          "text": "Wir überwachen alle drei Ebenen fortlaufend und melden uns, wenn etwas auffällt, statt Wochen später einen Bericht nachzuliefern."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Eine Rechnung, ein Ansprechpartner",
+          "text": "Statt drei Verträge und drei Support-Wege gibt es eine Stelle, die für das gesamte Paket zuständig ist."
+        },
+        {
+          "titel": "Erkennung während des Vorfalls",
+          "text": "Die Überwachung des Endgeräteschutzes meldet verdächtiges Verhalten, sobald es auftritt, nicht erst im Nachgang."
+        },
+        {
+          "titel": "Abgestimmte Konfiguration",
+          "text": "E-Mail-Schutz, Endgeräteschutz und Firewall sind aufeinander eingerichtet, statt drei unabhängige Insellösungen zu sein."
+        },
+        {
+          "titel": "Absender-Fälschung erschwert",
+          "text": "Mit SPF, DKIM und DMARC wird es deutlich schwerer, in Ihrem Namen gefälschte E-Mails zu verschicken."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Brauchen wir alle drei Bausteine, oder reicht auch nur einer?",
+          "antwort": "Jeder Baustein funktioniert auch einzeln. Den eigentlichen Vorteil bringt aber das Zusammenspiel, weil die drei Ebenen sich gegenseitig ergänzen und von einer Stelle betreut werden."
+        },
+        {
+          "frage": "Was kostet das Paket?",
+          "antwort": "Das hängt von der Anzahl der Geräte und Postfächer ab. Nach der Bestandsaufnahme erhalten Sie ein Angebot, das genau zu Ihrer Umgebung passt."
+        },
+        {
+          "frage": "Läuft die Firewall bei uns im Haus oder in der Cloud?",
+          "antwort": "Wir richten sie wahlweise als eigenes Gerät bei Ihnen im Serverschrank ein, zum Beispiel von Sophos. Wer die Absicherung physisch im eigenen Haus haben möchte, bekommt genau das."
+        },
+        {
+          "frage": "Sind wir damit vollständig geschützt?",
+          "antwort": "Einen hundertprozentigen Schutz gibt es nicht. Was das Paket liefert, ist die Kombination aus Abwehr, Erkennung und jemandem, der tatsächlich hinschaut, wenn etwas auffällt."
+        },
+        {
+          "frage": "Wie schnell merken wir, wenn etwas passiert?",
+          "antwort": "Der Endgeräteschutz wird laufend überwacht. Verdächtiges Verhalten wird gemeldet, während es geschieht, nicht erst Wochen später bei einer zufälligen Prüfung."
+        }
+      ],
+      "cta_titel": "Sicherheitspaket anfragen",
+      "cta_text": "Schildern Sie uns Ihre Umgebung, und wir sagen Ihnen, welche Bausteine für Ihr Unternehmen sinnvoll sind.",
+      "seo_beschreibung": "E-Mail-Sicherheit, Endgeräteschutz und Firewall aus einer Hand, aufeinander abgestimmt und zentral betreut. Angebot nach Bestandsaufnahme.",
+      "kurzbeschreibung": "Drei Schutzebenen, ein Ansprechpartner: E-Mail-Sicherheit, Endgeräteschutz und Firewall aufeinander abgestimmt.",
+      "hero_bild": "Ein Techniker schließt ein kompaktes Firewall-Gerät in einem halb geöffneten Serverschrank an, Kabel sind ordentlich gebündelt",
+      "zweitbild": "Nahaufnahme einer Hand, die ein massives Vorhängeschloss an einer stählernen Eingangstür schließt, im Hintergrund unscharf ein Bürogebäude",
+      "hintergrund_bild": "Im Vordergrund unscharf ein Schlüsselbund, dahinter scharf ein geschlossener Serverschrank mit einem kleinen Firewall-Gerät, die ganze Szene in tiefem Violett getaucht"
+    },
+    "bilder": {
+      "hero_bild": "/assets/security-paket-fuer-unternehmen/hero_bild.png",
+      "zweitbild": "/assets/security-paket-fuer-unternehmen/zweitbild.png",
+      "hintergrund_bild": "/assets/security-paket-fuer-unternehmen/hintergrund_bild.png"
+    },
+    "ueberarbeitet": "2026-08-10T00:45:47",
+    "neu_gesetzt": "2026-08-19T07:09:28"
+  },
+  "ki-assistent-fuer-ihren-betrieb": {
+    "titel": "KI-Assistent für Ihren Betrieb",
+    "stil": "Begeistert, aber ohne Übertreibung - es ist etwas Besonderes, dass so etwas im eigenen Haus läuft. Konkret bleiben, echte Beispiele statt Schlagworte. KEINE Preise.",
+    "thema": "Ein KI-Assistent, der LOKAL im Betrieb läuft, auf einem eigenen Rechner. Das ist der Kern: Die Daten bleiben im Haus.\n\nWAS SO EIN ASSISTENT KANN (das ist keine Aufzählung von Möglichkeiten, sondern das, was bei uns selbst seit Monaten wirklich läuft):\n- Er wird gesprochen bedient. Man fragt ihn wie einen Kollegen, er antwortet und führt aus.\n- Er sortiert das Postfach: erkennt, was eine Aufgabe ist, legt Anhänge ab und räumt Mails in die richtigen Ordner.\n- Er hält Termine über mehrere Kalender hinweg zusammen.\n- Er arbeitet im Ticketsystem mit: Tickets ansehen, kommentieren, Vorschläge hineinschreiben.\n- Er kennt die Zahlen: offene Rechnungen, Kosten, Auswertungen - und rechnet auf Zuruf.\n- Er erfasst Arbeitszeiten und wertet sie nach Kunde aus.\n- Er räumt Dateiablagen auf und schlägt vor, wohin etwas gehört.\n- Er beobachtet die Sicherheitslage und meldet, was auffällt.\n- Nachts prüft er sich selbst und meldet, was nicht mehr stimmt.\n- Jeder Mitarbeiter sieht nur, was zu seiner Rolle gehört - die Buchhaltung andere Dinge als die Technik.\n\nMITGELIEFERT WIRD EIN SICHERHEITSKONZEPT: schriftlich, mit Zugriffswegen, Rollen, Datenwegen und Notfallplan. Nicht als Beiwerk, sondern weil ein Assistent mit Zugriff auf Mail, Kalender und Zahlen ohne dieses Konzept fahrlässig wäre.\n\nAUF WUNSCH Wartung und Betreuung: Updates, Überwachung, neue Funktionen, Ansprechpartner bei Fragen.\n\nEhrlich dazusagen: Das ist kein Produkt von der Stange. Es wird auf den Betrieb zugeschnitten, und das braucht Zeit und Gespräche. Dafür gehört es hinterher wirklich dem Kunden.\n\nKEINE Preise nennen.",
+    "produkt": "Ihr eigener Assistent, der auf Ihrem Rechner im Haus läuft - nicht in einer fremden Cloud.",
+    "path": "angebote/ki-assistent-fuer-ihren-betrieb.html",
+    "assets": [
+      "assets/ki-assistent-fuer-ihren-betrieb/hero_bild.png",
+      "assets/ki-assistent-fuer-ihren-betrieb/zweitbild.png",
+      "assets/ki-assistent-fuer-ihren-betrieb/hintergrund_bild.png"
+    ],
+    "hero_titel": "Ihr eigener Assistent, der im Haus bleibt",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Ein KI-Assistent, der auf einem eigenen Rechner in Ihrem Betrieb läuft und Post, Termine, Tickets und Zahlen für Sie übernimmt.",
+    "bildrichtung": "Perspektive von unten nach oben, ungewohnter Blickwinkel, Stahlblau",
+    "aufbau": "wechsel",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "chips",
+    "erstellt": "2026-08-08T15:07:11",
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Ihr eigener Assistent, der im Haus bleibt",
+      "hero_unterzeile": "Ein Assistent für Post, Termine und Zahlen, der auf einem eigenen Rechner in Ihrem Betrieb läuft - nicht in einer fremden Cloud. Ihre Daten verlassen das Haus nicht.",
+      "fuer_wen": [
+        "Handwerksbetriebe mit vielen Baustellen, Terminen und Kunden gleichzeitig",
+        "Einzelunternehmer, die Post, Kalender und Zahlen allein im Griff behalten müssen",
+        "Kanzleien und Praxen, die mit sensiblen Daten arbeiten",
+        "Firmen ohne eigene IT-Abteilung, die moderne Werkzeuge nutzen wollen, ohne Daten aus der Hand zu geben"
+      ],
+      "problem_ueberschrift": "Viel Zeit geht für Kleinarbeit drauf",
+      "problem": [
+        {
+          "titel": "Das Postfach wächst schneller als die Zeit dafür",
+          "text": "Rechnungen, Anfragen und Werbung landen im selben Posteingang. Wichtiges geht unter, während jemand jeden Morgen von Hand sortiert, statt zu arbeiten."
+        },
+        {
+          "titel": "Cloud-Dienste sehen Ihre Zahlen und Ihre Post",
+          "text": "Viele KI-Werkzeuge laufen auf fremden Servern, oft im Ausland. Wer damit Rechnungen oder Kundendaten bearbeitet, gibt sie aus der Hand, ohne genau zu wissen, wohin."
+        },
+        {
+          "titel": "Termine, Tickets und Zahlen liegen verstreut",
+          "text": "Ein Kalender hier, ein Ticketsystem dort, die Auswertung in einer dritten Anwendung. Niemand behält das nebenbei im Kopf, und jede Rückfrage kostet erneut Zeit."
+        }
+      ],
+      "loesung_ueberschrift": "Ein Assistent, der im Haus bleibt",
+      "loesung": [
+        {
+          "titel": "Lokal statt Cloud",
+          "text": "Der Assistent läuft auf einem eigenen Rechner in Ihrem Betrieb. Anfragen, Antworten und Daten verlassen das Haus nicht - anders als bei Diensten, die über fremde Server laufen.",
+          "bild": "Ein kompakter Rechner in einem offenen Technikschrank im Büro, Kabel sauber gebündelt, gedämpftes Licht im Raum"
+        },
+        {
+          "titel": "Gesprochen statt getippt",
+          "text": "Sie fragen ihn wie einen Kollegen, er antwortet und führt die Aufgabe aus. Ein kleines Mikrofon am Arbeitsplatz genügt, die Tastatur bleibt liegen.",
+          "bild": "Nahaufnahme eines kleinen Standmikrofons neben einer Tastatur auf einem Schreibtisch, eine Hand ruht daneben"
+        },
+        {
+          "titel": "Postfach, Kalender und Ticketsystem im Griff",
+          "text": "Er erkennt Aufgaben in der Post, legt Anhänge ab und trägt Termine über mehrere Kalender hinweg ein. Im Ticketsystem sieht er Fälle an, kommentiert und schlägt Antworten vor.",
+          "bild": "Ausgedruckte Terminübersicht mit farbigen Markierungen auf einem Schreibtisch, daneben ein Klemmbrett mit Notizen"
+        },
+        {
+          "titel": "Zahlen und Arbeitszeiten auf Zuruf",
+          "text": "Offene Rechnungen, Kosten und Auswertungen kennt er auswendig und rechnet, sobald Sie fragen. Arbeitszeiten erfasst er nebenbei und wertet sie nach Kunde aus.",
+          "bild": "Aufgeschlagener Ordner mit Rechnungsbelegen auf einem Besprechungstisch, ein Taschenrechner liegt am Rand"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir sehen uns Ihre Abläufe an: welche Postfächer, Kalender und Systeme im Einsatz sind und wo der Assistent wirklich helfen soll."
+        },
+        {
+          "titel": "Sicherheitskonzept",
+          "text": "Wir legen schriftlich fest, wer worauf zugreifen darf, wie die Daten fließen und was im Notfall passiert."
+        },
+        {
+          "titel": "Einrichtung im Haus",
+          "text": "Der Assistent wird auf einem eigenen Rechner in Ihrem Betrieb eingerichtet und auf Ihre Werkzeuge abgestimmt."
+        },
+        {
+          "titel": "Übergabe und Betreuung",
+          "text": "Sie erhalten eine Einweisung, danach gehört der Assistent Ihnen. Wartung und neue Funktionen sind auf Wunsch möglich."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Daten bleiben im Haus",
+          "text": "Post, Zahlen und Kundendaten verlassen nie den eigenen Rechner."
+        },
+        {
+          "titel": "Rollen getrennt",
+          "text": "Jeder Mitarbeiter sieht nur, was zu seiner Aufgabe gehört - die Buchhaltung andere Dinge als die Technik."
+        },
+        {
+          "titel": "Weniger Kleinarbeit",
+          "text": "Sortieren, Ablegen und Zusammenrechnen übernimmt der Assistent, nicht der Feierabend."
+        },
+        {
+          "titel": "Schriftlich abgesichert",
+          "text": "Ein dokumentiertes Sicherheitskonzept mit Zugriffswegen und Notfallplan gehört von Anfang an dazu."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Läuft der Assistent wirklich ohne Cloud?",
+          "antwort": "Ja. Er läuft auf einem Rechner in Ihrem Betrieb. Es gibt keinen Grund, warum Post, Kalender oder Zahlen das Haus verlassen müssten."
+        },
+        {
+          "frage": "Wie lange dauert die Einrichtung?",
+          "antwort": "Das hängt davon ab, wie viele Systeme angebunden werden. Es ist kein Produkt von der Stange - wir stimmen es in Gesprächen auf Ihren Betrieb ab, das braucht etwas Zeit."
+        },
+        {
+          "frage": "Was passiert, wenn ein Mitarbeiter das Unternehmen verlässt?",
+          "antwort": "Die Rollen und Zugriffsrechte sind Teil des Sicherheitskonzepts. Zugänge lassen sich einzeln entziehen, ohne den Assistenten neu aufzusetzen."
+        },
+        {
+          "frage": "Brauchen wir eine eigene IT-Abteilung dafür?",
+          "antwort": "Nein. Wir richten den Assistenten ein und übernehmen auf Wunsch auch die laufende Wartung."
+        },
+        {
+          "frage": "Für wie kleine Betriebe lohnt sich das?",
+          "antwort": "Auch für Einzelunternehmer, wenn Post, Termine und Zahlen sonst nebenbei laufen müssen. Bei sehr wenigen Aufgaben pro Woche lohnt sich der Aufwand allerdings kaum - das sagen wir im Erstgespräch offen."
+        }
+      ],
+      "cta_titel": "Lernen Sie Ihren Assistenten kennen",
+      "cta_text": "Im Erstgespräch sehen wir, welche Aufgaben er in Ihrem Betrieb übernehmen kann.",
+      "seo_beschreibung": "KI-Assistent, der lokal in Ihrem Betrieb läuft: Post, Termine, Tickets und Zahlen im Griff - Daten bleiben im Haus, mit Sicherheitskonzept.",
+      "kurzbeschreibung": "Ein KI-Assistent, der auf einem eigenen Rechner in Ihrem Betrieb läuft und Post, Termine, Tickets und Zahlen für Sie übernimmt.",
+      "hero_bild": "Ein kompakter Rechner auf einem Regal in einem kleinen Büro-Technikraum, Kabel ordentlich gebündelt, eine Hand justiert ein Anschlusskabel",
+      "zweitbild": "Nahaufnahme eines kleinen Mikrofons auf einem Schreibtisch neben einem Stapel Papierbelegen, im Hintergrund unscharf ein Bildschirm",
+      "hintergrund_bild": "Blick von schräg unten in einen offenen Serverschrank, Kabelstränge und Lüfter ragen ins Bild, kühles stahlblaues Licht von oben, starke Tiefe im Raum"
+    },
+    "bilder": {
+      "hero_bild": "/assets/ki-assistent-fuer-ihren-betrieb/hero_bild.png",
+      "zweitbild": "/assets/ki-assistent-fuer-ihren-betrieb/zweitbild.png",
+      "hintergrund_bild": "/assets/ki-assistent-fuer-ihren-betrieb/hintergrund_bild.png"
+    },
+    "ueberarbeitet": "2026-08-10T00:47:05",
+    "neu_gesetzt": "2026-08-19T07:09:32"
+  },
+  "digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer": {
+    "titel": "Digitale Tafeln für Besprechungsraum und Klassenzimmer",
+    "stil": "sachlich, bodenständig, keine Werbefloskeln - der Leser soll merken, dass hier jemand die Dinger wirklich aufhängt und einrichtet",
+    "thema": "WAS WIR ANBIETEN: interaktive Displays von Kindermann - vom einzelnen Board bis zum komplett ausgestatteten Besprechungsraum oder Klassenzimmer.\n\nMONTAGE: fest an der Wand oder freistehend auf einem Rollwagen. Auf Wunsch höhenverstellbar - manuell oder elektrisch. Das ist kein Zubehör-Detail: eine Tafel auf fester Höhe passt entweder den Kindern oder den Erwachsenen, nie beiden.\n\nDRAHTLOS PRÄSENTIEREN: Klick&Show. Sender an den eigenen Laptop stecken, Knopf drücken, Bild ist auf dem Display. Kein Kabelsuchen, keine Software-Installation, kein WLAN-Passwort für Gäste.\n\nBYOM - die eigene Videokonferenz mitbringen: Kamera und Mikrofon des Raums lassen sich drahtlos mit dem eigenen Teams-, Zoom- oder Webex-Konto nutzen. Der Gast startet seine Besprechung wie immer vom eigenen Laptop und benutzt trotzdem die Raumtechnik.\n\nTON: auf Wunsch mit Lautsprecher-Tischvariante, damit man am anderen Ende auch verstanden wird - der eingebaute Laptop-Ton reicht in einem echten Raum nicht.\n\nGRÖSSEN: verschiedene Diagonalen, passend zum Raum. Welche die richtige ist, hängt vom Abstand der hintersten Reihe ab - das schauen wir uns vor Ort an.\n\nWAS WIR DABEI MACHEN: Beratung zur Größe und Montageart, Lieferung, Aufbau, Einrichtung im Netzwerk, Anbindung an die vorhandene Umgebung - und eine Schulung, damit das Gerät danach auch benutzt wird und nicht als teure Tafel an der Wand hängt.\n\nFÜR WEN: Schulen und Bildungseinrichtungen, Praxen, Handwerks- und Industriebetriebe, Büros mit Besprechungsräumen.\n\nDER TYPISCHE ANLASS: Der Beamer ist alt, das Bild blass, jede Besprechung fängt mit zehn Minuten Kabelsuchen an - oder es steht ein neuer Raum an und man will es diesmal richtig machen. Wer schon ein Board hat, das keiner benutzt, ist auch richtig bei uns: meistens fehlt nur die Einrichtung und eine Stunde Einweisung.\n\nTONFALL: keine Preise nennen, keine technischen Datenblätter, keine Superlative. Wer hier liest, will wissen, ob wir das für ihn übernehmen - nicht, wie viele Berührpunkte der Bildschirm erkennt.",
+    "produkt": "Kindermann Displays und Zubehör",
+    "path": "angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html",
+    "assets": [
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hero_bild.png",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/zweitbild.png",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hintergrund_bild.png",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.png",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.png",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.png",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Displays für Besprechung und Unterricht, startklar",
+      "hero_unterzeile": "Interaktive Displays von Kindermann für Besprechungsraum und Klassenzimmer. Wir beraten Sie zur Größe, montieren, richten das Gerät in Ihrer Umgebung ein und schulen Ihr Team, damit die Tafel danach auch benutzt wird.",
+      "fuer_wen": [
+        "Schulen und Bildungseinrichtungen",
+        "Arzt- und Therapiepraxen",
+        "Handwerks- und Industriebetriebe mit Besprechungsraum",
+        "Einzelunternehmer und kleine Büros mit Kundengesprächen"
+      ],
+      "problem_ueberschrift": "Woran es im Alltag oft scheitert",
+      "problem": [
+        {
+          "titel": "Der Adapter, der wieder fehlt",
+          "text": "Jede Besprechung beginnt mit der Suche nach dem passenden Kabel oder Adapter. Bis das Bild überhaupt auf dem Display steht, ist die Hälfte der geplanten Zeit schon vorbei."
+        },
+        {
+          "titel": "Die letzte Reihe sieht nichts mehr",
+          "text": "Der alte Beamer wird bei Tageslicht blass, in der hintersten Reihe ist die Schrift kaum zu lesen. Also fallen die Rollos, und der Raum wird dunkel, nur damit die Folie erkennbar bleibt."
+        },
+        {
+          "titel": "Ein Board, das schweigend an der Wand hängt",
+          "text": "Ein interaktives Display wurde angeschafft, aber nie richtig eingerichtet. Weil niemand genau weiß, wie es bedient wird, hängt am Ende doch wieder der Laptop per HDMI-Kabel daneben."
+        }
+      ],
+      "loesung_ueberschrift": "Was Sie von uns bekommen",
+      "loesung": [
+        {
+          "titel": "Montage, die zum Raum passt",
+          "text": "Wir hängen das Display fest an die Wand oder stellen es auf einen Rollwagen, je nachdem, wie der Raum genutzt wird. Auf Wunsch richten wir eine Höhenverstellung ein, manuell oder elektrisch, damit dieselbe Tafel im Unterricht wie im Besprechungsraum auf der richtigen Höhe steht.",
+          "bild": "Techniker befestigt eine Wandhalterung für ein großes Display in einem Besprechungsraum, Blick von der Seite, Werkzeug in der Hand",
+          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.png"
+        },
+        {
+          "titel": "Präsentieren ohne Kabel",
+          "text": "Ein kleiner Sender wird an den eigenen Laptop gesteckt, ein Knopf gedrückt, das Bild erscheint auf dem Display. Es wird kein WLAN-Passwort abgefragt und keine Software installiert, auch nicht für Gäste, die zum ersten Mal im Raum sind.",
+          "bild": "Nahaufnahme einer Hand, die einen kleinen USB-Sender in einen Laptop steckt, im Hintergrund unscharf ein großes Display",
+          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.png"
+        },
+        {
+          "titel": "Die eigene Videokonferenz auf der Raumtechnik",
+          "text": "Kamera und Mikrofon des Raums lassen sich drahtlos mit dem eigenen Teams-, Zoom- oder Webex-Konto verbinden. Der Gast startet seine Besprechung wie gewohnt vom eigenen Laptop, nutzt aber die Technik des Raums, ohne sich anzumelden oder etwas zu installieren.",
+          "bild": "Kompakte Konferenzkamera oberhalb eines großen Displays in einem Besprechungsraum, davor ein Tisch mit Laptop, Blick von schräg unten",
+          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.png"
+        },
+        {
+          "titel": "Ton, der auch am anderen Ende ankommt",
+          "text": "Der eingebaute Lautsprecher eines Laptops reicht in einem echten Raum nicht aus. Auf Wunsch richten wir eine Lautsprecher-Tischvariante ein, damit Teilnehmer am anderen Ende der Leitung tatsächlich verstehen, was gesagt wird.",
+          "bild": "Kleines Konferenzlautsprecher-Gerät auf einem Besprechungstisch, Nahaufnahme, im Hintergrund unscharf Stühle",
+          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Raum ansehen",
+          "text": "Wir schauen uns den Raum an, messen den Abstand zur hintersten Reihe oder zum letzten Schreibtisch und legen mit Ihnen gemeinsam Größe und Montageart fest."
+        },
+        {
+          "titel": "Liefern und montieren",
+          "text": "Wir bringen das Display, montieren es fest an der Wand oder auf dem Rollwagen und richten die Höhenverstellung ein, falls gewünscht."
+        },
+        {
+          "titel": "In die Umgebung einbinden",
+          "text": "Wir binden das Display in Ihr Netzwerk ein, richten Klick&Show ein und verbinden die Videokonferenz-Technik mit den gängigen Diensten."
+        },
+        {
+          "titel": "Team einweisen",
+          "text": "Wir zeigen Ihnen und Ihrem Team an einem konkreten Beispiel, wie präsentiert, geschrieben und eine Konferenz gestartet wird."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Besprechungen beginnen sofort",
+          "text": "Kein Kabelsuchen mehr vor dem Termin - das Bild steht, sobald der Sender gedrückt wird."
+        },
+        {
+          "titel": "Ein Gerät für zwei Zielgruppen",
+          "text": "Durch die Höhenverstellung passt dieselbe Tafel Kindern im Unterricht ebenso wie Erwachsenen im Besprechungsraum."
+        },
+        {
+          "titel": "Gäste brauchen keinen Zugang",
+          "text": "Externe Teilnehmer präsentieren ohne WLAN-Passwort und ohne eigene Software auf dem Gerät."
+        },
+        {
+          "titel": "Vorhandene Geräte werden nutzbar",
+          "text": "Auch ein Board, das seit der Anschaffung ungenutzt an der Wand hängt, lässt sich nachträglich einrichten und in Betrieb nehmen."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir haben bereits ein interaktives Board, das kaum genutzt wird - lohnt sich ein Termin trotzdem?",
+          "antwort": "Ja. Meistens fehlt nur die Einrichtung und eine kurze Einweisung, nicht das Gerät selbst. Wir schauen uns an, was vorhanden ist, und richten es passend ein."
+        },
+        {
+          "frage": "Wie finden wir die richtige Displaygröße für unseren Raum?",
+          "antwort": "Das hängt vom Abstand der hintersten Reihe zum Display ab. Das schauen wir uns vor Ort an und schlagen dann eine passende Diagonale vor."
+        },
+        {
+          "frage": "Lässt sich das Display mit unserem Teams- oder Zoom-Konto nutzen?",
+          "antwort": "Ja. Kamera und Mikrofon des Raums werden drahtlos mit dem eigenen Konto verbunden, der Gast startet die Sitzung wie gewohnt von seinem Laptop."
+        },
+        {
+          "frage": "Muss das Display fest an der Wand montiert werden?",
+          "antwort": "Nein. Es geht auch freistehend auf einem Rollwagen, das ist besonders in Räumen sinnvoll, die mehrfach umgenutzt werden."
+        },
+        {
+          "frage": "Brauchen externe Gäste ein WLAN-Passwort, um zu präsentieren?",
+          "antwort": "Nein. Über Klick&Show wird der Sender einfach an den Laptop gesteckt, ein WLAN-Zugang oder eine Software-Installation ist dafür nicht nötig."
+        }
+      ],
+      "cta_titel": "Raum jetzt aufnehmen lassen",
+      "cta_text": "Vor Ort sehen wir in kurzer Zeit, welche Größe und Montageart zu Ihrem Raum passt.",
+      "seo_beschreibung": "Interaktive Displays von Kindermann für Besprechungsraum und Klassenzimmer: Beratung, Montage, Einrichtung und Schulung aus einer Hand.",
+      "kurzbeschreibung": "Interaktive Displays für Besprechungsraum und Klassenzimmer, komplett montiert, eingerichtet und mit Schulung für Ihr Team.",
+      "hero_bild": "Techniker montiert ein großes interaktives Display an der Wand eines Besprechungsraums, Blick von der Seite, Werkzeug in der Hand",
+      "zweitbild": "Nahaufnahme einer Hand, die einen kleinen Klick&Show-Sender in einen Laptop steckt, im Hintergrund unscharf das eingeschaltete Display",
+      "hintergrund_bild": "Weitwinkelaufnahme eines leeren Besprechungsraums mit einem großen Display an der Stirnseite, Reihen von Tischen und Stühlen bilden starke Fluchtlinien zur Bildmitte, kühles blaues Kunstlicht, ruhige dunkle Flächen, viel Tiefe im Raum"
+    },
+    "bilder": {
+      "hero_bild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hero_bild.png",
+      "zweitbild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/zweitbild.png",
+      "hintergrund_bild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hintergrund_bild.png",
+      "reihe_0": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.png",
+      "reihe_1": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.png",
+      "reihe_2": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.png",
+      "reihe_3": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.png"
+    },
+    "hero_titel": "Displays für Besprechung und Unterricht, startklar",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Interaktive Displays für Besprechungsraum und Klassenzimmer, komplett montiert, eingerichtet und mit Schulung für Ihr Team.",
+    "bildrichtung": "Weitwinkel mit starken Fluchtlinien und viel Tiefe, kühles Blau, ruhige dunkle Flächen",
+    "aufbau": "klassisch",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "zeilen",
+    "erstellt": "2026-08-08T22:49:33",
+    "neu_gesetzt": "2026-08-19T07:09:35",
+    "ueberarbeitet": "2026-08-10T00:48:32"
+  }
+}
