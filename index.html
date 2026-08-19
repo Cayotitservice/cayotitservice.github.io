@@ -152,10 +152,10 @@
                   display:grid; grid-template-columns:repeat(auto-fit, minmax(min(240px, 100%), 1fr));
                   gap:16px; }
   .partnerlogos .plogo { background:rgba(238,242,248,.96); border:1px solid var(--linie);
-                         border-radius:10px; min-height:110px; padding:18px;
+                         border-radius:10px; min-height:170px; padding:22px;
                          display:flex; align-items:center; justify-content:center; }
   .partnerlogos .plogo.dunkel { background:rgba(13,22,38,.92); }
-  .partnerlogos img { max-height:64px; width:auto; max-width:100%; object-fit:contain; }
+  .partnerlogos img { max-height:120px; width:auto; max-width:100%; object-fit:contain; }
 
   /* ── Kontaktformular ──────────────────────────────────────────────────── */
   .formkarte { max-width:640px; margin:0 auto; background:var(--nacht2);
@@ -179,7 +179,10 @@
   .beitrag { background:var(--karte); border:1px solid var(--linie); }
   .beitrag .bild { aspect-ratio:1/1; background:linear-gradient(135deg, #0e1b30, #12365c);
                    display:flex; align-items:center; justify-content:center;
-                   color:var(--gedimmt); font-size:.85rem; }
+                   color:var(--gedimmt); font-size:.85rem; overflow:hidden; }
+  .beitrag .bild img { width:100%; height:100%; object-fit:cover; }
+  .beitrag a { color:inherit; display:block; }
+  .beitrag:hover { border-color:var(--akzent); }
   .beitrag .text { padding:10px 12px; font-family:Arial, sans-serif; }
   .beitrag .text p { font-size:.82rem; line-height:1.4; }
   .beitrag .text time { font-size:.72rem; color:var(--gedimmt); }
@@ -400,19 +403,9 @@
 <section class="mittig" id="bewertungen" style="padding-top:10px">
   <div class="schale">
     <h2 class="gross">Das sagen unsere Kunden</h2>
-    <p class="sterne" style="font-size:1.4rem; margin:8px 0 4px">★★★★★</p>
-    <p class="unter" style="color:var(--gedimmt)">Google-Bewertungen – beim Umzug füllt Carlos
-       diese Karten automatisch mit den echten Rezensionen (täglich aktualisiert).</p>
-    <div class="karten" style="margin-top:22px">
-      <div class="rezension"><span class="sterne">★★★★★</span>
-        <p>Platzhalter – hier steht die echte Google-Rezension.</p>
-        <div class="wer">Kundenname · über Google</div></div>
-      <div class="rezension"><span class="sterne">★★★★★</span>
-        <p>Platzhalter – hier steht die echte Google-Rezension.</p>
-        <div class="wer">Kundenname · über Google</div></div>
-      <div class="rezension"><span class="sterne">★★★★★</span>
-        <p>Platzhalter – hier steht die echte Google-Rezension.</p>
-        <div class="wer">Kundenname · über Google</div></div>
+    <p class="sterne" id="rez-gesamt" style="font-size:1.4rem; margin:8px 0 4px">★★★★★</p>
+    <div class="karten" id="rez-karten" style="margin-top:22px; grid-template-columns:repeat(auto-fit, minmax(min(240px, 100%), 1fr))">
+      <div class="rezension"><span class="sterne">★★★★★</span><p>Rezensionen werden geladen …</p></div>
     </div>
     <p style="margin-top:18px">
       <a class="kastenknopf" href="https://g.page/r/CRgKx6ommkK5EAE/review">Auf Google bewerten</a>
@@ -423,28 +416,17 @@
 <section class="mittig" style="padding-top:10px">
   <div class="schale">
     <h2 class="gross">Täglich neues aus der IT</h2>
-    <!-- Beim Umzug fuellt Carlos dieses Gitter automatisch aus den taeglichen Beitraegen
-         (posts.json, nachts erzeugt) - hier drei Platzhalter im Original-Layout. -->
-    <div class="feed">
-      <article class="beitrag"><div class="bild">Beitragsbild</div>
-        <div class="text"><p>Passwort-Spraying: Ein Passwort, viele Konten, ein großes Risiko …</p>
-        <time>19. August 2026</time></div></article>
-      <article class="beitrag"><div class="bild">Beitragsbild</div>
-        <div class="text"><p>MACsec: Verschlüsselung direkt im LAN – Media Access Control Security …</p>
-        <time>18. August 2026</time></div></article>
-      <article class="beitrag"><div class="bild">Beitragsbild</div>
-        <div class="text"><p>Das Login-Fenster ist gefälscht: Browser-in-the-Browser-Phishing …</p>
-        <time>18. August 2026</time></div></article>
+    <div class="feed" id="insta-feed" style="grid-template-columns:repeat(auto-fit, minmax(min(240px, 100%), 1fr))">
+      <article class="beitrag"><div class="bild">Beiträge werden geladen …</div></article>
     </div>
     <p style="margin-top:14px"><a href="https://www.instagram.com/cayot_it_service/" class="kaps">Alle Beiträge auf Instagram ansehen</a></p>
   </div>
 </section>
-
 </main>
 <div class="abschluss">
   <div class="drueber">
     <div class="name">Cayot<br>IT Service</div>
-    <div class="unter">Ihr IT-Projekt- &amp;<br>Managementpartner</div>
+    <div class="unter">Ihre interne,<br>externe IT-Abteilung</div>
     <a href="#kontakt">Jetzt Kontakt aufnehmen</a>
   </div>
 </div>
@@ -486,6 +468,38 @@
 }
 </script>
 <script>
+// Rezensionen + Instagram-Beitraege: Carlos schreibt die Daten taeglich ins Website-Repo
+// (data/*.json, Bilder unter /assets/instagram/). Nichts laedt von Google oder Meta nach.
+(async () => {
+  const esc = t => String(t == null ? "" : t).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  try {
+    const d = await (await fetch("/data/beitraege.json", {cache: "no-store"})).json();
+    const ziel = document.getElementById("insta-feed");
+    const liste = (d.beitraege || []).slice(0, 4);
+    if (liste.length) ziel.innerHTML = liste.map(b => `<article class="beitrag">
+        <a href="${esc(b.link)}" target="_blank" rel="noopener">
+          <div class="bild"><img src="${esc(b.bild)}" alt="${esc(b.titel)}" loading="lazy"></div>
+          <div class="text"><p>${esc(b.titel)}</p><time>${esc((b.datum || "").split("-").reverse().join("."))}</time></div>
+        </a></article>`).join("");
+  } catch (e) { /* Feed fehlt - Platzhalter bleibt */ }
+  try {
+    const d = await (await fetch("/data/rezensionen.json", {cache: "no-store"})).json();
+    const alle = (d.rezensionen || []);
+    const meta = alle.find(r => r._gesamt != null) || {};
+    const liste = alle.filter(r => r.sterne).slice(0, 4);
+    const ziel = document.getElementById("rez-karten");
+    if (liste.length) {
+      ziel.innerHTML = liste.map(r => `<div class="rezension">
+          <span class="sterne">${"★".repeat(r.sterne)}${"☆".repeat(5 - r.sterne)}</span>
+          <p>${esc(r.text)}</p><div class="wer">${esc(r.autor)} · über Google</div></div>`).join("");
+      if (meta._gesamt) document.getElementById("rez-gesamt").textContent =
+        `★ ${String(meta._gesamt).replace(".", ",")} von 5 · ${meta._anzahl || ""} Bewertungen`;
+    } else {
+      ziel.innerHTML = "";
+    }
+  } catch (e) { document.getElementById("rez-karten").innerHTML = ""; }
+})();
+
 // Am Handy klappen die Rubriken per Antippen (Hover gibt es dort nicht). Am Desktop
 // bleibt alles beim reinen CSS-Hover - dieser Code fasst dort nichts an.
 document.querySelectorAll("nav.haupt .punkt").forEach(p => {
