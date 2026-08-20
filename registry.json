@@ -2607,5 +2607,156 @@
     "ablauf_art": "strang",
     "fuer_wen_art": "zeilen",
     "erstellt": "2026-08-20T13:45:39"
+  },
+  "server-virtualisierung": {
+    "titel": "Server-Virtualisierung",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nVirtualisierung kleiner Serverlandschaften (z. B. Hyper-V): aus alter Hardware auf wenige, gut gesicherte virtuelle Server - planen, umziehen, sichern. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Ich bin selbständig und habe niemanden für IT im Rhein-Main-Gebiet. Um die Virtualisierung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?\n- Wir sind ein Familienbetrieb mit zwölf Leuten in Mainz. Wer bietet die Virtualisierung unserer Server für Unternehmen in der Region an?\n- Ich bin selbständig und habe niemanden für IT in Bingen. Um die Virtualisierung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?\n- Wir sind ein Familienbetrieb mit zwölf Leuten in Ingelheim. Wer bietet die Virtualisierung unserer Server für Unternehmen in der Region an?",
+    "produkt": "Virtualisierung: Bestandsaufnahme, Planung, Umzug der Server in virtuelle Maschinen (z. B. Hyper-V), Sicherungskonzept, danach laufende Betreuung.",
+    "path": "angebote/server-virtualisierung.html",
+    "assets": [
+      "/assets/server-virtualisierung/hero_bild.png",
+      "/assets/server-virtualisierung/zweitbild.png",
+      "/assets/server-virtualisierung/hintergrund_bild.png",
+      "/assets/server-virtualisierung/reihe_0.png",
+      "/assets/server-virtualisierung/reihe_1.png",
+      "/assets/server-virtualisierung/reihe_2.png",
+      "/assets/server-virtualisierung/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Aus alten Servern wird eine sichere Maschine",
+      "hero_unterzeile": "Mehrere alte Server werden zu wenigen gut gesicherten virtuellen Maschinen zusammengefasst. Sie bekommen weniger Technik zu warten und ein klares Sicherungskonzept dazu.",
+      "fuer_wen": [
+        "Handwerksbetriebe mit eigenem Server im Lager oder Büro",
+        "Praxen, die Patientendaten auf einem eigenen Server halten",
+        "Kleine und mittlere Betriebe ohne eigene IT-Abteilung",
+        "Selbständige und Einzelunternehmer mit eigener Serverhardware"
+      ],
+      "problem_ueberschrift": "Mehrere Server, ein Risiko",
+      "problem": [
+        {
+          "titel": "Veraltete Hardware",
+          "text": "Die Server laufen seit Jahren durch, Ersatzteile gibt es kaum noch. Fällt eine Platte aus, steht der Betrieb still."
+        },
+        {
+          "titel": "Niemand kümmert sich darum",
+          "text": "Es gibt keine eigene IT-Abteilung für Wartung und Updates. Die Server laufen einfach weiter, bis es nicht mehr geht."
+        },
+        {
+          "titel": "Unklare Sicherung",
+          "text": "Ob und wie die Daten gesichert werden, weiß oft niemand genau. Im Ernstfall zeigt sich erst, ob die Sicherung überhaupt funktioniert."
+        }
+      ],
+      "loesung_ueberschrift": "So wird aus vielen Servern einer",
+      "loesung": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns alle vorhandenen Server an: Alter, Auslastung, laufende Programme. Danach wissen Sie, was wirklich noch gebraucht wird.",
+          "bild": "Eine Hand mit Taschenlampe leuchtet in einen offenen Serverschrank und prüft die Beschriftungen an alten Geräten",
+          "bild_pfad": "/assets/server-virtualisierung/reihe_0.png"
+        },
+        {
+          "titel": "Planung",
+          "text": "Wir legen fest, wie viele virtuelle Server nötig sind und auf welcher Hardware sie laufen sollen. Sie erhalten einen konkreten Zeitplan für den Umzug.",
+          "bild": "Ein ausgedruckter Plan mit Kästchen und Linien liegt auf einem Besprechungstisch, eine Hand zeigt mit einem Stift auf einen Bereich",
+          "bild_pfad": "/assets/server-virtualisierung/reihe_1.png"
+        },
+        {
+          "titel": "Umzug",
+          "text": "Wir übertragen die Systeme in die virtuelle Umgebung, meist außerhalb Ihrer Geschäftszeiten. Die alten Server bleiben bis zur Prüfung als Rückfallebene stehen.",
+          "bild": "Zwei Hände schieben eine Festplatte in einen neuen Servereinschub, ein ausgeschalteter alter Tower-Rechner steht daneben",
+          "bild_pfad": "/assets/server-virtualisierung/reihe_2.png"
+        },
+        {
+          "titel": "Sicherungskonzept und Betreuung",
+          "text": "Nach dem Umzug richten wir eine automatische Sicherung nach festem Plan ein. Wir übernehmen danach die laufende Wartung im Hintergrund.",
+          "bild": "Ein NAS-Gehäuse mit mehreren Laufwerken steht in einem offenen Rack, ein Sicherungskabel ist angeschlossen",
+          "bild_pfad": "/assets/server-virtualisierung/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns alle Server vor Ort an: Alter, Auslastung, laufende Programme."
+        },
+        {
+          "titel": "Planungsgespräch",
+          "text": "Wir legen fest, wie viele virtuelle Server nötig sind und auf welcher Hardware sie laufen sollen."
+        },
+        {
+          "titel": "Umzug",
+          "text": "Wir übertragen die Systeme in die virtuelle Umgebung, meist außerhalb der Geschäftszeiten."
+        },
+        {
+          "titel": "Laufende Betreuung",
+          "text": "Wir übernehmen die Wartung und die regelmäßige Sicherung, damit sich niemand mehr selbst darum kümmern muss."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Weniger Hardware",
+          "text": "Aus mehreren alten Rechnern wird ein gut ausgestatteter Server, auf dem alles läuft."
+        },
+        {
+          "titel": "Schnellere Wiederherstellung",
+          "text": "Eine virtuelle Maschine lässt sich im Ausfall in kurzer Zeit auf neuer Hardware starten."
+        },
+        {
+          "titel": "Klare Sicherung",
+          "text": "Jede virtuelle Maschine wird nach einem festen Plan gesichert, nicht nach Gefühl."
+        },
+        {
+          "titel": "Weniger Wartungsaufwand",
+          "text": "Ein Server statt mehrerer bedeutet weniger Updates, weniger Stromverbrauch, weniger Störungen."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir haben niemanden für IT - wer kümmert sich bei uns um die Virtualisierung der Server?",
+          "antwort": "Das übernehmen wir komplett für Sie. Wir kommen zu Ihnen, egal ob Sie in Bad Kreuznach, im Rhein-Main-Gebiet oder in der Region Bingen und Ingelheim sitzen, und sind danach Ihr fester Ansprechpartner für die Server."
+        },
+        {
+          "frage": "Wir sind ein kleiner Familienbetrieb mit rund einem Dutzend Mitarbeitern - lohnt sich Virtualisierung auch für uns?",
+          "antwort": "Ja. Gerade bei zwei oder drei alten Servern lohnt sich der Schritt oft besonders, weil Wartung und Sicherung danach einfacher werden. Die Größe des Betriebs spielt dabei keine Rolle."
+        },
+        {
+          "frage": "Wie lange dauert der Umzug auf virtuelle Server?",
+          "antwort": "Das hängt von Anzahl und Art der Server ab. Nach der Bestandsaufnahme nennen wir Ihnen einen konkreten Zeitplan, meist mit einer kurzen Ausfallzeit außerhalb der Geschäftszeiten."
+        },
+        {
+          "frage": "Müssen wir dafür neue Hardware kaufen?",
+          "antwort": "Oft reicht ein einziger neuer, ausreichend starker Server für mehrere virtuelle Maschinen. Ob sich die vorhandene Hardware noch eignet, prüfen wir bei der Bestandsaufnahme."
+        },
+        {
+          "frage": "Was passiert mit den alten Servern nach dem Umzug?",
+          "antwort": "Sie können als Ersatzteillager oder für weniger wichtige Aufgaben weiterlaufen, meist werden sie aber abgeschaltet. Wir sprechen das im Einzelfall mit Ihnen ab."
+        }
+      ],
+      "cta_titel": "Server-Landschaft besprechen",
+      "cta_text": "Vereinbaren Sie eine Bestandsaufnahme, bevor die nächste alte Festplatte ausfällt.",
+      "seo_beschreibung": "Server-Virtualisierung für kleine Betriebe in Bad Kreuznach, Mainz und Umgebung: Bestandsaufnahme, Umzug auf Hyper-V, Sicherungskonzept, laufende Betreuung.",
+      "kurzbeschreibung": "Mehrere alte Server werden zu wenigen gut gesicherten virtuellen Maschinen zusammengefasst, geplant und dauerhaft betreut.",
+      "hero_bild": "Zwei Hände schieben eine Festplatte in einen kompakten Servereinschub, während ein ausgeschalteter alter Tower-Rechner daneben steht",
+      "zweitbild": "Nahaufnahme eines halb geöffneten Serverschranks mit sauber gebündelten Netzwerkkabeln, die in ein einzelnes neues Gehäuse führen",
+      "hintergrund_bild": "Weiche Lichtspuren und Bewegung über einem unscharfen Serverschrank, Cyan auf Anthrazit, als würden Daten von mehreren alten Geräten zu einem einzigen fließen"
+    },
+    "bilder": {
+      "hero_bild": "/assets/server-virtualisierung/hero_bild.png",
+      "zweitbild": "/assets/server-virtualisierung/zweitbild.png",
+      "hintergrund_bild": "/assets/server-virtualisierung/hintergrund_bild.png",
+      "reihe_0": "/assets/server-virtualisierung/reihe_0.png",
+      "reihe_1": "/assets/server-virtualisierung/reihe_1.png",
+      "reihe_2": "/assets/server-virtualisierung/reihe_2.png",
+      "reihe_3": "/assets/server-virtualisierung/reihe_3.png"
+    },
+    "hero_titel": "Aus alten Servern wird eine sichere Maschine",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Mehrere alte Server werden zu wenigen gut gesicherten virtuellen Maschinen zusammengefasst, geplant und dauerhaft betreut.",
+    "bildrichtung": "Weiche Lichtspuren und Bewegung über einem unscharfen Motiv, Cyan auf Anthrazit",
+    "aufbau": "ruhig",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "trennstrich",
+    "erstellt": "2026-08-20T13:52:28"
   }
 }
