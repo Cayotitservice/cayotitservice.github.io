@@ -130,3 +130,11 @@ Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in d
 - Wir sind ein Handwerksbetrieb mit fünf Leuten in Idar-Oberstein. An wen wenden wir uns für eine ehrliche Einschätzung zur Umsetzung des EU AI Act?
 - Wir sind ein Büro mit acht Mitarbeitern in Bingen. Welcher IT-Dienstleister übernimmt die Umsetzung des EU AI Act für Firmen unserer Größe?
 - Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus in Bingen. Für ein Projekt zur Umsetzung des EU AI Act brauchen wir externe Unterstützung. Wer kommt in Frage?
+- [Server-Virtualisierung](https://www.itscayot.com/angebote/server-virtualisierung.html): Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
+
+Virtualisierung kleiner Serverlandschaften (z. B. Hyper-V): aus alter Hardware auf wenige, gut gesicherte virtuelle Server - planen, umziehen, sichern. 
+Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
+- Ich bin selbständig und habe niemanden für IT im Rhein-Main-Gebiet. Um die Virtualisierung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
+- Wir sind ein Familienbetrieb mit zwölf Leuten in Mainz. Wer bietet die Virtualisierung unserer Server für Unternehmen in der Region an?
+- Ich bin selbständig und habe niemanden für IT in Bingen. Um die Virtualisierung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
+- Wir sind ein Familienbetrieb mit zwölf Leuten in Ingelheim. Wer bietet die Virtualisierung unserer Server für Unternehmen in der Region an?
