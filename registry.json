@@ -3060,5 +3060,156 @@
     "ablauf_art": "strang",
     "fuer_wen_art": "chips",
     "erstellt": "2026-08-20T14:05:26"
+  },
+  "it-analyse-bestandsaufnahme-ihrer-it": {
+    "titel": "IT-Analyse: Bestandsaufnahme Ihrer IT",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nUnabhängige IT-Analyse: einmal ehrlich aufschreiben, was da ist, was fehlt und was gefährlich ist - mit verständlichem Bericht und Maßnahmenliste nach Dringlichkeit. Ausdrücklich beratungsneutral: keine Verkaufsveranstaltung. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wir sind eine Praxis mit drei Mitarbeitern in Mainz. Wer berät uns unabhängig zu einer IT-Analyse, ohne uns gleich etwas verkaufen zu wollen?\n- Ich bin selbständig und habe niemanden für IT in Bingen. Wer bietet eine IT-Analyse für Unternehmen in der Region an?\n- Wir sind ein Familienbetrieb mit zwölf Leuten in Wiesbaden. Wen könnt ihr uns für eine IT-Analyse empfehlen?\n- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Bingen. Wir suchen jemanden, der uns bei einer IT-Analyse punktuell unterstützt. Wen gibt es dafür?\n- Wir sind eine Praxis mit drei Mitarbeitern in Koblenz. Wer berät uns unabhängig zu einer IT-Analyse, ohne uns gleich etwas verkaufen zu wollen?\n- Ich bin selbständig und habe niemanden für IT in Kaiserslautern. Wer bietet eine IT-Analyse für Unternehmen in der Region an?",
+    "produkt": "IT-Analyse zum Festpreis: Bestandsaufnahme vor Ort, Sicherheits- und Sicherungs-Check, schriftlicher Bericht mit Maßnahmenliste - auf Wunsch Umsetzung, auf Wunsch nur der Bericht.",
+    "path": "angebote/it-analyse-bestandsaufnahme-ihrer-it.html",
+    "assets": [
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/hero_bild.png",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/zweitbild.png",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/hintergrund_bild.png",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.png",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.png",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.png",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "Ihre IT einmal ehrlich geprüft",
+      "hero_unterzeile": "Eine unabhängige Bestandsaufnahme Ihrer Systeme, Ihrer Sicherheit und Ihrer Sicherungen - mit schriftlichem Bericht und einer Liste, was zuerst erledigt werden sollte.",
+      "fuer_wen": [
+        "Praxen und Kanzleien ohne eigene IT-Abteilung",
+        "Handwerksbetriebe und kleine Familienunternehmen",
+        "Selbständige und Einzelunternehmer",
+        "Mittelständische Betriebe, die eine zweite, unabhängige Meinung suchen"
+      ],
+      "problem_ueberschrift": "Wenn niemand den Überblick hat",
+      "problem": [
+        {
+          "titel": "Gewachsen, nie geordnet",
+          "text": "Über Jahre kamen Geräte, Programme und Zugänge dazu. Heute weiß oft niemand mehr genau, was im Einsatz ist und wer worauf Zugriff hat."
+        },
+        {
+          "titel": "Beratung mit Verkaufsabsicht",
+          "text": "Viele Angebote am Markt enden mit einem Vorschlag für neue Hardware oder eine Lizenz. Eine ehrliche Einschätzung, was wirklich nötig ist, bleibt dabei oft aus."
+        },
+        {
+          "titel": "Sicherung ungeprüft",
+          "text": "Eine Datensicherung läuft seit Jahren im Hintergrund. Ob sie im Ernstfall tatsächlich funktioniert, hat aber noch niemand getestet."
+        }
+      ],
+      "loesung_ueberschrift": "Was die Analyse umfasst",
+      "loesung": [
+        {
+          "titel": "Bestandsaufnahme vor Ort",
+          "text": "Wir sehen uns Ihre Arbeitsplätze, Server, Netzwerkgeräte und Programme direkt bei Ihnen an. Am Ende steht fest, was tatsächlich im Einsatz ist - nicht nur, was auf dem Papier steht.",
+          "bild": "Eine Hand notiert auf einem Klemmbrett Geräte in einem kleinen Büro, im unscharfen Hintergrund ein Router und ein Drucker.",
+          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.png"
+        },
+        {
+          "titel": "Sicherheits-Check",
+          "text": "Wir prüfen Firewall, Updates, Virenschutz und Benutzerkonten. Sie erfahren, wo ein Zugang offen steht, den niemand mehr braucht.",
+          "bild": "Eine Hand prüft mit einem Schraubendreher das geöffnete Gehäuse eines kleinen Netzwerkrouters auf einem Werktisch.",
+          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.png"
+        },
+        {
+          "titel": "Sicherungs-Check",
+          "text": "Wir prüfen, ob und wie oft gesichert wird - und ob sich aus der Sicherung tatsächlich etwas wiederherstellen lässt. Eine ungetestete Sicherung ist keine Sicherung.",
+          "bild": "Eine Hand zieht eine externe Festplatte aus einem Sicherungsgerät, um eine Testwiederherstellung vorzubereiten.",
+          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.png"
+        },
+        {
+          "titel": "Bericht mit Maßnahmenliste",
+          "text": "Sie erhalten einen schriftlichen Bericht mit den Ergebnissen, sortiert nach Dringlichkeit. Was Sie damit machen, entscheiden Sie - eine Umsetzung durch uns ist möglich, aber kein Muss.",
+          "bild": "Ein ausgedrucktes Berichtsdokument mit Textmarker-Linien liegt auf einem Besprechungstisch, daneben ein Stift.",
+          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Anfrage und Termin",
+          "text": "Sie schildern kurz Ihre Situation, wir vereinbaren einen Termin vor Ort - passend zu Ihrem Betrieb."
+        },
+        {
+          "titel": "Prüfung vor Ort",
+          "text": "Wir sehen uns Systeme, Konten, Netzwerk und Sicherungen an und stellen gezielt Fragen zu Ihren Abläufen."
+        },
+        {
+          "titel": "Bericht",
+          "text": "Sie erhalten den schriftlichen Bericht mit Maßnahmenliste nach Dringlichkeit, verständlich erklärt."
+        },
+        {
+          "titel": "Umsetzung, wenn gewünscht",
+          "text": "Sie entscheiden, was passiert. Wir setzen die Punkte um, die Sie beauftragen - der Rest bleibt bei Ihnen oder Ihrer bestehenden IT."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Klarer Überblick",
+          "text": "Sie wissen anschließend, welche Geräte, Programme und Zugänge tatsächlich im Einsatz sind."
+        },
+        {
+          "titel": "Nach Dringlichkeit sortiert",
+          "text": "Die Maßnahmenliste zeigt, was zuerst erledigt werden sollte und was warten kann."
+        },
+        {
+          "titel": "Unabhängig von Herstellern",
+          "text": "Wir empfehlen, was zu Ihrem Betrieb passt - nicht, was uns Provision bringt."
+        },
+        {
+          "titel": "Bericht gehört Ihnen",
+          "text": "Der Bericht bleibt Ihr Eigentum, auch wenn Sie die Umsetzung selbst übernehmen oder jemand anderen beauftragen."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir sind eine Praxis mit wenigen Mitarbeitern. Beraten Sie uns unabhängig, ohne uns gleich etwas zu verkaufen?",
+          "antwort": "Ja. Die Analyse ist ausdrücklich beratungsneutral. Sie bekommen einen Bericht mit Einschätzung und Maßnahmenliste - was Sie davon umsetzen und mit wem, entscheiden Sie selbst."
+        },
+        {
+          "frage": "Ich bin selbständig und habe niemanden für IT. Bieten Sie eine IT-Analyse auch für kleine Unternehmen in der Region an?",
+          "antwort": "Ja. Wir arbeiten im Umkreis von rund 100 Kilometern um Bad Kreuznach, unter anderem im Rhein-Main-Gebiet und in Rheinland-Pfalz, und kommen auch für einzelne Selbständige vorbei."
+        },
+        {
+          "frage": "Wir sind ein Familienbetrieb mit rund zwölf Mitarbeitern. Können Sie uns eine IT-Analyse empfehlen?",
+          "antwort": "Wir führen die Analyse selbst durch - vor Ort, mit Bestandsaufnahme, Sicherheits- und Sicherungs-Check und einem schriftlichen Bericht am Ende."
+        },
+        {
+          "frage": "Wir haben eine eigene IT-Abteilung und suchen punktuelle Unterstützung bei einer IT-Analyse. Ist das möglich?",
+          "antwort": "Ja. Wir arbeiten dann als zweite, unabhängige Sicht neben Ihrer IT-Abteilung - zum Beispiel für einen bestimmten Standort oder einen einzelnen Themenbereich wie Sicherung oder Sicherheit."
+        },
+        {
+          "frage": "Was kostet die Analyse und was, wenn wir nur den Bericht wollen?",
+          "antwort": "Die Analyse ist ein Festpreis-Angebot. Sie können ausschließlich den Bericht bestellen, ohne dass eine Umsetzung folgt - das sagen Sie uns einfach vorher."
+        }
+      ],
+      "cta_titel": "Lassen Sie Ihre IT einmal prüfen",
+      "cta_text": "Schreiben Sie uns kurz Ihre Situation, wir melden uns mit einem Terminvorschlag.",
+      "seo_beschreibung": "Unabhängige IT-Analyse für Betriebe ohne eigene IT-Abteilung in Bad Kreuznach und Umgebung: Bestandsaufnahme, Sicherheits-Check, schriftlicher Bericht.",
+      "kurzbeschreibung": "Eine unabhängige Bestandsaufnahme Ihrer IT mit schriftlichem Bericht und Maßnahmenliste nach Dringlichkeit.",
+      "hero_bild": "Eine Hand hält ein Klemmbrett mit Checkliste in einem kleinen Büro, im Hintergrund unscharf ein Router und ein Aktenschrank.",
+      "zweitbild": "Zwei Hände markieren mit einem Textmarker Zeilen auf einem ausgedruckten Bericht, der auf einem Besprechungstisch liegt.",
+      "hintergrund_bild": "Nahaufnahme einer Hand, die mit einem Stift eine Zeile auf einer Papier-Checkliste markiert, geringe Schärfentiefe, warmes Bernsteinlicht, weicher unscharfer Bürohintergrund."
+    },
+    "bilder": {
+      "hero_bild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/hero_bild.png",
+      "zweitbild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/zweitbild.png",
+      "hintergrund_bild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/hintergrund_bild.png",
+      "reihe_0": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.png",
+      "reihe_1": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.png",
+      "reihe_2": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.png",
+      "reihe_3": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.png"
+    },
+    "hero_titel": "Ihre IT einmal ehrlich geprüft",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Eine unabhängige Bestandsaufnahme Ihrer IT mit schriftlichem Bericht und Maßnahmenliste nach Dringlichkeit.",
+    "bildrichtung": "Nahaufnahme mit geringer Schärfentiefe, warmes Bernsteinlicht, weicher Hintergrund",
+    "aufbau": "bild_oben",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "zeilen",
+    "erstellt": "2026-08-20T14:11:55"
   }
 }
