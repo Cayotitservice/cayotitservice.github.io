@@ -2758,5 +2758,156 @@
     "ablauf_art": "pfeile",
     "fuer_wen_art": "trennstrich",
     "erstellt": "2026-08-20T13:52:28"
+  },
+  "endpoint-security-arbeitsplaetze-schuetzen": {
+    "titel": "Endpoint Security: Arbeitsplätze schützen",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nSchutz der Arbeitsplatzrechner (Endpoint Security) für kleine Firmen: moderner Schutz mit Erkennung und Reaktion (EDR) statt reinem Virenscanner, zentral verwaltet, mit klarem Bericht. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wir sind ein Büro mit acht Mitarbeitern im Landkreis Bad Kreuznach. An wen wenden wir uns für eine ehrliche Einschätzung zum Schutz unserer Arbeitsplatzrechner?\n- Wir sind eine Firma ohne eigene IT-Abteilung in Rheinland-Pfalz. Welcher IT-Dienstleister übernimmt den Schutz unserer Arbeitsplatzrechner für Firmen unserer Größe?\n- Wir sind ein Handwerksbetrieb mit fünf Leuten im Rhein-Main-Gebiet. Wen könnt ihr uns für den Schutz unserer Arbeitsplatzrechner empfehlen?\n- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Rheinland-Pfalz. Wir suchen jemanden, der uns beim Schutz unserer Arbeitsplatzrechner punktuell unterstützt. Wen gibt es dafür?\n- Wir sind ein Büro mit acht Mitarbeitern in Idar-Oberstein. An wen wenden wir uns für eine ehrliche Einschätzung zum Schutz unserer Arbeitsplatzrechner?\n- Wir sind eine Firma ohne eigene IT-Abteilung in Bingen. Welcher IT-Dienstleister übernimmt den Schutz unserer Arbeitsplatzrechner für Firmen unserer Größe?",
+    "produkt": "Endpoint-Schutz mit Trend Micro (EDR), zentral von uns verwaltet: Einrichtung je Rechner, laufende Überwachung, monatlicher Bericht, Reaktion im Ernstfall.",
+    "path": "angebote/endpoint-security-arbeitsplaetze-schuetzen.html",
+    "assets": [
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/hero_bild.png",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/zweitbild.png",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/hintergrund_bild.png",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.png",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.png",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.png",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Sicherheit",
+      "hero_titel": "Schutz für jeden Arbeitsplatzrechner",
+      "hero_unterzeile": "Trend Micro EDR erkennt Angriffe, die ein gewöhnlicher Virenscanner übersieht. Wir richten den Schutz auf jedem Rechner ein, überwachen ihn laufend und greifen ein, wenn etwas passiert.",
+      "fuer_wen": [
+        "Büros und Praxen ohne eigene IT-Abteilung",
+        "Handwerksbetriebe mit mehreren Arbeitsplätzen",
+        "Selbständige, die mit sensiblen Daten arbeiten",
+        "Mittelständische Betriebe im Rhein-Main-Gebiet und in Rheinland-Pfalz"
+      ],
+      "problem_ueberschrift": "Ein Virenscanner sieht nur, was er schon kennt",
+      "problem": [
+        {
+          "titel": "Unbekannte Angriffe bleiben unentdeckt",
+          "text": "Klassische Virenscanner prüfen gegen eine Liste bekannter Schädlinge. Neue Angriffsmuster rutschen einfach durch, weil sie auf dieser Liste noch nicht stehen."
+        },
+        {
+          "titel": "Niemand merkt es rechtzeitig",
+          "text": "Ohne laufende Überwachung fällt ein Befall oft erst auf, wenn Dateien verschlüsselt sind oder Kunden sich über seltsame E-Mails beschweren. Dann ist es zu spät für eine ruhige Reaktion."
+        },
+        {
+          "titel": "Verantwortung ohne Werkzeug",
+          "text": "Wer keine eigene IT-Abteilung hat, trägt die Verantwortung für die Sicherheit trotzdem allein. Zeit und Fachwissen für eine echte Überwachung fehlen im Alltag meist."
+        }
+      ],
+      "loesung_ueberschrift": "So sieht der Schutz konkret aus",
+      "loesung": [
+        {
+          "titel": "Einrichtung an jedem Rechner",
+          "text": "Wir installieren Trend Micro auf jedem Arbeitsplatzrechner und stellen die Erkennung passend zu Ihrem Betrieb ein. Das läuft im Hintergrund, ohne dass Mitarbeiter etwas davon merken.",
+          "bild": "Hände stecken ein Kabel an ein Rechnergehäuse unter einem Schreibtisch in einem kleinen Büro, Kabel sind sauber gebündelt",
+          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.png"
+        },
+        {
+          "titel": "Laufende Überwachung",
+          "text": "Auffälliges Verhalten auf einem Rechner wird sofort erkannt, nicht erst beim nächsten Scan. Wir sehen die Meldung, bevor sich etwas ausbreiten kann.",
+          "bild": "Ein Rauchmelder an einer weißen Bürodecke aus leicht erhöhter Perspektive, ruhiges Tageslicht",
+          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.png"
+        },
+        {
+          "titel": "Monatlicher Bericht",
+          "text": "Sie erhalten einen Bericht, was geprüft wurde und was dabei aufgefallen ist. Eine Übersicht, die Sie tatsächlich lesen können, statt einer langen Log-Datei.",
+          "bild": "Ausgedruckter Bericht mit farbigen Markierungen liegt auf einem Besprechungstisch, daneben eine Tasse Kaffee",
+          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.png"
+        },
+        {
+          "titel": "Reaktion im Ernstfall",
+          "text": "Schlägt die Erkennung Alarm, trennen wir den betroffenen Rechner vom Netz und schauen uns an, was passiert ist. Sie bekommen eine klare Rückmeldung, nicht nur eine Warnmeldung.",
+          "bild": "Eine Hand zieht ein Netzwerkkabel aus der Rückseite eines Rechnergehäuses",
+          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir schauen uns Ihre Rechner an und prüfen, was aktuell an Schutz vorhanden ist."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Trend Micro wird auf jedem Arbeitsplatz eingerichtet und an Ihren Betrieb angepasst."
+        },
+        {
+          "titel": "Laufender Betrieb",
+          "text": "Wir überwachen die Rechner fortlaufend und reagieren, wenn etwas auffällt."
+        },
+        {
+          "titel": "Monatlicher Bericht",
+          "text": "Sie erhalten regelmäßig eine Übersicht über den Zustand Ihrer Arbeitsplätze."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein Ansprechpartner",
+          "text": "Sie sprechen immer mit derselben Person, nicht mit einer wechselnden Hotline."
+        },
+        {
+          "titel": "Erkennung statt Warten",
+          "text": "Auffälliges Verhalten wird erkannt, bevor sich ein Schädling im Netzwerk ausbreitet."
+        },
+        {
+          "titel": "Klarer Bericht",
+          "text": "Jeden Monat sehen Sie, was geprüft wurde und was auffiel."
+        },
+        {
+          "titel": "Reaktion statt Meldung",
+          "text": "Im Ernstfall handeln wir sofort, statt nur eine Benachrichtigung zu schicken."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir sind ein Büro mit acht Mitarbeitern im Landkreis Bad Kreuznach und der näheren Umgebung. An wen wenden wir uns für eine ehrliche Einschätzung zum Schutz unserer Arbeitsplatzrechner?",
+          "antwort": "An uns. Wir schauen uns Ihre Rechner vor Ort oder aus der Ferne an und sagen Ihnen, wo Sie stehen - auch wenn die Antwort lautet, dass der aktuelle Schutz für Ihre Größe bereits ausreicht."
+        },
+        {
+          "frage": "Wir sind eine Firma ohne eigene IT-Abteilung in Rheinland-Pfalz. Welcher IT-Dienstleister übernimmt den Schutz unserer Arbeitsplatzrechner für Firmen unserer Größe?",
+          "antwort": "Cayot IT Service aus Bad Kreuznach betreut genau solche Betriebe im Umkreis von rund 100 Kilometern, von Mainz und Bingen bis Idar-Oberstein und Koblenz. Wir übernehmen Einrichtung, Überwachung und Bericht komplett."
+        },
+        {
+          "frage": "Wir sind ein Handwerksbetrieb mit fünf Leuten im Rhein-Main-Gebiet. Wen könnt ihr uns für den Schutz unserer Arbeitsplatzrechner empfehlen?",
+          "antwort": "Wir betreuen auch kleinere Betriebe mit wenigen Arbeitsplätzen im Rhein-Main-Gebiet. Der Aufwand richtet sich nach der Anzahl der Rechner, nicht nach der Größe der Firma."
+        },
+        {
+          "frage": "Wir haben 200 Mitarbeiter und eine eigene IT-Abteilung in Rheinland-Pfalz. Wir suchen jemanden, der uns beim Schutz unserer Arbeitsplatzrechner punktuell unterstützt. Wen gibt es dafür?",
+          "antwort": "Für Betriebe dieser Größe mit eigener IT-Abteilung sind wir meist nicht die erste Wahl - unser Angebot ist auf Firmen ohne eigene IT-Abteilung zugeschnitten. Für eine punktuelle Zweitmeinung sprechen Sie uns trotzdem gerne an, wir sagen Ihnen ehrlich, ob wir passen."
+        },
+        {
+          "frage": "Was unterscheidet EDR von einem normalen Virenscanner?",
+          "antwort": "Ein Virenscanner prüft Dateien gegen eine Liste bekannter Schädlinge. EDR beobachtet zusätzlich das Verhalten auf dem Rechner und schlägt Alarm, wenn etwas Ungewöhnliches passiert - auch bei Angriffen, die noch auf keiner Liste stehen."
+        }
+      ],
+      "cta_titel": "Lassen Sie Ihre Arbeitsplätze prüfen",
+      "cta_text": "Schreiben Sie uns, wir schauen uns Ihre Rechner an und sagen Ihnen ehrlich, wo Sie stehen.",
+      "seo_beschreibung": "Endpoint-Schutz mit Trend Micro EDR für Betriebe ohne eigene IT-Abteilung: Einrichtung, Überwachung und monatlicher Bericht von Cayot IT Service.",
+      "kurzbeschreibung": "Zentral verwalteter Endpoint-Schutz mit Erkennung, Reaktion und monatlichem Bericht für jeden Arbeitsplatzrechner.",
+      "hero_bild": "Hand legt ein massives Vorhängeschloss auf eine Computertastatur, im Hintergrund unscharf mehrere Bildschirme in einem kleinen Büro",
+      "zweitbild": "Nahaufnahme eines Kabelschlosses, das an einem Rechnergehäuse unter einem Schreibtisch befestigt ist",
+      "hintergrund_bild": "Große Glasfassade eines modernen Büros mit klaren Linien und Spiegelungen von Schreibtischen und Bildschirmen, helles Blaugrau, viel Tageslicht, ruhige Flächen"
+    },
+    "bilder": {
+      "hero_bild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/hero_bild.png",
+      "zweitbild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/zweitbild.png",
+      "hintergrund_bild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/hintergrund_bild.png",
+      "reihe_0": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.png",
+      "reihe_1": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.png",
+      "reihe_2": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.png",
+      "reihe_3": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.png"
+    },
+    "hero_titel": "Schutz für jeden Arbeitsplatzrechner",
+    "kategorie": "Sicherheit",
+    "kurzbeschreibung": "Zentral verwalteter Endpoint-Schutz mit Erkennung, Reaktion und monatlichem Bericht für jeden Arbeitsplatzrechner.",
+    "bildrichtung": "Glas und Spiegelungen, klare Linien, helles Blaugrau, viel Tageslicht",
+    "aufbau": "problem_zuerst",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "karten",
+    "erstellt": "2026-08-20T13:59:08"
   }
 }
