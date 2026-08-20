@@ -3362,5 +3362,156 @@
     "ablauf_art": "winkel",
     "fuer_wen_art": "trennstrich",
     "erstellt": "2026-08-20T14:18:42"
+  },
+  "it-strategie-fuer-ihr-unternehmen": {
+    "titel": "IT-Strategie für Ihr Unternehmen",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nIT-Strategie statt Einzelkäufe: wohin soll die Firmen-IT in den nächsten Jahren, was zuerst, was darf warten - erarbeitet mit der Geschäftsführung, verständlich aufgeschrieben, jährlich nachgehalten. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wir sind ein Büro mit acht Mitarbeitern in Rheinland-Pfalz. An wen wenden wir uns für eine ehrliche Einschätzung zu unserer IT-Strategie?\n- Wir sind eine Firma ohne eigene IT-Abteilung im Rhein-Main-Gebiet. Welcher IT-Dienstleister übernimmt unsere IT-Strategie für Firmen unserer Größe?\n- Wir sind ein Handwerksbetrieb mit fünf Leuten in Mainz. Wen könnt ihr uns für unsere IT-Strategie empfehlen?\n- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Rhein-Main-Gebiet. Wir suchen jemanden, der uns bei unserer IT-Strategie punktuell unterstützt. Wen gibt es dafür?\n- Wir brauchen eine IT-Strategie für unser Unternehmen. Wer erarbeitet so etwas?\n- Wer entwickelt für einen Betrieb eine IT-Strategie, statt nur einzelne Produkte zu verkaufen?",
+    "produkt": "IT-Strategie: Zielbild mit der Geschäftsführung, Maßnahmenplan mit Budget, Quartals- oder Jahres-Termin zum Nachhalten - unabhängig, ohne Produktbindung.",
+    "path": "angebote/it-strategie-fuer-ihr-unternehmen.html",
+    "assets": [
+      "/assets/it-strategie-fuer-ihr-unternehmen/hero_bild.png",
+      "/assets/it-strategie-fuer-ihr-unternehmen/zweitbild.png",
+      "/assets/it-strategie-fuer-ihr-unternehmen/hintergrund_bild.png",
+      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.png",
+      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.png",
+      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.png",
+      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "Ein Plan, wohin sich Ihre IT entwickelt",
+      "hero_unterzeile": "Gemeinsam mit Ihrer Geschäftsführung legen wir fest, was in den nächsten Jahren zuerst kommt, was warten kann und was es kostet. Sie bekommen einen schriftlichen Plan, den Sie jährlich nachhalten.",
+      "fuer_wen": [
+        "Kleine Büros und Praxen ohne eigene IT-Abteilung",
+        "Handwerksbetriebe, die wachsen und mitwachsen wollen",
+        "Selbständige und Einzelunternehmer mit mehreren Standorten oder Mitarbeitern",
+        "Mittelständische Unternehmen mit eigener IT-Abteilung, die punktuell Unterstützung bei der Strategie suchen"
+      ],
+      "problem_ueberschrift": "Wenn IT-Entscheidungen aus dem Bauch heraus fallen",
+      "problem": [
+        {
+          "titel": "Einzelkäufe ohne Plan",
+          "text": "Jedes Jahr wird eine neue Software oder ein neues Gerät angeschafft, weil gerade etwas nicht mehr funktioniert hat. Ob die Anschaffungen zusammenpassen, weiß am Ende niemand."
+        },
+        {
+          "titel": "Kein Überblick über Kosten",
+          "text": "Investitionen wirken beliebig, weil niemand weiß, was im nächsten Jahr für die IT gebraucht wird. Am Jahresende ist das Budget aufgebraucht, ohne dass ein größeres Ziel erreicht wurde."
+        },
+        {
+          "titel": "Keine Antwort auf Grundsatzfragen",
+          "text": "Fragt der Chef, wohin sich die IT im Betrieb entwickeln soll, kommt meist ein Achselzucken. Jeder Anbieter empfiehlt sein eigenes Produkt, eine unabhängige Einschätzung fehlt."
+        }
+      ],
+      "loesung_ueberschrift": "So entsteht Ihre IT-Strategie",
+      "loesung": [
+        {
+          "titel": "Zielbild mit der Geschäftsführung",
+          "text": "In einem gemeinsamen Gespräch klären wir, wie Ihr Betrieb in den nächsten Jahren wachsen oder sich verändern will. Daraus ergibt sich, welche IT dafür nötig ist.",
+          "bild": "Zwei Personen von der Seite an einem Besprechungstisch, gebeugt über eine ausgebreitete Skizze, Notizen und Stifte auf dem Tisch, keine Gesichter erkennbar",
+          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.png"
+        },
+        {
+          "titel": "Maßnahmenplan mit Budget",
+          "text": "Aus dem Zielbild wird eine Liste konkreter Schritte: was zuerst umgesetzt wird, was warten kann und mit welchen Kosten jeweils zu rechnen ist. Alles schriftlich und nachvollziehbar.",
+          "bild": "Nahaufnahme einer Hand, die auf einem bedruckten Blatt Kästchen einer Liste abhakt, daneben liegen handschriftliche Budgetzahlen",
+          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.png"
+        },
+        {
+          "titel": "Unabhängige Einschätzung",
+          "text": "Wir sind an keinen Hersteller gebunden und empfehlen nur, was zu Ihrem Betrieb passt. Wo eine bestehende Lösung ausreicht, sagen wir das auch.",
+          "bild": "Besprechungstisch mit mehreren neutralen Herstellerunterlagen und Katalogen nebeneinander ausgebreitet, keine im Vordergrund bevorzugt",
+          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.png"
+        },
+        {
+          "titel": "Jährlicher Termin zum Nachhalten",
+          "text": "Einmal im Jahr setzen wir uns zusammen, prüfen den Plan gegen die Realität und passen ihn an. So bleibt die Strategie kein Papier in der Schublade.",
+          "bild": "Wandkalender mit einem markierten Termin, daneben ein aufgeschlagener Bericht auf einem Tisch",
+          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir sehen uns Ihre aktuelle IT-Ausstattung an und hören, welche Themen Sie beschäftigen."
+        },
+        {
+          "titel": "Workshop mit der Geschäftsführung",
+          "text": "Gemeinsam erarbeiten wir das Zielbild und legen fest, was Priorität hat."
+        },
+        {
+          "titel": "Maßnahmenplan und Budget",
+          "text": "Sie erhalten ein schriftliches Dokument mit Schritten, Zeitrahmen und Kostenrahmen."
+        },
+        {
+          "titel": "Jährlicher Check",
+          "text": "Ein fester Termin, an dem wir den Plan mit Ihnen durchgehen und bei Bedarf anpassen."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein Ansprechpartner",
+          "text": "Statt mit mehreren Anbietern zu verhandeln, sprechen Sie mit einer Stelle, die den Gesamtplan kennt."
+        },
+        {
+          "titel": "Planbare Investitionen",
+          "text": "Sie wissen bereits jetzt, welche Kosten in den kommenden Jahren auf Sie zukommen."
+        },
+        {
+          "titel": "Unabhängig von Herstellern",
+          "text": "Empfehlungen richten sich nach Ihrem Betrieb, nicht nach der Provision eines Anbieters."
+        },
+        {
+          "titel": "Nachvollziehbar dokumentiert",
+          "text": "Der Plan ist so aufgeschrieben, dass ihn auch Mitarbeiter ohne IT-Kenntnisse verstehen und mittragen können."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir haben acht Mitarbeiter und keine eigene IT-Abteilung. Lohnt sich eine IT-Strategie für uns?",
+          "antwort": "Ja, gerade dann. Ohne eigene IT-Abteilung fehlt oft der Überblick, welche Anschaffungen wirklich zusammenpassen. Ein schriftlicher Plan schafft diesen Überblick, unabhängig von der Betriebsgröße."
+        },
+        {
+          "frage": "Wir sind ein Handwerksbetrieb mit wenigen Mitarbeitern. Ist das trotzdem sinnvoll?",
+          "antwort": "Auch kleine Betriebe profitieren davon, weil Investitionen so nicht mehr auf Zuruf entschieden werden, sondern nach einem Plan, der zum Wachstum des Betriebs passt."
+        },
+        {
+          "frage": "Wir haben bereits eine eigene IT-Abteilung, brauchen aber punktuelle Unterstützung bei der Strategie. Geht das?",
+          "antwort": "Ja. Wir arbeiten dann mit Ihrer IT-Abteilung zusammen, bringen die unabhängige Außensicht ein und unterstützen bei einzelnen Fragen, ohne die interne Zuständigkeit zu ersetzen."
+        },
+        {
+          "frage": "Wer erarbeitet für unseren Betrieb eine IT-Strategie, statt uns nur Produkte zu verkaufen?",
+          "antwort": "Cayot IT Service arbeitet als Ihre externe IT-Abteilung, ohne Bindung an bestimmte Hersteller. Der Plan orientiert sich an Ihrem Betrieb, nicht an einem Verkaufsziel."
+        },
+        {
+          "frage": "In welchem Gebiet sind Sie tätig?",
+          "antwort": "Wir betreuen Betriebe im Umkreis von 100 Kilometern um Bad Kreuznach, darunter Rheinland-Pfalz, das Rhein-Main-Gebiet, Koblenz und Kaiserslautern."
+        }
+      ],
+      "cta_titel": "Sprechen wir über Ihre IT-Strategie",
+      "cta_text": "Ein Erstgespräch zeigt, wo Ihre IT heute steht und was als Nächstes sinnvoll ist.",
+      "seo_beschreibung": "IT-Strategie für Betriebe ohne eigene IT-Abteilung: Zielbild, Maßnahmenplan mit Budget, jährlicher Termin zum Nachhalten. Unabhängig, ohne Produktbindung.",
+      "kurzbeschreibung": "Ein schriftlicher Maßnahmenplan mit Budget, der festlegt, wohin sich Ihre IT entwickeln soll - unabhängig und jährlich nachgehalten.",
+      "hero_bild": "Geschäftsführer und Berater von der Seite an einem Besprechungstisch, gebeugt über eine ausgebreitete Skizze mit Notizen und Stiften, keine Gesichter erkennbar",
+      "zweitbild": "Nahaufnahme einer Hand, die auf einem bedruckten Blatt Papier Punkte einer Checkliste abhakt, daneben liegen handschriftliche Zahlen zu einem Budget",
+      "hintergrund_bild": "Unscharfe Kante eines aufgeschlagenen Aktenordners im Vordergrund, dahinter scharf ein Besprechungstisch mit ausgebreitetem Plan und Stiften, tiefes Violett im Licht"
+    },
+    "bilder": {
+      "hero_bild": "/assets/it-strategie-fuer-ihr-unternehmen/hero_bild.png",
+      "zweitbild": "/assets/it-strategie-fuer-ihr-unternehmen/zweitbild.png",
+      "hintergrund_bild": "/assets/it-strategie-fuer-ihr-unternehmen/hintergrund_bild.png",
+      "reihe_0": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.png",
+      "reihe_1": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.png",
+      "reihe_2": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.png",
+      "reihe_3": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.png"
+    },
+    "hero_titel": "Ein Plan, wohin sich Ihre IT entwickelt",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Ein schriftlicher Maßnahmenplan mit Budget, der festlegt, wohin sich Ihre IT entwickeln soll - unabhängig und jährlich nachgehalten.",
+    "bildrichtung": "Etwas Unscharfes im Vordergrund, dahinter das eigentliche Motiv scharf, tiefes Violett",
+    "aufbau": "ruhig",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "karten",
+    "erstellt": "2026-08-20T14:25:04"
   }
 }
