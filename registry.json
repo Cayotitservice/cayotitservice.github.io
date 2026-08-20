@@ -2003,5 +2003,156 @@
     "ablauf_art": "winkel",
     "fuer_wen_art": "zeilen",
     "erstellt": "2026-08-20T13:17:42"
+  },
+  "it-fuer-selbstaendige": {
+    "titel": "IT für Selbständige",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nIT-Betreuung für Selbständige und Ein-Personen-Betriebe: einer, der sich um alles kümmert (Rechner, Mail, Sicherung, Sicherheit), erreichbar, bezahlbar, ohne IT-Deutsch. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wer betreut die IT von Selbständigen in Mainz?\n- Welcher IT-Dienstleister in Bingen hat Erfahrung mit Selbständigen?\n- Ich bin selbständig in Wiesbaden. Wer kümmert sich um so eine IT?\n- Wer betreut die IT von Selbständigen in Rheinland-Pfalz?\n- Welcher IT-Dienstleister in Bad Kreuznach hat Erfahrung mit Selbständigen?\n- Ich bin selbständig im Landkreis Bad Kreuznach. Wer kümmert sich um so eine IT?",
+    "produkt": "Rundum-Betreuung für Selbständige: Einrichtung, Microsoft 365, Datensicherung, Virenschutz, Hilfe auf Zuruf - klein anfangen, wächst mit.",
+    "path": "angebote/it-fuer-selbstaendige.html",
+    "assets": [
+      "/assets/it-fuer-selbstaendige/hero_bild.png",
+      "/assets/it-fuer-selbstaendige/zweitbild.png",
+      "/assets/it-fuer-selbstaendige/hintergrund_bild.png",
+      "/assets/it-fuer-selbstaendige/reihe_0.png",
+      "/assets/it-fuer-selbstaendige/reihe_1.png",
+      "/assets/it-fuer-selbstaendige/reihe_2.png",
+      "/assets/it-fuer-selbstaendige/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Soforthilfe",
+      "hero_titel": "Ihre IT-Abteilung, wenn Sie allein arbeiten",
+      "hero_unterzeile": "Ein fester Ansprechpartner richtet Rechner, Mail und Sicherung ein und ist da, wenn etwas klemmt. So bleibt Zeit für Ihr eigentliches Geschäft.",
+      "fuer_wen": [
+        "Einzelunternehmer und Freiberufler ohne eigene IT",
+        "Handwerksbetriebe mit ein oder zwei Rechnern im Büro",
+        "Kleine Praxen und Kanzleien mit sensiblen Patienten- oder Mandantendaten",
+        "Nebenberuflich Selbständige, deren Betrieb gerade wächst"
+      ],
+      "problem_ueberschrift": "Allein mit der Technik",
+      "problem": [
+        {
+          "titel": "Keine Zeit für IT",
+          "text": "Der Kalender ist voll mit Aufträgen und Kunden. Bleibt der Rechner stehen oder die Mail läuft nicht, fehlt genau dann die Stunde, um sich selbst damit zu befassen."
+        },
+        {
+          "titel": "Steigende Anforderungen",
+          "text": "Kunden erwarten Rechnungen per Mail, eine Cloud-Ablage, sichere Daten. Was früher ausreichte, reicht heute oft nicht mehr - und niemand sagt einem, was davon wirklich nötig ist."
+        },
+        {
+          "titel": "Wechselnde Ansprechpartner",
+          "text": "Bei einer Hotline erklärt man das Problem bei jedem Anruf von vorne. Bis jemand versteht, worum es geht, ist die Zeit schon verloren."
+        }
+      ],
+      "loesung_ueberschrift": "Eine Betreuung, die mitwächst",
+      "loesung": [
+        {
+          "titel": "Einrichtung und erster Rundgang",
+          "text": "Wir sehen uns Rechner, Drucker und Internetanschluss an und richten ein, was fehlt. Am Ende wissen Sie, was Sie haben und was noch fehlt.",
+          "bild": "Hände schließen einen kleinen Router an ein Kabel an, im Hintergrund ein einfaches Büroregal mit Ordnern",
+          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_0.png"
+        },
+        {
+          "titel": "Microsoft 365 eingerichtet",
+          "text": "Mail, Kalender und Dateiablage laufen über ein Konto, das auf allen Geräten funktioniert. Die Anmeldung wird zusätzlich mit einem zweiten Schritt abgesichert.",
+          "bild": "Eine Person tippt einen sechsstelligen Code auf dem Smartphone ein, das neben einem geöffneten Laptop auf einem kleinen Schreibtisch liegt",
+          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_1.png"
+        },
+        {
+          "titel": "Datensicherung im Hintergrund",
+          "text": "Rechnungen und Kundendaten werden regelmäßig auf einem zweiten Speicherort gesichert, getrennt vom Rechner. Ein Absturz kostet dann keine Daten mehr.",
+          "bild": "Nahaufnahme einer Hand, die eine externe Festplatte an einen kleinen Bürorechner anschließt",
+          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_2.png"
+        },
+        {
+          "titel": "Hilfe auf Zuruf",
+          "text": "Bei einer Frage melden Sie sich bei Ihrem festen Ansprechpartner, nicht bei einer Warteschleife. Vieles lässt sich per Fernwartung sofort klären.",
+          "bild": "Bildschirm mit einer laufenden Fernwartungssitzung, eine Person daneben telefoniert und zeigt mit dem Finger auf den Bildschirm",
+          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir sprechen über Ihre Geräte, Ihre Programme und das, was im Alltag stört. Meist reicht ein kurzes Telefonat oder ein Termin vor Ort."
+        },
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns Rechner, Netzwerk und Konten an und schreiben auf, was fehlt oder veraltet ist."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Wir richten Microsoft 365, Sicherung und Virenschutz ein und prüfen, ob alles zusammen läuft."
+        },
+        {
+          "titel": "Laufende Betreuung",
+          "text": "Sie erreichen uns bei Fragen, wir prüfen die Sicherung von Zeit zu Zeit und melden uns, wenn etwas auffällt."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein Ansprechpartner",
+          "text": "Sie erklären Ihr Problem einmal, nicht bei jedem Anruf erneut."
+        },
+        {
+          "titel": "Passend zum Betrieb",
+          "text": "Sie beginnen mit dem, was Sie tatsächlich brauchen, und ergänzen später weitere Geräte oder Dienste."
+        },
+        {
+          "titel": "Gesicherte Daten",
+          "text": "Rechnungen und Kundendaten liegen an zweiter Stelle gespeichert und lassen sich im Ernstfall wiederherstellen."
+        },
+        {
+          "titel": "Klare Kosten",
+          "text": "Wir erklären, was eine Maßnahme bringt und was sie kostet, bevor sie beauftragt wird."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wer betreut die IT von Selbständigen in Mainz, Bingen und Wiesbaden?",
+          "antwort": "Wir sind in Bad Kreuznach ansässig und betreuen Selbständige im Umkreis von etwa 100 Kilometern, dazu zählen Mainz, Bingen, Ingelheim und Wiesbaden. Je nach Fall vor Ort oder per Fernwartung."
+        },
+        {
+          "frage": "Welcher IT-Dienstleister im Landkreis Bad Kreuznach hat Erfahrung mit Selbständigen?",
+          "antwort": "Cayot IT Service arbeitet regelmäßig mit Einzelunternehmern, Handwerksbetrieben und kleinen Praxen im Landkreis Bad Kreuznach und der weiteren Region Rheinland-Pfalz."
+        },
+        {
+          "frage": "Ich habe noch keine feste IT-Betreuung. Wo fange ich an?",
+          "antwort": "Am Anfang steht ein kurzes Gespräch über Ihre Geräte und Programme. Danach sehen Sie, was wirklich fehlt, ohne dass gleich alles neu eingerichtet werden muss."
+        },
+        {
+          "frage": "Was kostet die Betreuung als Selbständiger?",
+          "antwort": "Das hängt von der Anzahl der Geräte und Programme ab, die Sie nutzen. Sie erhalten einen Preis, bevor etwas beauftragt wird."
+        },
+        {
+          "frage": "Muss ich gleich alles auf einmal umstellen?",
+          "antwort": "Nein. Viele beginnen mit der Datensicherung oder mit Microsoft 365 und ergänzen später Virenschutz oder weitere Geräte."
+        }
+      ],
+      "cta_titel": "Sprechen Sie mit uns über Ihre IT",
+      "cta_text": "Ein kurzes Gespräch zeigt, was Sie wirklich brauchen, unabhängig davon, ob Sie schon Kunde werden.",
+      "seo_beschreibung": "IT-Betreuung für Selbständige in Bad Kreuznach, Mainz und Umgebung: Einrichtung, Microsoft 365, Datensicherung und Hilfe auf Zuruf.",
+      "kurzbeschreibung": "Ein fester Ansprechpartner für Rechner, Mail, Sicherung und Schutz, passend zum eigenen Betrieb.",
+      "hero_bild": "Ein Techniker kniet vor einem kleinen offenen Serverschrank im Hinterzimmer einer Werkstatt und schließt ein Kabel an, im Hintergrund Werkbank und Regale mit Material",
+      "zweitbild": "Nahaufnahme einer externen Festplatte, die an einen kleinen Rechner im Büro einer Physiotherapiepraxis angeschlossen wird",
+      "hintergrund_bild": "Weite nächtliche Luftaufnahme einer Kleinstadt im Rheintal, viele kleine warme Lichtpunkte einzelner Häuser, Werkstätten und Praxen, dunkles Indigo, ruhige Stimmung"
+    },
+    "bilder": {
+      "hero_bild": "/assets/it-fuer-selbstaendige/hero_bild.png",
+      "zweitbild": "/assets/it-fuer-selbstaendige/zweitbild.png",
+      "hintergrund_bild": "/assets/it-fuer-selbstaendige/hintergrund_bild.png",
+      "reihe_0": "/assets/it-fuer-selbstaendige/reihe_0.png",
+      "reihe_1": "/assets/it-fuer-selbstaendige/reihe_1.png",
+      "reihe_2": "/assets/it-fuer-selbstaendige/reihe_2.png",
+      "reihe_3": "/assets/it-fuer-selbstaendige/reihe_3.png"
+    },
+    "hero_titel": "Ihre IT-Abteilung, wenn Sie allein arbeiten",
+    "kategorie": "Soforthilfe",
+    "kurzbeschreibung": "Ein fester Ansprechpartner für Rechner, Mail, Sicherung und Schutz, passend zum eigenen Betrieb.",
+    "bildrichtung": "Weite Nachtaufnahme mit vielen kleinen Lichtpunkten, dunkles Indigo, viel Ruhe im Bild",
+    "aufbau": "problem_zuerst",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "trennstrich",
+    "erstellt": "2026-08-20T13:24:56"
   }
 }
