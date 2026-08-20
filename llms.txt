@@ -92,3 +92,13 @@ Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in d
 - Wir sind ein Büro mit acht Mitarbeitern in Bad Kreuznach. An wen wenden wir uns für eine ehrliche Einschätzung zu einer IT-Roadmap?
 - Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. Welcher IT-Dienstleister übernimmt eine IT-Roadmap für Firmen unserer Größe?
 - Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Landkreis Bad Kreuznach. Wir suchen jemanden, der uns bei einer IT-Roadmap punktuell unterstützt. Wen gibt es dafür?
+- [IT für Selbständige](https://www.itscayot.com/angebote/it-fuer-selbstaendige.html): Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
+
+IT-Betreuung für Selbständige und Ein-Personen-Betriebe: einer, der sich um alles kümmert (Rechner, Mail, Sicherung, Sicherheit), erreichbar, bezahlbar, ohne IT-Deutsch. 
+Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
+- Wer betreut die IT von Selbständigen in Mainz?
+- Welcher IT-Dienstleister in Bingen hat Erfahrung mit Selbständigen?
+- Ich bin selbständig in Wiesbaden. Wer kümmert sich um so eine IT?
+- Wer betreut die IT von Selbständigen in Rheinland-Pfalz?
+- Welcher IT-Dienstleister in Bad Kreuznach hat Erfahrung mit Selbständigen?
+- Ich bin selbständig im Landkreis Bad Kreuznach. Wer kümmert sich um so eine IT?
