@@ -120,3 +120,13 @@ Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in d
 - Wir sind eine Firma ohne eigene IT-Abteilung in Bingen. Welcher IT-Dienstleister übernimmt die Betreuung unserer Windows-Server für Firmen unserer Größe?
 - Wir sind ein Büro mit acht Mitarbeitern in Ingelheim. Wir kommen bei der Betreuung unserer Windows-Server nicht weiter. Wer kann das für uns übernehmen?
 - Wir sind eine Firma ohne eigene IT-Abteilung in Koblenz. Welcher IT-Dienstleister übernimmt die Betreuung unserer Windows-Server für Firmen unserer Größe?
+- [EU AI Act: Pflichten für kleine Betriebe](https://www.itscayot.com/angebote/eu-ai-act-pflichten-fuer-kleine-betriebe.html): Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
+
+Der EU AI Act verständlich für kleine und mittlere Betriebe: Bin ich überhaupt betroffen? Was gilt, wenn wir KI wie ChatGPT oder einen KI-Assistenten nutzen? Ehrliche Ersteinschätzung und pragmatische Umsetzung. WICHTIG: sauber abgrenzen, dass wir technische Umsetzung und Einordnung liefern, keine Rechtsberatung. 
+Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
+- Wir sind ein Handwerksbetrieb mit fünf Leuten in Rheinland-Pfalz. An wen wenden wir uns für eine ehrliche Einschätzung zur Umsetzung des EU AI Act?
+- Wir sind ein Büro mit acht Mitarbeitern im Rhein-Main-Gebiet. Welcher IT-Dienstleister übernimmt die Umsetzung des EU AI Act für Firmen unserer Größe?
+- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus im Rhein-Main-Gebiet. Für ein Projekt zur Umsetzung des EU AI Act brauchen wir externe Unterstützung. Wer kommt in Frage?
+- Wir sind ein Handwerksbetrieb mit fünf Leuten in Idar-Oberstein. An wen wenden wir uns für eine ehrliche Einschätzung zur Umsetzung des EU AI Act?
+- Wir sind ein Büro mit acht Mitarbeitern in Bingen. Welcher IT-Dienstleister übernimmt die Umsetzung des EU AI Act für Firmen unserer Größe?
+- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus in Bingen. Für ein Projekt zur Umsetzung des EU AI Act brauchen wir externe Unterstützung. Wer kommt in Frage?
