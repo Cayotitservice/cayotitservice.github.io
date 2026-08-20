@@ -2154,5 +2154,156 @@
     "ablauf_art": "strang",
     "fuer_wen_art": "trennstrich",
     "erstellt": "2026-08-20T13:24:56"
+  },
+  "it-dienstleister-steuern-lassen": {
+    "titel": "IT-Dienstleister steuern lassen",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nDienstleistersteuerung: Wir sitzen auf IHRER Seite des Tisches und steuern Ihre IT-Lieferanten - Anforderungen formulieren, Angebote prüfen, Termine nachhalten, Ergebnisse abnehmen. Unabhängige Beratung ohne eigenes Verkaufsinteresse. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wir sind eine Praxis mit drei Mitarbeitern in Rheinland-Pfalz. Wer berät uns unabhängig zur Steuerung unserer IT-Dienstleister, ohne uns gleich etwas verkaufen zu wollen?\n- Ich bin selbständig und habe niemanden für IT im Rhein-Main-Gebiet. Wer bietet die Steuerung unserer IT-Dienstleister für Unternehmen in der Region an?\n- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Rhein-Main-Gebiet. Wir suchen jemanden, der uns bei der Steuerung unserer IT-Dienstleister punktuell unterstützt. Wen gibt es dafür?\n- Wir sind eine Praxis mit drei Mitarbeitern in Kaiserslautern. Wer berät uns unabhängig zur Steuerung unserer IT-Dienstleister, ohne uns gleich etwas verkaufen zu wollen?\n- Ich bin selbständig und habe niemanden für IT in Wiesbaden. Wer bietet die Steuerung unserer IT-Dienstleister für Unternehmen in der Region an?\n- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Wiesbaden. Wir suchen jemanden, der uns bei der Steuerung unserer IT-Dienstleister punktuell unterstützt. Wen gibt es dafür?",
+    "produkt": "Dienstleistersteuerung: Anforderungen und Ausschreibung, Angebotsvergleich, Projektbegleitung, Abnahme und laufende Lieferantentermine - stundenweise oder als fester monatlicher Rahmen.",
+    "path": "angebote/it-dienstleister-steuern-lassen.html",
+    "assets": [
+      "/assets/it-dienstleister-steuern-lassen/hero_bild.png",
+      "/assets/it-dienstleister-steuern-lassen/zweitbild.png",
+      "/assets/it-dienstleister-steuern-lassen/hintergrund_bild.png",
+      "/assets/it-dienstleister-steuern-lassen/reihe_0.png",
+      "/assets/it-dienstleister-steuern-lassen/reihe_1.png",
+      "/assets/it-dienstleister-steuern-lassen/reihe_2.png",
+      "/assets/it-dienstleister-steuern-lassen/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "IT-Dienstleister führen - ohne eigene IT-Abteilung",
+      "hero_unterzeile": "Wir formulieren Anforderungen, vergleichen Angebote und nehmen Ergebnisse ab. Sie behalten die Entscheidung, wir übernehmen die Abstimmung mit Ihren IT-Lieferanten.",
+      "fuer_wen": [
+        "Praxen und kleine Betriebe ohne eigene IT-Abteilung",
+        "Selbständige und Einzelunternehmer, die niemanden für IT-Fragen haben",
+        "Handwerksbetriebe, die einen neuen IT-Dienstleister beauftragen wollen",
+        "Unternehmen mit eigener IT-Abteilung, die punktuelle Unterstützung bei einzelnen Projekten suchen"
+      ],
+      "problem_ueberschrift": "Wenn niemand die Anbieter im Blick hat",
+      "problem": [
+        {
+          "titel": "Angebote schwer vergleichbar",
+          "text": "Ein Anbieter rechnet in Stunden, der andere pauschal, ein dritter listet Positionen, die kein anderer nennt. Ohne technischen Hintergrund lässt sich kaum sagen, welches Angebot wirklich zu Ihrem Bedarf passt."
+        },
+        {
+          "titel": "Niemand prüft das Ergebnis",
+          "text": "Der Dienstleister meldet Fertigstellung, aber wer kontrolliert, ob wirklich alles läuft wie vereinbart? Ohne Abnahme durch eine unabhängige Stelle bleibt das Risiko bei Ihnen."
+        },
+        {
+          "titel": "Termine bleiben liegen",
+          "text": "Zusagen von Lieferanten verschieben sich, Rückfragen bleiben unbeantwortet, niemand hakt konsequent nach. Am Ende kostet das Zeit, die in Ihrem eigentlichen Geschäft fehlt."
+        }
+      ],
+      "loesung_ueberschrift": "So steuern wir Ihre Dienstleister",
+      "loesung": [
+        {
+          "titel": "Anforderungen auf Papier",
+          "text": "Wir schreiben auf, was Sie tatsächlich brauchen, technisch und wirtschaftlich. Daraus entsteht eine Anfrage, auf die Anbieter vergleichbar antworten können.",
+          "bild": "Nahaufnahme einer Hand, die mit einem Stift Punkte auf einem ausgedruckten Anforderungskatalog markiert, Blatt liegt auf einem Besprechungstisch",
+          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_0.png"
+        },
+        {
+          "titel": "Angebote im Vergleich",
+          "text": "Wir legen eingehende Angebote nebeneinander, prüfen Positionen und Preise und zeigen Ihnen die Unterschiede in klaren Worten.",
+          "bild": "Mehrere ausgedruckte Angebote nebeneinander auf einem Tisch ausgebreitet, einzelne Zeilen mit Textmarker in unterschiedlichen Farben hervorgehoben, zwei Hände zeigen auf verschiedene Blätter",
+          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_1.png"
+        },
+        {
+          "titel": "Projekt im Blick",
+          "text": "Während der Umsetzung halten wir Termine mit dem Lieferanten nach und melden uns, wenn sich etwas verzögert oder anders läuft als vereinbart.",
+          "bild": "Ein Wandkalender mit handschriftlichen Terminnotizen und farbigen Klebepunkten, eine Hand trägt gerade einen neuen Termin ein",
+          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_2.png"
+        },
+        {
+          "titel": "Abnahme vor Bezahlung",
+          "text": "Bevor eine Rechnung freigegeben wird, prüfen wir, ob das Ergebnis der Vereinbarung entspricht. Was fehlt, wird nachgefordert, nicht stillschweigend hingenommen.",
+          "bild": "Eine Hand unterschreibt ein Abnahmeprotokoll auf einem Klemmbrett, im unscharfen Hintergrund ein Bildschirm mit einer Liste",
+          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir sprechen über Ihre aktuellen Dienstleister, laufende Projekte und offene Themen."
+        },
+        {
+          "titel": "Anforderungen und Ausschreibung",
+          "text": "Wir formulieren, was Sie brauchen, und holen darauf abgestimmte Angebote ein."
+        },
+        {
+          "titel": "Vergleich und Empfehlung",
+          "text": "Wir prüfen die Angebote fachlich und wirtschaftlich und legen Ihnen eine nachvollziehbare Empfehlung vor."
+        },
+        {
+          "titel": "Begleitung und Abnahme",
+          "text": "Wir begleiten das Projekt, halten Termine nach und prüfen das Ergebnis, bevor es abgenommen wird."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Unabhängige Einschätzung",
+          "text": "Wir verkaufen keine eigene Hardware oder Software - unsere Empfehlung richtet sich nach Ihrem Bedarf, nicht nach unserer Marge."
+        },
+        {
+          "titel": "Fester Ansprechpartner",
+          "text": "Sie sprechen mit derselben Person, nicht mit wechselnden Hotline-Mitarbeitern."
+        },
+        {
+          "titel": "Nachvollziehbare Entscheidung",
+          "text": "Angebote werden schriftlich verglichen, Kriterien und Empfehlung sind dokumentiert."
+        },
+        {
+          "titel": "Zeit für Ihr Geschäft",
+          "text": "Sie müssen sich nicht selbst in technische Details einarbeiten, um eine Entscheidung zu treffen."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir sind eine Praxis mit wenigen Mitarbeitern - wer berät uns unabhängig zur Steuerung unserer IT-Dienstleister, ohne uns etwas verkaufen zu wollen?",
+          "antwort": "Das übernehmen wir. Cayot IT Service sitzt auf Ihrer Seite des Tisches, nicht auf der des Anbieters. Wir verkaufen selbst keine Hardware oder Software, unsere Einschätzung richtet sich allein nach Ihrem Bedarf. Wir sind im Umkreis von etwa 100 Kilometern um Bad Kreuznach unterwegs, unter anderem in Mainz, Bingen, Ingelheim, Idar-Oberstein und Koblenz."
+        },
+        {
+          "frage": "Ich bin selbständig und habe niemanden für IT-Fragen - wer übernimmt die Steuerung meiner IT-Dienstleister?",
+          "antwort": "Wir übernehmen das für Sie, ganz gleich ob es um eine einzelne Ausschreibung oder um laufende Termine geht. Das gilt auch für Selbständige im Rhein-Main-Gebiet, in Wiesbaden oder Kaiserslautern - Sie brauchen dafür keine eigene IT-Abteilung."
+        },
+        {
+          "frage": "Wir haben eine eigene IT-Abteilung, brauchen aber punktuell Unterstützung bei der Steuerung unserer IT-Dienstleister. Geht das auch stundenweise?",
+          "antwort": "Ja. Sie buchen uns stundenweise für einzelne Projekte oder Ausschreibungen, zum Beispiel wenn Ihr Team fachlich unterstützt werden soll oder zeitlich keine Kapazität hat. Ein fester monatlicher Rahmen ist ebenso möglich, wenn regelmäßig Bedarf besteht."
+        },
+        {
+          "frage": "Was unterscheidet die Dienstleistersteuerung von einem IT-Dienstleister, der uns selbst betreut?",
+          "antwort": "Wir betreuen Ihre Systeme in diesem Fall nicht selbst, sondern prüfen und steuern die Anbieter, die das tun. Dadurch entsteht keine Interessenkollision - wir haben kein eigenes Interesse daran, welches Angebot Sie am Ende wählen."
+        },
+        {
+          "frage": "Was kostet die Dienstleistersteuerung?",
+          "antwort": "Das hängt vom Umfang ab - eine einzelne Ausschreibung ist etwas anderes als eine laufende monatliche Begleitung. Wir rechnen stundenweise oder über einen festen monatlichen Rahmen ab, den wir vorher gemeinsam festlegen."
+        }
+      ],
+      "cta_titel": "Sprechen Sie mit uns über Ihre IT-Dienstleister",
+      "cta_text": "Schildern Sie uns Ihre aktuelle Situation - wir sagen Ihnen ehrlich, wo eine Steuerung sinnvoll ist und wo nicht.",
+      "seo_beschreibung": "Wir steuern Ihre IT-Dienstleister: Anforderungen, Angebotsvergleich, Abnahme. Unabhängig, für Betriebe ohne eigene IT-Abteilung in Rheinland-Pfalz.",
+      "kurzbeschreibung": "Wir steuern Ihre IT-Dienstleister von der Anforderung bis zur Abnahme, unabhängig und auf Ihrer Seite des Tisches.",
+      "hero_bild": "Zwei Personen seitlich an einem Besprechungstisch, mehrere ausgedruckte Angebote nebeneinander ausgebreitet, eine Hand zeigt auf eine markierte Zeile, kein Gesicht erkennbar",
+      "zweitbild": "Nahaufnahme einer Hand, die mit einem Stift Punkte auf einer ausgedruckten Checkliste auf einem Klemmbrett abhakt, Klemmbrett liegt auf einem Holztisch",
+      "hintergrund_bild": "Strenges, sich wiederholendes Raster aus schmalen Aktenordnern in einem Regal, alle gleich grau beschriftet, ein einzelner Ordnerrücken hebt sich in Grün ab, gleichmäßiges ruhiges Licht, Tiefe im Hintergrund unscharf"
+    },
+    "bilder": {
+      "hero_bild": "/assets/it-dienstleister-steuern-lassen/hero_bild.png",
+      "zweitbild": "/assets/it-dienstleister-steuern-lassen/zweitbild.png",
+      "hintergrund_bild": "/assets/it-dienstleister-steuern-lassen/hintergrund_bild.png",
+      "reihe_0": "/assets/it-dienstleister-steuern-lassen/reihe_0.png",
+      "reihe_1": "/assets/it-dienstleister-steuern-lassen/reihe_1.png",
+      "reihe_2": "/assets/it-dienstleister-steuern-lassen/reihe_2.png",
+      "reihe_3": "/assets/it-dienstleister-steuern-lassen/reihe_3.png"
+    },
+    "hero_titel": "IT-Dienstleister führen - ohne eigene IT-Abteilung",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Wir steuern Ihre IT-Dienstleister von der Anforderung bis zur Abnahme, unabhängig und auf Ihrer Seite des Tisches.",
+    "bildrichtung": "Strenges, sich wiederholendes Raster im Detail, Grau mit einem einzelnen grünen Akzent",
+    "aufbau": "klassisch",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "karten",
+    "erstellt": "2026-08-20T13:31:38"
   }
 }
