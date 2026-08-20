@@ -2909,5 +2909,156 @@
     "ablauf_art": "winkel",
     "fuer_wen_art": "karten",
     "erstellt": "2026-08-20T13:59:08"
+  },
+  "it-fuer-den-mittelstand": {
+    "titel": "IT für den Mittelstand",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nIT-Betreuung für mittelständische Unternehmen: als komplette externe IT-Abteilung oder als Verstärkung neben vorhandener IT bzw. einem IT-Verantwortlichen. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wer betreut die IT mittelständischer Unternehmen im Rhein-Main-Gebiet?\n- Welcher IT-Dienstleister in Mainz hat Erfahrung mit mittelständischen Unternehmen?\n- Wir sind ein mittelständisches Unternehmen in Bingen. Wer kümmert sich um so eine IT?\n- Wer betreut die IT mittelständischer Unternehmen in Ingelheim?\n- Welcher IT-Dienstleister in Koblenz hat Erfahrung mit mittelständischen Unternehmen?\n- Wir sind ein mittelständisches Unternehmen in Kaiserslautern. Wer kümmert sich um so eine IT?",
+    "produkt": "IT für den Mittelstand: Betreuung mit festen Monatsstunden, Projekte (Server, Microsoft 365, Sicherheit), Urlaubs- und Krankheitsvertretung für IT-Verantwortliche, Dienstleistersteuerung.",
+    "path": "angebote/it-fuer-den-mittelstand.html",
+    "assets": [
+      "/assets/it-fuer-den-mittelstand/hero_bild.png",
+      "/assets/it-fuer-den-mittelstand/zweitbild.png",
+      "/assets/it-fuer-den-mittelstand/hintergrund_bild.png",
+      "/assets/it-fuer-den-mittelstand/reihe_0.png",
+      "/assets/it-fuer-den-mittelstand/reihe_1.png",
+      "/assets/it-fuer-den-mittelstand/reihe_2.png",
+      "/assets/it-fuer-den-mittelstand/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "Ihre externe IT-Abteilung für den Mittelstand",
+      "hero_unterzeile": "Feste Betreuung mit festen Monatsstunden, Projekte wie Server oder Microsoft 365 und ein Ansprechpartner, der Ihre IT wirklich kennt. Für Betriebe, die keine eigene IT-Abteilung haben oder ihre bestehende entlasten wollen.",
+      "fuer_wen": [
+        "Kleine und mittlere Betriebe ohne eigene IT-Abteilung",
+        "Praxen und Kanzleien mit festen Öffnungszeiten und wenig Zeit für IT-Fragen",
+        "Handwerksbetriebe und Selbständige, die eine verlässliche Ansprechperson suchen",
+        "Unternehmen mit einem IT-Verantwortlichen, der bei Urlaub, Krankheit oder Projekten Unterstützung braucht"
+      ],
+      "problem_ueberschrift": "Wenn IT nebenbei laufen muss",
+      "problem": [
+        {
+          "titel": "Ein Anruf, drei verschiedene Techniker",
+          "text": "Bei anonymen Hotlines erklärt man jedes Mal von vorne, welche Geräte im Einsatz sind und wie das Netzwerk aufgebaut ist. Das kostet Zeit, die im Betrieb fehlt."
+        },
+        {
+          "titel": "Der IT-Verantwortliche fehlt gerade dann, wenn es brennt",
+          "text": "Ist die einzige Person, die sich mit der IT auskennt, im Urlaub oder krank, bleibt ein Ausfall oft liegen. Ohne Vertretung wird aus einer kleinen Störung ein größeres Problem."
+        },
+        {
+          "titel": "Rechnungen von Dienstleistern, die niemand prüft",
+          "text": "Softwarelizenzen, Wartungsverträge, Hardware-Angebote: Ohne jemanden, der die Ausgaben mit Fachwissen bewertet, zahlt man oft für Dinge, die man nicht braucht oder falsch dimensioniert sind."
+        }
+      ],
+      "loesung_ueberschrift": "Eine IT-Abteilung, die zu Ihrem Betrieb passt",
+      "loesung": [
+        {
+          "titel": "Feste Monatsstunden mit festem Ansprechpartner",
+          "text": "Sie buchen ein Kontingent an Stunden pro Monat. Ihr Ansprechpartner kennt Ihr Netzwerk, Ihre Software und Ihre Abläufe und muss nicht bei jedem Anruf neu erklärt werden.",
+          "bild": "Eine Person sitzt am Telefon vor einem aufgeschlagenen Kalender mit farbig markierten Terminen, eine Hand zeigt auf einen Wochentag",
+          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_0.png"
+        },
+        {
+          "titel": "Projekte für Server, Microsoft 365 und Sicherheit",
+          "text": "Neben der laufenden Betreuung übernehmen wir einzelne Projekte: einen neuen Server einrichten, den Umzug auf Microsoft 365 begleiten oder Sicherheitslücken schließen. Klar abgegrenzt, mit festem Umfang.",
+          "bild": "Techniker steht vor einem halb offenen Serverschrank und legt Kabel sauber in einen Kabelkanal",
+          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_1.png"
+        },
+        {
+          "titel": "Vertretung bei Urlaub und Krankheit",
+          "text": "Ist Ihr IT-Verantwortlicher nicht erreichbar, springen wir ein. Vorher übergibt er uns die wichtigen Zugänge und Ansprechpartner, damit im Ernstfall keine Zeit verloren geht.",
+          "bild": "Zwei Hände übergeben sich einen Ordner mit beschrifteten Registern an einem Besprechungstisch",
+          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_2.png"
+        },
+        {
+          "titel": "Ehrliche Einschätzung bei Dienstleistern und Verträgen",
+          "text": "Wir prüfen Angebote von Softwareanbietern, Providern oder Hardwarehändlern aus fachlicher Sicht, bevor Sie unterschreiben. Wir verkaufen keine Produkte, deshalb ist die Einschätzung unabhängig.",
+          "bild": "Eine Person sitzt an einem Tisch mit mehreren ausgedruckten Angeboten und Visitenkarten, eine Hand markiert einen Absatz mit einem Stift",
+          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch und Bestandsaufnahme",
+          "text": "Wir sehen uns Ihre Systeme, Ihre Verträge und Ihre bisherige IT-Betreuung an und besprechen, wo Sie Unterstützung brauchen."
+        },
+        {
+          "titel": "Angebot mit festem Stundenumfang",
+          "text": "Sie erhalten ein Angebot mit monatlichem Stundenkontingent und den Konditionen für Projekte, die darüber hinaus anfallen."
+        },
+        {
+          "titel": "Laufende Betreuung",
+          "text": "Ihr Ansprechpartner übernimmt Störungen, Wartung und Rückfragen. Größere Vorhaben werden als eigenes Projekt geplant und abgerechnet."
+        },
+        {
+          "titel": "Regelmäßiger Austausch",
+          "text": "In festen Abständen sprechen wir über offene Themen, anstehende Projekte und ob der Stundenumfang noch zu Ihrem Betrieb passt."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein fester Ansprechpartner",
+          "text": "Kein Hotline-Wechsel, keine neuen Erklärungen. Ihr Ansprechpartner kennt Ihre Umgebung von Anfang an."
+        },
+        {
+          "titel": "Planbare Kosten",
+          "text": "Feste Monatsstunden statt unklarer Rechnungen. Projekte werden vorher mit Umfang und Preisrahmen besprochen."
+        },
+        {
+          "titel": "Keine Lücke bei Ausfall",
+          "text": "Bei Urlaub oder Krankheit Ihres IT-Verantwortlichen ist die Vertretung schon vorbereitet, nicht erst dann organisiert, wenn es nötig ist."
+        },
+        {
+          "titel": "Unabhängige Bewertung von Angeboten",
+          "text": "Wir verdienen nichts an fremden Lizenzen oder Hardware und können deshalb offen sagen, ob sich ein Angebot lohnt."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Betreuen Sie auch Unternehmen außerhalb von Bad Kreuznach, etwa im Rhein-Main-Gebiet?",
+          "antwort": "Ja. Unser Einzugsgebiet reicht rund 100 Kilometer um Bad Kreuznach, dazu gehören unter anderem Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz und Kaiserslautern."
+        },
+        {
+          "frage": "Haben Sie Erfahrung mit mittelständischen Unternehmen?",
+          "antwort": "Ja, das ist unser Kerngeschäft. Wir betreuen Betriebe ohne eigene IT-Abteilung genauso wie Unternehmen mit einem IT-Verantwortlichen, den wir bei Projekten oder Vertretung unterstützen."
+        },
+        {
+          "frage": "Übernehmen Sie die komplette IT oder nur Teile davon?",
+          "antwort": "Beides ist möglich. Wir arbeiten als vollständige externe IT-Abteilung oder als Verstärkung neben Ihrer vorhandenen IT, je nachdem, was bei Ihnen gebraucht wird."
+        },
+        {
+          "frage": "Was passiert, wenn unser IT-Verantwortlicher im Urlaub oder krank ist?",
+          "antwort": "Wir übernehmen in dieser Zeit die Betreuung. Dafür klären wir vorab, welche Zugänge und Informationen wir im Ernstfall benötigen, damit keine Zeit verloren geht."
+        },
+        {
+          "frage": "Wie funktionieren die festen Monatsstunden?",
+          "antwort": "Sie buchen ein Stundenkontingent pro Monat für laufende Betreuung. Größere Vorhaben wie ein neuer Server oder die Einführung von Microsoft 365 werden als eigenes Projekt mit eigenem Umfang geplant."
+        }
+      ],
+      "cta_titel": "Sprechen Sie mit uns über Ihre IT",
+      "cta_text": "Schildern Sie uns Ihre aktuelle Situation, wir sagen Ihnen ehrlich, wie wir helfen können.",
+      "seo_beschreibung": "IT-Betreuung für den Mittelstand: feste Monatsstunden, Projekte, Urlaubsvertretung. Für Bad Kreuznach, Mainz, Rhein-Main und Umgebung.",
+      "kurzbeschreibung": "Feste IT-Betreuung mit festem Ansprechpartner für Mittelstand und Betriebe ohne eigene IT-Abteilung.",
+      "hero_bild": "Zwei Personen an einem Besprechungstisch, eine zeigt mit dem Finger auf einen ausgedruckten Plan mit markierten Monatsterminen",
+      "zweitbild": "Nahaufnahme einer Hand, die Punkte auf einer Checkliste auf einem Klemmbrett abhakt",
+      "hintergrund_bild": "Weitwinkelaufnahme eines langen Bürofurs mit Aktenordnern in Regalen an beiden Seiten, starke Fluchtlinien führen in die Tiefe, kühles Blau, ruhiges Licht ohne Personen"
+    },
+    "bilder": {
+      "hero_bild": "/assets/it-fuer-den-mittelstand/hero_bild.png",
+      "zweitbild": "/assets/it-fuer-den-mittelstand/zweitbild.png",
+      "hintergrund_bild": "/assets/it-fuer-den-mittelstand/hintergrund_bild.png",
+      "reihe_0": "/assets/it-fuer-den-mittelstand/reihe_0.png",
+      "reihe_1": "/assets/it-fuer-den-mittelstand/reihe_1.png",
+      "reihe_2": "/assets/it-fuer-den-mittelstand/reihe_2.png",
+      "reihe_3": "/assets/it-fuer-den-mittelstand/reihe_3.png"
+    },
+    "hero_titel": "Ihre externe IT-Abteilung für den Mittelstand",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Feste IT-Betreuung mit festem Ansprechpartner für Mittelstand und Betriebe ohne eigene IT-Abteilung.",
+    "bildrichtung": "Weitwinkel mit starken Fluchtlinien und viel Tiefe, kühles Blau, ruhige dunkle Flächen",
+    "aufbau": "klassisch",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "chips",
+    "erstellt": "2026-08-20T14:05:26"
   }
 }
