@@ -2456,5 +2456,156 @@
     "ablauf_art": "winkel",
     "fuer_wen_art": "chips",
     "erstellt": "2026-08-20T13:38:31"
+  },
+  "eu-ai-act-pflichten-fuer-kleine-betriebe": {
+    "titel": "EU AI Act: Pflichten für kleine Betriebe",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nDer EU AI Act verständlich für kleine und mittlere Betriebe: Bin ich überhaupt betroffen? Was gilt, wenn wir KI wie ChatGPT oder einen KI-Assistenten nutzen? Ehrliche Ersteinschätzung und pragmatische Umsetzung. WICHTIG: sauber abgrenzen, dass wir technische Umsetzung und Einordnung liefern, keine Rechtsberatung. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wir sind ein Handwerksbetrieb mit fünf Leuten in Rheinland-Pfalz. An wen wenden wir uns für eine ehrliche Einschätzung zur Umsetzung des EU AI Act?\n- Wir sind ein Büro mit acht Mitarbeitern im Rhein-Main-Gebiet. Welcher IT-Dienstleister übernimmt die Umsetzung des EU AI Act für Firmen unserer Größe?\n- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus im Rhein-Main-Gebiet. Für ein Projekt zur Umsetzung des EU AI Act brauchen wir externe Unterstützung. Wer kommt in Frage?\n- Wir sind ein Handwerksbetrieb mit fünf Leuten in Idar-Oberstein. An wen wenden wir uns für eine ehrliche Einschätzung zur Umsetzung des EU AI Act?\n- Wir sind ein Büro mit acht Mitarbeitern in Bingen. Welcher IT-Dienstleister übernimmt die Umsetzung des EU AI Act für Firmen unserer Größe?\n- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus in Bingen. Für ein Projekt zur Umsetzung des EU AI Act brauchen wir externe Unterstützung. Wer kommt in Frage?",
+    "produkt": "EU-AI-Act-Ersteinschätzung: Betroffenheit klären, KI-Einsatz dokumentieren, Mitarbeiter-Schulung, technische Umsetzung der Pflichten - wir bauen selbst KI-Assistenten für Unternehmen und kennen beide Seiten.",
+    "path": "angebote/eu-ai-act-pflichten-fuer-kleine-betriebe.html",
+    "assets": [
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hero_bild.png",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/zweitbild.png",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hintergrund_bild.png",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.png",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.png",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.png",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "Klarheit über Ihre Pflichten aus dem EU AI Act",
+      "hero_unterzeile": "Wir klären, ob und wie der EU AI Act Ihren Betrieb betrifft, dokumentieren den KI-Einsatz und setzen die nötigen Schritte technisch um. Eine ehrliche Einschätzung statt einer pauschalen Warnung.",
+      "fuer_wen": [
+        "Handwerksbetriebe, die ChatGPT oder ähnliche Werkzeuge im Alltag nutzen",
+        "Praxen und Kanzleien mit KI-gestützter Software",
+        "Büros und Selbständige, die unsicher sind, ob sie überhaupt betroffen sind",
+        "Mittelständische Betriebe mit eigenem IT-Verantwortlichen, die Unterstützung bei der Umsetzung brauchen"
+      ],
+      "problem_ueberschrift": "Niemand weiß genau, was jetzt zu tun ist",
+      "problem": [
+        {
+          "titel": "Unklare Betroffenheit",
+          "text": "Sie wissen nicht, ob der EU AI Act für Ihren Betrieb überhaupt gilt. Die Texte sind lang, und die Beispiele darin passen selten auf einen Handwerksbetrieb oder eine Praxis."
+        },
+        {
+          "titel": "KI läuft längst mit",
+          "text": "Mitarbeiter nutzen ChatGPT oder andere Werkzeuge, ohne dass es dafür Regeln gibt. Niemand hat aufgeschrieben, wo und wofür das im Betrieb passiert."
+        },
+        {
+          "titel": "Angst vor Aufwand",
+          "text": "Es klingt nach einem Projekt für große Konzerne mit eigener Rechtsabteilung. Für einen Betrieb mit fünf oder zehn Mitarbeitern fehlt dafür schlicht die Zeit."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir für Sie klären und umsetzen",
+      "loesung": [
+        {
+          "titel": "Ersteinschätzung der Betroffenheit",
+          "text": "Wir schauen uns an, wo und wie KI in Ihrem Betrieb eingesetzt wird, und ordnen ein, welche Pflichten daraus entstehen. Das Ergebnis ist ein verständlicher Bericht, keine Gesetzestexte.",
+          "bild": "Zwei Personen sitzen an einem Besprechungstisch vor einer ausgedruckten Liste mit handschriftlichen Notizen, im Hintergrund erkennbar ein kleiner Handwerksbetrieb durch Werkzeug an der Wand",
+          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.png"
+        },
+        {
+          "titel": "KI-Einsatz dokumentieren",
+          "text": "Wir halten schriftlich fest, welche KI-Anwendungen genutzt werden und wofür. Diese Dokumentation liegt vor, falls sie einmal verlangt wird.",
+          "bild": "Eine Hand hakt Punkte auf einer Checkliste auf einem Klemmbrett ab, daneben liegt ein aufgeschlagener Aktenordner mit beschriftetem Rücken",
+          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.png"
+        },
+        {
+          "titel": "Mitarbeiter schulen",
+          "text": "Ihr Team lernt, welche Nutzung von KI erlaubt ist und wo Grenzen liegen. Keine trockene Theorie, sondern Beispiele aus dem eigenen Arbeitsalltag.",
+          "bild": "Kleine Gruppe steht an einem Stehtisch im Büro, eine Person zeigt von hinten fotografiert auf ein Flipchart mit einer einfachen Skizze, keine Gesichter erkennbar",
+          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.png"
+        },
+        {
+          "titel": "Technische Umsetzung",
+          "text": "Wo Maßnahmen nötig sind, setzen wir sie um: Zugriffsregeln, Protokollierung, saubere Trennung von Testsystemen. Wir bauen selbst KI-Assistenten für Unternehmen und kennen deshalb beide Seiten der Aufgabe.",
+          "bild": "Nahaufnahme eines Bildschirms mit einer laufenden Fernwartungssitzung, eine Hand liegt auf dem Mauspad, unscharfer Büroraum im Hintergrund",
+          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir sprechen über Ihren Betrieb und wo KI bereits im Einsatz ist, auch wenn es nur ChatGPT im Browser ist."
+        },
+        {
+          "titel": "Einordnung",
+          "text": "Sie erhalten einen schriftlichen Bericht, ob und welche Pflichten aus dem EU AI Act für Sie gelten."
+        },
+        {
+          "titel": "Umsetzung",
+          "text": "Wir setzen die technischen Schritte um und dokumentieren den KI-Einsatz in Ihrem Betrieb."
+        },
+        {
+          "titel": "Schulung",
+          "text": "Ihre Mitarbeiter lernen die Regeln kennen, die für den Umgang mit KI in Ihrem Betrieb gelten."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Fester Ansprechpartner",
+          "text": "Eine Person kennt Ihren Betrieb und Ihre KI-Anwendungen, keine wechselnde Hotline."
+        },
+        {
+          "titel": "Dokumentation liegt vor",
+          "text": "Bei einer Prüfung können Sie zeigen, welche KI wofür genutzt wird und welche Schritte Sie unternommen haben."
+        },
+        {
+          "titel": "Klare Regeln fürs Team",
+          "text": "Mitarbeiter wissen, was mit KI-Werkzeugen erlaubt ist, statt es auf eigene Faust auszuprobieren."
+        },
+        {
+          "titel": "Aufwand passt zur Größe",
+          "text": "Wir setzen nur um, was für Ihren Betrieb tatsächlich nötig ist, kein Programm von der Stange für Konzerne."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir sind ein Handwerksbetrieb mit wenigen Mitarbeitern. Sind wir überhaupt vom EU AI Act betroffen?",
+          "antwort": "Das lässt sich nur nach einem kurzen Blick auf Ihre tatsächliche KI-Nutzung beantworten. Viele kleine Betriebe sind kaum oder nur in einem Punkt betroffen. Wir klären das im Erstgespräch, bevor irgendetwas umgesetzt wird."
+        },
+        {
+          "frage": "Reicht es, dass wir im Alltag nur ChatGPT nutzen, oder gilt der EU AI Act erst bei eigenen KI-Systemen?",
+          "antwort": "Auch die Nutzung fertiger Werkzeuge wie ChatGPT kann Pflichten auslösen, etwa bei der Information der Mitarbeiter. Wir prüfen konkret, was in Ihrem Fall gilt, statt pauschal zu warnen."
+        },
+        {
+          "frage": "Wir sind ein Büro mit acht Mitarbeitern. Welcher IT-Dienstleister übernimmt die Umsetzung des EU AI Act für Firmen unserer Größe?",
+          "antwort": "Wir arbeiten regelmäßig mit Betrieben dieser Größenordnung im Rhein-Main-Gebiet und in Rheinland-Pfalz. Die Einschätzung und Umsetzung passen wir auf einen Betrieb ohne eigene IT-Abteilung zu."
+        },
+        {
+          "frage": "Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus. Können wir Sie trotzdem für ein Projekt zur Umsetzung hinzuziehen?",
+          "antwort": "Ja. Wir arbeiten dann als externe Unterstützung neben Ihrem IT-Verantwortlichen, etwa für die technische Umsetzung einzelner Maßnahmen oder die Schulung der Mitarbeiter."
+        },
+        {
+          "frage": "Ist das eine Rechtsberatung?",
+          "antwort": "Nein. Wir liefern die technische Einordnung und Umsetzung, keine Rechtsberatung. Bei rechtlich strittigen Fragen empfehlen wir zusätzlich, eine Anwältin oder einen Anwalt einzubeziehen."
+        }
+      ],
+      "cta_titel": "Lassen Sie Ihre Betroffenheit klären",
+      "cta_text": "Ein Erstgespräch zeigt, ob und wo der EU AI Act für Ihren Betrieb Pflichten mit sich bringt.",
+      "seo_beschreibung": "EU AI Act für kleine Betriebe: Ersteinschätzung, Dokumentation und technische Umsetzung durch Cayot IT Service in Bad Kreuznach und Umgebung.",
+      "kurzbeschreibung": "Ehrliche Ersteinschätzung, Dokumentation und technische Umsetzung Ihrer Pflichten aus dem EU AI Act.",
+      "hero_bild": "Zwei Personen an einem Besprechungstisch, eine Hand zeigt auf ein Blatt mit einer einfachen Skizze, im Hintergrund unscharf ein kleines Büro",
+      "zweitbild": "Nahaufnahme einer Hand, die eine Checkliste auf einem Klemmbrett abhakt, daneben liegt ein aufgeschlagener Ordner mit Papieren",
+      "hintergrund_bild": "Ein einzelner heller Lichtpunkt im halbdunklen Besprechungsraum, eine Schreibtischlampe beleuchtet einen leeren Aktenordner auf dem Tisch, starker Kontrast, der Rest des Raums liegt ruhig im Dunkel"
+    },
+    "bilder": {
+      "hero_bild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hero_bild.png",
+      "zweitbild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/zweitbild.png",
+      "hintergrund_bild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hintergrund_bild.png",
+      "reihe_0": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.png",
+      "reihe_1": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.png",
+      "reihe_2": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.png",
+      "reihe_3": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.png"
+    },
+    "hero_titel": "Klarheit über Ihre Pflichten aus dem EU AI Act",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Ehrliche Ersteinschätzung, Dokumentation und technische Umsetzung Ihrer Pflichten aus dem EU AI Act.",
+    "bildrichtung": "Ein einzelner heller Lichtpunkt im halbdunklen Raum, starker Kontrast, alles andere ruhig",
+    "aufbau": "wechsel",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "zeilen",
+    "erstellt": "2026-08-20T13:45:39"
   }
 }
