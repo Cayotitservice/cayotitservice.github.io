@@ -3211,5 +3211,156 @@
     "ablauf_art": "pfeile",
     "fuer_wen_art": "zeilen",
     "erstellt": "2026-08-20T14:11:55"
+  },
+  "intune-geraete-zentral-verwalten": {
+    "titel": "Intune: Geräte zentral verwalten",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nMicrosoft Intune für kleine Firmen: Firmen-PCs, Laptops und Handys zentral einrichten, absichern und aktuell halten - neuer Rechner fertig eingerichtet aus dem Karton. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Ich bin selbständig und habe niemanden für IT in Wiesbaden. Um Intune kümmert sich bei uns niemand. An wen wendet man sich da?\n- Wir sind ein Familienbetrieb mit zwölf Leuten in Bad Kreuznach. Wer bietet Intune für Unternehmen in der Region an?\n- Wir sind eine Praxis mit drei Mitarbeitern im Landkreis Bad Kreuznach. Welche IT-Firma in der Nähe kann uns bei Intune unterstützen?\n- Wir sind ein Familienbetrieb mit zwölf Leuten in Rheinland-Pfalz. Wer bietet Intune für Unternehmen in der Region an?\n- Wir sind eine Praxis mit drei Mitarbeitern in Bad Kreuznach. Welche IT-Firma in der Nähe kann uns bei Intune unterstützen?",
+    "produkt": "Intune-Einrichtung und -Betrieb: Geräteregistrierung, Sicherheitsrichtlinien, App- und Update-Verteilung, Verwaltung als Teil des Microsoft-365-Service.",
+    "path": "angebote/intune-geraete-zentral-verwalten.html",
+    "assets": [
+      "/assets/intune-geraete-zentral-verwalten/hero_bild.png",
+      "/assets/intune-geraete-zentral-verwalten/zweitbild.png",
+      "/assets/intune-geraete-zentral-verwalten/hintergrund_bild.png",
+      "/assets/intune-geraete-zentral-verwalten/reihe_0.png",
+      "/assets/intune-geraete-zentral-verwalten/reihe_1.png",
+      "/assets/intune-geraete-zentral-verwalten/reihe_2.png",
+      "/assets/intune-geraete-zentral-verwalten/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Microsoft 365",
+      "hero_titel": "Geräte fertig eingerichtet aus dem Karton",
+      "hero_unterzeile": "Microsoft Intune richtet Firmen-Laptops und Diensthandys automatisch ein, hält sie aktuell und sichert sie ab. Ihr Mitarbeiter schaltet das Gerät ein und kann sofort arbeiten.",
+      "fuer_wen": [
+        "Praxen mit wenigen Mitarbeitern, die Patientendaten auf mehreren Geräten schützen müssen",
+        "Handwerksbetriebe mit Firmenhandys und Tablets auf der Baustelle",
+        "Selbständige ohne eigene IT-Abteilung, die neue Geräte schnell einsatzbereit brauchen",
+        "Familienbetriebe und kleine Firmen mit wachsendem Gerätepark"
+      ],
+      "problem_ueberschrift": "Jedes Gerät ein eigener Aufwand",
+      "problem": [
+        {
+          "titel": "Neue Geräte kosten Zeit",
+          "text": "Ein neuer Laptop muss erst eingerichtet werden, bevor jemand damit arbeiten kann. Ohne festen Ablauf sitzt oft der Chef selbst am Gerät und installiert Programme von Hand."
+        },
+        {
+          "titel": "Uneinheitliche Absicherung",
+          "text": "Manche Diensthandys haben einen Zugangscode, andere nicht. Geht ein Gerät verloren, weiß niemand genau, welche Firmendaten darauf lagen und ob sie sich noch löschen lassen."
+        },
+        {
+          "titel": "Updates bleiben liegen",
+          "text": "Ohne zentrale Steuerung installiert jeder Updates, wann es ihm passt, oder gar nicht. Veraltete Software auf einzelnen Geräten wird schnell zum Einfallstor."
+        }
+      ],
+      "loesung_ueberschrift": "Ein System für alle Geräte",
+      "loesung": [
+        {
+          "titel": "Geräteregistrierung",
+          "text": "Neue Rechner und Handys melden sich beim ersten Einschalten automatisch bei uns an. Ihr Mitarbeiter meldet sich nur mit dem Firmenkonto an, der Rest läuft im Hintergrund.",
+          "bild": "Eine Hand nimmt ein neues Smartphone aus einer geöffneten Verpackung, daneben liegt ein Firmenausweis auf dem Tisch.",
+          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_0.png"
+        },
+        {
+          "titel": "Sicherheitsrichtlinien",
+          "text": "Wir legen fest, welche Apps erlaubt sind, wie stark der Zugangscode sein muss und ob ein Gerät bei Verlust aus der Ferne gesperrt werden kann. Das gilt für Laptops genauso wie für Diensthandys.",
+          "bild": "Nahaufnahme einer Hand, die den Fingerabdruck-Sensor eines Smartphones berührt, das Gerät liegt auf einem dunklen Tisch.",
+          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_1.png"
+        },
+        {
+          "titel": "App- und Update-Verteilung",
+          "text": "Programme wie Office oder die Zeiterfassung installieren sich von selbst, sobald das Gerät registriert ist. Updates laufen abends automatisch, ohne dass jemand nachts am Rechner sitzen muss.",
+          "bild": "Mehrere Firmenhandys stehen aufgereiht in einer Ladestation auf einem Regal, ein Kabel führt zu jedem einzelnen Gerät.",
+          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_2.png"
+        },
+        {
+          "titel": "Laufende Verwaltung",
+          "text": "Wir behalten im Blick, welche Geräte im Einsatz sind und welche Updates ausstehen. Das läuft als Teil der laufenden Microsoft-365-Betreuung, ohne zusätzlichen Aufwand für Sie.",
+          "bild": "Eine Hand hält ein Klemmbrett mit einer Strichliste vor einem Regal mit mehreren Tablets und Firmenhandys.",
+          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns an, wie viele Geräte im Einsatz sind und mit welchen Betriebssystemen sie laufen."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Wir richten Intune ein und legen Regeln für Passwortlänge, Verschlüsselung und erlaubte Apps fest."
+        },
+        {
+          "titel": "Geräte anmelden",
+          "text": "Jedes Gerät wird registriert, entweder durch uns vor Ort oder automatisch beim ersten Einschalten beim Mitarbeiter."
+        },
+        {
+          "titel": "Laufender Betrieb",
+          "text": "Wir überwachen den Zustand der Geräte und spielen Updates und neue Regeln ein, wenn nötig."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Sofort einsatzbereit",
+          "text": "Neue Mitarbeiter schalten das Gerät ein, melden sich an und können direkt arbeiten, ohne Einrichtungstermin."
+        },
+        {
+          "titel": "Verlorene Geräte kein Risiko",
+          "text": "Ein Gerät lässt sich aus der Ferne sperren oder löschen, wenn es verloren geht oder gestohlen wird."
+        },
+        {
+          "titel": "Einheitlicher Stand",
+          "text": "Alle Geräte laufen mit denselben Sicherheitsregeln, unabhängig davon, wer sie nutzt."
+        },
+        {
+          "titel": "Weniger Aufwand vor Ort",
+          "text": "Updates und App-Verteilung laufen automatisch, ohne dass jemand jedes Gerät einzeln anfasst."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Ich bin selbständig, wer kümmert sich bei mir um Intune?",
+          "antwort": "Auch als Einzelunternehmer übernehmen wir die Einrichtung und den laufenden Betrieb. Sie brauchen dafür keine eigene IT-Abteilung, wir sind Ihr fester Ansprechpartner."
+        },
+        {
+          "frage": "Wer bietet Intune für kleine und mittlere Betriebe in der Region an?",
+          "antwort": "Wir betreuen Betriebe im Umkreis von etwa 100 Kilometern um Bad Kreuznach, unter anderem in Mainz, Wiesbaden, Bingen, Ingelheim, Koblenz und im Rhein-Main-Gebiet."
+        },
+        {
+          "frage": "Können Sie auch eine Praxis mit wenigen Mitarbeitern unterstützen?",
+          "antwort": "Ja. Gerade für kleinere Teams ab drei Mitarbeitern lohnt sich Intune, weil sich Patientendaten und Praxisgeräte einheitlich absichern lassen."
+        },
+        {
+          "frage": "Brauchen wir dafür neue Geräte?",
+          "antwort": "Nein. Bestehende Laptops und Handys lassen sich nachträglich in Intune aufnehmen, sofern sie ein unterstütztes Betriebssystem haben."
+        },
+        {
+          "frage": "Was kostet die Einrichtung?",
+          "antwort": "Das hängt von der Anzahl der Geräte und den gewünschten Regeln ab. Wir schauen uns Ihre Umgebung an und nennen Ihnen danach einen konkreten Preis."
+        }
+      ],
+      "cta_titel": "Geräte zentral verwalten lassen",
+      "cta_text": "Schreiben Sie uns, wir schauen uns Ihren Gerätepark an und sagen Ihnen, was Intune für Sie bringt.",
+      "seo_beschreibung": "Microsoft Intune für kleine Betriebe: Geräte einrichten, absichern und aktuell halten. Cayot IT Service, Bad Kreuznach und Umgebung.",
+      "kurzbeschreibung": "Firmen-Laptops und Diensthandys werden automatisch eingerichtet, abgesichert und aktuell gehalten.",
+      "hero_bild": "Zwei Hände heben einen neuen Laptop aus einer halb geöffneten Kartonverpackung auf einem Tisch, Verpackungsmaterial liegt daneben.",
+      "zweitbild": "Mehrere Firmenhandys und Tablets liegen aufgereiht nebeneinander auf einem Tisch, eines davon wird gerade an ein Ladekabel angeschlossen.",
+      "hintergrund_bild": "Aufsicht von schräg oben auf mehrere aufgeklappte Laptops und Smartphones, ordentlich in Reihen auf einem dunklen Tisch angeordnet, geometrische Muster durch die parallel ausgerichteten Geräte, dezentes türkises Licht von der Seite, ruhige Fläche ohne Personen."
+    },
+    "bilder": {
+      "hero_bild": "/assets/intune-geraete-zentral-verwalten/hero_bild.png",
+      "zweitbild": "/assets/intune-geraete-zentral-verwalten/zweitbild.png",
+      "hintergrund_bild": "/assets/intune-geraete-zentral-verwalten/hintergrund_bild.png",
+      "reihe_0": "/assets/intune-geraete-zentral-verwalten/reihe_0.png",
+      "reihe_1": "/assets/intune-geraete-zentral-verwalten/reihe_1.png",
+      "reihe_2": "/assets/intune-geraete-zentral-verwalten/reihe_2.png",
+      "reihe_3": "/assets/intune-geraete-zentral-verwalten/reihe_3.png"
+    },
+    "hero_titel": "Geräte fertig eingerichtet aus dem Karton",
+    "kategorie": "Microsoft 365",
+    "kurzbeschreibung": "Firmen-Laptops und Diensthandys werden automatisch eingerichtet, abgesichert und aktuell gehalten.",
+    "bildrichtung": "Aufsicht von schräg oben, geometrische Muster und klare Ordnung, dezentes Türkis",
+    "aufbau": "wechsel",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "trennstrich",
+    "erstellt": "2026-08-20T14:18:42"
   }
 }
