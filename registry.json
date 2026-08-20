@@ -2305,5 +2305,156 @@
     "ablauf_art": "pfeile",
     "fuer_wen_art": "karten",
     "erstellt": "2026-08-20T13:31:38"
+  },
+  "windows-server-betreuung": {
+    "titel": "Windows-Server-Betreuung",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nBetreuung von Windows-Servern: Active Directory, Freigaben, Berechtigungen, Updates, Sicherung - für Firmen, deren Windows-Server 'einfach laufen' muss. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wir sind ein Büro mit acht Mitarbeitern in Mainz. Wir kommen bei der Betreuung unserer Windows-Server nicht weiter. Wer kann das für uns übernehmen?\n- Wir sind eine Firma ohne eigene IT-Abteilung in Bingen. Welcher IT-Dienstleister übernimmt die Betreuung unserer Windows-Server für Firmen unserer Größe?\n- Wir sind ein Büro mit acht Mitarbeitern in Ingelheim. Wir kommen bei der Betreuung unserer Windows-Server nicht weiter. Wer kann das für uns übernehmen?\n- Wir sind eine Firma ohne eigene IT-Abteilung in Koblenz. Welcher IT-Dienstleister übernimmt die Betreuung unserer Windows-Server für Firmen unserer Größe?",
+    "produkt": "Windows-Server-Betreuung: Updates und Wartungsfenster, Active Directory und Berechtigungen, Freigaben, geprüfte Sicherung, Störungsdienst - als Wartungsvertrag oder projektweise.",
+    "path": "angebote/windows-server-betreuung.html",
+    "assets": [
+      "/assets/windows-server-betreuung/hero_bild.png",
+      "/assets/windows-server-betreuung/zweitbild.png",
+      "/assets/windows-server-betreuung/hintergrund_bild.png",
+      "/assets/windows-server-betreuung/reihe_0.png",
+      "/assets/windows-server-betreuung/reihe_1.png",
+      "/assets/windows-server-betreuung/reihe_2.png",
+      "/assets/windows-server-betreuung/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Ein Windows-Server, der einfach läuft",
+      "hero_unterzeile": "Wir betreuen Ihren Windows-Server dauerhaft oder für ein einzelnes Projekt: Updates, Active Directory, Freigaben und eine Sicherung, die wirklich funktioniert.",
+      "fuer_wen": [
+        "Handwerksbetriebe mit eigenem Server für Aufträge und Kundendaten",
+        "Praxen, die Patientendaten zentral auf einem Server verwalten",
+        "Einzelunternehmer und Selbständige mit einem Büro-Server für Buchhaltung und Ablage",
+        "Privatpersonen, die zuhause einen eigenen Server für Fotos und Sicherungen betreiben"
+      ],
+      "problem_ueberschrift": "Woran ein Windows-Server im Alltag krankt",
+      "problem": [
+        {
+          "titel": "Updates bleiben liegen",
+          "text": "Ohne festen Termin werden Sicherheitsupdates immer wieder aufgeschoben. Irgendwann meldet der Server Probleme, und niemand weiß mehr, welcher Stand eigentlich läuft."
+        },
+        {
+          "titel": "Niemand kennt die Rechte",
+          "text": "Wer auf welche Freigabe zugreifen darf, ist über Jahre gewachsen und nirgends festgehalten. Ehemalige Mitarbeiter haben oft noch Zugriff, ohne dass es jemand merkt."
+        },
+        {
+          "titel": "Sicherung ungeprüft",
+          "text": "Ein Backup läuft jede Nacht, das grüne Häkchen stimmt. Ob sich die Daten im Ernstfall auch wirklich zurückspielen lassen, hat aber noch niemand getestet."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir konkret übernehmen",
+      "loesung": [
+        {
+          "titel": "Feste Wartungsfenster",
+          "text": "Wir legen einen Termin fest, an dem Updates eingespielt und der Server neu gestartet wird - außerhalb Ihrer Geschäftszeiten. So gibt es keine Überraschung mitten am Vormittag.",
+          "bild": "Eine Hand öffnet nachts die Tür eines Serverschranks in einem stillen, leeren Büro.",
+          "bild_pfad": "/assets/windows-server-betreuung/reihe_0.png"
+        },
+        {
+          "titel": "Active Directory und Berechtigungen",
+          "text": "Wir räumen die Benutzerkonten auf, entfernen alte Zugänge und legen fest, wer welche Freigabe sehen darf. Sie erhalten eine Übersicht, die Sie selbst lesen können.",
+          "bild": "Nahaufnahme einer Hand, die mit einem Stift eine Liste von Ordnernamen auf einem ausgedruckten Blatt markiert, daneben eine Tastatur.",
+          "bild_pfad": "/assets/windows-server-betreuung/reihe_1.png"
+        },
+        {
+          "titel": "Geprüfte Sicherung",
+          "text": "Die Sicherung läuft nicht nur, wir spielen sie testweise zurück und vergleichen den Inhalt mit dem Original. Erst dann gilt sie bei uns als in Ordnung.",
+          "bild": "Ein Techniker vergleicht auf einem ausgedruckten Blatt eine Liste mit dem Inhalt eines geöffneten Sicherungsgeräts.",
+          "bild_pfad": "/assets/windows-server-betreuung/reihe_2.png"
+        },
+        {
+          "titel": "Störungsdienst mit festem Ansprechpartner",
+          "text": "Bei einer Störung erreichen Sie jemanden, der Ihren Server bereits kennt, statt eine anonyme Warteschleife. Das spart wertvolle Zeit im Ernstfall.",
+          "bild": "Ein Techniker sitzt an einem Bildschirm mit einer laufenden Fernwartungsverbindung, im Hintergrund unscharf ein Serverschrank.",
+          "bild_pfad": "/assets/windows-server-betreuung/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns Ihren Server an: Alter, Auslastung, Berechtigungen und den aktuellen Stand der Sicherung."
+        },
+        {
+          "titel": "Angebot",
+          "text": "Sie erhalten ein Angebot als laufenden Wartungsvertrag oder als einzelnes Projekt - je nachdem, was zu Ihrem Betrieb passt."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Wir richten die Wartungsfenster ein, ordnen die Berechtigungen und prüfen die Sicherung erstmals durch ein Testszenario."
+        },
+        {
+          "titel": "Laufende Betreuung",
+          "text": "Updates, Kontrolle der Sicherung und Störungsdienst laufen fortan nach dem vereinbarten Rhythmus."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Fester Ansprechpartner",
+          "text": "Sie sprechen bei einer Störung immer mit jemandem, der Ihren Server bereits kennt, statt mit einer wechselnden Hotline."
+        },
+        {
+          "titel": "Updates außerhalb der Geschäftszeiten",
+          "text": "Wartungsfenster liegen dort, wo sie Ihren Betrieb nicht stören."
+        },
+        {
+          "titel": "Sicherung mit Rückspielprobe",
+          "text": "Die Sicherung wird nicht nur eingerichtet, sondern regelmäßig zurückgespielt und geprüft."
+        },
+        {
+          "titel": "Nachvollziehbare Berechtigungen",
+          "text": "Sie wissen jederzeit, wer auf welche Freigabe zugreifen kann."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir sind ein Büro mit mehreren Mitarbeitern und kommen mit der Betreuung unseres Windows-Servers nicht mehr nach - wer kann das übernehmen?",
+          "antwort": "Wir übernehmen die laufende Betreuung Ihres Windows-Servers - als Wartungsvertrag oder für ein einzelnes Projekt. Cayot IT Service ist im Umkreis von etwa 100 Kilometern um Bad Kreuznach vor Ort, unter anderem in Mainz, Bingen und Ingelheim."
+        },
+        {
+          "frage": "Welcher IT-Dienstleister übernimmt die Server-Betreuung für eine Firma unserer Größe ohne eigene IT-Abteilung?",
+          "antwort": "Genau dafür sind wir da: kleine Betriebe, Praxen und Firmen ohne eigene IT-Abteilung im Rhein-Main-Gebiet und in Rheinland-Pfalz, von Koblenz bis Kaiserslautern."
+        },
+        {
+          "frage": "Was ist der Unterschied zwischen Wartungsvertrag und Einzelauftrag?",
+          "antwort": "Der Wartungsvertrag umfasst die laufende Betreuung mit festen Wartungsfenstern und Störungsdienst. Beim Einzelauftrag übernehmen wir eine konkrete Aufgabe, etwa die Bereinigung der Berechtigungen, ohne dauerhafte Bindung."
+        },
+        {
+          "frage": "Können Sie einen Server übernehmen, der bisher von einem anderen Dienstleister oder von uns selbst betreut wurde?",
+          "antwort": "Ja. Wir sehen uns zunächst den vorhandenen Stand an und übernehmen von dort aus, ohne bei null anzufangen."
+        },
+        {
+          "frage": "Was passiert, wenn der Server außerhalb der Wartungszeiten ausfällt?",
+          "antwort": "Sie erreichen Ihren festen Ansprechpartner über den Störungsdienst. Der genaue Rahmen dafür wird im Wartungsvertrag festgelegt."
+        }
+      ],
+      "cta_titel": "Vereinbaren Sie eine Bestandsaufnahme",
+      "cta_text": "Wir sehen uns Ihren Server an und sagen Ihnen ehrlich, wo er steht - unabhängig davon, ob Sie anschließend mit uns weiterarbeiten.",
+      "seo_beschreibung": "Windows-Server-Betreuung für Firmen ohne eigene IT-Abteilung: Updates, Active Directory, Freigaben, geprüfte Sicherung. Bad Kreuznach und Umgebung.",
+      "kurzbeschreibung": "Laufende Betreuung Ihres Windows-Servers - Updates, Berechtigungen, geprüfte Sicherung und ein fester Ansprechpartner bei Störungen.",
+      "hero_bild": "Blick in einen kleinen Serverraum mit einem geöffneten Serverschrank, ein Techniker justiert von der Seite ein Kabel.",
+      "zweitbild": "Nahaufnahme einer Hand, die eine Festplatte in ein Einschubfach eines Servers schiebt.",
+      "hintergrund_bild": "Blick von unten nach oben an einem offenen Serverschrank entlang, Kabelstränge und Lüftungsschlitze im Gegenlicht, kühles Stahlblau, dunkle Tiefe im Hintergrund."
+    },
+    "bilder": {
+      "hero_bild": "/assets/windows-server-betreuung/hero_bild.png",
+      "zweitbild": "/assets/windows-server-betreuung/zweitbild.png",
+      "hintergrund_bild": "/assets/windows-server-betreuung/hintergrund_bild.png",
+      "reihe_0": "/assets/windows-server-betreuung/reihe_0.png",
+      "reihe_1": "/assets/windows-server-betreuung/reihe_1.png",
+      "reihe_2": "/assets/windows-server-betreuung/reihe_2.png",
+      "reihe_3": "/assets/windows-server-betreuung/reihe_3.png"
+    },
+    "hero_titel": "Ein Windows-Server, der einfach läuft",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Laufende Betreuung Ihres Windows-Servers - Updates, Berechtigungen, geprüfte Sicherung und ein fester Ansprechpartner bei Störungen.",
+    "bildrichtung": "Perspektive von unten nach oben, ungewohnter Blickwinkel, Stahlblau",
+    "aufbau": "bild_oben",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "chips",
+    "erstellt": "2026-08-20T13:38:31"
   }
 }
