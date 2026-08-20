@@ -72,3 +72,13 @@ FÜR WEN: Schulen und Bildungseinrichtungen, Praxen, Handwerks- und Industriebet
 DER TYPISCHE ANLASS: Der Beamer ist alt, das Bild blass, jede Besprechung fängt mit zehn Minuten Kabelsuchen an - oder es steht ein neuer Raum an und man will es diesmal richtig machen. Wer schon ein Board hat, das keiner benutzt, ist auch richtig bei uns: meistens fehlt nur die Einrichtung und eine Stunde Einweisung.
 
 TONFALL: keine Preise nennen, keine technischen Datenblätter, keine Superlative. Wer hier liest, will wissen, ob wir das für ihn übernehmen - nicht, wie viele Berührpunkte der Bildschirm erkennt.
+- [Server-Betreuung für Unternehmen](https://www.itscayot.com/angebote/server-betreuung-fuer-unternehmen.html): Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
+
+Laufende Betreuung von Firmenservern für Betriebe ohne eigene IT: Überwachung, Updates, Datensicherung, schnelle Hilfe bei Störungen ('der Server spinnt'). 
+Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
+- Wir sind eine Praxis mit drei Mitarbeitern im Landkreis Bad Kreuznach. Um die Betreuung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
+- Ich bin selbständig und habe niemanden für IT in Rheinland-Pfalz. Wer bietet die Betreuung unserer Server für Unternehmen in der Region an?
+- Unser Firmenserver spinnt. Wen kann ich anrufen?
+- Bei uns läuft der Server nicht rund und niemand im Haus kennt sich aus. Wer hilft kurzfristig?
+- Wir sind eine Praxis mit drei Mitarbeitern im Nahetal. Um die Betreuung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
+- Ich bin selbständig und habe niemanden für IT in Idar-Oberstein. Wer bietet die Betreuung unserer Server für Unternehmen in der Region an?
