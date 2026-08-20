@@ -187,11 +187,18 @@
   .beitrag .text time { font-size:.72rem; color:var(--gedimmt); }
 
   /* ── Abschluss-Held + Fusszeile ───────────────────────────────────────── */
-  .abschluss { background:url("/assets/website/3c1ccddab909424aac32243f9cf5ccb2.png")
-               center/cover no-repeat; min-height:clamp(320px, 46vw, 620px);
-               display:flex; align-items:center; justify-content:flex-end;
-               padding:clamp(30px, 6vw, 80px); }
-  .abschluss .drueber { text-align:center; max-width:min(480px, 90%); }
+  /* Foto links (ganz, nie beschnitten), Text rechts auf der Farbe des Bildrands -
+     das Hochkant-Bild als Cover schnitt das CITS-Logo ab (Chef 20.08.). */
+  .abschluss { display:flex; align-items:stretch; background:#0a1830; }
+  .abschluss .foto { flex:1 1 52%; min-width:0; }
+  .abschluss .foto img { width:100%; height:100%; max-height:640px; object-fit:cover;
+                         object-position:center; display:block; }
+  .abschluss .drueber { flex:1 1 48%; display:flex; flex-direction:column;
+                        justify-content:center; align-items:center; text-align:center;
+                        padding:clamp(30px, 5vw, 70px);
+                        background:linear-gradient(90deg, #0a1830 0%, #0d2242 100%); }
+  @media (max-width:760px) { .abschluss { flex-direction:column; }
+    .abschluss .foto img { max-height:340px; } }
   .abschluss .drueber .name { font-size:clamp(1.6rem, 4.4vw, 3rem);
       letter-spacing:.08em; line-height:1.1;
       text-shadow:0 2px 16px #000; }
@@ -423,6 +430,7 @@
 </section>
 </main>
 <div class="abschluss">
+  <div class="foto"><img loading="lazy" src="/assets/website/3c1ccddab909424aac32243f9cf5ccb2.png" alt="Serverraum mit leuchtendem CITS-Cayot-Logo"></div>
   <div class="drueber">
     <div class="name">Cayot<br>IT Service</div>
     <div class="unter">Ihre interne,<br>externe IT-Abteilung</div>
