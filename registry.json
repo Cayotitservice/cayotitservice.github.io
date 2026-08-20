@@ -1852,5 +1852,156 @@
     "ablauf_art": "strang",
     "fuer_wen_art": "karten",
     "erstellt": "2026-08-20T13:11:06"
+  },
+  "it-roadmap-fuer-ihr-unternehmen": {
+    "titel": "IT-Roadmap für Ihr Unternehmen",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nEine ehrliche, verständliche Mehrjahres-Planung der Firmen-IT: was steht an, was kostet es, was hat Vorrang - für Firmen ohne eigene IT-Abteilung genauso wie als punktuelle Unterstützung für Häuser MIT eigener IT. \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wir sind ein Büro mit acht Mitarbeitern in Bingen. An wen wenden wir uns für eine ehrliche Einschätzung zu einer IT-Roadmap?\n- Wir sind eine Firma ohne eigene IT-Abteilung in Wiesbaden. Welcher IT-Dienstleister übernimmt eine IT-Roadmap für Firmen unserer Größe?\n- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Wiesbaden. Wir suchen jemanden, der uns bei einer IT-Roadmap punktuell unterstützt. Wen gibt es dafür?\n- Wir sind ein Büro mit acht Mitarbeitern in Bad Kreuznach. An wen wenden wir uns für eine ehrliche Einschätzung zu einer IT-Roadmap?\n- Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. Welcher IT-Dienstleister übernimmt eine IT-Roadmap für Firmen unserer Größe?\n- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Landkreis Bad Kreuznach. Wir suchen jemanden, der uns bei einer IT-Roadmap punktuell unterstützt. Wen gibt es dafür?",
+    "produkt": "IT-Roadmap: Bestandsaufnahme, Prioritäten, Budgetplan für 1-3 Jahre, jährliche Fortschreibung - Festpreis nach Erstgespräch, keine Produktbindung.",
+    "path": "angebote/it-roadmap-fuer-ihr-unternehmen.html",
+    "assets": [
+      "/assets/it-roadmap-fuer-ihr-unternehmen/hero_bild.png",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/zweitbild.png",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/hintergrund_bild.png",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.png",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.png",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.png",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "Planung für Ihre IT der nächsten Jahre",
+      "hero_unterzeile": "Eine schriftliche Übersicht, was in den nächsten ein bis drei Jahren an Ihrer IT ansteht, was es kostet und in welcher Reihenfolge es sinnvoll ist. Für Betriebe ohne eigene IT-Abteilung ebenso wie als Ergänzung für Häuser mit eigener IT.",
+      "fuer_wen": [
+        "Kleine Büros und Praxen ohne eigene IT-Abteilung",
+        "Handwerksbetriebe, die ihre IT-Ausgaben planen wollen",
+        "Selbständige und Einzelunternehmer",
+        "Mittelständische Unternehmen mit eigener IT, die eine zweite Einschätzung suchen"
+      ],
+      "problem_ueberschrift": "Investitionen ohne Übersicht",
+      "problem": [
+        {
+          "titel": "Anschaffungen nach Bauchgefühl",
+          "text": "Ein Rechner fällt aus, ein Vertrag läuft aus, eine Software wird abgekündigt - und plötzlich muss investiert werden. Ohne Plan entscheidet der Zufall, was zuerst dran ist."
+        },
+        {
+          "titel": "Budget nicht planbar",
+          "text": "Ausgaben für die IT tauchen unerwartet auf und lassen sich schwer ins Jahresbudget einordnen. Am Jahresende steht oft eine Überraschung statt einer Zahl, mit der man rechnen konnte."
+        },
+        {
+          "titel": "Rat vom Verkäufer",
+          "text": "Wer bei einem Händler nach Rat fragt, bekommt meist ein Angebot für dessen Produkte. Eine unabhängige Einschätzung, was wirklich notwendig ist, fehlt oft."
+        }
+      ],
+      "loesung_ueberschrift": "Was in der Roadmap steht",
+      "loesung": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns Ihre Geräte, Verträge und Software an und halten fest, was vorhanden ist und wo etwas ansteht. Das Ergebnis ist eine nachvollziehbare Liste, keine Verkaufspräsentation.",
+          "bild": "Eine Hand hakt mit einem Stift Punkte auf einer Checkliste ab, im Hintergrund unscharf ein Regal mit beschrifteten Ordnern",
+          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.png"
+        },
+        {
+          "titel": "Prioritäten und Budget",
+          "text": "Aus der Bestandsaufnahme wird ein Plan für ein bis drei Jahre: was zuerst erneuert werden sollte, was warten kann und was es jeweils kosten wird.",
+          "bild": "Ausgedruckter Budgetplan mit farbig markierten Abschnitten liegt auf einem Besprechungstisch, daneben ein Taschenrechner, Aufnahme von schräg oben",
+          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.png"
+        },
+        {
+          "titel": "Festpreis, keine Bindung",
+          "text": "Die Roadmap wird nach dem Erstgespräch zum Festpreis erstellt. Sie sind an keinen Hersteller und kein Produkt gebunden - die Empfehlungen richten sich nach Ihrem Betrieb, nicht nach unserem Sortiment.",
+          "bild": "Ein unterschriebenes Angebot liegt auf einem Holztisch, eine Hand reicht es einer zweiten Person, Ausschnitt ohne erkennbare Gesichter",
+          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.png"
+        },
+        {
+          "titel": "Jährliche Fortschreibung",
+          "text": "Einmal im Jahr gleichen wir die Roadmap mit der tatsächlichen Entwicklung ab und passen Prioritäten und Budget an. So bleibt der Plan brauchbar, statt in der Schublade zu veralten.",
+          "bild": "Ein Wandkalender mit handschriftlichen Notizen und farbigen Klebepunkten hängt neben einem Schreibtisch, Nahaufnahme",
+          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir sprechen über Ihren Betrieb, die vorhandene Technik und Ihre Pläne für die nächsten Jahre. Daraus ergibt sich der Festpreis für die Roadmap."
+        },
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Vor Ort oder per Fernzugriff sehen wir uns Geräte, Netzwerk, Verträge und Software an."
+        },
+        {
+          "titel": "Ausarbeitung",
+          "text": "Sie erhalten die schriftliche Roadmap mit Prioritäten, Zeitschiene und Budget für ein bis drei Jahre."
+        },
+        {
+          "titel": "Fortschreibung",
+          "text": "Ein Jahr später gleichen wir den Plan mit der tatsächlichen Entwicklung ab und passen ihn an."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Budget planbar",
+          "text": "Sie wissen bereits heute, welche Ausgaben in den nächsten Jahren auf Sie zukommen, statt von einer Rechnung überrascht zu werden."
+        },
+        {
+          "titel": "Klare Reihenfolge",
+          "text": "Sie sehen, was zuerst erneuert werden sollte und was noch warten kann, statt nach Dringlichkeit zu improvisieren."
+        },
+        {
+          "titel": "Kein Produktverkauf",
+          "text": "Die Empfehlungen sind unabhängig von Herstellern. Sie entscheiden am Ende selbst, was umgesetzt wird und was nicht."
+        },
+        {
+          "titel": "Fester Ansprechpartner",
+          "text": "Für Rückfragen zur Roadmap haben Sie über die gesamte Laufzeit dieselbe Ansprechperson, keine wechselnde Hotline."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir sind ein kleines Büro mit acht Mitarbeitern - an wen wenden wir uns für eine ehrliche Einschätzung zu einer IT-Roadmap?",
+          "antwort": "An uns. Wir beraten Betriebe dieser Größe in Bad Kreuznach und im Umkreis von etwa 100 Kilometern, unter anderem in Mainz, Bingen, Ingelheim, Wiesbaden und Koblenz. Sie bekommen eine schriftliche Einschätzung, keine Verkaufspräsentation."
+        },
+        {
+          "frage": "Wir haben keine eigene IT-Abteilung - übernimmt Cayot IT Service eine Roadmap auch für einen Betrieb unserer Größe?",
+          "antwort": "Ja. Die IT-Roadmap ist genau für Betriebe gedacht, die keine eigene IT-Abteilung haben - vom Einzelunternehmer über Praxen und Handwerksbetriebe bis zum Mittelstand."
+        },
+        {
+          "frage": "Wir haben rund 200 Mitarbeiter und eine eigene IT-Abteilung - unterstützt Cayot IT Service auch punktuell bei einer Roadmap?",
+          "antwort": "Ja. Häuser mit eigener IT-Abteilung nutzen uns häufig für eine zweite, unabhängige Einschätzung zu einzelnen Themen oder Budgetblöcken - als Ergänzung zur internen IT, nicht als Ersatz."
+        },
+        {
+          "frage": "Was kostet die IT-Roadmap?",
+          "antwort": "Der Preis ist ein Festpreis und wird im Erstgespräch anhand der Größe und Komplexität Ihres Betriebs festgelegt. Überraschungen danach gibt es nicht."
+        },
+        {
+          "frage": "Sind wir nach der Roadmap an Cayot IT Service oder an bestimmte Produkte gebunden?",
+          "antwort": "Nein. Die Roadmap gehört Ihnen. Sie können die Umsetzung selbst vornehmen, an einen anderen Dienstleister geben oder Teile davon mit uns umsetzen."
+        }
+      ],
+      "cta_titel": "Roadmap für Ihre IT anfragen",
+      "cta_text": "Im Erstgespräch klären wir Umfang und Festpreis, unverbindlich und ohne Verkaufsdruck.",
+      "seo_beschreibung": "IT-Roadmap für Firmen in Bad Kreuznach und Umgebung: Bestandsaufnahme, Budgetplan und Prioritäten für ein bis drei Jahre, zum Festpreis.",
+      "kurzbeschreibung": "Eine schriftliche IT-Planung für ein bis drei Jahre mit Kosten und Prioritäten, zum Festpreis.",
+      "hero_bild": "Zwei Personen stehen an einem Besprechungstisch und blicken gemeinsam auf eine ausgedruckte mehrjährige Zeitplan-Übersicht mit farbigen Balken, eine Hand zeigt auf einen Abschnitt, Aufnahme von der Seite ohne erkennbare Gesichter",
+      "zweitbild": "Nahaufnahme einer Hand, die mit einem Stift Punkte auf einer Prioritätenliste abhakt, daneben liegen ein Taschenrechner und ein Aktenordner, Blick von oben",
+      "hintergrund_bild": "Im Vordergrund unscharf der Rücken eines Aktenordners, dahinter scharf ein Besprechungstisch mit ausgebreiteten Plänen und Zeitleisten, der Raum in tiefes Violett getaucht, ruhige Fläche im Hintergrund"
+    },
+    "bilder": {
+      "hero_bild": "/assets/it-roadmap-fuer-ihr-unternehmen/hero_bild.png",
+      "zweitbild": "/assets/it-roadmap-fuer-ihr-unternehmen/zweitbild.png",
+      "hintergrund_bild": "/assets/it-roadmap-fuer-ihr-unternehmen/hintergrund_bild.png",
+      "reihe_0": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.png",
+      "reihe_1": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.png",
+      "reihe_2": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.png",
+      "reihe_3": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.png"
+    },
+    "hero_titel": "Planung für Ihre IT der nächsten Jahre",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Eine schriftliche IT-Planung für ein bis drei Jahre mit Kosten und Prioritäten, zum Festpreis.",
+    "bildrichtung": "Etwas Unscharfes im Vordergrund, dahinter das eigentliche Motiv scharf, tiefes Violett",
+    "aufbau": "ruhig",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "zeilen",
+    "erstellt": "2026-08-20T13:17:42"
   }
 }
