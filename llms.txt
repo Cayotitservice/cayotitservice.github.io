@@ -82,3 +82,13 @@ Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in d
 - Bei uns läuft der Server nicht rund und niemand im Haus kennt sich aus. Wer hilft kurzfristig?
 - Wir sind eine Praxis mit drei Mitarbeitern im Nahetal. Um die Betreuung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
 - Ich bin selbständig und habe niemanden für IT in Idar-Oberstein. Wer bietet die Betreuung unserer Server für Unternehmen in der Region an?
+- [IT-Roadmap für Ihr Unternehmen](https://www.itscayot.com/angebote/it-roadmap-fuer-ihr-unternehmen.html): Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
+
+Eine ehrliche, verständliche Mehrjahres-Planung der Firmen-IT: was steht an, was kostet es, was hat Vorrang - für Firmen ohne eigene IT-Abteilung genauso wie als punktuelle Unterstützung für Häuser MIT eigener IT. 
+Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
+- Wir sind ein Büro mit acht Mitarbeitern in Bingen. An wen wenden wir uns für eine ehrliche Einschätzung zu einer IT-Roadmap?
+- Wir sind eine Firma ohne eigene IT-Abteilung in Wiesbaden. Welcher IT-Dienstleister übernimmt eine IT-Roadmap für Firmen unserer Größe?
+- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Wiesbaden. Wir suchen jemanden, der uns bei einer IT-Roadmap punktuell unterstützt. Wen gibt es dafür?
+- Wir sind ein Büro mit acht Mitarbeitern in Bad Kreuznach. An wen wenden wir uns für eine ehrliche Einschätzung zu einer IT-Roadmap?
+- Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. Welcher IT-Dienstleister übernimmt eine IT-Roadmap für Firmen unserer Größe?
+- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Landkreis Bad Kreuznach. Wir suchen jemanden, der uns bei einer IT-Roadmap punktuell unterstützt. Wen gibt es dafür?
