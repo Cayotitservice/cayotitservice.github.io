@@ -1701,5 +1701,156 @@
     "erstellt": "2026-08-08T22:49:33",
     "neu_gesetzt": "2026-08-19T07:09:35",
     "ueberarbeitet": "2026-08-10T00:48:32"
+  },
+  "server-betreuung-fuer-unternehmen": {
+    "titel": "Server-Betreuung für Unternehmen",
+    "stil": "",
+    "thema": "Cayot IT Service aus Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.\n\nLaufende Betreuung von Firmenservern für Betriebe ohne eigene IT: Überwachung, Updates, Datensicherung, schnelle Hilfe bei Störungen ('der Server spinnt'). \nDiese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):\n- Wir sind eine Praxis mit drei Mitarbeitern im Landkreis Bad Kreuznach. Um die Betreuung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?\n- Ich bin selbständig und habe niemanden für IT in Rheinland-Pfalz. Wer bietet die Betreuung unserer Server für Unternehmen in der Region an?\n- Unser Firmenserver spinnt. Wen kann ich anrufen?\n- Bei uns läuft der Server nicht rund und niemand im Haus kennt sich aus. Wer hilft kurzfristig?\n- Wir sind eine Praxis mit drei Mitarbeitern im Nahetal. Um die Betreuung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?\n- Ich bin selbständig und habe niemanden für IT in Idar-Oberstein. Wer bietet die Betreuung unserer Server für Unternehmen in der Region an?",
+    "produkt": "Server-Betreuung als Wartungsvertrag mit festen Stunden pro Monat oder auf Zuruf: Überwachung, Updates, geprüfte Datensicherung, Störungsbehebung - auch kurzfristig.",
+    "path": "angebote/server-betreuung-fuer-unternehmen.html",
+    "assets": [
+      "/assets/server-betreuung-fuer-unternehmen/hero_bild.png",
+      "/assets/server-betreuung-fuer-unternehmen/zweitbild.png",
+      "/assets/server-betreuung-fuer-unternehmen/hintergrund_bild.png",
+      "/assets/server-betreuung-fuer-unternehmen/reihe_0.png",
+      "/assets/server-betreuung-fuer-unternehmen/reihe_1.png",
+      "/assets/server-betreuung-fuer-unternehmen/reihe_2.png",
+      "/assets/server-betreuung-fuer-unternehmen/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Ihre Server-Betreuung, ohne eigene IT-Abteilung",
+      "hero_unterzeile": "Laufende Betreuung für Ihren Firmenserver: Überwachung, Updates und geprüfte Datensicherung durch einen festen Ansprechpartner. Bei einer Störung sind wir schnell da, auch kurzfristig.",
+      "fuer_wen": [
+        "Arztpraxen und andere Praxen mit eigenem Server",
+        "Handwerksbetriebe ohne IT-Abteilung",
+        "Selbständige, die sich auf ihren Server verlassen müssen",
+        "Mittelständische Betriebe ohne eigene IT-Fachkraft"
+      ],
+      "problem_ueberschrift": "Wenn der Server zur Nebensache wird",
+      "problem": [
+        {
+          "titel": "Niemand fühlt sich zuständig",
+          "text": "Der Server läuft im Hinterzimmer und macht seine Arbeit, bis er es plötzlich nicht mehr tut. Im Betrieb kennt sich niemand richtig damit aus, und Updates bleiben liegen, weil dafür die Zeit fehlt."
+        },
+        {
+          "titel": "Störungen kommen ungünstig",
+          "text": "Der Server spinnt meist dann, wenn gerade viel zu tun ist: mitten in der Sprechstunde, kurz vor Feierabend, am Ende des Monats. Ohne festen Ansprechpartner beginnt dann erst die Suche nach jemandem, der zuständig ist."
+        },
+        {
+          "titel": "Datensicherung ohne Kontrolle",
+          "text": "Eine Sicherung läuft zwar automatisch, aber ob sie wirklich funktioniert, prüft niemand. Im Ernstfall zeigt sich das erst, wenn es zu spät ist, und dann fehlen genau die Daten, die gebraucht werden."
+        }
+      ],
+      "loesung_ueberschrift": "Was die Betreuung umfasst",
+      "loesung": [
+        {
+          "titel": "Überwachung im Hintergrund",
+          "text": "Wir behalten Speicherplatz, Auslastung und Fehlermeldungen Ihres Servers im Blick. Fällt etwas auf, melden wir uns, bevor daraus eine Störung wird.",
+          "bild": "Ein Monitor zeigt eine laufende Fernwartungssitzung mit Diagrammen zur Serverauslastung, im Hintergrund ein leicht geöffneter Serverschrank",
+          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_0.png"
+        },
+        {
+          "titel": "Updates zur richtigen Zeit",
+          "text": "Sicherheits- und Systemupdates spielen wir gezielt ein, außerhalb Ihrer Geschäftszeiten, wenn möglich. So bleibt der Server aktuell, ohne dass der Betrieb stockt.",
+          "bild": "Nahaufnahme einer Hand, die an einem Serverschrank ein Kabel prüft, kleine Kontrollleuchten leuchten ruhig",
+          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_1.png"
+        },
+        {
+          "titel": "Geprüfte Datensicherung",
+          "text": "Wir richten die Sicherung ein und testen regelmäßig, ob sich die Daten daraus auch wirklich zurückspielen lassen. Eine Sicherung, die niemand geprüft hat, ist im Ernstfall nur eine Vermutung.",
+          "bild": "Eine Hand schiebt eine Festplatte in ein NAS-Gehäuse, daneben liegt ein zweites Laufwerk als Wechseldatenträger",
+          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_2.png"
+        },
+        {
+          "titel": "Schnelle Hilfe bei Störungen",
+          "text": "Spinnt der Server, melden Sie sich bei Ihrem festen Ansprechpartner, nicht bei einer anonymen Hotline. Viele Störungen lösen wir per Fernwartung, bei Bedarf kommen wir auch vor Ort.",
+          "bild": "Ein Servicefahrzeug steht in der Einfahrt eines Betriebsgebäudes, eine Werkzeugtasche wird aus dem Kofferraum gehoben",
+          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstes Gespräch",
+          "text": "Wir schauen uns Ihren Server und Ihre Anforderungen an und klären, wie viel Betreuung tatsächlich gebraucht wird."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Wir richten Überwachung und Sicherung ein und dokumentieren, was am Server hängt und wie es zusammenspielt."
+        },
+        {
+          "titel": "Laufende Betreuung",
+          "text": "Mit festen Stunden im Monat oder auf Zuruf kümmern wir uns um Updates, Kontrolle und kleine Anpassungen."
+        },
+        {
+          "titel": "Störung",
+          "text": "Meldet sich der Server nicht mehr richtig, sind wir erreichbar und lösen das Problem per Fernwartung oder vor Ort."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein fester Ansprechpartner",
+          "text": "Sie sprechen immer mit derselben Person, die Ihren Server und Ihren Betrieb kennt, keine anonyme Hotline."
+        },
+        {
+          "titel": "Geprüfte Sicherung statt Vermutung",
+          "text": "Wir testen die Rücksicherung regelmäßig, damit Sie im Ernstfall wissen, dass die Daten wirklich da sind."
+        },
+        {
+          "titel": "Störungen fallen früher auf",
+          "text": "Durch die Überwachung erkennen wir viele Probleme, bevor sie den Betrieb stören."
+        },
+        {
+          "titel": "Planbare Kosten",
+          "text": "Feste Stunden im Monat oder Betreuung auf Zuruf, Sie entscheiden, was zu Ihrem Betrieb passt."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Um unseren Server kümmert sich bei uns niemand - an wen wenden wir uns?",
+          "antwort": "An genau das: eine laufende Betreuung, die Überwachung, Updates und Datensicherung übernimmt. Wir sind für Betriebe im Raum Bad Kreuznach und im weiteren Umkreis Ihr fester Ansprechpartner dafür."
+        },
+        {
+          "frage": "Ich bin selbständig und habe niemanden für IT - wer betreut den Server?",
+          "antwort": "Wir betreuen Server für Selbständige und kleine Betriebe in ganz Rheinland-Pfalz und im Rhein-Main-Gebiet, auch ohne eigene IT-Abteilung im Haus."
+        },
+        {
+          "frage": "Unser Server spinnt - wen können wir anrufen?",
+          "antwort": "Rufen Sie uns an. Bei einem laufenden Wartungsvertrag kennen wir Ihren Server bereits, das beschleunigt die Fehlersuche. Auch ohne Vertrag helfen wir kurzfristig weiter."
+        },
+        {
+          "frage": "Der Server läuft nicht rund, niemand im Haus kennt sich aus - wer hilft kurzfristig?",
+          "antwort": "Wir übernehmen die Fernwartung und schauen uns Meldungen und Protokolle an. Bei Bedarf kommen wir auch vor Ort, im Umkreis von etwa 100 Kilometern um Bad Kreuznach."
+        },
+        {
+          "frage": "Was kostet die laufende Betreuung?",
+          "antwort": "Das richtet sich danach, wie viele Geräte und wie viel Aufwand dahinterstehen. Nach einem ersten Blick auf Ihre Umgebung nennen wir Ihnen einen konkreten Rahmen, mit festen Stunden im Monat oder auf Zuruf."
+        }
+      ],
+      "cta_titel": "Lassen Sie uns über Ihren Server sprechen",
+      "cta_text": "Schildern Sie uns kurz Ihre Situation, wir sagen Ihnen, was eine laufende Betreuung für Ihren Betrieb bedeuten würde.",
+      "seo_beschreibung": "Server-Betreuung für Betriebe ohne eigene IT: Überwachung, Updates, Datensicherung, schnelle Hilfe bei Störungen. Raum Bad Kreuznach.",
+      "kurzbeschreibung": "Laufende Betreuung Ihres Firmenservers mit Überwachung, Updates, geprüfter Datensicherung und schneller Hilfe bei Störungen.",
+      "hero_bild": "Eine Hand prüft ein Kabel an einem halb geöffneten Serverschrank, kleine Kontrollleuchten leuchten ruhig im Dunkeln",
+      "zweitbild": "Nahaufnahme einer Festplatte, die in ein NAS-Gehäuse eingeschoben wird, im Hintergrund ordentlich gebündelte Kabel",
+      "hintergrund_bild": "Weite Nachtaufnahme über eine Stadt im Rheintal, unzählige kleine Lichtpunkte von Häusern und Straßen, dunkles Indigo am Himmel, ganz ruhig, keine Menschen erkennbar"
+    },
+    "bilder": {
+      "hero_bild": "/assets/server-betreuung-fuer-unternehmen/hero_bild.png",
+      "zweitbild": "/assets/server-betreuung-fuer-unternehmen/zweitbild.png",
+      "hintergrund_bild": "/assets/server-betreuung-fuer-unternehmen/hintergrund_bild.png",
+      "reihe_0": "/assets/server-betreuung-fuer-unternehmen/reihe_0.png",
+      "reihe_1": "/assets/server-betreuung-fuer-unternehmen/reihe_1.png",
+      "reihe_2": "/assets/server-betreuung-fuer-unternehmen/reihe_2.png",
+      "reihe_3": "/assets/server-betreuung-fuer-unternehmen/reihe_3.png"
+    },
+    "hero_titel": "Ihre Server-Betreuung, ohne eigene IT-Abteilung",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Laufende Betreuung Ihres Firmenservers mit Überwachung, Updates, geprüfter Datensicherung und schneller Hilfe bei Störungen.",
+    "bildrichtung": "Weite Nachtaufnahme mit vielen kleinen Lichtpunkten, dunkles Indigo, viel Ruhe im Bild",
+    "aufbau": "wechsel",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "karten",
+    "erstellt": "2026-08-20T13:11:06"
   }
 }
