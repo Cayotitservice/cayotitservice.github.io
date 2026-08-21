@@ -7,14 +7,14 @@
 <meta name="description" content="Wir machen IT verständlich und zuverlässig: Analyse, Strategie und Umsetzung – IT-Service, Security, KI &amp; Digitalisierung für Unternehmen in Bad Kreuznach und 100 km Umkreis.">
 <link rel="canonical" href="https://www.itscayot.com/">
 <meta name="theme-color" content="#101b2d">
-<link rel="icon" href="/assets/website/87481b35033f49aeb5038c3e36fb4187.png">
+<link rel="icon" href="https://static.wixstatic.com/media/8ab3d9_87481b35033f49aeb5038c3e36fb4187~mv2.png">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="de_DE">
 <meta property="og:site_name" content="Cayot IT Service">
 <meta property="og:title" content="Cayot IT Service – Wir machen IT verständlich und zuverlässig">
 <meta property="og:description" content="IT-Beratung, Security, IT-Checks, KI &amp; Digitalisierung und IT-Notdienst für Unternehmen in Bad Kreuznach und 100 km Umkreis.">
 <meta property="og:url" content="https://www.itscayot.com/">
-<meta property="og:image" content="/assets/website/3c1ccddab909424aac32243f9cf5ccb2.png">
+<meta property="og:image" content="https://static.wixstatic.com/media/8ab3d9_3c1ccddab909424aac32243f9cf5ccb2~mv2.png">
 <meta name="twitter:card" content="summary_large_image">
 <!-- Cinzel = die Original-Schrift der Seite (beim Umzug hosten wir die woff2 selbst,
      dann faellt der Google-Abruf weg). -->
@@ -79,6 +79,9 @@
   .mega .alle a.haupt { color:var(--akzent); }
   nav.haupt .punkt.leistungen:hover .mega,
   nav.haupt .punkt.leistungen:focus-within .mega { display:block; }
+  /* Per Klick gepinnt (Chef 21.08.2026): Hover allein war "nur eine Vorschau" -
+     wer mit der Maus zum Eintrag fuhr, verlor das Panel. Klick haelt es offen. */
+  nav.haupt .punkt.leistungen.offen .mega { display:block; }
   .sozial { display:flex; gap:8px; flex-wrap:wrap; }
   .sozial a { width:36px; height:36px; border:1px solid var(--akzent); border-radius:6px;
               display:flex; align-items:center; justify-content:center;
@@ -238,7 +241,7 @@
 
 <header>
   <div class="schale kopfzeile">
-    <a class="logo" href="/"><img src="/assets/website/87481b35033f49aeb5038c3e36fb4187.png" alt="Cayot IT Service Logo"></a>
+    <a class="logo" href="/"><img src="https://static.wixstatic.com/media/8ab3d9_87481b35033f49aeb5038c3e36fb4187~mv2.png" alt="Cayot IT Service Logo"></a>
     <button class="burger" aria-label="Menü öffnen" aria-expanded="false"
             onclick="const n=document.querySelector('nav.haupt');n.classList.toggle('offen');this.setAttribute('aria-expanded', n.classList.contains('offen'))">☰</button>
     <nav class="haupt" aria-label="Hauptmenü">
@@ -297,21 +300,21 @@
   <h2 class="sr-only">Digitalisierung: Analyse, Strategie und Umsetzung</h2>
   <div class="schale karten">
     <div class="karte">
-      <img src="/assets/website/a9f723ee7453462db63437522ea0fc1c.png" alt="Digitalisierung: Überblick auf Dashboard">
+      <img src="https://static.wixstatic.com/media/8ab3d9_a9f723ee7453462db63437522ea0fc1c~mv2.png" alt="Digitalisierung: Überblick auf Dashboard">
       <ul><li>Ist-Analyse der IT</li><li>Optimierungspotenziale erkennen</li>
           <li>Security-Check durchführen</li><li>Backup &amp; Datensicherheit testen</li>
           <li>Skalierbarkeit messen</li><li>Ausfallsicherheit prüfen</li>
           <li>Kosten &amp; Effizienz vergleichen</li><li>Digitalisierungsgrad festlegen</li></ul>
     </div>
     <div class="karte">
-      <img src="/assets/website/58a590881e81422f8894ab2f29aff8b6.png" alt="Roadmap entwickeln zur Digitalisierung">
+      <img src="https://static.wixstatic.com/media/8ab3d9_58a590881e81422f8894ab2f29aff8b6~mv2.png" alt="Roadmap entwickeln zur Digitalisierung">
       <ul><li>Gesamtstrategie ausrichten</li><li>Konkreter Umsetzungsplan</li>
           <li>Klare Prioritäten &amp; Reihenfolge</li><li>Security &amp; Risikostrategie</li>
           <li>Budget- &amp; Finanzplanung</li><li>Digitalisierungsmaßnahmen</li>
           <li>Zeitplan &amp; Meilensteine</li><li>Dokumentation</li></ul>
     </div>
     <div class="karte">
-      <img src="/assets/website/0383b570cbbe4bc48e0f478856e71097.png" alt="Digitalisierung im Prozess: Steuern und Umsetzen">
+      <img src="https://static.wixstatic.com/media/8ab3d9_0383b570cbbe4bc48e0f478856e71097~mv2.png" alt="Digitalisierung im Prozess: Steuern und Umsetzen">
       <ul><li>Projekte steuern &amp; koordinieren</li><li>Dienstleister führen &amp; anleiten</li>
           <li>Eigenständige Umsetzung</li><li>Fortschritt überwachen</li>
           <li>Interne IT-Abteilungen koordinieren</li><li>Zentrale Projektübersicht behalten</li>
@@ -348,21 +351,21 @@
   <h2 class="sr-only">Sicherheit, Steuerung und Wissen fuer Ihr Unternehmen</h2>
   <div class="schale karten" style="margin-top:0">
     <div class="karte">
-      <img loading="lazy" src="/assets/website/c0ad5916eab349a2a7c3625b56efc588.png" alt="IT-Sicherheit und Compliance Dashboard">
+      <img loading="lazy" src="https://static.wixstatic.com/media/8ab3d9_c0ad5916eab349a2a7c3625b56efc588~mv2.png" alt="IT-Sicherheit und Compliance Dashboard">
       <ul><li>Schutz durch moderne Sicherheitslösungen</li><li>Systeme härten &amp; absichern</li>
           <li>Sicherheitslücken identifizieren &amp; schließen</li><li>End-of-Life-Systeme erkennen &amp; erneuern</li>
           <li>Netzwerke &amp; Zugriffe absichern</li><li>Einführen von Sicherheitsstandards &amp; Richtlinien</li>
           <li>Überwachung &amp; Updates der Systeme</li><li>Compliance-Anforderungen prüfen und erfüllen</li></ul>
     </div>
     <div class="karte">
-      <img loading="lazy" src="/assets/website/8148af86e83248bc88e6b31f1b2c9511.png" alt="IT-Management und Koordination Dashboard">
+      <img loading="lazy" src="https://static.wixstatic.com/media/8ab3d9_8148af86e83248bc88e6b31f1b2c9511~mv2.png" alt="IT-Management und Koordination Dashboard">
       <ul><li>Zentrale Steuerung aller IT-Themen</li><li>Verantwortung für externe Partner &amp; Dienstleister</li>
           <li>Abstimmung zwischen Geschäftsführung &amp; IT</li><li>Klare Entscheidungsgrundlagen schaffen</li>
           <li>Transparenz über Kosten, Fortschritt &amp; Risiken</li><li>Sicherstellung reibungsloser Zusammenarbeit</li>
           <li>Kontinuierliche Optimierung der Abläufe</li></ul>
     </div>
     <div class="karte">
-      <img loading="lazy" src="/assets/website/45ae7bdd9784462680ba1d34780e3e3c.png" alt="IT verstehen und sicher anwenden">
+      <img loading="lazy" src="https://static.wixstatic.com/media/8ab3d9_45ae7bdd9784462680ba1d34780e3e3c~mv2.png" alt="IT verstehen und sicher anwenden">
       <ul><li>Mitarbeiter gezielt schulen &amp; sensibilisieren</li><li>Geschäftsführung verständlich aufklären</li>
           <li>IT-Themen in klare Entscheidungen übersetzen</li><li>Leitfäden &amp; Richtlinien praxisnah entwickeln</li>
           <li>DSGVO, NIS2 &amp; ISO verständlich machen</li><li>Sicherheitsbewusstsein im Unternehmen stärken</li>
@@ -374,10 +377,10 @@
 <section class="partner" aria-label="Expertise und Partnerschaft">
   <h2 class="titel">Expertise &amp; Partnerschaft</h2>
   <div class="partnerlogos">
-    <div class="plogo dunkel"><img loading="lazy" src="/assets/website/b2eadda3983d409988e44e6007b4a936.png" alt="TrendAI – AI Fearlessly"></div>
-    <div class="plogo dunkel"><img loading="lazy" src="/assets/website/a879397050e14625bb5920856c301f56.png" alt="BNI"></div>
-    <div class="plogo dunkel"><img loading="lazy" src="/assets/website/c41a719d1756429ca776ee2bc262c27d.png" alt="der BÜROFührer – Die Mitarbeiter machen den Unterschied"></div>
-    <div class="plogo dunkel"><img loading="lazy" src="/assets/website/3544cd6fdf5b46bc8e3d7fcdc07a52fd.png" alt="O2 Business und RBM IT Solutions"></div>
+    <div class="plogo dunkel"><img loading="lazy" src="https://static.wixstatic.com/media/8ab3d9_b2eadda3983d409988e44e6007b4a936~mv2.png" alt="TrendAI – AI Fearlessly"></div>
+    <div class="plogo dunkel"><img loading="lazy" src="https://static.wixstatic.com/media/8ab3d9_a879397050e14625bb5920856c301f56~mv2.png" alt="BNI"></div>
+    <div class="plogo dunkel"><img loading="lazy" src="https://static.wixstatic.com/media/8ab3d9_c41a719d1756429ca776ee2bc262c27d~mv2.png" alt="der BÜROFührer – Die Mitarbeiter machen den Unterschied"></div>
+    <div class="plogo dunkel"><img loading="lazy" src="https://static.wixstatic.com/media/8ab3d9_3544cd6fdf5b46bc8e3d7fcdc07a52fd~mv2.png" alt="O2 Business und RBM IT Solutions"></div>
   </div>
 </section>
 
@@ -430,7 +433,7 @@
 </section>
 </main>
 <div class="abschluss">
-  <div class="foto"><img loading="lazy" src="/assets/website/3c1ccddab909424aac32243f9cf5ccb2.png" alt="Serverraum mit leuchtendem CITS-Cayot-Logo"></div>
+  <div class="foto"><img loading="lazy" src="https://static.wixstatic.com/media/8ab3d9_3c1ccddab909424aac32243f9cf5ccb2~mv2.png" alt="Serverraum mit leuchtendem CITS-Cayot-Logo"></div>
   <div class="drueber">
     <div class="name">Cayot<br>IT Service</div>
     <div class="unter">Ihre interne,<br>externe IT-Abteilung</div>
@@ -440,7 +443,7 @@
 
 <footer>
   <div class="schale zeile">
-    <img src="/assets/website/87481b35033f49aeb5038c3e36fb4187.png" alt="Cayot IT Service Logo">
+    <img src="https://static.wixstatic.com/media/8ab3d9_87481b35033f49aeb5038c3e36fb4187~mv2.png" alt="Cayot IT Service Logo">
     <span>© 2026 Cayot IT Service</span>
     <span>·</span><a href="/impressum.html">Impressum</a>
     <span>·</span><a href="/datenschutz.html">Datenschutz</a>
@@ -507,16 +510,27 @@
   } catch (e) { document.getElementById("rez-karten").innerHTML = ""; }
 })();
 
-// Am Handy klappen die Rubriken per Antippen (Hover gibt es dort nicht). Am Desktop
-// bleibt alles beim reinen CSS-Hover - dieser Code fasst dort nichts an.
+// "Leistungen" oeffnet per KLICK und BLEIBT offen - auf jedem Geraet (Chef 21.08.2026:
+// das reine Hover-Menue war "nur eine Vorschau", man konnte die Eintraege nicht treffen).
+// Hover bleibt am Desktop als Vorschau; der Klick pinnt das Panel. Zu geht es per Klick
+// daneben, Escape oder Klick auf einen Eintrag (der navigiert ohnehin).
 document.querySelectorAll("nav.haupt .punkt").forEach(p => {
   const kopf = p.querySelector(":scope > a");
   if (!p.querySelector(".mega") || !kopf) return;
   kopf.addEventListener("click", e => {
-    if (window.innerWidth > 900) return;
     e.preventDefault();
     p.classList.toggle("offen");
+    kopf.setAttribute("aria-expanded", p.classList.contains("offen"));
   });
+});
+document.addEventListener("click", e => {
+  document.querySelectorAll("nav.haupt .punkt.offen").forEach(p => {
+    if (!p.contains(e.target)) p.classList.remove("offen");
+  });
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape")
+    document.querySelectorAll("nav.haupt .punkt.offen").forEach(p => p.classList.remove("offen"));
 });
 </script>
 </body>
