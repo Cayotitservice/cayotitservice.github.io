@@ -996,128 +996,128 @@
       "/assets/cyberversicherung-vorbereiten/zweitbild.png",
       "/assets/cyberversicherung-vorbereiten/hintergrund_bild.png"
     ],
-    "hero_titel": "Nachweise, die im Schadensfall zählen",
-    "bildrichtung": "Weite Nachtaufnahme mit vielen kleinen Lichtpunkten, dunkles Indigo, viel Ruhe im Bild",
+    "hero_titel": "Damit die Cyberversicherung im Ernstfall zahlt",
+    "bildrichtung": "Weitwinkel mit starken Fluchtlinien und viel Tiefe, kühles Blau, ruhige dunkle Flächen",
     "erstellt": "2026-08-07T23:19:19",
-    "ueberarbeitet": "2026-08-21T14:28:19",
-    "aufbau": "problem_zuerst",
+    "ueberarbeitet": "2026-08-21T14:35:49",
+    "aufbau": "ruhig",
     "kategorie": "Sicherheit",
-    "kurzbeschreibung": "Wir bereiten Ihre IT so vor, dass der Fragebogen der Cyberversicherung stimmt und die Police im Schadensfall zahlt.",
-    "ablauf_art": "pfeile",
-    "fuer_wen_art": "zeilen",
+    "kurzbeschreibung": "Wir prüfen Ihre IT gegen die Anforderungen Ihres Cyberversicherers, schließen Lücken und liefern eine Dokumentation für Ihren Makler.",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "chips",
     "inhalt": {
       "kategorie": "Sicherheit",
-      "hero_titel": "Nachweise, die im Schadensfall zählen",
-      "hero_unterzeile": "Wir prüfen, ob Ihre IT die Anforderungen Ihrer Cyberversicherung tatsächlich erfüllt, und dokumentieren das nachvollziehbar. Abgeschlossen wird bei Ihrem Makler oder Versicherer - Versicherungen vermitteln oder verkaufen wir nicht.",
+      "hero_titel": "Damit die Cyberversicherung im Ernstfall zahlt",
+      "hero_unterzeile": "Wir prüfen Ihre IT gegen die Anforderungen, die Cyberversicherer heute stellen, und setzen um, was fehlt. Vermittelt oder verkauft wird bei Ihrem Makler - wir liefern die technische Grundlage dafür.",
       "fuer_wen": [
-        "Einzelunternehmer und Selbständige, die erstmals eine Cyberversicherung abschließen wollen",
-        "Handwerksbetriebe, die ihre Cyberpolice verlängern müssen",
-        "Firmen ohne eigene IT-Abteilung, die den Fragebogen des Versicherers nicht allein einschätzen können",
-        "Privatleute mit einer Cyberversicherung fürs Homeoffice oder Nebengewerbe"
+        "Handwerksbetriebe, die vor Vertragsabschluss den Fragebogen der Cyberversicherung ausfüllen müssen",
+        "Einzelunternehmer und Selbständige mit eigener Cyberversicherung",
+        "Kleine Firmen ohne eigene IT-Abteilung vor der Verlängerung ihrer Police",
+        "Betriebe, die nach einem Vorfall Nachweise gegenüber dem Versicherer erbringen müssen"
       ],
-      "problem_ueberschrift": "Was im Ernstfall zählt, wird vorher selten geprüft",
+      "problem_ueberschrift": "Zwischen Fragebogen und Wirklichkeit liegt oft eine Lücke",
       "problem": [
         {
-          "titel": "Angekreuzt, aber nicht eingerichtet",
-          "text": "Im Antrag werden Mehrfaktor-Anmeldung, ein geregeltes Backup und ein Notfallplan bestätigt. Oft steht das nur auf dem Papier, im Betrieb läuft es nicht so."
+          "titel": "Angekreuzt, nicht eingerichtet",
+          "text": "Im Antrag bestätigen Sie Mehrfaktor-Anmeldung, ein geregeltes Backup und einen Notfallplan. In vielen Betrieben steht das nur auf dem Papier - im Alltag läuft es anders."
         },
         {
           "titel": "Police zahlt nicht",
-          "text": "Nach einem Vorfall verlangt der Versicherer Nachweise. Fehlen sie oder war eine Angabe im Fragebogen falsch, kann die Leistung ganz oder teilweise verweigert werden."
+          "text": "Nach einem Vorfall verlangt der Versicherer Nachweise. Fehlt einer oder war eine Angabe im Fragebogen falsch, kann die Leistung ganz oder teilweise verweigert werden."
         },
         {
-          "titel": "Ungenutzte Rabatte",
-          "text": "Viele Versicherer senken die Selbstbeteiligung, wenn bestimmte Schutzmaßnahmen nachweislich vorhanden sind. Welche das sind und ob sie erfüllt sind, weiß im Betrieb oft niemand."
+          "titel": "Rabatt verschenkt",
+          "text": "Viele Versicherer senken die Selbstbeteiligung, wenn bestimmte Schutzmaßnahmen nachweislich vorhanden sind. Welche das sind und ob Ihr Betrieb sie erfüllt, weiß häufig niemand genau."
         }
       ],
-      "loesung_ueberschrift": "So bereiten wir Ihre IT vor",
+      "loesung_ueberschrift": "Was wir für Sie prüfen, einrichten und dokumentieren",
       "loesung": [
         {
-          "titel": "Kostenloser Domainscan als Einstieg",
-          "text": "Wir scannen Ihre Domain von außen und zeigen, welche Lücken für jeden sichtbar sind, der danach sucht. Diese Punkte lassen sich direkt schließen und sind ein erster Baustein für die Vorbereitung.",
-          "bild": "Ein einzelnes, leicht geöffnetes Fenster in einer sonst fest verschlossenen Hausfassade in der Abenddämmerung"
+          "titel": "Domainscan zum Einstieg",
+          "text": "Wir scannen Ihre Domain von außen, kostenlos und unverbindlich. So sehen Sie, welche Lücken jeder findet, der danach sucht - und schließen die ersten davon direkt.",
+          "bild": "Eine Hand hält ein Klemmbrett mit einer handschriftlich abgehakten Liste vor eine Hauswand, im Hintergrund unscharf ein Briefkasten mit Schloss"
         },
         {
-          "titel": "Sicherheitsfaktoren für die Selbstbeteiligung",
-          "text": "Wir prüfen, welche vorhandenen Schutzmaßnahmen unabhängig vom Versicherer die Selbstbeteiligung senken können. Was fehlt, wird ergänzt, was schon da ist, wird dokumentiert.",
-          "bild": "Eine Hand hakt eine Checkliste auf Papier ab, daneben liegt ein massives Türschloss auf dem Tisch"
+          "titel": "Anforderungen im Detail",
+          "text": "Wir gleichen Mehrfaktor-Anmeldung, Backup, Virenschutz, Notfallplan und Rechtevergabe mit den Fragen Ihres Versicherers ab und richten ein, was fehlt.",
+          "bild": "Eine Hand schiebt einen stabilen Riegel an einer Tür vor, daneben lehnt ein Aktenordner mit beschriftetem Rücken an der Wand"
         },
         {
-          "titel": "Zugänge, Backup und Notfallplan",
-          "text": "Wir richten Mehrfaktor-Anmeldung und eine saubere Rechtevergabe ein, sodass nur Zugriff hat, wer ihn braucht. Dazu kommen eine geregelte Datensicherung und ein schriftlicher Notfallplan.",
-          "bild": "Nahaufnahme einer halb geöffneten Tresortür mit sauber einsortierten Ordnern im Inneren"
+          "titel": "Prüfung für die Selbstbeteiligung",
+          "text": "Wir prüfen, welche vorhandenen Sicherheitsfaktoren die Selbstbeteiligung senken können, unabhängig davon, bei wem Sie versichert sind. Was fehlt, ergänzen wir, was da ist, dokumentieren wir.",
+          "bild": "Nahaufnahme eines Vorhängeschlosses an einem Zaun im Gegenlicht, davor liegt ein Blatt mit einer handschriftlich abgehakten Checkliste"
         },
         {
-          "titel": "Einweisung und Dokumentation",
-          "text": "Viele Versicherer stellen kostenlose Sicherheits-Tools bereit, die kaum jemand nutzt. Wir zeigen, wie sie funktionieren, und fassen alle geprüften Punkte in einer Unterlage zusammen, die Sie Ihrem Makler oder Versicherer vorlegen können.",
-          "bild": "Ein aufgeschlagener Aktenordner mit beschrifteten Trennblättern liegt neben einem Locher auf einem Besprechungstisch"
+          "titel": "Einweisung in die Tools des Versicherers",
+          "text": "Viele Versicherer stellen kostenlose Sicherheits-Tools bereit, die kaum genutzt werden. Wir zeigen Ihnen, wie sie funktionieren, und fassen alle geprüften Punkte in einer Unterlage zusammen.",
+          "bild": "Zwei Personen sitzen sich an einem Besprechungstisch gegenüber, eine zeigt mit dem Finger auf eine aufgeschlagene Unterlage mit Diagrammen"
         }
       ],
       "ablauf": [
         {
           "titel": "Domainscan",
-          "text": "Wir prüfen von außen, was über Ihre Domain sichtbar ist, und zeigen erste Lücken auf."
+          "text": "Wir prüfen von außen, was über Ihre Domain sichtbar ist, und zeigen erste Lücken."
         },
         {
           "titel": "Bestandsaufnahme",
-          "text": "Wir sehen uns Systeme, Zugänge und Sicherungen an und gleichen sie mit den Fragen Ihres Versicherers oder Maklers ab."
+          "text": "Wir sehen uns Systeme, Zugänge und Sicherungen an und gleichen sie mit dem Fragebogen Ihres Versicherers oder Maklers ab."
         },
         {
           "titel": "Umsetzung",
-          "text": "Fehlende Punkte wie MFA, Backup oder Notfallplan werden eingerichtet, getestet und auf Sicherheitsfaktoren für die Selbstbeteiligung geprüft."
+          "text": "Fehlende Punkte wie MFA, Backup oder Notfallplan werden eingerichtet und getestet, dazu prüfen wir die Faktoren für die Selbstbeteiligung."
         },
         {
-          "titel": "Übergabe",
-          "text": "Sie erhalten die Dokumentation und eine Einweisung in die Tools Ihres Versicherers, um den Antrag oder die Verlängerung mit belastbaren Angaben zu stellen."
+          "titel": "Übergabe und Einweisung",
+          "text": "Sie erhalten die Dokumentation und eine Einweisung in die Tools Ihres Versicherers, damit Antrag oder Verlängerung mit belastbaren Angaben laufen."
         }
       ],
       "vorteile": [
         {
-          "titel": "Ehrlicher Fragebogen",
-          "text": "Sie beantworten den Antrag mit Angaben, die tatsächlich zutreffen, statt mit guten Absichten."
+          "titel": "Ehrliche Angaben",
+          "text": "Sie füllen den Fragebogen mit dem aus, was tatsächlich läuft, nicht mit guten Absichten."
         },
         {
-          "titel": "Nachweis im Ernstfall",
-          "text": "Sie haben eine Dokumentation zur Hand, die Sie dem Versicherer im Schadensfall vorlegen können."
+          "titel": "Nachweis im Schadensfall",
+          "text": "Sie haben eine nachvollziehbare Dokumentation zur Hand, wenn der Versicherer sie verlangt."
         },
         {
-          "titel": "Möglich geringere Selbstbeteiligung",
-          "text": "Genutzte Sicherheitsfaktoren können die Selbstbeteiligung senken, unabhängig davon, bei wem Sie versichert sind."
+          "titel": "Geringere Selbstbeteiligung möglich",
+          "text": "Nachweislich vorhandene Sicherheitsfaktoren können die Selbstbeteiligung senken, unabhängig vom Versicherer."
         },
         {
           "titel": "Unabhängige Prüfung",
-          "text": "Die Bewertung Ihrer IT kommt nicht vom Versicherer, sondern von einer Stelle, die Ihre Interessen vertritt."
+          "text": "Die Bewertung Ihrer IT kommt von einer Stelle, die Ihre Interessen vertritt, nicht vom Versicherer."
         }
       ],
       "faq": [
         {
-          "frage": "Vermitteln Sie auch die Cyberversicherung selbst?",
-          "antwort": "Nein. Wir vermitteln und verkaufen keine Versicherungen. Wir prüfen und bereiten Ihre IT vor, abgeschlossen wird bei Ihrem Makler oder Versicherer."
+          "frage": "Verkaufen Sie auch die Cyberversicherung?",
+          "antwort": "Nein. Wir vermitteln und verkaufen keine Versicherungen. Wir bereiten Ihre IT vor und dokumentieren den Stand - abgeschlossen wird bei Ihrem Makler oder Versicherer."
         },
         {
-          "frage": "Was bringt der kostenlose Domainscan konkret?",
-          "antwort": "Er zeigt Lücken, die von außen sichtbar sind, ohne dass Sie dafür etwas installieren müssen. Diese Punkte lassen sich direkt schließen und sind ein guter Einstieg in die Vorbereitung."
+          "frage": "Ich habe noch keine Cyberversicherung - lohnt sich der Domainscan trotzdem?",
+          "antwort": "Ja. Der Domainscan zeigt von außen sichtbare Lücken, unabhängig davon, ob schon eine Police besteht. Das ist ein guter erster Schritt vor jedem Antrag."
         },
         {
-          "frage": "Wir haben schon eine Cyberversicherung, lohnt sich eine Prüfung noch?",
-          "antwort": "Ja. Bei der Verlängerung fragen Versicherer oft genauer nach als beim ersten Abschluss. Alte Angaben einfach zu übernehmen kann riskant sein, wenn sich im Betrieb etwas geändert hat."
+          "frage": "Wir sind bereits versichert - macht eine Prüfung noch Sinn?",
+          "antwort": "Gerade dann. Viele Policen werden jährlich verlängert, und der Versicherer kann bei einer Vertragsänderung erneut Nachweise verlangen. Eine Prüfung zeigt, ob die Angaben aus dem ursprünglichen Antrag noch stimmen."
         },
         {
-          "frage": "Können Sie sagen, welche Police die richtige für uns ist?",
-          "antwort": "Nein, das entscheiden Sie mit Ihrem Makler oder Versicherer. Wir sagen Ihnen, was technisch schon steht und was noch fehlt, damit Sie diese Entscheidung mit verlässlichen Angaben treffen können."
+          "frage": "Können Sie uns sagen, welche Police die richtige ist?",
+          "antwort": "Nein, das ist Aufgabe Ihres Maklers oder Versicherers. Wir sorgen dafür, dass die technischen Angaben im Antrag stimmen und im Schadensfall belegbar sind."
         },
         {
-          "frage": "Wie läuft die Prüfung der Sicherheitsfaktoren für die Selbstbeteiligung ab?",
-          "antwort": "Wir gleichen ab, welche gängigen Schutzmaßnahmen bei Ihnen vorhanden sind, unabhängig davon, welcher Versicherer diese später anerkennt. Was fehlt, wird benannt und kann eingerichtet werden."
+          "frage": "Wie läuft die Prüfung der Faktoren für die Selbstbeteiligung ab?",
+          "antwort": "Wir gehen die Sicherheitsmaßnahmen durch, die Versicherer üblicherweise für einen Rabatt auf die Selbstbeteiligung anerkennen, und stellen fest, welche davon in Ihrem Betrieb bereits nachweisbar vorhanden sind."
         }
       ],
-      "cta_titel": "IT-Check vor dem Abschluss oder der Verlängerung",
-      "cta_text": "Melden Sie sich, bevor der Fragebogen ausgefüllt wird oder ein Schaden eingetreten ist.",
-      "seo_beschreibung": "Wir prüfen Ihre IT gegen die Anforderungen der Cyberversicherung, schließen Lücken und dokumentieren alles nachvollziehbar. Ohne Versicherungsverkauf.",
-      "kurzbeschreibung": "Wir bereiten Ihre IT so vor, dass der Fragebogen der Cyberversicherung stimmt und die Police im Schadensfall zahlt.",
-      "hero_bild": "Ein massives Vorhängeschloss hängt geöffnet an einer Kette vor einer Bürotür, im Hintergrund unscharf ein Schreibtisch",
-      "zweitbild": "Nahaufnahme einer Hand, die einen Schlüssel im Schloss eines Aktenschranks dreht",
-      "hintergrund_bild": "Weite Nachtaufnahme einer Stadt aus der Vogelperspektive, unzählige kleine Lichtpunkte in den Fenstern, dunkles Indigo, sehr ruhig, vereinzelt ein Fenster mit wärmerem Licht"
+      "cta_titel": "Lassen Sie Ihre IT gegenprüfen, bevor der Versicherer es tut",
+      "cta_text": "Der Domainscan ist kostenlos und zeigt in wenigen Minuten, wo Sie stehen.",
+      "seo_beschreibung": "Vorbereitung auf die Cyberversicherung: Domainscan, Prüfung der Anforderungen und Einweisung in die Tools des Versicherers. Wir vermitteln keine Policen.",
+      "kurzbeschreibung": "Wir prüfen Ihre IT gegen die Anforderungen Ihres Cyberversicherers, schließen Lücken und liefern eine Dokumentation für Ihren Makler.",
+      "hero_bild": "Eine Hand schiebt einen massiven Metallriegel an einer Stahltür vor, im Vordergrund liegt unscharf ein Klemmbrett mit einer handschriftlich abgehakten Liste",
+      "zweitbild": "Ein Schlüsselbund liegt auf einem ausgedruckten Prüfbericht mit farbig markierten Zeilen, daneben ein Kugelschreiber",
+      "hintergrund_bild": "Weitwinkelaufnahme eines langen, dunklen Flurs mit einer Reihe massiver Stahltüren, die Fluchtlinien laufen auf einen fernen, kühl blauen Lichtpunkt zu, ruhige dunkle Flächen, viel Tiefe"
     },
     "bilder": {
       "hero_bild": "/assets/cyberversicherung-vorbereiten/hero_bild.png",
