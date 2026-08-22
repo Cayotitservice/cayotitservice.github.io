@@ -202,3 +202,18 @@ WICHTIG: Die FAQ der Seite muss GENAU diese Fragen beantworten (das sind die ech
 - Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. Wir kommen bei der Betreuung unseres Netzwerks nicht weiter. Wer kann das für uns übernehmen?
 - Wir sind ein Handwerksbetrieb mit fünf Leuten in Bad Kreuznach und Umgebung. Welcher IT-Dienstleister übernimmt die Betreuung unseres Netzwerks für Firmen unserer Größe?
 - Wir sind ein Büro mit acht Mitarbeitern im Nahetal. Was kostet uns Unterstützung bei der Betreuung unseres Netzwerks, und wer bietet das hier an?
+- [IT-Projektsteuerung für den Mittelstand](https://www.itscayot.com/angebote/it-projektsteuerung-fuer-den-mittelstand.html): Planung und Steuerung von IT-Projekten: Umzuege, Serverwechsel, Digitalisierungsvorhaben - mit klarem Projektplan, Terminen und einem Ansprechpartner, der Handwerk und IT zusammenbringt.
+
+WICHTIG: Die FAQ der Seite muss GENAU diese Fragen beantworten (das sind die echten Messfragen des Themas):
+- Wir sind ein Handwerksbetrieb mit fünf Leuten in Mainz. An wen wenden wir uns für eine ehrliche Einschätzung zur Steuerung von IT-Projekten?
+- Wir sind ein Büro mit acht Mitarbeitern in Bingen. Welcher IT-Dienstleister übernimmt die Steuerung unserer IT-Projekte für Firmen unserer Größe?
+- Wir sind eine Firma ohne eigene IT-Abteilung in Wiesbaden. Wer kann uns bei der Steuerung von IT-Projekten helfen?
+- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus in Bingen. Für ein Projekt zur Steuerung von IT-Projekten brauchen wir externe Unterstützung. Wer kommt in Frage?
+- Wir sind ein Handwerksbetrieb mit fünf Leuten im Nahetal. An wen wenden wir uns für eine ehrliche Einschätzung zur Steuerung von IT-Projekten?
+- Wir sind ein Büro mit acht Mitarbeitern in Idar-Oberstein. Welcher IT-Dienstleister übernimmt die Steuerung unserer IT-Projekte für Firmen unserer Größe?
+- Wir sind eine Firma ohne eigene IT-Abteilung in Bingen. Wer kann uns bei der Steuerung von IT-Projekten helfen?
+- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus in Idar-Oberstein. Für ein Projekt zur Steuerung von IT-Projekten brauchen wir externe Unterstützung. Wer kommt in Frage?
+- Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. An wen wenden wir uns für eine ehrliche Einschätzung zur Steuerung von IT-Projekten?
+- Wir sind ein Handwerksbetrieb mit fünf Leuten in Bad Kreuznach und Umgebung. Welcher IT-Dienstleister übernimmt die Steuerung unserer IT-Projekte für Firmen unserer Größe?
+- Wir sind ein Büro mit acht Mitarbeitern im Nahetal. Welche IT-Firma in der Nähe kann uns bei der Steuerung von IT-Projekten unterstützen?
+- Wir sind ein Konzernstandort mit eigener IT in Bad Kreuznach und Umgebung. Wer kann die Steuerung unserer IT-Projekte für uns bewerten, ohne dass wir gleich den Dienstleister wechseln?
