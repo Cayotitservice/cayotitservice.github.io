@@ -18,7 +18,10 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "ProfessionalService",
+      "@type": [
+        "ProfessionalService",
+        "Organization"
+      ],
       "@id": "https://itscayot.com#organisation",
       "name": "Cayot IT Service",
       "url": "https://itscayot.com",
@@ -87,6 +90,15 @@
         "https://www.youtube.com/@Cayot_IT_Service",
         "https://g.page/r/CRgKx6ommkK5EBE/review"
       ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://angebote.itscayot.com/#website",
+      "url": "https://angebote.itscayot.com/",
+      "name": "Cayot IT Service",
+      "publisher": {
+        "@id": "https://itscayot.com#organisation"
+      }
     },
     {
       "@type": "Service",
