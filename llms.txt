@@ -187,3 +187,18 @@ Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in d
 - Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Rhein-Main-Gebiet. Wir suchen jemanden, der uns bei unserer IT-Strategie punktuell unterstützt. Wen gibt es dafür?
 - Wir brauchen eine IT-Strategie für unser Unternehmen. Wer erarbeitet so etwas?
 - Wer entwickelt für einen Betrieb eine IT-Strategie, statt nur einzelne Produkte zu verkaufen?
+- [Netzwerk-Service für Unternehmen](https://www.itscayot.com/angebote/netzwerk-service-fuer-unternehmen.html): Netzwerkplanung, Verkabelung, Switches, WLAN, Firewall und Dokumentation fuer kleine Unternehmen in Bad Kreuznach und Umgebung - vom Netzwerkplan bis zur Wartung aus einer Hand.
+
+WICHTIG: Die FAQ der Seite muss GENAU diese Fragen beantworten (das sind die echten Messfragen des Themas):
+- Ich bin selbständig und habe niemanden für IT in Bingen. Um die Betreuung unseres Netzwerks kümmert sich bei uns niemand. An wen wendet man sich da?
+- Wir sind ein Familienbetrieb mit zwölf Leuten in Wiesbaden. Wer bietet die Betreuung unseres Netzwerks für Unternehmen in der Region an?
+- Wir sind eine Praxis mit drei Mitarbeitern in Bad Kreuznach. Wir wollen uns bei der Betreuung unseres Netzwerks extern unterstützen lassen. Wer kommt dafür in Frage?
+- Ich bin selbständig und habe niemanden für IT in Idar-Oberstein. Um die Betreuung unseres Netzwerks kümmert sich bei uns niemand. An wen wendet man sich da?
+- Wir sind ein Familienbetrieb mit zwölf Leuten in Bingen. Wer bietet die Betreuung unseres Netzwerks für Unternehmen in der Region an?
+- Wir sind eine Praxis mit drei Mitarbeitern in Ingelheim. Wir wollen uns bei der Betreuung unseres Netzwerks extern unterstützen lassen. Wer kommt dafür in Frage?
+- Wir sind eine Praxis mit drei Mitarbeitern in Bad Kreuznach und Umgebung. Um die Betreuung unseres Netzwerks kümmert sich bei uns niemand. An wen wendet man sich da?
+- Ich bin selbständig und habe niemanden für IT im Nahetal. Wer bietet die Betreuung unseres Netzwerks für Unternehmen in der Region an?
+- Wir sind ein Familienbetrieb mit zwölf Leuten in Idar-Oberstein. Wir wollen uns bei der Betreuung unseres Netzwerks extern unterstützen lassen. Wer kommt dafür in Frage?
+- Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. Wir kommen bei der Betreuung unseres Netzwerks nicht weiter. Wer kann das für uns übernehmen?
+- Wir sind ein Handwerksbetrieb mit fünf Leuten in Bad Kreuznach und Umgebung. Welcher IT-Dienstleister übernimmt die Betreuung unseres Netzwerks für Firmen unserer Größe?
+- Wir sind ein Büro mit acht Mitarbeitern im Nahetal. Was kostet uns Unterstützung bei der Betreuung unseres Netzwerks, und wer bietet das hier an?
