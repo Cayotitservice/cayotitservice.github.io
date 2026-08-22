@@ -18,10 +18,13 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "ProfessionalService",
-      "@id": "/#organisation",
+      "@type": [
+        "ProfessionalService",
+        "Organization"
+      ],
+      "@id": "https://itscayot.com#organisation",
       "name": "Cayot IT Service",
-      "url": "/",
+      "url": "https://itscayot.com",
       "areaServed": [
         {
           "@type": "GeoCircle",
@@ -89,12 +92,21 @@
       ]
     },
     {
+      "@type": "WebSite",
+      "@id": "https://angebote.itscayot.com/#website",
+      "url": "https://angebote.itscayot.com/",
+      "name": "Cayot IT Service",
+      "publisher": {
+        "@id": "https://itscayot.com#organisation"
+      }
+    },
+    {
       "@type": "Service",
       "name": "Kontrolle darüber, wer in Ihrem Namen mailt",
       "description": "E-Mail-Sicherheitscheck: SPF, DKIM und DMARC prüfen und einrichten lassen. Festpreis auf Anfrage, für Firmen und Selbständige.",
       "url": "https://angebote.itscayot.com/angebote/e-mail-sicherheitscheck.html",
       "provider": {
-        "@id": "/#organisation"
+        "@id": "https://itscayot.com#organisation"
       },
       "areaServed": [
         {
@@ -449,12 +461,12 @@ input:focus,textarea:focus{outline:2px solid #29a8ff;outline-offset:1px}
 <body>
 
 <header class="kopf">
-  <a class="marke" href="/">
+  <a class="marke" href="https://itscayot.com">
     <img src="/assets/marke/logo.png" alt="Cayot IT Service" />
     <span>Cayot IT Service</span>
   </a>
   <nav>
-    <a href="/">Zur Hauptseite</a>
+    <a href="https://itscayot.com">Zur Hauptseite</a>
     <a class="knopf klein" href="#anfrage">Kontakt</a>
   </nav>
 </header>
@@ -503,7 +515,7 @@ input:focus,textarea:focus{outline:2px solid #29a8ff;outline-offset:1px}
 
 <section class="block weitere">
   <h2>Weitere Angebote</h2>
-  <div class="weiter-liste"><a class="weiter-karte" href="/angebote/cyberversicherung-vorbereiten.html"><strong>Damit Ihre Cyberversicherung im Schadensfall zahlt</strong><span>Wir prüfen, ob Ihre IT die Anforderungen Ihrer Cyberversicherung wirklich erfüllt, und setzen um, was noch fehlt.</span></a><a class="weiter-karte" href="/angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html"><strong>Displays für Besprechung und Unterricht, startklar</strong><span>Interaktive Displays für Besprechungsraum und Klassenzimmer, komplett montiert, eingerichtet und mit Schulung für Ihr Team.</span></a><a class="weiter-karte" href="/angebote/nas-und-backup-service.html"><strong>Ein Ort für alle Daten - im Büro und unterwegs</strong><span>Ein zentraler, überwachter Speicherort für all Ihre Daten - mit Zugriff von unterwegs und geprüfter Sicherung.</span></a><a class="weiter-karte" href="/angebote/security-paket-fuer-unternehmen.html"><strong>Ein Sicherheitspaket, das zusammenspielt</strong><span>Drei Schutzebenen, ein Ansprechpartner: E-Mail-Sicherheit, Endgeräteschutz und Firewall aufeinander abgestimmt.</span></a><a class="weiter-karte" href="/angebote/eure-it-abteilung.html"><strong>Eine IT-Abteilung, ohne sie einzustellen</strong><span>Ein monatliches Stundenkontingent mit fester Ansprechperson für alle IT-Fragen, ohne eigene IT-Stelle einzurichten.</span></a><a class="weiter-karte" href="/angebote/it-dokumente.html"><strong>IT-Unterlagen, die im Ernstfall Bestand haben</strong><span>Individuell erstellte IT-Dokumente wie Administrationskonzept, Security-Roadmap, Risikobewertung und Onboarding-Checkliste, passend zu Ihrem Betrieb.</span></a></div>
+  <div class="weiter-liste"><a class="weiter-karte" href="/angebote/server-virtualisierung.html"><strong>Aus alten Servern wird eine sichere Maschine</strong><span>Mehrere alte Server werden zu wenigen gut gesicherten virtuellen Maschinen zusammengefasst, geplant und dauerhaft betreut.</span></a><a class="weiter-karte" href="/angebote/cyberversicherung-vorbereiten.html"><strong>Damit die Cyberversicherung im Ernstfall zahlt</strong><span>Wir prüfen Ihre IT gegen die Anforderungen Ihres Cyberversicherers, schließen Lücken und liefern eine Dokumentation für Ihren Makler.</span></a><a class="weiter-karte" href="/angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html"><strong>Displays für Besprechung und Unterricht, startklar</strong><span>Interaktive Displays für Besprechungsraum und Klassenzimmer, komplett montiert, eingerichtet und mit Schulung für Ihr Team.</span></a><a class="weiter-karte" href="/angebote/nas-und-backup-service.html"><strong>Ein Ort für alle Daten - im Büro und unterwegs</strong><span>Ein zentraler, überwachter Speicherort für all Ihre Daten - mit Zugriff von unterwegs und geprüfter Sicherung.</span></a><a class="weiter-karte" href="/angebote/it-strategie-fuer-ihr-unternehmen.html"><strong>Ein Plan, wohin sich Ihre IT entwickelt</strong><span>Ein schriftlicher Maßnahmenplan mit Budget, der festlegt, wohin sich Ihre IT entwickeln soll - unabhängig und jährlich nachgehalten.</span></a><a class="weiter-karte" href="/angebote/security-paket-fuer-unternehmen.html"><strong>Ein Sicherheitspaket, das zusammenspielt</strong><span>Drei Schutzebenen, ein Ansprechpartner: E-Mail-Sicherheit, Endgeräteschutz und Firewall aufeinander abgestimmt.</span></a></div>
   <p class="weiter-alle"><a href="./">Alle Angebote im Überblick</a></p>
 </section>
 
@@ -549,11 +561,11 @@ input:focus,textarea:focus{outline:2px solid #29a8ff;outline-offset:1px}
     </div>
     <div>
       <h4>Mehr</h4>
-      <p><a href="/">Zur Hauptseite</a><br /><a href="./">Alle Angebote</a><br /><a href="https://instagram.com/cayot_it_service" target="_blank" rel="noopener">Instagram</a><br /><a href="https://www.youtube.com/@Cayot_IT_Service" target="_blank" rel="noopener">YouTube</a><br /><a href="https://g.page/r/CRgKx6ommkK5EBE/review" target="_blank" rel="noopener">Google-Bewertungen</a></p>
+      <p><a href="https://itscayot.com">Zur Hauptseite</a><br /><a href="./">Alle Angebote</a><br /><a href="https://instagram.com/cayot_it_service" target="_blank" rel="noopener">Instagram</a><br /><a href="https://www.youtube.com/@Cayot_IT_Service" target="_blank" rel="noopener">YouTube</a><br /><a href="https://g.page/r/CRgKx6ommkK5EBE/review" target="_blank" rel="noopener">Google-Bewertungen</a></p>
     </div>
     <div>
       <h4>Rechtliches</h4>
-      <p><a href="/impressum.html">Impressum</a><br /><a href="/datenschutz.html">Datenschutz</a><br /><a href="https://www.itscayot.com/agb">AGB</a></p>
+      <p><a href="https://www.itscayot.com/impressum">Impressum</a><br /><a href="https://www.itscayot.com/datenschutz">Datenschutz</a><br /><a href="https://www.itscayot.com/agb">AGB</a></p>
     </div>
   </div>
   <div class="partner">
