@@ -2611,7 +2611,8 @@
     "aufbau": "wechsel",
     "ablauf_art": "strang",
     "fuer_wen_art": "zeilen",
-    "erstellt": "2026-08-20T13:45:39"
+    "erstellt": "2026-08-20T13:45:39",
+    "neu_gesetzt": "2026-08-22T12:11:04"
   },
   "server-virtualisierung": {
     "titel": "Server-Virtualisierung",
