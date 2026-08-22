@@ -18,7 +18,10 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "ProfessionalService",
+      "@type": [
+        "ProfessionalService",
+        "Organization"
+      ],
       "@id": "https://itscayot.com#organisation",
       "name": "Cayot IT Service",
       "url": "https://itscayot.com",
@@ -87,6 +90,15 @@
         "https://www.youtube.com/@Cayot_IT_Service",
         "https://g.page/r/CRgKx6ommkK5EBE/review"
       ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://angebote.itscayot.com/#website",
+      "url": "https://angebote.itscayot.com/",
+      "name": "Cayot IT Service",
+      "publisher": {
+        "@id": "https://itscayot.com#organisation"
+      }
     },
     {
       "@type": "Service",
@@ -504,7 +516,7 @@ input:focus,textarea:focus{outline:2px solid #29a8ff;outline-offset:1px}
 
 <section class="block weitere">
   <h2>Weitere Angebote</h2>
-  <div class="weiter-liste"><a class="weiter-karte" href="/angebote/server-virtualisierung.html"><strong>Aus alten Servern wird eine sichere Maschine</strong><span>Mehrere alte Server werden zu wenigen gut gesicherten virtuellen Maschinen zusammengefasst, geplant und dauerhaft betreut.</span></a><a class="weiter-karte" href="/angebote/cyberversicherung-vorbereiten.html"><strong>Damit Ihre Cyberversicherung im Schadensfall zahlt</strong><span>Wir prüfen, ob Ihre IT die Anforderungen Ihrer Cyberversicherung wirklich erfüllt, und setzen um, was noch fehlt.</span></a><a class="weiter-karte" href="/angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html"><strong>Displays für Besprechung und Unterricht, startklar</strong><span>Interaktive Displays für Besprechungsraum und Klassenzimmer, komplett montiert, eingerichtet und mit Schulung für Ihr Team.</span></a><a class="weiter-karte" href="/angebote/nas-und-backup-service.html"><strong>Ein Ort für alle Daten - im Büro und unterwegs</strong><span>Ein zentraler, überwachter Speicherort für all Ihre Daten - mit Zugriff von unterwegs und geprüfter Sicherung.</span></a><a class="weiter-karte" href="/angebote/security-paket-fuer-unternehmen.html"><strong>Ein Sicherheitspaket, das zusammenspielt</strong><span>Drei Schutzebenen, ein Ansprechpartner: E-Mail-Sicherheit, Endgeräteschutz und Firewall aufeinander abgestimmt.</span></a><a class="weiter-karte" href="/angebote/windows-server-betreuung.html"><strong>Ein Windows-Server, der einfach läuft</strong><span>Laufende Betreuung Ihres Windows-Servers - Updates, Berechtigungen, geprüfte Sicherung und ein fester Ansprechpartner bei Störungen.</span></a></div>
+  <div class="weiter-liste"><a class="weiter-karte" href="/angebote/server-virtualisierung.html"><strong>Aus alten Servern wird eine sichere Maschine</strong><span>Mehrere alte Server werden zu wenigen gut gesicherten virtuellen Maschinen zusammengefasst, geplant und dauerhaft betreut.</span></a><a class="weiter-karte" href="/angebote/cyberversicherung-vorbereiten.html"><strong>Damit die Cyberversicherung im Ernstfall zahlt</strong><span>Wir prüfen Ihre IT gegen die Anforderungen Ihres Cyberversicherers, schließen Lücken und liefern eine Dokumentation für Ihren Makler.</span></a><a class="weiter-karte" href="/angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html"><strong>Displays für Besprechung und Unterricht, startklar</strong><span>Interaktive Displays für Besprechungsraum und Klassenzimmer, komplett montiert, eingerichtet und mit Schulung für Ihr Team.</span></a><a class="weiter-karte" href="/angebote/nas-und-backup-service.html"><strong>Ein Ort für alle Daten - im Büro und unterwegs</strong><span>Ein zentraler, überwachter Speicherort für all Ihre Daten - mit Zugriff von unterwegs und geprüfter Sicherung.</span></a><a class="weiter-karte" href="/angebote/it-strategie-fuer-ihr-unternehmen.html"><strong>Ein Plan, wohin sich Ihre IT entwickelt</strong><span>Ein schriftlicher Maßnahmenplan mit Budget, der festlegt, wohin sich Ihre IT entwickeln soll - unabhängig und jährlich nachgehalten.</span></a><a class="weiter-karte" href="/angebote/security-paket-fuer-unternehmen.html"><strong>Ein Sicherheitspaket, das zusammenspielt</strong><span>Drei Schutzebenen, ein Ansprechpartner: E-Mail-Sicherheit, Endgeräteschutz und Firewall aufeinander abgestimmt.</span></a></div>
   <p class="weiter-alle"><a href="./">Alle Angebote im Überblick</a></p>
 </section>
 
