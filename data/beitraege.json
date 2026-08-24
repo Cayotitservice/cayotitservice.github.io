@@ -1,36 +1,36 @@
 {
- "stand": "2026-08-23T06:30",
+ "stand": "2026-08-24T06:30",
  "beitraege": [
   {
-   "id": "18041535254817739",
-   "titel": "NUMA-Falle: Viele Kerne, wenig Tempo",
-   "bild": "/assets/instagram/18041535254817739.jpg",
-   "link": "https://www.instagram.com/reel/DcWSvUiCYEE/",
-   "datum": "2026-08-22",
+   "id": "17898706212569755",
+   "titel": "Vapor Chamber: So bleibt die GPU kühl",
+   "bild": "/assets/instagram/17898706212569755.jpg",
+   "link": "https://www.instagram.com/reel/DcY3l1FmBLZ/",
+   "datum": "2026-08-23",
    "art": "VIDEO"
   },
   {
-   "id": "18147131467545558",
-   "titel": "1 Slot, 4 SSDs? So macht PCI-Express-Bifurcation es möglich",
-   "bild": "/assets/instagram/18147131467545558.jpg",
-   "link": "https://www.instagram.com/reel/DcVwW9wj4Na/",
-   "datum": "2026-08-22",
+   "id": "18152742481452690",
+   "titel": "SR-IOV: Mehr Speed für virtuelle Maschinen",
+   "bild": "/assets/instagram/18152742481452690.jpg",
+   "link": "https://www.instagram.com/reel/DcYVPUBikBA/",
+   "datum": "2026-08-23",
    "art": "VIDEO"
   },
   {
-   "id": "17962864455151441",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 34",
-   "bild": "/assets/instagram/17962864455151441.jpg",
-   "link": "https://www.instagram.com/reel/DcVs7DfDCOd/",
-   "datum": "2026-08-22",
+   "id": "17991240897001071",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 35",
+   "bild": "/assets/instagram/17991240897001071.jpg",
+   "link": "https://www.instagram.com/reel/DcYRtI7EmzE/",
+   "datum": "2026-08-23",
    "art": "VIDEO"
   },
   {
-   "id": "18030595376660353",
+   "id": "17984284410100594",
    "titel": "",
-   "bild": "/assets/instagram/18030595376660353.jpg",
-   "link": "https://www.instagram.com/reel/DcVU-S1EVPC/",
-   "datum": "2026-08-22",
+   "bild": "/assets/instagram/17984284410100594.jpg",
+   "link": "https://www.instagram.com/reel/DcX5slgCZXZ/",
+   "datum": "2026-08-23",
    "art": "VIDEO"
   }
  ]
