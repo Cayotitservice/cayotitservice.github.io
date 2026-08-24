@@ -3829,5 +3829,156 @@
     "fuer_wen_art": "zeilen",
     "erstellt": "2026-08-22T12:09:08",
     "neu_gesetzt": "2026-08-22T12:11:40"
+  },
+  "ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen": {
+    "titel": "KI-Sichtbarkeits-Check: Wird Ihr Betrieb von ChatGPT & Co. empfohlen?",
+    "stil": "",
+    "thema": "Unser eigenes Produkt: der KI-Sichtbarkeits-Check. Immer mehr Menschen fragen ChatGPT, Perplexity oder die Google-KI nach einem Dienstleister - wer dort nicht auftaucht, existiert fuer diese Kunden nicht. Wir messen, ob und wie ein Betrieb aus der Region in KI-Antworten genannt wird, pruefen die Website technisch (Bot-Freigaben, Struktur, Inhalte, eigene Themen-Seiten) und liefern einen verstaendlichen Bericht mit konkreten, belegten Empfehlungen - auf Wunsch setzen wir sie direkt um. Festpreis, Details im kostenlosen Kurzgespraech. Zielgruppe: kleine Unternehmen, Praxen, Kanzleien und Handwerk in der Region Bad Kreuznach.",
+    "produkt": "KI-Sichtbarkeits-Check",
+    "path": "angebote/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen.html",
+    "assets": [
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hero_bild.png",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/zweitbild.png",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hintergrund_bild.png",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.png",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.png",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.png",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.png"
+    ],
+    "inhalt": {
+      "kategorie": "Beratung & Dokumente",
+      "hero_titel": "Sichtbar in ChatGPT, Perplexity und Google-KI",
+      "hero_unterzeile": "Wir prüfen, ob Ihr Betrieb in den Antworten von ChatGPT und Co. genannt wird, und zeigen Ihnen in einem klaren Bericht, was dafür nötig ist. So erreichen Sie auch Kunden, die nicht mehr googeln, sondern fragen.",
+      "fuer_wen": [
+        "Handwerksbetriebe, die regional gefunden werden wollen",
+        "Arztpraxen und Kanzleien mit Terminanfragen über das Internet",
+        "Einzelunternehmer und Selbständige ohne eigene Marketingabteilung",
+        "Kleine Unternehmen, die spüren, dass Anfragen über Google weniger werden"
+      ],
+      "problem_ueberschrift": "Ihr Betrieb fehlt in der Antwort",
+      "problem": [
+        {
+          "titel": "Kunden fragen nicht mehr, sie fragen die KI",
+          "text": "Immer mehr Menschen tippen ihre Suche nicht bei Google ein, sondern fragen ChatGPT oder die Google-KI direkt nach einem Handwerker, einer Praxis oder einer Kanzlei in der Nähe. Wird Ihr Betrieb dabei nicht genannt, taucht er für diese Kunden gar nicht erst auf."
+        },
+        {
+          "titel": "Niemand weiß, woran es liegt",
+          "text": "Die meisten Websites sind für Menschen gemacht, nicht für die Systeme, die KI-Antworten zusammenstellen. Ob die eigene Seite überhaupt lesbar für diese Systeme ist, lässt sich ohne technische Prüfung kaum erkennen."
+        },
+        {
+          "titel": "Der Wettbewerb ist bereits sichtbar",
+          "text": "In vielen Branchen nennt die KI schon einzelne Anbieter aus der Region namentlich. Wer dort nicht vorkommt, verliert Anfragen, ohne es zu merken - es gibt keine Absage, einfach nur Stille."
+        }
+      ],
+      "loesung_ueberschrift": "Was der Check zeigt",
+      "loesung": [
+        {
+          "titel": "Messung der Sichtbarkeit",
+          "text": "Wir stellen ChatGPT, Perplexity und der Google-KI typische Fragen aus Ihrer Branche und Region, etwa nach einem Betrieb in der Nähe. Wir dokumentieren, ob und mit welchen Angaben Ihr Betrieb dabei genannt wird.",
+          "bild": "Hand, die auf einem Klemmbrett eine handschriftliche Liste von Orts- und Branchenbegriffen abhakt, Bildschirm im Hintergrund unscharf",
+          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.png"
+        },
+        {
+          "titel": "Technische Prüfung der Website",
+          "text": "Wir prüfen, ob die Systeme hinter den KI-Antworten Ihre Seite überhaupt lesen dürfen, wie sie aufgebaut ist und ob eigene Seiten zu Ihren wichtigsten Themen fehlen. Das entscheidet, ob Ihre Inhalte als Quelle in Frage kommen.",
+          "bild": "Zwei Personen beugen sich über einen ausgedruckten Seitenaufbau-Plan auf einem Tisch, ein Finger zeigt auf einen markierten Bereich",
+          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.png"
+        },
+        {
+          "titel": "Bericht mit belegten Empfehlungen",
+          "text": "Sie bekommen einen verständlichen Bericht: was heute schon funktioniert, was fehlt und welche Schritte am meisten bringen. Jede Empfehlung ist mit dem gemessenen Befund belegt, keine Vermutung.",
+          "bild": "Ausgedruckter Bericht mit farbigen Markierungen und Haftnotizen liegt aufgeschlagen auf einem Besprechungstisch, eine Hand hält einen Stift daran",
+          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.png"
+        },
+        {
+          "titel": "Umsetzung auf Wunsch",
+          "text": "Wenn Sie möchten, setzen wir die empfohlenen Änderungen direkt um, von den technischen Freigaben bis zu neuen Themen-Seiten. Sie müssen sich nicht selbst durch die Fachbegriffe arbeiten.",
+          "bild": "Zwei Personen am Besprechungstisch, eine reicht der anderen ein unterschriebenes Blatt, im Hintergrund ein aufgeklappter Ordner",
+          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.png"
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Kurzgespräch",
+          "text": "Wir sprechen kostenlos über Ihren Betrieb, Ihre Region und Ihre wichtigsten Leistungen. Dabei klären wir auch den Festpreis für Ihren Fall."
+        },
+        {
+          "titel": "Messung und Prüfung",
+          "text": "Wir fragen die gängigen KI-Systeme ab und prüfen Ihre Website technisch, ohne dass Sie etwas vorbereiten müssen."
+        },
+        {
+          "titel": "Bericht und Gespräch",
+          "text": "Sie erhalten den Bericht und wir gehen die Ergebnisse gemeinsam durch, in normalen Worten statt in Fachbegriffen."
+        },
+        {
+          "titel": "Umsetzung, wenn gewünscht",
+          "text": "Auf Wunsch setzen wir die Empfehlungen um und prüfen nach einiger Zeit erneut, ob sich die Sichtbarkeit verändert hat."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Klarer Befund statt Vermutung",
+          "text": "Sie wissen anhand echter Abfragen, ob und wie Ihr Betrieb in KI-Antworten vorkommt, statt zu raten."
+        },
+        {
+          "titel": "Festpreis",
+          "text": "Der Preis steht vor Beginn fest, die Details klären wir im kostenlosen Kurzgespräch."
+        },
+        {
+          "titel": "Konkrete nächste Schritte",
+          "text": "Jede Empfehlung ist auf Ihren Betrieb bezogen und nach Wirkung geordnet, nicht als allgemeine Liste."
+        },
+        {
+          "titel": "Umsetzung aus einer Hand",
+          "text": "Wenn gewünscht, ändern wir die Website direkt, ohne dass Sie zwischen mehreren Ansprechpartnern vermitteln müssen."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Was genau wird geprüft?",
+          "antwort": "Wir fragen ChatGPT, Perplexity und die Google-KI mit typischen Anfragen aus Ihrer Branche und Region ab und prüfen Ihre Website darauf, ob Suchsysteme sie lesen und einordnen können."
+        },
+        {
+          "frage": "Was kostet der Check?",
+          "antwort": "Es gibt einen Festpreis, den wir im kostenlosen Kurzgespräch anhand Ihres Betriebs und Ihrer Website festlegen."
+        },
+        {
+          "frage": "Brauche ich technisches Wissen, um den Bericht zu verstehen?",
+          "antwort": "Nein. Der Bericht ist auf Verständlichkeit ausgelegt und erklärt Fachbegriffe dort, wo sie vorkommen."
+        },
+        {
+          "frage": "Setzen Sie die Empfehlungen auch um?",
+          "antwort": "Auf Wunsch ja. Sie können den Bericht aber auch selbst oder mit Ihrer bestehenden Agentur umsetzen."
+        },
+        {
+          "frage": "Für welche Branchen lohnt sich der Check?",
+          "antwort": "Für alle Betriebe, bei denen Kunden vorher online nach einem Anbieter suchen, etwa Handwerk, Praxen, Kanzleien und kleine Unternehmen aus der Region."
+        }
+      ],
+      "cta_titel": "Prüfen Sie Ihre Sichtbarkeit",
+      "cta_text": "Ein kurzes Gespräch zeigt, wo Ihr Betrieb heute steht und was sich lohnt.",
+      "seo_beschreibung": "KI-Sichtbarkeits-Check aus Bad Kreuznach: Wir prüfen, ob ChatGPT, Perplexity und Google-KI Ihren Betrieb nennen, und liefern konkrete Empfehlungen.",
+      "kurzbeschreibung": "Wir prüfen, ob und wie ChatGPT und Co. Ihren Betrieb nennen, und zeigen Ihnen in einem Bericht, was sich lohnt.",
+      "hero_bild": "Zwei Personen sitzen an einem Besprechungstisch, vor ihnen liegt ein ausgedruckter Bericht mit markierten Textstellen, eine Hand zeigt auf eine Zeile",
+      "zweitbild": "Nahaufnahme einer Hand, die mit einem Stift eine handschriftliche Liste von Suchbegriffen und Ortsnamen auf einem Klemmbrett abhakt",
+      "hintergrund_bild": "Blick von unten nach oben an der Fassade eines kleinen Geschäftshauses, Fenster und Dachkante ragen in einen weiten Himmel, ungewöhnlicher Blickwinkel, kühles stahlblaues Licht, ruhige leere Flächen ohne Menschen"
+    },
+    "bilder": {
+      "hero_bild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hero_bild.png",
+      "zweitbild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/zweitbild.png",
+      "hintergrund_bild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hintergrund_bild.png",
+      "reihe_0": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.png",
+      "reihe_1": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.png",
+      "reihe_2": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.png",
+      "reihe_3": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.png"
+    },
+    "hero_titel": "Sichtbar in ChatGPT, Perplexity und Google-KI",
+    "kategorie": "Beratung & Dokumente",
+    "kurzbeschreibung": "Wir prüfen, ob und wie ChatGPT und Co. Ihren Betrieb nennen, und zeigen Ihnen in einem Bericht, was sich lohnt.",
+    "bildrichtung": "Perspektive von unten nach oben, ungewohnter Blickwinkel, Stahlblau",
+    "aufbau": "bild_oben",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "trennstrich",
+    "erstellt": "2026-08-24T14:09:19"
   }
 }
