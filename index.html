@@ -390,7 +390,12 @@
       <h3>Sprechen wir über Ihren Bedarf</h3>
       <!-- Ziel des Formulars wird beim Umzug ein Carlos-Endpunkt (/website/kontakt) -
            bis dahin oeffnet der Knopf eine vorbefuellte Mail, damit nichts verloren geht. -->
-      <form class="formfeld" action="mailto:Info@ITSCayot.com" method="get" enctype="text/plain">
+      <form class="formfeld" action="https://formsubmit.co/info@itscayot.com" method="POST">
+        <input type="hidden" name="_subject" value="Neue Anfrage über itscayot.com">
+        <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_next" value="https://www.itscayot.com/danke.html">
+        <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
         <div><label>*Vorname</label><input name="vorname" required></div>
         <div><label>*Nachname</label><input name="nachname" required></div>
         <div><label>*E-Mail-Adresse</label><input name="email" type="email" required></div>
