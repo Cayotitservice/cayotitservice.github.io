@@ -1,36 +1,36 @@
 {
- "stand": "2026-08-24T06:30",
+ "stand": "2026-08-25T06:30",
  "beitraege": [
   {
-   "id": "17898706212569755",
-   "titel": "Vapor Chamber: So bleibt die GPU kühl",
-   "bild": "/assets/instagram/17898706212569755.jpg",
-   "link": "https://www.instagram.com/reel/DcY3l1FmBLZ/",
-   "datum": "2026-08-23",
+   "id": "18112131173326681",
+   "titel": "Netzwerk im Server, ohne Kabel: Wie der virtuelle Switch funktioniert",
+   "bild": "/assets/instagram/18112131173326681.jpg",
+   "link": "https://www.instagram.com/reel/DcbcUPlj7I-/",
+   "datum": "2026-08-24",
    "art": "VIDEO"
   },
   {
-   "id": "18152742481452690",
-   "titel": "SR-IOV: Mehr Speed für virtuelle Maschinen",
-   "bild": "/assets/instagram/18152742481452690.jpg",
-   "link": "https://www.instagram.com/reel/DcYVPUBikBA/",
-   "datum": "2026-08-23",
-   "art": "VIDEO"
-  },
-  {
-   "id": "17991240897001071",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 35",
-   "bild": "/assets/instagram/17991240897001071.jpg",
-   "link": "https://www.instagram.com/reel/DcYRtI7EmzE/",
-   "datum": "2026-08-23",
-   "art": "VIDEO"
-  },
-  {
-   "id": "17984284410100594",
+   "id": "18050685536581741",
    "titel": "",
-   "bild": "/assets/instagram/17984284410100594.jpg",
-   "link": "https://www.instagram.com/reel/DcX5slgCZXZ/",
-   "datum": "2026-08-23",
+   "bild": "/assets/instagram/18050685536581741.jpg",
+   "link": "https://www.instagram.com/reel/Dca6AxME86n/",
+   "datum": "2026-08-24",
+   "art": "VIDEO"
+  },
+  {
+   "id": "18122732446654255",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 36",
+   "bild": "/assets/instagram/18122732446654255.jpg",
+   "link": "https://www.instagram.com/reel/Dca2kl7CFJy/",
+   "datum": "2026-08-24",
+   "art": "VIDEO"
+  },
+  {
+   "id": "17932255716364241",
+   "titel": "Microsoft 365 geknackt ohne Passwort? OAuth-Apps als Einfallstor",
+   "bild": "/assets/instagram/17932255716364241.jpg",
+   "link": "https://www.instagram.com/reel/DcaeiJjE1d0/",
+   "datum": "2026-08-24",
    "art": "VIDEO"
   }
  ]
