@@ -1,36 +1,36 @@
 {
- "stand": "2026-08-26T06:30",
+ "stand": "2026-08-27T06:30",
  "beitraege": [
   {
-   "id": "17904226563539232",
-   "titel": "Kleine Schraube, großer Schaden: Wenn Abstandshalter falsch sitzen",
-   "bild": "/assets/instagram/17904226563539232.jpg",
-   "link": "https://www.instagram.com/reel/DceBDT7js-a/",
-   "datum": "2026-08-25",
+   "id": "18092504906441536",
+   "titel": "IP über VLANs? So hilft DHCP Relay",
+   "bild": "/assets/instagram/18092504906441536.jpg",
+   "link": "https://www.instagram.com/reel/Dcgl4ZYkjFi/",
+   "datum": "2026-08-26",
    "art": "VIDEO"
   },
   {
-   "id": "18197821147328921",
-   "titel": "Fremder DHCP-Server im Netz? Dann bekommt jeder das falsche Gateway",
-   "bild": "/assets/instagram/18197821147328921.jpg",
-   "link": "https://www.instagram.com/reel/DcdevlhErRp/",
-   "datum": "2026-08-25",
+   "id": "18106743029169441",
+   "titel": "Senkrechte GPU? Kann ein PCIe-Riser wirklich Performance kosten",
+   "bild": "/assets/instagram/18106743029169441.jpg",
+   "link": "https://www.instagram.com/reel/DcgDhR4ge-r/",
+   "datum": "2026-08-26",
    "art": "VIDEO"
   },
   {
-   "id": "17866963953642013",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 37",
-   "bild": "/assets/instagram/17866963953642013.jpg",
-   "link": "https://www.instagram.com/reel/DcdbdMbAJhw/",
-   "datum": "2026-08-25",
+   "id": "17974558011066956",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 38",
+   "bild": "/assets/instagram/17974558011066956.jpg",
+   "link": "https://www.instagram.com/reel/DcgAMy0ApfH/",
+   "datum": "2026-08-26",
    "art": "VIDEO"
   },
   {
-   "id": "18158877835493778",
-   "titel": "Immutable Backups: Unveränderbar. Unlöschbar. Unverzichtbar.",
-   "bild": "/assets/instagram/18158877835493778.jpg",
-   "link": "https://www.instagram.com/reel/DcdDRtijf9R/",
-   "datum": "2026-08-25",
+   "id": "18145047079555747",
+   "titel": "",
+   "bild": "/assets/instagram/18145047079555747.jpg",
+   "link": "https://www.instagram.com/reel/DcfoEHKjVWl/",
+   "datum": "2026-08-26",
    "art": "VIDEO"
   }
  ]
