@@ -1,36 +1,36 @@
 {
- "stand": "2026-09-01T06:30",
+ "stand": "2026-09-02T06:30",
  "beitraege": [
   {
-   "id": "18050315288649082",
-   "titel": "Mehr Speicher übrig: Wie Erasure Coding Platz in VMware vSAN spart",
-   "bild": "/assets/instagram/18050315288649082.jpg",
-   "link": "https://www.instagram.com/reel/Dctd4-jDHKc/",
-   "datum": "2026-08-31",
-   "art": "VIDEO"
-  },
-  {
-   "id": "18126529705764068",
+   "id": "18427649803182351",
    "titel": "",
-   "bild": "/assets/instagram/18126529705764068.jpg",
-   "link": "https://www.instagram.com/reel/Dcs7kSsic2a/",
-   "datum": "2026-08-31",
+   "bild": "/assets/instagram/18427649803182351.jpg",
+   "link": "https://www.instagram.com/reel/DcwCpXwlZs4/",
+   "datum": "2026-09-01",
    "art": "VIDEO"
   },
   {
-   "id": "18121785043895543",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 43",
-   "bild": "/assets/instagram/18121785043895543.jpg",
-   "link": "https://www.instagram.com/reel/Dcs4Izxkxrz/",
-   "datum": "2026-08-31",
-   "art": "VIDEO"
-  },
-  {
-   "id": "18166775491458876",
+   "id": "17998425150006937",
    "titel": "",
-   "bild": "/assets/instagram/18166775491458876.jpg",
-   "link": "https://www.instagram.com/reel/DcsgDM3gBGh/",
-   "datum": "2026-08-31",
+   "bild": "/assets/instagram/17998425150006937.jpg",
+   "link": "https://www.instagram.com/reel/DcvgSmtj2mJ/",
+   "datum": "2026-09-01",
+   "art": "VIDEO"
+  },
+  {
+   "id": "17899785186566968",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 44",
+   "bild": "/assets/instagram/17899785186566968.jpg",
+   "link": "https://www.instagram.com/reel/Dcvc-FFEhzy/",
+   "datum": "2026-09-01",
+   "art": "VIDEO"
+  },
+  {
+   "id": "18366780214208226",
+   "titel": "",
+   "bild": "/assets/instagram/18366780214208226.jpg",
+   "link": "https://www.instagram.com/reel/DcvE19slW2o/",
+   "datum": "2026-09-01",
    "art": "VIDEO"
   }
  ]
