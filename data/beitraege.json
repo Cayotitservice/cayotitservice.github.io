@@ -1,36 +1,36 @@
 {
- "stand": "2026-09-02T06:30",
+ "stand": "2026-09-03T06:30",
  "beitraege": [
   {
-   "id": "18427649803182351",
-   "titel": "",
-   "bild": "/assets/instagram/18427649803182351.jpg",
-   "link": "https://www.instagram.com/reel/DcwCpXwlZs4/",
-   "datum": "2026-09-01",
+   "id": "18113094778953321",
+   "titel": "Race Condition: Wenn Software zu schnell gleichzeitig zugreift",
+   "bild": "/assets/instagram/18113094778953321.jpg",
+   "link": "https://www.instagram.com/reel/DcynecaDRz4/",
+   "datum": "2026-09-02",
    "art": "VIDEO"
   },
   {
-   "id": "17998425150006937",
-   "titel": "",
-   "bild": "/assets/instagram/17998425150006937.jpg",
-   "link": "https://www.instagram.com/reel/DcvgSmtj2mJ/",
-   "datum": "2026-09-01",
+   "id": "18113184274999801",
+   "titel": "Ende-zu-Ende-Verschlüsselung: Wie sicher ist dein Chat wirklich?",
+   "bild": "/assets/instagram/18113184274999801.jpg",
+   "link": "https://www.instagram.com/reel/DcyFIVNilDC/",
+   "datum": "2026-09-02",
    "art": "VIDEO"
   },
   {
-   "id": "17899785186566968",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 44",
-   "bild": "/assets/instagram/17899785186566968.jpg",
-   "link": "https://www.instagram.com/reel/Dcvc-FFEhzy/",
-   "datum": "2026-09-01",
+   "id": "18392352346203423",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 45",
+   "bild": "/assets/instagram/18392352346203423.jpg",
+   "link": "https://www.instagram.com/reel/DcyBv_sDcjK/",
+   "datum": "2026-09-02",
    "art": "VIDEO"
   },
   {
-   "id": "18366780214208226",
-   "titel": "",
-   "bild": "/assets/instagram/18366780214208226.jpg",
-   "link": "https://www.instagram.com/reel/DcvE19slW2o/",
-   "datum": "2026-09-01",
+   "id": "18332074918273737",
+   "titel": "Die richtige Verbindung zwischen Server und Switch",
+   "bild": "/assets/instagram/18332074918273737.jpg",
+   "link": "https://www.instagram.com/reel/DcxpsUhkVi-/",
+   "datum": "2026-09-02",
    "art": "VIDEO"
   }
  ]
