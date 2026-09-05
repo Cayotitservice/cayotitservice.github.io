@@ -1,36 +1,36 @@
 {
- "stand": "2026-09-04T06:30",
+ "stand": "2026-09-05T06:30",
  "beitraege": [
   {
-   "id": "17982509670074808",
-   "titel": "Was ist eigentlich eine Firewall?",
-   "bild": "/assets/instagram/17982509670074808.jpg",
-   "link": "https://www.instagram.com/reel/Dc1MSu4iCcK/",
-   "datum": "2026-09-03",
+   "id": "18222307834327339",
+   "titel": "Unsicherer Treiber, voller Zugriff? Die Gefahr durch BYOVD",
+   "bild": "/assets/instagram/18222307834327339.jpg",
+   "link": "https://www.instagram.com/reel/Dc3xBIil_dD/",
+   "datum": "2026-09-04",
    "art": "VIDEO"
   },
   {
-   "id": "18231667636319267",
-   "titel": "Zu viele VMs, zu wenig Power? Was CPU-Overcommitment bedeutet",
-   "bild": "/assets/instagram/18231667636319267.jpg",
-   "link": "https://www.instagram.com/reel/Dc0p-HnjUHo/",
-   "datum": "2026-09-03",
+   "id": "17971523705939949",
+   "titel": "Server-SSD wie ein Lineal? EDSFF erklärt",
+   "bild": "/assets/instagram/17971523705939949.jpg",
+   "link": "https://www.instagram.com/reel/Dc3OtfzG9sG/",
+   "datum": "2026-09-04",
    "art": "VIDEO"
   },
   {
-   "id": "17884673367479859",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 46",
-   "bild": "/assets/instagram/17884673367479859.jpg",
-   "link": "https://www.instagram.com/reel/Dc0mkXkAZO6/",
-   "datum": "2026-09-03",
+   "id": "18126161446768261",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 47",
+   "bild": "/assets/instagram/18126161446768261.jpg",
+   "link": "https://www.instagram.com/reel/Dc3LZytlNVC/",
+   "datum": "2026-09-04",
    "art": "VIDEO"
   },
   {
-   "id": "18084823427694109",
-   "titel": "Warum braucht die CPU Wärmeleitpaste? Kleine Schicht, große Wirkung",
-   "bild": "/assets/instagram/18084823427694109.jpg",
-   "link": "https://www.instagram.com/reel/Dc0OcAUgXEF/",
-   "datum": "2026-09-03",
+   "id": "18108775223108051",
+   "titel": "Strom weg – Daten trotzdem heil?",
+   "bild": "/assets/instagram/18108775223108051.jpg",
+   "link": "https://www.instagram.com/reel/Dc2zRIpFz9e/",
+   "datum": "2026-09-04",
    "art": "VIDEO"
   }
  ]
