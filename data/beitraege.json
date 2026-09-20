@@ -1,36 +1,36 @@
 {
- "stand": "2026-09-19T06:30",
+ "stand": "2026-09-20T06:30",
  "beitraege": [
   {
-   "id": "18334252156256614",
-   "titel": "Zwei Domaincontroller? Niemals auf einem Host!",
-   "bild": "/assets/instagram/18334252156256614.jpg",
-   "link": "https://www.instagram.com/reel/Ddb0W47jyJP/",
-   "datum": "2026-09-18",
+   "id": "18594130543064089",
+   "titel": "EDR oder Virenscanner: Wie moderne Endpoint Detection Angriffe erkennt",
+   "bild": "/assets/instagram/18594130543064089.jpg",
+   "link": "https://www.instagram.com/reel/DdeZCxwCJxW/",
+   "datum": "2026-09-19",
    "art": "VIDEO"
   },
   {
-   "id": "18104119172265388",
-   "titel": "Server im flüssigen Bad? Warum das keinen Kurzschluss macht",
-   "bild": "/assets/instagram/18104119172265388.jpg",
-   "link": "https://www.instagram.com/reel/DdbR1wOmtl0/",
-   "datum": "2026-09-18",
+   "id": "17889984369613304",
+   "titel": "Chiplet-Design erklärt: Warum moderne Prozessoren aus mehreren Chips bestehen",
+   "bild": "/assets/instagram/17889984369613304.jpg",
+   "link": "https://www.instagram.com/reel/Ddd2pJpkxRU/",
+   "datum": "2026-09-19",
    "art": "VIDEO"
   },
   {
-   "id": "18366332971244775",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 61",
-   "bild": "/assets/instagram/18366332971244775.jpg",
-   "link": "https://www.instagram.com/reel/DdbOgWAlVIL/",
-   "datum": "2026-09-18",
+   "id": "18589895800071838",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 62",
+   "bild": "/assets/instagram/18589895800071838.jpg",
+   "link": "https://www.instagram.com/reel/DddzUE1FdZD/",
+   "datum": "2026-09-19",
    "art": "VIDEO"
   },
   {
-   "id": "18077565713432089",
-   "titel": "Klicks? Macht der PC!",
-   "bild": "/assets/instagram/18077565713432089.jpg",
-   "link": "https://www.instagram.com/reel/Dda2fbYE246/",
-   "datum": "2026-09-18",
+   "id": "18140300065563344",
+   "titel": "Webseite oder App? PWA kann beides",
+   "bild": "/assets/instagram/18140300065563344.jpg",
+   "link": "https://www.instagram.com/reel/DddbWxlk_0m/",
+   "datum": "2026-09-19",
    "art": "VIDEO"
   }
  ]
