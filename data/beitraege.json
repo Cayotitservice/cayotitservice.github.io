@@ -1,36 +1,36 @@
 {
- "stand": "2026-09-20T06:30",
+ "stand": "2026-09-21T06:30",
  "beitraege": [
   {
-   "id": "18594130543064089",
-   "titel": "EDR oder Virenscanner: Wie moderne Endpoint Detection Angriffe erkennt",
-   "bild": "/assets/instagram/18594130543064089.jpg",
-   "link": "https://www.instagram.com/reel/DdeZCxwCJxW/",
-   "datum": "2026-09-19",
+   "id": "18092558030158121",
+   "titel": "GPU Sag: Schwere Grafikkarte, echter Stress fürs Mainboard",
+   "bild": "/assets/instagram/18092558030158121.jpg",
+   "link": "https://www.instagram.com/reel/Ddg91Yogkh7/",
+   "datum": "2026-09-20",
    "art": "VIDEO"
   },
   {
-   "id": "17889984369613304",
-   "titel": "Chiplet-Design erklärt: Warum moderne Prozessoren aus mehreren Chips bestehen",
-   "bild": "/assets/instagram/17889984369613304.jpg",
-   "link": "https://www.instagram.com/reel/Ddd2pJpkxRU/",
-   "datum": "2026-09-19",
+   "id": "18102128372366038",
+   "titel": "KI-PC mit NPU: Brauchst du das wirklich?",
+   "bild": "/assets/instagram/18102128372366038.jpg",
+   "link": "https://www.instagram.com/reel/DdgbbaDAfF9/",
+   "datum": "2026-09-20",
    "art": "VIDEO"
   },
   {
-   "id": "18589895800071838",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 62",
-   "bild": "/assets/instagram/18589895800071838.jpg",
-   "link": "https://www.instagram.com/reel/DddzUE1FdZD/",
-   "datum": "2026-09-19",
+   "id": "18092724800409586",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 63",
+   "bild": "/assets/instagram/18092724800409586.jpg",
+   "link": "https://www.instagram.com/reel/DdgX-waifoR/",
+   "datum": "2026-09-20",
    "art": "VIDEO"
   },
   {
-   "id": "18140300065563344",
-   "titel": "Webseite oder App? PWA kann beides",
-   "bild": "/assets/instagram/18140300065563344.jpg",
-   "link": "https://www.instagram.com/reel/DddbWxlk_0m/",
-   "datum": "2026-09-19",
+   "id": "18115005550950918",
+   "titel": "Gäste-WLAN ohne Schnüffelei: Was Client Isolation wirklich bringt",
+   "bild": "/assets/instagram/18115005550950918.jpg",
+   "link": "https://www.instagram.com/reel/DdgAHNRj4N9/",
+   "datum": "2026-09-20",
    "art": "VIDEO"
   }
  ]
