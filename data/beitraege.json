@@ -1,6 +1,14 @@
 {
- "stand": "2026-09-22T06:30",
+ "stand": "2026-09-22T10:32",
  "beitraege": [
+  {
+   "id": "18132645811670888",
+   "titel": "Patchpanel erklärt: Ordnung im Netzwerk",
+   "bild": "/assets/instagram/18132645811670888.jpg",
+   "link": "https://www.instagram.com/reel/DdlJ5CQktxp/",
+   "datum": "2026-09-22",
+   "art": "VIDEO"
+  },
   {
    "id": "18107858570187783",
    "titel": "Sophos UTM am Ende: Was jetzt für Ihr Unternehmen zählt",
@@ -22,14 +30,6 @@
    "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 64",
    "bild": "/assets/instagram/18050170949813096.jpg",
    "link": "https://www.instagram.com/reel/Ddi81amFdhe/",
-   "datum": "2026-09-21",
-   "art": "VIDEO"
-  },
-  {
-   "id": "17958522864237833",
-   "titel": "Low Code erklärt: Wenig Code, schnelle Lösungen fürs Business",
-   "bild": "/assets/instagram/17958522864237833.jpg",
-   "link": "https://www.instagram.com/reel/Ddik7uNjerz/",
    "datum": "2026-09-21",
    "art": "VIDEO"
   }
