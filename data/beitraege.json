@@ -1,36 +1,36 @@
 {
- "stand": "2026-09-22T10:32",
+ "stand": "2026-09-23T06:30",
  "beitraege": [
+  {
+   "id": "18472051666112784",
+   "titel": "Mythos: Mehr Antennen gleich besseres WLAN?",
+   "bild": "/assets/instagram/18472051666112784.jpg",
+   "link": "https://www.instagram.com/reel/DdmHYlYgBLS/",
+   "datum": "2026-09-22",
+   "art": "VIDEO"
+  },
+  {
+   "id": "18127362841816854",
+   "titel": "Evil Twin: Das falsche Firmen-WLAN",
+   "bild": "/assets/instagram/18127362841816854.jpg",
+   "link": "https://www.instagram.com/reel/DdllEIijxMK/",
+   "datum": "2026-09-22",
+   "art": "VIDEO"
+  },
+  {
+   "id": "17934992517365398",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 65",
+   "bild": "/assets/instagram/17934992517365398.jpg",
+   "link": "https://www.instagram.com/reel/DdlhquNFO_X/",
+   "datum": "2026-09-22",
+   "art": "VIDEO"
+  },
   {
    "id": "18132645811670888",
    "titel": "Patchpanel erklärt: Ordnung im Netzwerk",
    "bild": "/assets/instagram/18132645811670888.jpg",
    "link": "https://www.instagram.com/reel/DdlJ5CQktxp/",
    "datum": "2026-09-22",
-   "art": "VIDEO"
-  },
-  {
-   "id": "18107858570187783",
-   "titel": "Sophos UTM am Ende: Was jetzt für Ihr Unternehmen zählt",
-   "bild": "/assets/instagram/18107858570187783.jpg",
-   "link": "https://www.instagram.com/reel/DdjimCokn5-/",
-   "datum": "2026-09-21",
-   "art": "VIDEO"
-  },
-  {
-   "id": "18123068770910586",
-   "titel": "Schadsoftware startet noch vor Windows: Warum UEFI-Bootkits so schwer zu entdecken sind",
-   "bild": "/assets/instagram/18123068770910586.jpg",
-   "link": "https://www.instagram.com/reel/DdjAS41iqRo/",
-   "datum": "2026-09-21",
-   "art": "VIDEO"
-  },
-  {
-   "id": "18050170949813096",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 64",
-   "bild": "/assets/instagram/18050170949813096.jpg",
-   "link": "https://www.instagram.com/reel/Ddi81amFdhe/",
-   "datum": "2026-09-21",
    "art": "VIDEO"
   }
  ]
