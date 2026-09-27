@@ -1,94 +1,159 @@
-/* CITS Remake A - reduziert und edel */
+/* Cayot IT Service — Entwurf A: reduziert und edel
+   Modus: Überzeugen (Werbeseite). Abweichung 3/10, Bewegung 2/10, Dichte 4/10 —
+   bewusst ruhig: viel Weißraum, ein Thema, ein Akzent, scharfe Kanten.
+   Palette: echtes Off-Schwarz + warmer Sandton + ein gedeckter Messing-Akzent
+   (keine Verläufe, kein Lila/Blau-Standard). Serifenlose Anzeigeschrift,
+   Betonung über Gewicht/Größe statt Farbverlauf. */
+
 :root{
-  --blau: #123a63;
-  --blau-hell: #2c5d94;
-  --hintergrund: #ffffff;
-  --flaeche: #f6f8fb;
-  --text: #1c2733;
-  --text-mild: #4a5866;
-  --abstand: clamp(1.5rem, 4vw, 4rem);
+  --bg:#15130f;
+  --bg2:#1b1811;
+  --karte:#1f1c15;
+  --linie:#39342780;
+  --linie-hell:#4d4635;
+  --ink:#f3efe4;
+  --ink-dim:#b9b0a0;
+  --akzent:#b98f56;      /* gedecktes Messing, Sättigung < 80% */
+  --akzent-ink:#161209;
+  --schatten:0 18px 40px rgba(0,0,0,.45);
+  --radius:0;            /* eine Rundungsstufe für die ganze Seite: scharf */
 }
-*{box-sizing:border-box;}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+[id]{scroll-margin-top:96px}
 body{
-  margin:0;
-  font-family: "Georgia", "Iowan Old Style", serif;
-  color: var(--text);
-  background: var(--hintergrund);
-  line-height:1.6;
+  margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Inter","Segoe UI",system-ui,-apple-system,Arial,sans-serif;
+  line-height:1.6;-webkit-font-smoothing:antialiased;
 }
-header{
-  padding: var(--abstand);
-  border-bottom: 1px solid #e4e9ef;
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
+img{max-width:100%;display:block}
+a{color:var(--akzent);text-decoration:none}
+.schale{max-width:1160px;margin:0 auto;padding:0 24px}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.skip{position:absolute;left:-9999px;top:8px;background:var(--akzent);color:var(--akzent-ink);padding:10px 16px;z-index:200}
+.skip:focus{left:8px}
+
+/* Browserflächen tönen statt Standard lassen */
+::selection{background:var(--akzent);color:var(--akzent-ink)}
+:focus-visible{outline:2px solid var(--akzent);outline-offset:3px}
+::-webkit-scrollbar{width:12px}
+::-webkit-scrollbar-track{background:var(--bg2)}
+::-webkit-scrollbar-thumb{background:var(--linie-hell);border:3px solid var(--bg2)}
+html{scrollbar-color:var(--linie-hell) var(--bg2)}
+
+h1,h2,h3,h4{margin:0 0 .5em;line-height:1.15;text-wrap:balance;font-weight:600;letter-spacing:-.01em}
+h1{font-size:clamp(2.1rem,4.6vw,3.6rem);letter-spacing:-.02em}
+h2{font-size:clamp(1.5rem,2.8vw,2.1rem)}
+h3{font-size:1.15rem;font-weight:600}
+p{margin:0 0 1em;max-width:70ch;color:var(--ink-dim)}
+.leit{max-width:56ch;font-size:clamp(1.05rem,1.6vw,1.2rem);color:var(--ink-dim)}
+
+/* ── Kopf: eine Zeile, höchstens 76px ─────────────────────────────────── */
+header.kopf{position:sticky;top:0;z-index:80;background:rgba(21,19,15,.92);
+  backdrop-filter:blur(6px);border-bottom:1px solid var(--linie)}
+.kopfzeile{display:flex;align-items:center;gap:28px;height:76px}
+.marke{display:flex;align-items:center;gap:10px;color:var(--ink);font-weight:600;letter-spacing:.04em}
+.marke img{height:34px;width:auto}
+nav.haupt{display:flex;align-items:center;gap:2px;margin-left:auto}
+nav.haupt a{display:block;padding:10px 16px;color:var(--ink-dim);font-size:.94rem;
+  letter-spacing:.03em;font-weight:500;border-bottom:2px solid transparent;white-space:nowrap}
+nav.haupt a:hover,nav.haupt a[aria-current="page"]{color:var(--ink);border-bottom-color:var(--akzent)}
+nav.haupt a.cta{background:var(--akzent);color:var(--akzent-ink);margin-left:8px;padding:9px 18px;border-bottom:none}
+nav.haupt a.cta:hover{filter:brightness(1.08)}
+.burger{display:none;background:transparent;color:var(--ink);border:1px solid var(--linie-hell);
+  font-size:1.4rem;padding:6px 12px;cursor:pointer;margin-left:auto}
+@media (max-width:880px){
+  .burger{display:block}
+  nav.haupt{display:none;position:absolute;left:0;right:0;top:76px;background:var(--bg2);
+    flex-direction:column;align-items:stretch;border-bottom:1px solid var(--linie);padding:8px 0}
+  nav.haupt.offen{display:flex}
+  nav.haupt a{border-bottom:1px solid var(--linie)}
+  nav.haupt a.cta{margin:8px 20px}
 }
-header .marke{
-  font-size:1.4rem;
-  letter-spacing:0.04em;
-  color: var(--blau);
-  font-weight:600;
-  text-decoration:none;
-}
-nav a{
-  margin-left: 2rem;
-  color: var(--text-mild);
-  text-decoration:none;
-  font-size:1rem;
-}
-nav a:hover{ color: var(--blau); }
-main{
-  max-width: 860px;
-  margin: 0 auto;
-  padding: var(--abstand);
-}
-h1{
-  font-size: clamp(2.2rem, 5vw, 3.4rem);
-  font-weight: 500;
-  color: var(--blau);
-  margin-bottom: 0.5em;
-  line-height:1.2;
-}
-h2{
-  font-size: 1.8rem;
-  color: var(--blau);
-  font-weight:500;
-  margin-top: 3rem;
-}
-p.lead{
-  font-size:1.25rem;
-  color: var(--text-mild);
-  max-width: 46ch;
-}
-section{ margin-bottom: 4rem; }
-.karte{
-  background: var(--flaeche);
-  border-radius: 4px;
-  padding: 2rem;
-  margin-bottom: 1.5rem;
-}
-.karte h3{ color: var(--blau); margin-top:0; font-weight:500; }
-ul.ruhig{ list-style:none; padding:0; }
-ul.ruhig li{ padding: 0.6rem 0; border-bottom:1px solid #e4e9ef; }
-.preis{
-  font-size: 2rem;
-  color: var(--blau);
-  font-weight:600;
-}
-.knopf{
-  display:inline-block;
-  margin-top:1.5rem;
-  padding: 0.9rem 2rem;
-  background: var(--blau);
-  color:#fff;
-  text-decoration:none;
-  border-radius: 2px;
-  font-size:1rem;
-}
-.knopf:hover{ background: var(--blau-hell); }
-footer{
-  padding: var(--abstand);
-  border-top:1px solid #e4e9ef;
-  color: var(--text-mild);
-  font-size:0.9rem;
+
+/* ── Aufmacher: passt in den ersten Bildschirm ────────────────────────── */
+.buehne{padding:clamp(3rem,8vw,5.5rem) 0 clamp(2.5rem,6vw,4rem);border-bottom:1px solid var(--linie)}
+.buehne .innen{max-width:760px}
+.buehne .knopfreihe{display:flex;gap:12px;flex-wrap:wrap;margin-top:1.9rem}
+
+.knopf{display:inline-block;padding:.85rem 1.5rem;font-weight:600;letter-spacing:.02em;
+  border:1px solid var(--linie-hell);color:var(--ink);background:transparent;cursor:pointer;
+  transition:transform .12s cubic-bezier(.23,1,.32,1),border-color .12s ease}
+.knopf:hover{border-color:var(--akzent);color:var(--akzent);text-decoration:none}
+.knopf:active{transform:scale(.98)}
+.knopf.haupt{background:var(--akzent);color:var(--akzent-ink);border-color:var(--akzent)}
+.knopf.haupt:hover{filter:brightness(1.08);color:var(--akzent-ink)}
+
+/* ── Abschnitte, abwechselnde Layout-Familien ─────────────────────────── */
+section{padding:clamp(3rem,6vw,5rem) 0}
+section+section{border-top:1px solid var(--linie)}
+.kaps{letter-spacing:.14em;text-transform:uppercase;font-size:.74rem;color:var(--akzent);font-weight:700}
+
+/* Familie 1: Textzeile + Liste in zwei Spalten (Regionen) */
+.zweispalt{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,5vw,4rem);align-items:start}
+@media (max-width:760px){.zweispalt{grid-template-columns:1fr}}
+.regionen{list-style:none;margin:0;padding:0;columns:2;gap:1.5rem}
+.regionen li{padding:.35rem 0;border-bottom:1px solid var(--linie);color:var(--ink-dim);break-inside:avoid}
+
+/* Familie 2: nummerierte Liste mit Trennlinien (Angebote-Auswahl) — die Nummern
+   tragen hier echte Information: Reihenfolge aus dem Angebotskatalog. */
+.katalog{list-style:none;margin:0;padding:0;border-top:1px solid var(--linie)}
+.katalog li{border-bottom:1px solid var(--linie)}
+.katalog a{display:flex;align-items:baseline;gap:1.2rem;padding:1.15rem 0;color:var(--ink)}
+.katalog a:hover{color:var(--akzent)}
+.katalog .nr{font-size:.85rem;color:var(--ink-dim);min-width:2.2ch}
+.katalog .titel{flex:1;font-size:1.05rem}
+.katalog .pfeil{color:var(--ink-dim);font-size:1.1rem}
+.katalog a:hover .pfeil{color:var(--akzent)}
+
+/* Familie 3: Bild + Text im Wechsel (nur einmal je Nachbarschaft) */
+.wechsel{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,5vw,3.5rem);align-items:center}
+@media (max-width:760px){.wechsel{grid-template-columns:1fr}}
+.wechsel.kehr .bild{order:2}
+.platzhalter{background:var(--karte);border:1px dashed var(--linie-hell);color:var(--ink-dim);
+  aspect-ratio:4/3;display:flex;align-items:center;justify-content:center;text-align:center;
+  padding:1.5rem;font-size:.85rem}
+
+/* Familie 4: Zitat/Fakt freistehend, kein Kartenrahmen */
+.fakt{border-left:2px solid var(--akzent);padding-left:1.6rem;max-width:640px}
+.fakt .zahl{font-size:clamp(2rem,5vw,3rem);font-weight:700;color:var(--ink);display:block;line-height:1}
+
+/* Kontaktbereich */
+.kontaktgrid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,5vw,4rem)}
+@media (max-width:760px){.kontaktgrid{grid-template-columns:1fr}}
+.kontaktliste{list-style:none;margin:1.4rem 0 0;padding:0}
+.kontaktliste li{padding:.5rem 0;border-bottom:1px solid var(--linie)}
+.kontaktliste a{color:var(--ink)}
+.kontaktliste a:hover{color:var(--akzent)}
+
+.formular{display:grid;gap:1rem}
+.feld{display:flex;flex-direction:column;gap:.4rem}
+.feld label{font-size:.82rem;color:var(--ink-dim);letter-spacing:.03em}
+.feld input,.feld textarea{background:var(--bg2);border:1px solid var(--linie-hell);color:var(--ink);
+  padding:.75rem .85rem;font:inherit}
+.feld textarea{min-height:130px;resize:vertical}
+.feld input:focus,.feld textarea:focus{border-color:var(--akzent)}
+.hilfetext{font-size:.78rem;color:var(--ink-dim)}
+.fehler{font-size:.78rem;color:#e0a15c;display:none}
+
+.sozial{display:flex;gap:10px;flex-wrap:wrap;margin-top:1.2rem}
+.sozial a{width:38px;height:38px;border:1px solid var(--linie-hell);display:flex;align-items:center;
+  justify-content:center;color:var(--ink-dim)}
+.sozial a:hover{border-color:var(--akzent);color:var(--akzent)}
+.sozial svg{width:17px;height:17px;fill:currentColor}
+
+footer{border-top:1px solid var(--linie);padding:2rem 0;background:var(--bg2)}
+footer .zeile{display:flex;flex-wrap:wrap;gap:1.2rem;align-items:center;justify-content:space-between;
+  font-size:.85rem;color:var(--ink-dim)}
+footer a{color:var(--ink-dim);text-decoration:underline}
+footer .rechtlich{display:flex;gap:1rem;flex-wrap:wrap}
+
+/* Rechtliche Seiten (Leistungen-/Angebote-Gruppen teilen sich dieses Muster) */
+.gruppe-kopf{margin-bottom:1.4rem}
+.gruppe-kopf .kaps{display:block;margin-bottom:.4rem}
+
+/* weniger Bewegung, wenn gewünscht */
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto}
+  .knopf,.katalog a{transition:none}
 }
