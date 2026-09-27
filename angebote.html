@@ -1,69 +1,96 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="UTF-8">
-<title>Angebote - CITS</title>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Angebote | Cayot IT Service</title>
+<meta name="description" content="Alle Angebote von Cayot IT Service auf einen Blick - IT-Notdienst, Microsoft 365, NAS und Backup, Sicherheit, Beratung.">
+<link rel="canonical" href="https://www.itscayot.com/angebote.html">
+<meta name="theme-color" content="#15130f">
+<link rel="icon" type="image/png" href="/assets/marke/favicon.png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <a class="marke" href="index.html">CITS · Cayot IT-Service</a>
-  <nav>
-    <a href="index.html">Start</a>
-    <a href="leistungen.html">Leistungen</a>
-    <a href="angebote.html">Angebote</a>
-    <a href="kontakt.html">Kontakt</a>
-  </nav>
+<a class="skip" href="#inhalt">Zum Inhalt springen</a>
+<header class="kopf">
+  <div class="schale kopfzeile">
+    <a class="marke" href="index.html"><img src="/assets/marke/logo.png" alt="Cayot IT Service"> Cayot IT Service</a>
+    <button class="burger" aria-label="Menü öffnen" aria-expanded="false"
+      onclick="const n=document.getElementById('hauptnav');n.classList.toggle('offen');this.setAttribute('aria-expanded', n.classList.contains('offen'))">☰</button>
+    <nav class="haupt" id="hauptnav">
+      <a href="index.html">Start</a>
+      <a href="leistungen.html">Leistungen</a>
+      <a href="angebote.html" aria-current="page">Angebote</a>
+      <a href="kontakt.html" class="cta">Kontakt aufnehmen</a>
+    </nav>
+  </div>
 </header>
-<main>
-  <section>
-    <h1>Angebote</h1>
-    <p class="lead">Eine klare Preisstruktur, kein Kleingedrucktes.</p>
-  </section>
 
-  <section class="karte">
-    <h3>Einrichtung</h3>
-    <p class="preis">699 €</p>
-    <p>Einmalig - Fragenkatalog, Zuschnitt, Übergabe und Erststart bei Ihnen vor Ort.</p>
-  </section>
-
-  <section class="karte">
-    <h3>Monatliches Abo</h3>
-    <p class="preis">149 €</p>
-    <p>Der Betrieb Ihrer Insel - Wartung, nächtliche Kontrolle, Updates. Zusatzfunktionen erhöhen nur die einmalige Einrichtung, das Abo bleibt bei 149 €.</p>
+<main id="inhalt">
+  <section class="buehne">
+    <div class="schale innen">
+      <span class="kaps">27 Angebote</span>
+      <h1>Alle Angebote von Cayot IT Service</h1>
+      <p class="leit">IT-Notdienst, Microsoft 365, NAS und Backup, Sicherheit, Beratung: die vollständige Übersicht, in der Reihenfolge des Angebotskatalogs.</p>
+    </div>
   </section>
 
   <section>
-    <h2>Für Ihre Branche</h2>
-    <div class="karte">
-      <ul class="ruhig">
-        <li>Gartenbau</li>
-        <li>Zahntechnik</li>
-        <li>Handwerk</li>
-        <li>Kanzlei</li>
-        <li>Praxis</li>
-        <li>Büro</li>
+    <div class="schale">
+      <ul class="katalog">
+        <li><a href="angebote/lokaler-it-notdienst.html"><span class="nr">01</span><span class="titel">Schnelle Hilfe, wenn der Rechner streikt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-fuer-selbstaendige.html"><span class="nr">02</span><span class="titel">Ihre IT-Abteilung, wenn Sie allein arbeiten</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/microsoft-365-service.html"><span class="nr">03</span><span class="titel">Klarheit über Ihr Microsoft 365</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/intune-geraete-zentral-verwalten.html"><span class="nr">04</span><span class="titel">Geräte fertig eingerichtet aus dem Karton</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/nas-und-backup-service.html"><span class="nr">05</span><span class="titel">Ein Ort für alle Daten - im Büro und unterwegs</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/ki-assistent-fuer-ihren-betrieb.html"><span class="nr">06</span><span class="titel">Ihr eigener Assistent, der im Haus bleibt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html"><span class="nr">07</span><span class="titel">Displays für Besprechung und Unterricht, startklar</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/server-betreuung-fuer-unternehmen.html"><span class="nr">08</span><span class="titel">Ihre Server-Betreuung, ohne eigene IT-Abteilung</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/windows-server-betreuung.html"><span class="nr">09</span><span class="titel">Ein Windows-Server, der einfach läuft</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/server-virtualisierung.html"><span class="nr">10</span><span class="titel">Aus alten Servern wird eine sichere Maschine</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/netzwerk-service-fuer-unternehmen.html"><span class="nr">11</span><span class="titel">Netzwerk-Betreuung für kleine Unternehmen</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/sicherheitscheck-von-au-en-gratis-pentest.html"><span class="nr">12</span><span class="titel">Was Angreifer vor dem ersten Klick sehen</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/e-mail-sicherheitscheck.html"><span class="nr">13</span><span class="titel">Kontrolle darüber, wer in Ihrem Namen mailt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/cyberversicherung-vorbereiten.html"><span class="nr">14</span><span class="titel">Damit die Cyberversicherung im Ernstfall zahlt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/security-paket-fuer-unternehmen.html"><span class="nr">15</span><span class="titel">Ein Sicherheitspaket, das zusammenspielt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/endpoint-security-arbeitsplaetze-schuetzen.html"><span class="nr">16</span><span class="titel">Schutz für jeden Arbeitsplatzrechner</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-checkup-fuer-kleine-unternehmen.html"><span class="nr">17</span><span class="titel">Klarheit über Ihre IT - in einem Tag</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/eure-it-abteilung.html"><span class="nr">18</span><span class="titel">Eine IT-Abteilung, ohne sie einzustellen</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-dokumente.html"><span class="nr">19</span><span class="titel">IT-Unterlagen, die im Ernstfall Bestand haben</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-roadmap-fuer-ihr-unternehmen.html"><span class="nr">20</span><span class="titel">Planung für Ihre IT der nächsten Jahre</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-dienstleister-steuern-lassen.html"><span class="nr">21</span><span class="titel">IT-Dienstleister führen - ohne eigene IT-Abteilung</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/eu-ai-act-pflichten-fuer-kleine-betriebe.html"><span class="nr">22</span><span class="titel">Klarheit über Ihre Pflichten aus dem EU AI Act</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-fuer-den-mittelstand.html"><span class="nr">23</span><span class="titel">Ihre externe IT-Abteilung für den Mittelstand</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-analyse-bestandsaufnahme-ihrer-it.html"><span class="nr">24</span><span class="titel">Ihre IT einmal ehrlich geprüft</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-strategie-fuer-ihr-unternehmen.html"><span class="nr">25</span><span class="titel">Ein Plan, wohin sich Ihre IT entwickelt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-projektsteuerung-fuer-den-mittelstand.html"><span class="nr">26</span><span class="titel">Klare Steuerung für Ihr nächstes IT-Projekt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen.html"><span class="nr">27</span><span class="titel">Sichtbar in ChatGPT, Perplexity und Google-KI</span><span class="pfeil">→</span></a></li>
       </ul>
     </div>
   </section>
 
   <section>
-    <h2>So kommen Sie zu Ihrer Insel</h2>
-    <div class="karte">
-      <ul class="ruhig">
-        <li>Fragenkatalog zum Betrieb ausfüllen - daraus entsteht alles Weitere</li>
-        <li>Zuschnitt: Marke, Zugänge, Erststart-Skript</li>
-        <li>Zugänge werden angelegt - nicht durch Sie selbst</li>
-        <li>Erststart bei Ihnen vor Ort</li>
-        <li>Danach meldet sich Ihre Insel jede Nacht von selbst</li>
-      </ul>
+    <div class="schale">
+      <div class="fakt">
+        <span class="zahl">27</span>
+        <p>Angebote, von der schnellen Hilfe im Alltag bis zur IT-Strategie für die nächsten Jahre. Marcel Cayot berät, welches davon zu Ihrem Betrieb passt.</p>
+      </div>
+      <div class="knopfreihe" style="margin-top:1.6rem">
+        <a class="knopf haupt" href="kontakt.html">Kontakt aufnehmen</a>
+      </div>
     </div>
-    <a class="knopf" href="kontakt.html">Angebot anfragen</a>
   </section>
 </main>
+
 <footer>
-  CITS · Cayot IT-Service · Inhaber Marcel Cayot · info@itscayot.com
+  <div class="schale zeile">
+    <span>© Cayot IT Service, Marcel Cayot, Gabelsberger Straße 12, 55543 Bad Kreuznach</span>
+    <div class="rechtlich">
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+      <a href="agb.html">AGB</a>
+    </div>
+  </div>
 </footer>
 </body>
 </html>
