@@ -1,6 +1,6 @@
-/* Cayot IT Service — Entwurf A: reduziert und edel
-   Modus: Überzeugen (Werbeseite). Abweichung 3/10, Bewegung 2/10, Dichte 4/10 —
-   bewusst ruhig: viel Weißraum, ein Thema, ein Akzent, scharfe Kanten.
+/* Cayot IT Service. Entwurf A: reduziert und edel.
+   Modus: Überzeugen (Werbeseite). Abweichung 3/10, Bewegung 2/10, Dichte 4/10:
+   bewusst ruhig, viel Weißraum, ein Thema, ein Akzent, scharfe Kanten.
    Palette: echtes Off-Schwarz + warmer Sandton + ein gedeckter Messing-Akzent
    (keine Verläufe, kein Lila/Blau-Standard). Serifenlose Anzeigeschrift,
    Betonung über Gewicht/Größe statt Farbverlauf. */
@@ -95,7 +95,7 @@ section+section{border-top:1px solid var(--linie)}
 .regionen{list-style:none;margin:0;padding:0;columns:2;gap:1.5rem}
 .regionen li{padding:.35rem 0;border-bottom:1px solid var(--linie);color:var(--ink-dim);break-inside:avoid}
 
-/* Familie 2: nummerierte Liste mit Trennlinien (Angebote-Auswahl) — die Nummern
+/* Familie 2: nummerierte Liste mit Trennlinien (Angebote-Auswahl). Die Nummern
    tragen hier echte Information: Reihenfolge aus dem Angebotskatalog. */
 .katalog{list-style:none;margin:0;padding:0;border-top:1px solid var(--linie)}
 .katalog li{border-bottom:1px solid var(--linie)}
