@@ -1,128 +1,191 @@
-/* CITS - Richtung C: warm & nahbar */
-:root{
-  --creme:#fdf6ec;
-  --terra:#e2673c;
-  --terra-dunkel:#c9502a;
-  --gruen:#7a9d6f;
-  --braun:#5a4636;
-  --gelb:#f4c95d;
-  --schatten: 0 8px 24px rgba(90,70,54,0.12);
+/* CITS / Cayot IT Service - Entwurf Richtung C: warm & nahbar
+   Modus: Ueberzeugen (Werbe- und Angebotsseiten - der Besucher entscheidet und handelt).
+   Regler: Abweichung 5/10 (deutlich kein Standard-Tech-Blau, aber seriös fuer B2B-IT),
+           Bewegung 2/10 (ruhig, ein gestalteter Moment im Aufmacher, sonst nur Feedback),
+           Dichte 5/10 auf Start/Kontakt, auf angebote.html bewusst hoeher (Katalog),
+           dort deshalb Listenzeilen statt Kartenraster.
+   Palette: Terrakotta auf Schiefer/Creme (eine der erlaubten Alternativen zur
+   Standard-Luxus-Kombi Creme+Messing+Oxblood). Ein Akzent, eine Rundungsfamilie (weich).
+   Schrift: Systemschrift bewusst statt Google Fonts - die Seite darf beim Aufruf keine
+   fremde Verbindung aufbauen (Abflugliste Punkt 11). Das ist ein Kompromiss aus der
+   Hausregel "kein fremder Server", nicht Nachlaessigkeit. */
+
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
 }
-*{box-sizing:border-box;}
-body{
-  margin:0;
-  font-family:'Segoe UI', Verdana, sans-serif;
-  background:var(--creme);
-  color:var(--braun);
-  line-height:1.6;
+
+:root {
+  --creme: #faf5ee;
+  --creme2: #f1e7d8;
+  --schiefer: #4a433c;
+  --schiefer-dunkel: #2c2622;
+  --schiefer-tief: #1f1a16;
+  --text: #2c2622;
+  --text-hell: #6b6259;
+  --linie: #ddcfba;
+  --linie-dunkel: rgba(250, 245, 238, 0.16);
+  --terracotta: #b85c34;
+  --terracotta-dunkel: #93482a;
+  --weiss: #fffaf3;
+  --radius-s: 8px;
+  --radius-m: 14px;
+  --radius-l: 24px;
+  --breite: 1180px;
+  --schrift: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
-header{
-  background:linear-gradient(135deg,var(--terra),var(--gelb));
-  padding:2rem 1.5rem;
-  border-radius:0 0 40px 40px;
-  color:white;
-  text-align:center;
-  box-shadow:var(--schatten);
+
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--creme);
+  color: var(--text);
+  font-family: var(--schrift);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
 }
-header h1{
-  font-size:2.4rem;
-  margin:0.2rem 0;
+img { max-width: 100%; display: block; }
+a { color: inherit; text-decoration: none; }
+h1, h2, h3, h4 { line-height: 1.15; margin: 0 0 0.5em; text-wrap: balance; overflow-wrap: break-word; letter-spacing: -0.01em; }
+h1 { font-size: clamp(2.1rem, 4.6vw, 3.4rem); letter-spacing: -0.02em; }
+h2 { font-size: clamp(1.5rem, 3vw, 2.15rem); }
+h3 { font-size: clamp(1.15rem, 2vw, 1.4rem); }
+p { max-width: 68ch; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+::selection { background: var(--terracotta); color: var(--weiss); }
+::-webkit-scrollbar { width: 11px; height: 11px; }
+::-webkit-scrollbar-track { background: var(--creme2); }
+::-webkit-scrollbar-thumb { background: var(--text-hell); border-radius: var(--radius-s); }
+::-webkit-scrollbar-thumb:hover { background: var(--terracotta); }
+
+a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible {
+  outline: 2px solid var(--terracotta); outline-offset: 2px; border-radius: 4px;
 }
-header p{
-  font-size:1.1rem;
-  opacity:0.95;
+.skip { position: absolute; left: -9999px; top: 8px; background: var(--terracotta); color: var(--weiss); padding: 10px 16px; z-index: 200; border-radius: var(--radius-s); }
+.skip:focus { left: 8px; }
+
+.schale { max-width: var(--breite); margin: 0 auto; padding: 0 24px; }
+section { padding: clamp(48px, 8vw, 96px) 0; }
+.eyebrow { display: inline-block; letter-spacing: 0.14em; text-transform: uppercase; font-size: 0.78rem; font-weight: 700; color: var(--terracotta-dunkel); margin-bottom: 14px; }
+
+/* ── Kopf ─────────────────────────────────────────────────────────────── */
+header.kopf { position: sticky; top: 0; z-index: 90; background: rgba(250, 245, 238, 0.92); backdrop-filter: blur(8px); border-bottom: 1px solid var(--linie); }
+.kopfzeile { display: flex; align-items: center; gap: 28px; height: 72px; }
+.marke { display: flex; align-items: center; gap: 10px; font-weight: 700; color: var(--schiefer-dunkel); }
+.marke img { height: 34px; width: auto; }
+nav.haupt { display: flex; align-items: center; gap: 6px; margin-left: auto; }
+nav.haupt a.punkt { display: block; padding: 9px 14px; color: var(--text); font-weight: 600; font-size: 0.96rem; border-radius: var(--radius-s); }
+nav.haupt a.punkt:hover { background: var(--creme2); color: var(--terracotta-dunkel); }
+nav.haupt a.punkt.aktiv { color: var(--terracotta-dunkel); }
+.burger { display: none; }
+@media (max-width: 760px) {
+  nav.haupt { display: none; }
+  .burger { display: inline-flex; margin-left: auto; background: none; border: 1px solid var(--linie); border-radius: var(--radius-s); padding: 6px 12px; font-size: 1.2rem; color: var(--text); }
 }
-nav{
-  display:flex;
-  justify-content:center;
-  gap:1.5rem;
-  flex-wrap:wrap;
-  margin-top:1rem;
-}
-nav a{
-  color:white;
-  text-decoration:none;
-  background:rgba(255,255,255,0.2);
-  padding:0.5rem 1.2rem;
-  border-radius:30px;
-  font-weight:600;
-  transition:background 0.2s;
-}
-nav a:hover{
-  background:rgba(255,255,255,0.4);
-}
-main{
-  max-width:960px;
-  margin:2rem auto;
-  padding:0 1.5rem;
-}
-section{
-  background:white;
-  border-radius:28px;
-  padding:2rem;
-  margin-bottom:2rem;
-  box-shadow:var(--schatten);
-}
-section h2{
-  color:var(--terra-dunkel);
-  margin-top:0;
-  font-size:1.7rem;
-}
-.karten{
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-  gap:1.2rem;
-  margin-top:1.5rem;
-}
-.karte{
-  background:var(--creme);
-  border-radius:22px;
-  padding:1.3rem;
-  border:2px solid #f0e0c8;
-  text-align:center;
-}
-.karte img, .foto{
-  width:100%;
-  border-radius:18px;
-  margin-bottom:0.8rem;
-  object-fit:cover;
-}
-.preis{
-  display:inline-block;
-  background:var(--gruen);
-  color:white;
-  padding:0.3rem 1rem;
-  border-radius:20px;
-  font-weight:700;
-  margin-top:0.5rem;
-}
-.knopf{
-  display:inline-block;
-  background:var(--terra);
-  color:white;
-  padding:0.8rem 2rem;
-  border-radius:30px;
-  text-decoration:none;
-  font-weight:700;
-  margin-top:1rem;
-  box-shadow:var(--schatten);
-  transition:transform 0.15s;
-}
-.knopf:hover{
-  transform:translateY(-2px);
-  background:var(--terra-dunkel);
-}
-footer{
-  text-align:center;
-  padding:2rem 1rem;
-  color:var(--braun);
-  opacity:0.8;
-  font-size:0.9rem;
-}
-.zitat{
-  border-left:5px solid var(--gelb);
-  padding-left:1rem;
-  font-style:italic;
-  margin:1.5rem 0;
-  color:var(--terra-dunkel);
-}
+
+/* ── Knoepfe ──────────────────────────────────────────────────────────── */
+.knopf { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 12px 22px; border-radius: var(--radius-m); font-weight: 700; font-size: 0.98rem; border: 1px solid transparent; cursor: pointer; transition: transform 140ms cubic-bezier(0.23,1,0.32,1), box-shadow 140ms ease; white-space: nowrap; }
+.knopf.haupt { background: var(--terracotta); color: var(--weiss); box-shadow: 0 10px 26px rgba(184, 92, 52, 0.32); }
+.knopf.haupt:hover { background: var(--terracotta-dunkel); }
+.knopf.haupt:active { transform: scale(0.97); }
+.knopf.leer { background: transparent; border-color: var(--schiefer); color: var(--schiefer-dunkel); }
+.knopf.leer:hover { border-color: var(--terracotta); color: var(--terracotta-dunkel); }
+.knopf.leer:active { transform: scale(0.97); }
+.knopf.auf-dunkel { border-color: var(--linie-dunkel); color: var(--weiss); }
+.knopf.auf-dunkel:hover { border-color: var(--terracotta); }
+.knopfreihe { display: flex; gap: 14px; flex-wrap: wrap; }
+
+/* ── Aufmacher (Hero) ─────────────────────────────────────────────────── */
+.aufmacher { padding-top: clamp(40px, 6vw, 64px); }
+.aufmacher .schale { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: clamp(28px, 5vw, 56px); align-items: center; }
+.aufmacher .beitext { color: var(--text-hell); font-size: 1.08rem; max-width: 52ch; margin-bottom: 26px; }
+.aufmacher .bild { border-radius: var(--radius-l); overflow: hidden; border: 1px solid var(--linie); box-shadow: 0 30px 60px -20px rgba(44,38,34,0.35); }
+.aufmacher .bild img { width: 100%; height: 100%; object-fit: cover; aspect-ratio: 4/5; }
+@media (max-width: 860px) { .aufmacher .schale { grid-template-columns: 1fr; } .aufmacher .bild { order: -1; } }
+
+/* Ein gestalteter Bewegungsmoment: der Aufmacher kommt sichtbar an, nicht aus dem Nichts. */
+.einblenden { opacity: 0; transform: translateY(14px); animation: einblenden 620ms cubic-bezier(0.23,1,0.32,1) forwards; }
+.einblenden.verzoegert { animation-delay: 120ms; }
+@keyframes einblenden { to { opacity: 1; transform: translateY(0); } }
+
+/* ── Einsatzgebiet: Wortwolke statt Kartenraster ─────────────────────── */
+.gebiet { background: var(--creme2); border-top: 1px solid var(--linie); border-bottom: 1px solid var(--linie); }
+.gebiet .schale { text-align: center; }
+.orte { list-style: none; margin: 26px 0 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+.orte li { border: 1px solid var(--linie); background: var(--creme); color: var(--schiefer-dunkel); padding: 8px 16px; border-radius: 999px; font-size: 0.94rem; }
+.orte li.mitte { background: var(--terracotta); border-color: var(--terracotta); color: var(--weiss); font-weight: 700; }
+
+/* ── Waagerechter Angebots-Streifen (statt 3 gleicher Karten) ─────────── */
+.streifen-kopf { display: flex; align-items: baseline; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-bottom: 26px; }
+.streifen { display: flex; gap: 18px; overflow-x: auto; padding-bottom: 12px; scroll-snap-type: x mandatory; }
+.streifen::-webkit-scrollbar { height: 8px; }
+.streifen-karte { scroll-snap-align: start; flex: 0 0 clamp(240px, 34vw, 320px); background: var(--weiss); border: 1px solid var(--linie); border-radius: var(--radius-m); padding: 22px; }
+.streifen-karte h3 { margin-bottom: 8px; }
+.streifen-karte p { color: var(--text-hell); font-size: 0.95rem; }
+.streifen-karte a.mehr { display: inline-block; margin-top: 14px; font-weight: 700; color: var(--terracotta-dunkel); border-bottom: 1px solid var(--terracotta); }
+
+/* ── Bild-Text-Wechsel (max. zwei auf einer Seite in Folge) ───────────── */
+.wechsel { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: clamp(28px, 5vw, 56px); align-items: center; }
+.wechsel.gedreht { grid-template-columns: 1.1fr 0.9fr; }
+.wechsel.gedreht .bild { order: 2; }
+.wechsel .bild img { width: 100%; border-radius: var(--radius-l); border: 1px solid var(--linie); aspect-ratio: 4/3; object-fit: cover; }
+@media (max-width: 860px) { .wechsel, .wechsel.gedreht { grid-template-columns: 1fr; } .wechsel.gedreht .bild { order: -1; } }
+.faq-liste { margin-top: 20px; display: grid; gap: 14px; }
+.faq-liste .frage { font-weight: 700; color: var(--schiefer-dunkel); }
+.faq-liste .antwort { color: var(--text-hell); margin: 4px 0 0; }
+
+/* ── Ruhiger Zitat-Block ───────────────────────────────────────────────── */
+.zitat-block { background: var(--schiefer-tief); color: var(--weiss); }
+.zitat-block blockquote { margin: 0 auto; max-width: 62ch; text-align: center; font-size: clamp(1.3rem, 2.6vw, 1.7rem); font-weight: 600; text-wrap: balance; }
+.zitat-block .wer { text-align: center; margin-top: 18px; color: rgba(250,245,238,0.7); font-size: 0.92rem; }
+
+/* ── Kontakt-Banner ───────────────────────────────────────────────────── */
+.kontakt-banner { background: linear-gradient(155deg, var(--terracotta) 0%, var(--terracotta-dunkel) 100%); color: var(--weiss); }
+.kontakt-banner .schale { display: flex; align-items: center; justify-content: space-between; gap: 26px; flex-wrap: wrap; }
+.kontakt-banner p { color: rgba(255,250,243,0.88); }
+
+/* ── Formular ─────────────────────────────────────────────────────────── */
+.formkarte { background: var(--weiss); border: 1px solid var(--linie); border-radius: var(--radius-l); padding: clamp(22px, 4vw, 36px); }
+.formfeld { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.formfeld .voll { grid-column: 1 / -1; }
+.formfeld label { display: block; font-size: 0.86rem; font-weight: 700; color: var(--schiefer-dunkel); margin-bottom: 6px; }
+.formfeld .hilfe { font-weight: 400; color: var(--text-hell); }
+.formfeld input, .formfeld textarea { width: 100%; background: var(--creme); border: 1px solid var(--linie); border-radius: var(--radius-s); color: var(--text); padding: 11px 13px; font-family: inherit; font-size: 0.98rem; }
+.formfeld input::placeholder, .formfeld textarea::placeholder { color: var(--text-hell); }
+.formfeld textarea { min-height: 130px; resize: vertical; }
+@media (max-width: 620px) { .formfeld { grid-template-columns: 1fr; } }
+
+/* ── Kontakt-Fakten (statt Karten: eine ruhige Liste mit Haarlinien) ──── */
+.fakten { display: grid; gap: 18px; }
+.fakten .zeile { border-bottom: 1px solid var(--linie); padding-bottom: 16px; }
+.fakten .zeile:last-child { border-bottom: 0; }
+.fakten dt { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-hell); margin-bottom: 4px; }
+.fakten dd { margin: 0; font-size: 1.05rem; font-weight: 600; color: var(--schiefer-dunkel); }
+.fakten a:hover { color: var(--terracotta-dunkel); }
+
+/* ── Katalog-Liste (angebote.html): Zeilen statt Karten, Dichte hoch ──── */
+.katalog { display: grid; }
+.katalog-zeile { display: grid; grid-template-columns: 1fr auto; gap: 18px 28px; align-items: baseline; padding: 20px 0; border-top: 1px solid var(--linie); }
+.katalog-zeile:last-child { border-bottom: 1px solid var(--linie); }
+.katalog-zeile h3 { margin: 0 0 4px; }
+.katalog-zeile p { margin: 0; color: var(--text-hell); font-size: 0.95rem; }
+.katalog-zeile .gruppe { grid-column: 1 / -1; margin: 30px 0 4px; }
+.katalog-zeile .gruppe h2 { color: var(--terracotta-dunkel); margin-bottom: 2px; }
+.katalog-zeile a.ziel { align-self: center; font-weight: 700; color: var(--terracotta-dunkel); white-space: nowrap; }
+.katalog-zeile a.ziel:hover { text-decoration: underline; }
+@media (max-width: 640px) { .katalog-zeile { grid-template-columns: 1fr; } .katalog-zeile a.ziel { justify-self: start; } }
+
+/* ── Fuss ─────────────────────────────────────────────────────────────── */
+footer.fuss { background: var(--schiefer-tief); color: rgba(250,245,238,0.82); padding: 56px 0 28px; }
+footer.fuss .netz { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 34px; }
+footer.fuss h4 { color: var(--weiss); font-size: 0.9rem; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 14px; }
+footer.fuss a { color: rgba(250,245,238,0.82); }
+footer.fuss a:hover { color: var(--terracotta); }
+footer.fuss ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+footer.fuss .sozial { display: flex; flex-wrap: wrap; gap: 10px; }
+footer.fuss .sozial a { border: 1px solid var(--linie-dunkel); border-radius: 999px; padding: 6px 14px; font-size: 0.85rem; }
+footer.fuss .sozial a:hover { border-color: var(--terracotta); }
+footer.fuss .klein { margin-top: 34px; padding-top: 22px; border-top: 1px solid var(--linie-dunkel); font-size: 0.85rem; display: flex; flex-wrap: wrap; gap: 18px; justify-content: space-between; }
+@media (max-width: 760px) { footer.fuss .netz { grid-template-columns: 1fr 1fr; } }
