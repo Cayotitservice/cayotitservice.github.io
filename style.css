@@ -1,0 +1,94 @@
+/* CITS Remake A - reduziert und edel */
+:root{
+  --blau: #123a63;
+  --blau-hell: #2c5d94;
+  --hintergrund: #ffffff;
+  --flaeche: #f6f8fb;
+  --text: #1c2733;
+  --text-mild: #4a5866;
+  --abstand: clamp(1.5rem, 4vw, 4rem);
+}
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  font-family: "Georgia", "Iowan Old Style", serif;
+  color: var(--text);
+  background: var(--hintergrund);
+  line-height:1.6;
+}
+header{
+  padding: var(--abstand);
+  border-bottom: 1px solid #e4e9ef;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+header .marke{
+  font-size:1.4rem;
+  letter-spacing:0.04em;
+  color: var(--blau);
+  font-weight:600;
+  text-decoration:none;
+}
+nav a{
+  margin-left: 2rem;
+  color: var(--text-mild);
+  text-decoration:none;
+  font-size:1rem;
+}
+nav a:hover{ color: var(--blau); }
+main{
+  max-width: 860px;
+  margin: 0 auto;
+  padding: var(--abstand);
+}
+h1{
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+  font-weight: 500;
+  color: var(--blau);
+  margin-bottom: 0.5em;
+  line-height:1.2;
+}
+h2{
+  font-size: 1.8rem;
+  color: var(--blau);
+  font-weight:500;
+  margin-top: 3rem;
+}
+p.lead{
+  font-size:1.25rem;
+  color: var(--text-mild);
+  max-width: 46ch;
+}
+section{ margin-bottom: 4rem; }
+.karte{
+  background: var(--flaeche);
+  border-radius: 4px;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+}
+.karte h3{ color: var(--blau); margin-top:0; font-weight:500; }
+ul.ruhig{ list-style:none; padding:0; }
+ul.ruhig li{ padding: 0.6rem 0; border-bottom:1px solid #e4e9ef; }
+.preis{
+  font-size: 2rem;
+  color: var(--blau);
+  font-weight:600;
+}
+.knopf{
+  display:inline-block;
+  margin-top:1.5rem;
+  padding: 0.9rem 2rem;
+  background: var(--blau);
+  color:#fff;
+  text-decoration:none;
+  border-radius: 2px;
+  font-size:1rem;
+}
+.knopf:hover{ background: var(--blau-hell); }
+footer{
+  padding: var(--abstand);
+  border-top:1px solid #e4e9ef;
+  color: var(--text-mild);
+  font-size:0.9rem;
+}
