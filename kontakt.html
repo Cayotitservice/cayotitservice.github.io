@@ -4,154 +4,97 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kontakt | Cayot IT Service</title>
-<meta name="description" content="Cayot IT Service in Bad Kreuznach: Telefon, E-Mail und Kontaktformular. Für Unternehmen in Bad Kreuznach und 100 km Umkreis.">
+<meta name="description" content="Kontaktieren Sie Cayot IT Service in Bad Kreuznach: Telefon, E-Mail oder Formular.">
+<link rel="canonical" href="https://www.itscayot.com/kontakt.html">
+<meta name="theme-color" content="#f4ece1">
 <link rel="icon" type="image/png" href="/assets/marke/favicon.png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <a class="skip" href="#hauptinhalt">Zum Inhalt springen</a>
-
-<header class="kopf">
+<header>
   <div class="schale kopfzeile">
-    <a class="marke" href="index.html"><img src="/assets/marke/logo.png" alt="Cayot IT Service"> Cayot IT Service</a>
-    <nav class="haupt" aria-label="Hauptnavigation">
-      <a class="punkt" href="index.html">Start</a>
-      <a class="punkt" href="leistungen.html">Leistungen</a>
-      <a class="punkt" href="angebote.html">Angebote</a>
-      <a class="punkt aktiv" href="kontakt.html">Kontakt</a>
-      <a class="knopf haupt" href="kontakt.html">Kontakt aufnehmen</a>
+    <a class="logo" href="index.html">
+      <img src="/assets/marke/logo.png" alt="Cayot IT Service">
+      <span>Cayot IT Service</span>
+    </a>
+    <nav class="haupt" aria-label="Haupt">
+      <div class="punkt"><a href="index.html">Start</a></div>
+      <div class="punkt"><a href="leistungen.html">Leistungen</a></div>
+      <div class="punkt"><a href="angebote.html">Angebote</a></div>
+      <div class="punkt"><a href="kontakt.html">Kontakt</a></div>
+      <div class="punkt cta"><a href="kontakt.html">Termin vereinbaren</a></div>
     </nav>
-    <button class="burger" aria-label="Menü öffnen">☰</button>
+    <button class="burger" aria-label="Menü öffnen">&#9776;</button>
   </div>
 </header>
 
 <main id="hauptinhalt">
-
-  <section class="aufmacher" style="padding-bottom:0">
-    <div class="schale" style="display:block; text-align:left; max-width:70ch">
-      <span class="eyebrow">Kontakt</span>
-      <h1>Sprechen wir über Ihre IT</h1>
-      <p class="beitext">Cayot IT Service, Bad Kreuznach. Telefon, E-Mail oder das Formular - wie es Ihnen am liebsten ist.</p>
-    </div>
-  </section>
-
   <section>
-    <div class="schale wechsel">
-      <div>
-        <h2 class="sr-only">Kontaktformular</h2>
-        <div class="formkarte">
-          <form action="https://formsubmit.co/info@itscayot.com" method="POST">
-            <div class="formfeld">
-              <div>
-                <label for="name">Name</label>
-                <input id="name" name="name" type="text" required>
-              </div>
-              <div>
-                <label for="email">E-Mail</label>
-                <input id="email" name="email" type="email" required>
-              </div>
-              <div class="voll">
-                <label for="nachricht">Nachricht</label>
-                <textarea id="nachricht" name="nachricht" required></textarea>
-              </div>
-              <div class="voll">
-                <button class="knopf haupt" type="submit" style="width:100%">Nachricht senden</button>
-              </div>
-            </div>
-          </form>
-        </div>
+    <div class="schale">
+      <div class="abschnittskopf">
+        <h2>Kontakt</h2>
+        <p>Wir machen IT verständlich und zuverlässig. Schreiben Sie uns oder rufen Sie an.</p>
       </div>
-      <div>
-        <dl class="fakten">
-          <div class="zeile">
+      <div class="kontakt-raster">
+        <div>
+          <dl class="kontaktdaten">
             <dt>Adresse</dt>
-            <dd>Gabelsberger Straße 12<br>55543 Bad Kreuznach</dd>
-          </div>
-          <div class="zeile">
+            <dd>Cayot IT Service<br>Gabelsberger Straße 12<br>55543 Bad Kreuznach</dd>
             <dt>Telefon</dt>
             <dd><a href="tel:+4917620740729">+49 176 20740729</a></dd>
-          </div>
-          <div class="zeile">
             <dt>E-Mail</dt>
             <dd><a href="mailto:info@itscayot.com">info@itscayot.com</a></dd>
-          </div>
-          <div class="zeile">
-            <dt>Inhaber</dt>
-            <dd>Marcel Cayot</dd>
-          </div>
-          <div class="zeile">
             <dt>Einsatzgebiet</dt>
-            <dd>Bad Kreuznach und 100 km Umkreis</dd>
+            <dd>Bad Kreuznach und 100 km Umkreis, unter anderem Idar-Oberstein, Bingen, Ingelheim, Koblenz, Kaiserslautern und Wiesbaden.</dd>
+          </dl>
+          <div class="sozial-zeile">
+            <a href="https://instagram.com/cayot_it_service">Instagram</a>
+            <a href="https://www.youtube.com/@Cayot_IT_Service">YouTube</a>
+            <a href="https://www.facebook.com/CayotITService/">Facebook</a>
+            <a href="https://www.tiktok.com/@cayot_it_service">TikTok</a>
+            <a href="https://www.threads.com/@cayot_it_service">Threads</a>
+            <a href="https://g.page/r/CRgKx6ommkK5EBE/review">Google-Rezensionen</a>
           </div>
-        </dl>
+        </div>
+
+        <form class="kontaktformular" action="https://formsubmit.co/info@itscayot.com" method="POST">
+          <h3 class="sr-only">Kontaktformular</h3>
+          <div class="feld">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" required>
+          </div>
+          <div class="feld">
+            <label for="email">E-Mail</label>
+            <input id="email" name="email" type="email" required>
+            <div class="fehlertext">Bitte eine gültige E-Mail-Adresse angeben.</div>
+          </div>
+          <div class="feld">
+            <label for="telefon">Telefon</label>
+            <input id="telefon" name="telefon" type="tel">
+            <div class="hilfetext">Optional, für einen Rückruf.</div>
+          </div>
+          <div class="feld">
+            <label for="nachricht">Nachricht</label>
+            <textarea id="nachricht" name="nachricht" required></textarea>
+          </div>
+          <button class="knopf primaer absenden" type="submit">Nachricht senden</button>
+        </form>
       </div>
     </div>
   </section>
-
-  <section class="gebiet">
-    <div class="schale">
-      <h2>Vor Ort im Nahetal und darüber hinaus</h2>
-      <ul class="orte">
-        <li class="mitte">Bad Kreuznach</li>
-        <li>Landkreis Bad Kreuznach</li>
-        <li>Nahetal</li>
-        <li>Idar-Oberstein</li>
-        <li>Bingen</li>
-        <li>Ingelheim</li>
-        <li>Koblenz</li>
-        <li>Kaiserslautern</li>
-        <li>Wiesbaden</li>
-      </ul>
-    </div>
-  </section>
-
-  <section>
-    <div class="schale" style="text-align:center">
-      <h2>Auch auf diesen Kanälen</h2>
-      <div class="knopfreihe" style="justify-content:center; margin-top:18px">
-        <a class="knopf leer" href="https://instagram.com/cayot_it_service">Instagram</a>
-        <a class="knopf leer" href="https://www.youtube.com/@Cayot_IT_Service">YouTube</a>
-        <a class="knopf leer" href="https://www.facebook.com/CayotITService/">Facebook</a>
-        <a class="knopf leer" href="https://www.tiktok.com/@cayot_it_service">TikTok</a>
-        <a class="knopf leer" href="https://www.threads.com/@cayot_it_service">Threads</a>
-        <a class="knopf leer" href="https://g.page/r/CRgKx6ommkK5EBE/review">Google-Rezensionen</a>
-      </div>
-    </div>
-  </section>
-
 </main>
 
-<footer class="fuss">
-  <div class="schale">
-    <div class="netz">
-      <div>
-        <h4>Cayot IT Service</h4>
-        <p>Inhaber: Marcel Cayot</p>
-        <p>Gabelsberger Straße 12<br>55543 Bad Kreuznach</p>
-      </div>
-      <div>
-        <h4>Kontakt</h4>
-        <ul>
-          <li><a href="tel:+4917620740729">+49 176 20740729</a></li>
-          <li><a href="mailto:info@itscayot.com">info@itscayot.com</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Seiten</h4>
-        <ul>
-          <li><a href="index.html">Start</a></li>
-          <li><a href="leistungen.html">Leistungen</a></li>
-          <li><a href="angebote.html">Angebote</a></li>
-          <li><a href="agb.html">AGB</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="klein">
-      <span>© Cayot IT Service, Marcel Cayot</span>
-      <span>Bad Kreuznach und 100 km Umkreis</span>
+<footer>
+  <div class="schale zeile">
+    <img src="/assets/marke/logo.png" alt="Cayot IT Service">
+    <div class="rechte">
+      <a href="mailto:info@itscayot.com">info@itscayot.com</a>
+      <a href="tel:+4917620740729">+49 176 20740729</a>
+      <a href="kontakt.html">Kontakt</a>
+      <a href="agb.html">AGB</a>
     </div>
   </div>
 </footer>
-
 </body>
 </html>
