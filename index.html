@@ -1,47 +1,141 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="UTF-8">
-<title>CITS - Cayot IT-Service</title>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Digitalisierung | Cayot IT Service - IT-Berater für Ihre digitale Zukunft</title>
+<meta name="description" content="Wir machen IT verständlich und zuverlässig: Analyse, Strategie und Umsetzung. IT-Service, Security, KI & Digitalisierung für Unternehmen in Bad Kreuznach und 100 km Umkreis.">
+<link rel="canonical" href="https://www.itscayot.com/">
+<meta name="theme-color" content="#15130f">
+<link rel="icon" type="image/png" href="/assets/marke/favicon.png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <a class="marke" href="index.html">CITS · Cayot IT-Service</a>
-  <nav>
-    <a href="index.html">Start</a>
-    <a href="leistungen.html">Leistungen</a>
-    <a href="angebote.html">Angebote</a>
-    <a href="kontakt.html">Kontakt</a>
-  </nav>
+<a class="skip" href="#inhalt">Zum Inhalt springen</a>
+<header class="kopf">
+  <div class="schale kopfzeile">
+    <a class="marke" href="index.html"><img src="/assets/marke/logo.png" alt="Cayot IT Service"> Cayot IT Service</a>
+    <button class="burger" aria-label="Menü öffnen" aria-expanded="false"
+      onclick="const n=document.getElementById('hauptnav');n.classList.toggle('offen');this.setAttribute('aria-expanded', n.classList.contains('offen'))">☰</button>
+    <nav class="haupt" id="hauptnav">
+      <a href="index.html" aria-current="page">Start</a>
+      <a href="leistungen.html">Leistungen</a>
+      <a href="angebote.html">Angebote</a>
+      <a href="kontakt.html" class="cta">Kontakt aufnehmen</a>
+    </nav>
+  </div>
 </header>
-<main>
-  <section>
-    <h1>Ein Assistent für Ihren Betrieb, der wirklich mitdenkt.</h1>
-    <p class="lead">CITS baut und betreut KI-Assistenten für kleine und mittlere Betriebe - vom ersten Kontakt bis zur nächtlichen Kontrolle. Kein Schlagwort, sondern ein Werkzeug, das läuft.</p>
-    <a class="knopf" href="kontakt.html">Unverbindlich anfragen</a>
+
+<main id="inhalt">
+  <section class="buehne">
+    <div class="schale innen">
+      <span class="kaps">Cayot IT Service · Bad Kreuznach</span>
+      <h1>IT-Berater für Ihre digitale Zukunft</h1>
+      <p class="leit">Wir machen IT verständlich und zuverlässig. Analyse, Strategie und Umsetzung. IT-Service, Security, KI &amp; Digitalisierung für Unternehmen in Bad Kreuznach und 100 km Umkreis.</p>
+      <div class="knopfreihe">
+        <a class="knopf haupt" href="angebote.html">Angebote ansehen</a>
+        <a class="knopf" href="kontakt.html">Kontakt aufnehmen</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="wechsel">
+    <div class="schale wechsel">
+      <div>
+        <span class="kaps">Einzugsgebiet</span>
+        <h2>Vor Ort und aus der Nähe</h2>
+        <p>Cayot IT Service betreut Unternehmen in Bad Kreuznach und im Umkreis von 100&nbsp;km.</p>
+        <ul class="regionen">
+          <li>Bad Kreuznach</li>
+          <li>Landkreis Bad Kreuznach</li>
+          <li>Nahetal</li>
+          <li>Idar-Oberstein</li>
+          <li>Bingen</li>
+          <li>Ingelheim</li>
+          <li>Koblenz</li>
+          <li>Kaiserslautern</li>
+          <li>Wiesbaden</li>
+        </ul>
+      </div>
+      <div class="bild">
+        <div class="platzhalter" role="img" aria-label="Platzhalter: Foto Marcel Cayot oder Einsatz vor Ort, Hochformat, mindestens 900 × 1200 px">
+          Echtes Bild folgt<br>(900 × 1200 px)
+        </div>
+      </div>
+    </div>
   </section>
 
   <section>
-    <h2>Für wen wir arbeiten</h2>
-    <p class="lead">Gartenbau, Zahntechnik, Handwerk, Kanzlei, Praxis, Büro - jede Insel wird auf den Betrieb zugeschnitten, nicht umgekehrt.</p>
-  </section>
-
-  <section>
-    <h2>Wie eine Insel entsteht</h2>
-    <div class="karte">
-      <ul class="ruhig">
-        <li>Fragenkatalog zum Betrieb - daraus entsteht alles Weitere</li>
-        <li>Zuschnitt: Marke, Zugänge, Erststart</li>
-        <li>Übergabe und Erststart beim Kunden vor Ort</li>
-        <li>Danach meldet sich die Insel jede Nacht von selbst</li>
+    <div class="schale">
+      <div class="gruppe-kopf">
+        <span class="kaps">Ausgewählte Angebote</span>
+        <h2>Was Cayot IT Service übernimmt</h2>
+      </div>
+      <ul class="katalog">
+        <li><a href="angebote/lokaler-it-notdienst.html"><span class="nr">01</span><span class="titel">Schnelle Hilfe, wenn der Rechner streikt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/it-fuer-selbstaendige.html"><span class="nr">02</span><span class="titel">Ihre IT-Abteilung, wenn Sie allein arbeiten</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/microsoft-365-service.html"><span class="nr">03</span><span class="titel">Klarheit über Ihr Microsoft 365</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/nas-und-backup-service.html"><span class="nr">05</span><span class="titel">Ein Ort für alle Daten - im Büro und unterwegs</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/ki-assistent-fuer-ihren-betrieb.html"><span class="nr">06</span><span class="titel">Ihr eigener Assistent, der im Haus bleibt</span><span class="pfeil">→</span></a></li>
+        <li><a href="angebote/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen.html"><span class="nr">27</span><span class="titel">Sichtbar in ChatGPT, Perplexity und Google-KI</span><span class="pfeil">→</span></a></li>
       </ul>
+      <p style="margin-top:1.4rem"><a href="angebote.html">Alle 27 Angebote ansehen →</a></p>
+    </div>
+  </section>
+
+  <section class="wechsel kehr">
+    <div class="schale wechsel kehr">
+      <div class="bild">
+        <div class="platzhalter" role="img" aria-label="Platzhalter: Foto Serverraum oder Arbeitsplatz, Querformat, mindestens 1200 × 900 px">
+          Echtes Bild folgt<br>(1200 × 900 px)
+        </div>
+      </div>
+      <div>
+        <span class="kaps">Cyberversicherung</span>
+        <h2>Damit die Cyberversicherung im Ernstfall zahlt</h2>
+        <p>Versicherer verlangen konkrete Schutzmaßnahmen. Wir bringen Ihre IT auf den Stand, den der Vertrag im Schadensfall voraussetzt. Vorbereitung auf die Cyberversicherung: Domainscan, Prüfung der Anforderungen und Einweisung in die Tools des Versicherers. Wir vermitteln keine Policen.</p>
+        <p><a href="angebote/cyberversicherung-vorbereiten.html">Mehr erfahren →</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="schale kontaktgrid">
+      <div>
+        <span class="kaps">Kontakt</span>
+        <h2>Sprechen Sie mit Cayot IT Service</h2>
+        <p>Marcel Cayot, Gabelsberger Straße 12, 55543 Bad Kreuznach.</p>
+        <ul class="kontaktliste">
+          <li><a href="tel:+4917620740729">+49 176 20740729</a></li>
+          <li><a href="mailto:info@itscayot.com">info@itscayot.com</a></li>
+        </ul>
+        <div class="sozial" aria-label="Cayot IT Service in sozialen Netzwerken">
+          <a href="https://instagram.com/cayot_it_service" aria-label="Instagram">IG</a>
+          <a href="https://www.youtube.com/@Cayot_IT_Service" aria-label="YouTube">YT</a>
+          <a href="https://www.facebook.com/CayotITService/" aria-label="Facebook">FB</a>
+          <a href="https://www.tiktok.com/@cayot_it_service" aria-label="TikTok">TT</a>
+          <a href="https://www.threads.com/@cayot_it_service" aria-label="Threads">TH</a>
+        </div>
+      </div>
+      <div>
+        <div class="fakt">
+          <span class="zahl">100&nbsp;km</span>
+          <p>Einsatzradius um Bad Kreuznach, von Koblenz bis Kaiserslautern und Wiesbaden.</p>
+        </div>
+      </div>
     </div>
   </section>
 </main>
+
 <footer>
-  CITS · Cayot IT-Service · Inhaber Marcel Cayot · info@itscayot.com
+  <div class="schale zeile">
+    <span>© Cayot IT Service, Marcel Cayot, Gabelsberger Straße 12, 55543 Bad Kreuznach</span>
+    <div class="rechtlich">
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+      <a href="agb.html">AGB</a>
+    </div>
+  </div>
 </footer>
 </body>
 </html>
