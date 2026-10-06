@@ -1,36 +1,36 @@
 {
- "stand": "2026-10-05T06:30",
+ "stand": "2026-10-06T06:30",
  "beitraege": [
   {
-   "id": "17986313511079997",
-   "titel": "Der USB-Stick gibt sich als Tastatur aus: BadUSB erklärt",
-   "bild": "/assets/instagram/17986313511079997.jpg",
-   "link": "https://www.instagram.com/reel/DeFA7pPgkXX/",
-   "datum": "2026-10-04",
+   "id": "18284223250290848",
+   "titel": "MFA an – und trotzdem fremdes Handy drin?",
+   "bild": "/assets/instagram/18284223250290848.jpg",
+   "link": "https://www.instagram.com/reel/DeHl6KilauG/",
+   "datum": "2026-10-05",
    "art": "VIDEO"
   },
   {
-   "id": "17922368988216783",
-   "titel": "Router weg? Das Gateway bleibt!",
-   "bild": "/assets/instagram/17922368988216783.jpg",
-   "link": "https://www.instagram.com/reel/DeEerHqCRYu/",
-   "datum": "2026-10-04",
+   "id": "18054904844801199",
+   "titel": "BadUSB: Wenn der USB-Stick zur Tastatur wird",
+   "bild": "/assets/instagram/18054904844801199.jpg",
+   "link": "https://www.instagram.com/reel/DeHDZOJACFy/",
+   "datum": "2026-10-05",
    "art": "VIDEO"
   },
   {
-   "id": "18039084584837085",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 77",
-   "bild": "/assets/instagram/18039084584837085.jpg",
-   "link": "https://www.instagram.com/reel/DeEbLaODsbO/",
-   "datum": "2026-10-04",
+   "id": "17867753757661470",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 78",
+   "bild": "/assets/instagram/17867753757661470.jpg",
+   "link": "https://www.instagram.com/reel/DeHAHBEjXhg/",
+   "datum": "2026-10-05",
    "art": "VIDEO"
   },
   {
-   "id": "18128030149696116",
-   "titel": "Wenn das Internet falsch abbiegt: BGP Route Leak",
-   "bild": "/assets/instagram/18128030149696116.jpg",
-   "link": "https://www.instagram.com/reel/DeEDSx6Ddhv/",
-   "datum": "2026-10-04",
+   "id": "18075853754736423",
+   "titel": "Mehr Zeit für alte RHEL-Systeme: Long-Life Add-On",
+   "bild": "/assets/instagram/18075853754736423.jpg",
+   "link": "https://www.instagram.com/reel/DeGoEHzFkfI/",
+   "datum": "2026-10-05",
    "art": "VIDEO"
   }
  ]
