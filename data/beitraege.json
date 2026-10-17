@@ -1,36 +1,36 @@
 {
- "stand": "2026-10-16T06:30",
+ "stand": "2026-10-17T06:30",
  "beitraege": [
   {
-   "id": "18136040650652281",
-   "titel": "PCIe x16-Slot, aber nur x4 Bandbreite? Das steckt dahinter",
-   "bild": "/assets/instagram/18136040650652281.jpg",
-   "link": "https://www.instagram.com/reel/DehVreygtp7/",
-   "datum": "2026-10-15",
+   "id": "18011971310967620",
+   "titel": "Wenn Angreifer zum Domaincontroller werden",
+   "bild": "/assets/instagram/18011971310967620.jpg",
+   "link": "https://www.instagram.com/reel/Dej6o1RFHNQ/",
+   "datum": "2026-10-16",
    "art": "VIDEO"
   },
   {
-   "id": "18095677838543970",
-   "titel": "Wo frisst dein PC Speicher?",
-   "bild": "/assets/instagram/18095677838543970.jpg",
-   "link": "https://www.instagram.com/reel/DegzXwEjM-u/",
-   "datum": "2026-10-15",
+   "id": "18093988055660771",
+   "titel": "IPv6 ganz ohne DHCP-Server? So funktioniert SLAAC",
+   "bild": "/assets/instagram/18093988055660771.jpg",
+   "link": "https://www.instagram.com/reel/DejYKbbEwNU/",
+   "datum": "2026-10-16",
    "art": "VIDEO"
   },
   {
-   "id": "18084602258338943",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 88",
-   "bild": "/assets/instagram/18084602258338943.jpg",
-   "link": "https://www.instagram.com/reel/Degv5fqkegZ/",
-   "datum": "2026-10-15",
+   "id": "17911495527542626",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 89",
+   "bild": "/assets/instagram/17911495527542626.jpg",
+   "link": "https://www.instagram.com/reel/DejUqumAUAX/",
+   "datum": "2026-10-16",
    "art": "VIDEO"
   },
   {
-   "id": "18231238024326064",
-   "titel": "Viele VMs sichern – ohne alles doppelt zu speichern",
-   "bild": "/assets/instagram/18231238024326064.jpg",
-   "link": "https://www.instagram.com/reel/DegX4YXgS2a/",
-   "datum": "2026-10-15",
+   "id": "18229229707328623",
+   "titel": "Server verwalten direkt im Browser: Das kann Windows Admin Center",
+   "bild": "/assets/instagram/18229229707328623.jpg",
+   "link": "https://www.instagram.com/reel/Dei8rn3k-Tp/",
+   "datum": "2026-10-16",
    "art": "VIDEO"
   }
  ]
