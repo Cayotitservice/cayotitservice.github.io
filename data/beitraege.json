@@ -1,36 +1,36 @@
 {
- "stand": "2026-10-17T06:30",
+ "stand": "2026-10-18T06:30",
  "beitraege": [
   {
-   "id": "18011971310967620",
-   "titel": "Wenn Angreifer zum Domaincontroller werden",
-   "bild": "/assets/instagram/18011971310967620.jpg",
-   "link": "https://www.instagram.com/reel/Dej6o1RFHNQ/",
-   "datum": "2026-10-16",
+   "id": "18060696521798929",
+   "titel": "Alte SID, neue Adminrechte? Das Risiko bei SID History erklärt",
+   "bild": "/assets/instagram/18060696521798929.jpg",
+   "link": "https://www.instagram.com/reel/DemfYFUDP2W/",
+   "datum": "2026-10-17",
    "art": "VIDEO"
   },
   {
-   "id": "18093988055660771",
-   "titel": "IPv6 ganz ohne DHCP-Server? So funktioniert SLAAC",
-   "bild": "/assets/instagram/18093988055660771.jpg",
-   "link": "https://www.instagram.com/reel/DejYKbbEwNU/",
-   "datum": "2026-10-16",
+   "id": "17913513774550628",
+   "titel": "Dreimal geklickt. Nur einmal ausgeführt.",
+   "bild": "/assets/instagram/17913513774550628.jpg",
+   "link": "https://www.instagram.com/reel/Del84u9kW4K/",
+   "datum": "2026-10-17",
    "art": "VIDEO"
   },
   {
-   "id": "17911495527542626",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 89",
-   "bild": "/assets/instagram/17911495527542626.jpg",
-   "link": "https://www.instagram.com/reel/DejUqumAUAX/",
-   "datum": "2026-10-16",
+   "id": "17906515116571585",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 90",
+   "bild": "/assets/instagram/17906515116571585.jpg",
+   "link": "https://www.instagram.com/reel/Del5iwiFKv7/",
+   "datum": "2026-10-17",
    "art": "VIDEO"
   },
   {
-   "id": "18229229707328623",
-   "titel": "Server verwalten direkt im Browser: Das kann Windows Admin Center",
-   "bild": "/assets/instagram/18229229707328623.jpg",
-   "link": "https://www.instagram.com/reel/Dei8rn3k-Tp/",
-   "datum": "2026-10-16",
+   "id": "18140120938616400",
+   "titel": "Hyper-V: Generation 1 oder 2? Die richtige Wahl für Ihre VM",
+   "bild": "/assets/instagram/18140120938616400.jpg",
+   "link": "https://www.instagram.com/reel/DelhanFkgrv/",
+   "datum": "2026-10-17",
    "art": "VIDEO"
   }
  ]
