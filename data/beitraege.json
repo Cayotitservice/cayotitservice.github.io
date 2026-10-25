@@ -1,36 +1,36 @@
 {
- "stand": "2026-10-24T06:30",
+ "stand": "2026-10-25T06:30",
  "beitraege": [
   {
-   "id": "18174625882456067",
-   "titel": "Linux-VM startet fertig konfiguriert – dank Cloud-init",
-   "bild": "/assets/instagram/18174625882456067.jpg",
-   "link": "https://www.instagram.com/reel/De18WBDAetG/",
-   "datum": "2026-10-23",
+   "id": "18056295221581539",
+   "titel": "Echt oder Deepfake?",
+   "bild": "/assets/instagram/18056295221581539.jpg",
+   "link": "https://www.instagram.com/reel/De4g25elaRK/",
+   "datum": "2026-10-24",
    "art": "VIDEO"
   },
   {
-   "id": "18149403910524891",
-   "titel": "Windows räumt selbst auf",
-   "bild": "/assets/instagram/18149403910524891.jpg",
-   "link": "https://www.instagram.com/reel/De1ZwSsDjbj/",
-   "datum": "2026-10-23",
+   "id": "18250116181312571",
+   "titel": "Klingt wie der Chef. Ist es aber nicht.",
+   "bild": "/assets/instagram/18250116181312571.jpg",
+   "link": "https://www.instagram.com/reel/De3-k5RAPHo/",
+   "datum": "2026-10-24",
    "art": "VIDEO"
   },
   {
-   "id": "17990567442097486",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 96",
-   "bild": "/assets/instagram/17990567442097486.jpg",
-   "link": "https://www.instagram.com/reel/De1WQAPAJv1/",
-   "datum": "2026-10-23",
+   "id": "18033319283911931",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 97",
+   "bild": "/assets/instagram/18033319283911931.jpg",
+   "link": "https://www.instagram.com/reel/De37CJ8lRXe/",
+   "datum": "2026-10-24",
    "art": "VIDEO"
   },
   {
-   "id": "18097823372656628",
-   "titel": "Installiert – und trotzdem fehlt was?",
-   "bild": "/assets/instagram/18097823372656628.jpg",
-   "link": "https://www.instagram.com/reel/De0-N5CFTtl/",
-   "datum": "2026-10-23",
+   "id": "18087681257705253",
+   "titel": "WinGet: Software zentral suchen, installieren und aktualisieren",
+   "bild": "/assets/instagram/18087681257705253.jpg",
+   "link": "https://www.instagram.com/reel/De3jBtdlZX0/",
+   "datum": "2026-10-24",
    "art": "VIDEO"
   }
  ]
