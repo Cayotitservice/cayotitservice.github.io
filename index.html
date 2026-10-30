@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://connect.facebook.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.facebook.com https://connect.facebook.net; form-action 'self' https://formsubmit.co" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://connect.facebook.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.facebook.com https://connect.facebook.net; form-action 'self' mailto:" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <title>Digitalisierung | Cayot IT Service - IT-Berater für Ihre digitale Zukunft</title>
 <meta name="description" content="Wir machen IT verständlich und zuverlässig: Analyse, Strategie und Umsetzung – IT-Service, Security, KI &amp; Digitalisierung für Unternehmen in Bad Kreuznach und 100 km Umkreis.">
@@ -176,6 +176,11 @@
   .senden { grid-column:1 / -1; background:#3db1f5; color:#06111f; border:0;
             padding:12px; font-weight:700; font-size:1rem; cursor:pointer; }
   .senden:hover { filter:brightness(1.1); }
+  .direkt { display:flex; flex-wrap:wrap; justify-content:center; gap:10px 26px;
+            font-size:1.15rem; font-weight:700; margin:22px 0 0; }
+  .direkt a { color:#3db1f5; text-decoration:none; white-space:nowrap; }
+  .direkt a:hover { text-decoration:underline; }
+  .formhinweis { font-size:.85rem; color:var(--gedimmt); text-align:center; margin:12px 0 0; }
 
   /* ── Taeglich Neues: Beitrags-Gitter ──────────────────────────────────── */
   .feed { display:grid; grid-template-columns:repeat(auto-fill, minmax(240px, 1fr));
@@ -286,6 +291,7 @@
   <div class="schale">
     <h1>Cayot IT Service
       <span class="zeile2">Wir machen IT verständlich und zuverlässig</span></h1>
+    <p class="direkt"><a href="mailto:info@itscayot.com">✉ info@itscayot.com</a><a href="tel:+4917620740729">☎ 0176 20740729</a></p>
     <div class="sozial" style="justify-content:center; margin-top:28px">
 <a href="http://facebook.com/CayotITService" aria-label="Facebook" title="Facebook"><svg viewBox="0 0 24 24"><path d="M13.4 21v-8.2h2.8l.4-3.2h-3.2V7.6c0-.9.3-1.6 1.6-1.6h1.7V3.1C16.1 3 15.1 3 14 3c-2.4 0-4 1.5-4 4.1v2.5H7.2v3.2H10V21h3.4z"/></svg></a>
       <a href="https://api.whatsapp.com/send?phone=4917620740729" aria-label="WhatsApp" title="WhatsApp"><svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 20zm4.4-5.9c-.2-.1-1.4-.7-1.6-.8-.2-.1-.4-.1-.6.1-.2.2-.7.8-.8 1-.1.2-.3.2-.5.1a6.5 6.5 0 0 1-3.2-2.8c-.2-.4.2-.4.7-1.3 0-.2 0-.3-.1-.5l-.7-1.8c-.2-.4-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.9.9-1.2 2.2-.2 4a11 11 0 0 0 4.6 4.2c1.7.7 2.4.8 3.2.7.5-.1 1.4-.6 1.6-1.2.2-.6.2-1.1.1-1.2 0-.2-.2-.2-.7-.4z"/></svg></a>
@@ -391,21 +397,29 @@
   <div class="schale">
     <div class="formkarte">
       <h3>Sprechen wir über Ihren Bedarf</h3>
-      <!-- Ziel des Formulars wird beim Umzug ein Carlos-Endpunkt (/website/kontakt) -
-           bis dahin oeffnet der Knopf eine vorbefuellte Mail, damit nichts verloren geht. -->
-      <form class="formfeld" action="https://formsubmit.co/info@itscayot.com" method="POST">
-        <input type="hidden" name="_subject" value="Neue Anfrage über itscayot.com">
-        <input type="hidden" name="_template" value="table">
-        <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="_next" value="https://www.itscayot.com/danke.html">
-        <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+      <p class="direkt" style="margin:0 0 18px"><a href="mailto:info@itscayot.com">✉ info@itscayot.com</a><a href="tel:+4917620740729">☎ 0176 20740729</a></p>
+      <!-- Kein Fremd-Formulardienst (30.10.2026): der Knopf oeffnet eine vorbefuellte Mail
+           an info@itscayot.com im Mailprogramm des Besuchers. -->
+      <form class="formfeld" id="kontaktform" action="mailto:info@itscayot.com" method="post" enctype="text/plain">
         <div><label>*Vorname</label><input name="vorname" required></div>
         <div><label>*Nachname</label><input name="nachname" required></div>
         <div><label>*E-Mail-Adresse</label><input name="email" type="email" required></div>
         <div><label>Telefonnummer</label><input name="telefon"></div>
         <div class="voll"><label>*Nachricht</label><textarea name="nachricht" required></textarea></div>
-        <button class="senden" type="submit">Anfrage absenden</button>
+        <button class="senden" type="submit">Anfrage per E-Mail absenden</button>
       </form>
+      <p class="formhinweis">Der Knopf öffnet Ihr E-Mail-Programm mit der fertigen Nachricht an info@itscayot.com. Sie wird erst gesendet, wenn Sie dort auf Senden klicken.</p>
+      <script>
+      document.getElementById("kontaktform").addEventListener("submit", function (e) {
+        e.preventDefault();
+        var f = e.target, w = function (n) { return (f.elements[n].value || "").trim(); };
+        var text = "Vorname: " + w("vorname") + "\nNachname: " + w("nachname") +
+                   "\nE-Mail: " + w("email") + "\nTelefon: " + w("telefon") +
+                   "\n\n" + w("nachricht");
+        window.location.href = "mailto:info@itscayot.com?subject=" +
+          encodeURIComponent("Anfrage über itscayot.com") + "&body=" + encodeURIComponent(text);
+      });
+      </script>
     </div>
     <div class="sozial" style="justify-content:center; margin-top:18px">
       <a href="http://facebook.com/CayotITService" aria-label="Facebook" title="Facebook"><svg viewBox="0 0 24 24"><path d="M13.4 21v-8.2h2.8l.4-3.2h-3.2V7.6c0-.9.3-1.6 1.6-1.6h1.7V3.1C16.1 3 15.1 3 14 3c-2.4 0-4 1.5-4 4.1v2.5H7.2v3.2H10V21h3.4z"/></svg></a>
