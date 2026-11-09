@@ -5,216 +5,30 @@
 
 ## Angebotsseiten
 
-- [Sicherheitscheck von außen](https://www.itscayot.com/angebote/sicherheitscheck-von-au-en-gratis-pentest.html): Bei unserem selbstentwickelten Public Discovery Scan wird die Erkundungsphase
-eines Angreifers simuliert. Damit liefern wir Ihnen und Ihren Endkunden eine
-umfassende Analyse öffentlich einsehbarer Schwachstellen und
-Sicherheitslücken einer Domain.
-Dabei handelt es sich um einen passiven Scan, bei dem nur öffentliche Quellen
-genutzt werden.
-Ziel:
-- Erkennung potenzieller Angriffsflächen und Ergreifen von
-Sicherheitsmaßnahmen
-- [Lokaler IT-Notdienst](https://www.itscayot.com/angebote/lokaler-it-notdienst.html): Typische Faelle: PC startet nicht mehr; WLAN funktioniert nicht; der Drucker spinnt; ein neuer PC muss eingerichtet werden; Daten vom alten Rechner uebernehmen; NAS einrichten; Microsoft-Konto reparieren; Outlook funktioniert nicht; Backup einrichten. GANZ WICHTIG und muss klar auf der Seite stehen: Es wird mindestens eine halbe Stunde berechnet, danach nach tatsaechlichem Aufwand. Das gehoert offen kommuniziert, am besten in den Ablauf oder die FAQ - nicht verstecken. Wir kommen persoenlich vorbei oder helfen per Fernwartung, je nachdem was schneller geht. Zielgruppe sind ausdruecklich auch Privatleute und Einzelunternehmer, nicht nur Firmen.
-- [Microsoft 365 Service](https://www.itscayot.com/angebote/microsoft-365-service.html): Wir schauen uns an: Benutzerkonten, Mehr-Faktor-Anmeldung (MFA), Adminrollen, alte Benutzer die niemand geloescht hat, Lizenzen (wofuer wird eigentlich bezahlt), Entra, Geraete, OneDrive, SharePoint, Defender, Mailweiterleitungen und die grundlegende Sicherheit. Es gibt das als laufende Betreuung nach Aufwand ODER als festes Paket 'M365 Quick Check'. Beim Quick Check bekommt der Kunde danach eine kurze, verstaendliche Liste mit Ampel-Bewertung: gruen = passt, gelb = sollte geaendert werden, rot = dringend. Die Umsetzung der Punkte wird danach getrennt beauftragt und berechnet - das gehoert klar gesagt, damit niemand ueberrascht ist. KEINE Preise nennen, auch keinen Festpreis - nur 'Festpreis auf Anfrage'. Das Ampel-Ergebnis ist der Star der Seite: kurz, verstaendlich, kein Fachbericht, den niemand liest.
-- [NAS und Backup Service](https://www.itscayot.com/angebote/nas-und-backup-service.html): Typische Auftraege: neue Synology einrichten; alte Synology auf eine neue migrieren; PCs automatisch sichern; Microsoft 365 auf die Synology sichern (Mails, OneDrive, SharePoint); Fotos und Dokumente zentral speichern statt auf zehn Rechnern; das NAS sicher von aussen erreichbar machen; ein Backup-Konzept erstellen, das auch einen Ausfall ueberlebt. Eingerichtet werden ausserdem DHCP, DNS, Docker, VPN und weiteres. Wichtig: Im Anschluss ist laufende Wartung und Ueberwachung moeglich - also nicht nur aufbauen und weg sein, sondern dranbleiben und melden, wenn eine Platte stirbt oder eine Sicherung nicht durchlaeuft. Kernbotschaft: Ein Backup, das noch nie zurueckgespielt wurde, ist kein Backup.
-- [E-Mail-Sicherheitscheck](https://www.itscayot.com/angebote/e-mail-sicherheitscheck.html): Geprueft werden: SPF, DKIM, DMARC, die DNS-Eintraege, die Microsoft-365-Konfiguration, die Mehr-Faktor-Anmeldung, eingerichtete Weiterleitungen und verdaechtige Postfachregeln (ein Klassiker nach einem gehackten Konto) sowie die grundlegende Mail-Sicherheit. Das ist ein festes, abgeschlossenes Produkt - keine Beratung nach Stunden. KEINE Preise nennen, nur 'Festpreis auf Anfrage'. Danach ist die Umsetzung moeglich: entweder mit Trend Micro als Schutzloesung inklusive Lizenzen und Wartungsvertrag, oder als Schulung, damit Ihr das Werkzeug selbst verwalten koennt - beide Wege gehoeren gleichwertig auf die Seite. Verstaendlich erklaeren, WARUM das wichtig ist: Ohne SPF/DKIM/DMARC kann jeder Mails im Namen der Firma verschicken - an Kunden, an die Buchhaltung, mit geaenderter Bankverbindung.
-- [IT-Checkup für kleine Unternehmen](https://www.itscayot.com/angebote/it-checkup-fuer-kleine-unternehmen.html): Fuer Unternehmen bis etwa 15 Mitarbeiter. Wir nehmen uns typischerweise drei bis fuenf Stunden und schauen uns an: Internetanschluss und Firewall, die PCs, Updates, Virenschutz, Backup, Microsoft 365, Passwoerter und Mehr-Faktor-Anmeldung, Datenschutz-Risiken, das NAS, das WLAN, Benutzerrechte und die Notfallvorsorge. Das Ergebnis ist das eigentliche Produkt: die 20 wichtigsten Massnahmen, sortiert nach Dringlichkeit, jeweils mit einem realistischen Kostenrahmen. Dazu ausgearbeitete Dokumente und ein Vorschlag, in welcher Reihenfolge man vorgeht. KEINE Preise nennen, nur 'Festpreis auf Anfrage'. Der Kunde soll danach zum ersten Mal wissen, was er hat und was es kostet, das in Ordnung zu bringen - und er kann selbst entscheiden, wer es umsetzt.
-- [Ihre IT-Abteilung](https://www.itscayot.com/angebote/eure-it-abteilung.html): Ihr bucht ein monatliches Stundenkontingent und habt damit eine feste Ansprechperson - vom ganz normalen Alltagsproblem (First Level: Drucker, Passwort, neuer Mitarbeiter) bis zur strategischen Beratung: Einkauf, Ausrichtung der Digitalisierung und der Security-Strategie. Alles kann besprochen werden. Der Nutzen ist die Verlaesslichkeit: Es gibt jemanden, der Eure Umgebung KENNT und nicht bei jedem Anruf von vorne anfaengt - und man muss niemanden fest einstellen. KEINE Preise und keine Stundensaetze nennen. Ehrlich bleiben: Das ersetzt keine grosse IT-Abteilung, aber fuer Betriebe ohne eigene IT ist es genau das, was fehlt.
-- [Cyberversicherung vorbereiten](https://www.itscayot.com/angebote/cyberversicherung-vorbereiten.html): WICHTIG - genau so formulieren, nicht anders: Wir vermitteln und verkaufen KEINE Versicherungen. Wir pruefen den Ist-Zustand, arbeiten die Anforderungen ab, die Versicherer heute stellen (MFA, Backup, Virenschutz, Notfallplan, Rechtevergabe), dokumentieren das nachvollziehbar und begleiten Euch - abgeschlossen wird bei Eurem Makler oder Versicherer. Das gehoert klar und selbstbewusst auf die Seite, nicht als Kleingedrucktes. Der Grund ist ein echter Nutzen fuer den Kunden: Viele Antraege scheitern oder die Police zahlt im Schadensfall nicht, weil im Fragebogen Dinge bestaetigt wurden, die technisch gar nicht umgesetzt sind. Genau das verhindern wir. Danach: Umsetzung von Massnahmen zur Vorbeugung und Begleitung im Umgang mit der aktuellen Bedrohungslage. KEINE Preise nennen.
-- [IT-Dokumente](https://www.itscayot.com/angebote/it-dokumente.html): Ihr braucht ein Administrationskonzept? Eine Security-Roadmap? Eine Risikobewertung fuer ein Projekt? Oder einfach nur ordentliche Onboarding-Checklisten fuer neue Mitarbeiter? Wir stellen alles bereit, angepasst an Eure Wuensche und Euren Betrieb - keine Vorlage von der Stange, in der noch der Name einer anderen Firma steht. WICHTIG, muss klar auf der Seite stehen (eigener Abschnitt oder FAQ): Das ist KEINE Rechtsberatung, sondern reine Erstellung nach Best Practice. Eine anwaltliche Pruefung der kundenspezifischen Anforderungen empfehlen wir ausdruecklich im Vorfeld. KEINE Preise nennen. Nutzen: Dokumente, die man im Ernstfall - Audit, Versicherung, Ausfall, Mitarbeiterwechsel - wirklich vorzeigen und benutzen kann.
-- [Security-Paket für Unternehmen](https://www.itscayot.com/angebote/security-paket-fuer-unternehmen.html): Das volle Sicherheitspaket, drei Bausteine, die zusammengehören und aufeinander abgestimmt sind:
-1. E-MAIL-SICHERHEIT: Schutz vor Phishing, gefälschten Absendern und Schadanhängen. Dazu gehören SPF, DKIM und DMARC, damit niemand in Ihrem Namen schreiben kann.
-2. ENDGERÄTESCHUTZ (Endpoint): moderner Schutz auf jedem Rechner und Server, der nicht nur bekannte Viren erkennt, sondern auch verdächtiges Verhalten - inklusive Überwachung, damit ein Vorfall auffällt, während er passiert, und nicht Wochen später.
-3. FIREWALL: der Schutz an der Grenze zwischen Ihrem Netz und dem Internet. WAHLWEISE als Gerät bei Ihnen im Haus (on premise), zum Beispiel Sophos - für Betriebe, die ihre Absicherung im eigenen Serverschrank haben wollen.
-
-Der eigentliche Verkaufspunkt ist das ZUSAMMENSPIEL: Die drei Bausteine reden miteinander und werden von EINER Stelle betreut. Wer sich E-Mail-Schutz beim einen, Virenschutz beim anderen und die Firewall beim dritten holt, hat drei Rechnungen, drei Ansprechpartner - und im Ernstfall zeigt jeder auf den anderen.
-
-Ehrlich dazusagen: Es gibt keinen hundertprozentigen Schutz. Was es gibt, ist die Kombination aus Abwehr, Erkennung und jemandem, der hinschaut.
-
-KEINE Preise nennen - Paketpreis auf Anfrage, weil er von der Zahl der Geräte und Postfächer abhängt.
-- [KI-Assistent für Ihren Betrieb](https://www.itscayot.com/angebote/ki-assistent-fuer-ihren-betrieb.html): Ein KI-Assistent, der LOKAL im Betrieb läuft, auf einem eigenen Rechner. Das ist der Kern: Die Daten bleiben im Haus.
-
-WAS SO EIN ASSISTENT KANN (das ist keine Aufzählung von Möglichkeiten, sondern das, was bei uns selbst seit Monaten wirklich läuft):
-- Er wird gesprochen bedient. Man fragt ihn wie einen Kollegen, er antwortet und führt aus.
-- Er sortiert das Postfach: erkennt, was eine Aufgabe ist, legt Anhänge ab und räumt Mails in die richtigen Ordner.
-- Er hält Termine über mehrere Kalender hinweg zusammen.
-- Er arbeitet im Ticketsystem mit: Tickets ansehen, kommentieren, Vorschläge hineinschreiben.
-- Er kennt die Zahlen: offene Rechnungen, Kosten, Auswertungen - und rechnet auf Zuruf.
-- Er erfasst Arbeitszeiten und wertet sie nach Kunde aus.
-- Er räumt Dateiablagen auf und schlägt vor, wohin etwas gehört.
-- Er beobachtet die Sicherheitslage und meldet, was auffällt.
-- Nachts prüft er sich selbst und meldet, was nicht mehr stimmt.
-- Jeder Mitarbeiter sieht nur, was zu seiner Rolle gehört - die Buchhaltung andere Dinge als die Technik.
-
-MITGELIEFERT WIRD EIN SICHERHEITSKONZEPT: schriftlich, mit Zugriffswegen, Rollen, Datenwegen und Notfallplan. Nicht als Beiwerk, sondern weil ein Assistent mit Zugriff auf Mail, Kalender und Zahlen ohne dieses Konzept fahrlässig wäre.
-
-AUF WUNSCH Wartung und Betreuung: Updates, Überwachung, neue Funktionen, Ansprechpartner bei Fragen.
-
-Ehrlich dazusagen: Das ist kein Produkt von der Stange. Es wird auf den Betrieb zugeschnitten, und das braucht Zeit und Gespräche. Dafür gehört es hinterher wirklich dem Kunden.
-
-KEINE Preise nennen.
-- [Digitale Tafeln für Besprechungsraum und Klassenzimmer](https://www.itscayot.com/angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html): WAS WIR ANBIETEN: interaktive Displays von Kindermann - vom einzelnen Board bis zum komplett ausgestatteten Besprechungsraum oder Klassenzimmer.
-
-MONTAGE: fest an der Wand oder freistehend auf einem Rollwagen. Auf Wunsch höhenverstellbar - manuell oder elektrisch. Das ist kein Zubehör-Detail: eine Tafel auf fester Höhe passt entweder den Kindern oder den Erwachsenen, nie beiden.
-
-DRAHTLOS PRÄSENTIEREN: Klick&Show. Sender an den eigenen Laptop stecken, Knopf drücken, Bild ist auf dem Display. Kein Kabelsuchen, keine Software-Installation, kein WLAN-Passwort für Gäste.
-
-BYOM - die eigene Videokonferenz mitbringen: Kamera und Mikrofon des Raums lassen sich drahtlos mit dem eigenen Teams-, Zoom- oder Webex-Konto nutzen. Der Gast startet seine Besprechung wie immer vom eigenen Laptop und benutzt trotzdem die Raumtechnik.
-
-TON: auf Wunsch mit Lautsprecher-Tischvariante, damit man am anderen Ende auch verstanden wird - der eingebaute Laptop-Ton reicht in einem echten Raum nicht.
-
-GRÖSSEN: verschiedene Diagonalen, passend zum Raum. Welche die richtige ist, hängt vom Abstand der hintersten Reihe ab - das schauen wir uns vor Ort an.
-
-WAS WIR DABEI MACHEN: Beratung zur Größe und Montageart, Lieferung, Aufbau, Einrichtung im Netzwerk, Anbindung an die vorhandene Umgebung - und eine Schulung, damit das Gerät danach auch benutzt wird und nicht als teure Tafel an der Wand hängt.
-
-FÜR WEN: Schulen und Bildungseinrichtungen, Praxen, Handwerks- und Industriebetriebe, Büros mit Besprechungsräumen.
-
-DER TYPISCHE ANLASS: Der Beamer ist alt, das Bild blass, jede Besprechung fängt mit zehn Minuten Kabelsuchen an - oder es steht ein neuer Raum an und man will es diesmal richtig machen. Wer schon ein Board hat, das keiner benutzt, ist auch richtig bei uns: meistens fehlt nur die Einrichtung und eine Stunde Einweisung.
-
-TONFALL: keine Preise nennen, keine technischen Datenblätter, keine Superlative. Wer hier liest, will wissen, ob wir das für ihn übernehmen - nicht, wie viele Berührpunkte der Bildschirm erkennt.
-- [Server-Betreuung für Unternehmen](https://www.itscayot.com/angebote/server-betreuung-fuer-unternehmen.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Laufende Betreuung von Firmenservern für Betriebe ohne eigene IT: Überwachung, Updates, Datensicherung, schnelle Hilfe bei Störungen ('der Server spinnt'). 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wir sind eine Praxis mit drei Mitarbeitern im Landkreis Bad Kreuznach. Um die Betreuung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
-- Ich bin selbständig und habe niemanden für IT in Rheinland-Pfalz. Wer bietet die Betreuung unserer Server für Unternehmen in der Region an?
-- Unser Firmenserver spinnt. Wen kann ich anrufen?
-- Bei uns läuft der Server nicht rund und niemand im Haus kennt sich aus. Wer hilft kurzfristig?
-- Wir sind eine Praxis mit drei Mitarbeitern im Nahetal. Um die Betreuung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
-- Ich bin selbständig und habe niemanden für IT in Idar-Oberstein. Wer bietet die Betreuung unserer Server für Unternehmen in der Region an?
-- [IT-Roadmap für Ihr Unternehmen](https://www.itscayot.com/angebote/it-roadmap-fuer-ihr-unternehmen.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Eine ehrliche, verständliche Mehrjahres-Planung der Firmen-IT: was steht an, was kostet es, was hat Vorrang - für Firmen ohne eigene IT-Abteilung genauso wie als punktuelle Unterstützung für Häuser MIT eigener IT. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wir sind ein Büro mit acht Mitarbeitern in Bingen. An wen wenden wir uns für eine ehrliche Einschätzung zu einer IT-Roadmap?
-- Wir sind eine Firma ohne eigene IT-Abteilung in Wiesbaden. Welcher IT-Dienstleister übernimmt eine IT-Roadmap für Firmen unserer Größe?
-- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Wiesbaden. Wir suchen jemanden, der uns bei einer IT-Roadmap punktuell unterstützt. Wen gibt es dafür?
-- Wir sind ein Büro mit acht Mitarbeitern in Bad Kreuznach. An wen wenden wir uns für eine ehrliche Einschätzung zu einer IT-Roadmap?
-- Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. Welcher IT-Dienstleister übernimmt eine IT-Roadmap für Firmen unserer Größe?
-- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Landkreis Bad Kreuznach. Wir suchen jemanden, der uns bei einer IT-Roadmap punktuell unterstützt. Wen gibt es dafür?
-- [IT für Selbständige](https://www.itscayot.com/angebote/it-fuer-selbstaendige.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-IT-Betreuung für Selbständige und Ein-Personen-Betriebe: einer, der sich um alles kümmert (Rechner, Mail, Sicherung, Sicherheit), erreichbar, bezahlbar, ohne IT-Deutsch. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wer betreut die IT von Selbständigen in Mainz?
-- Welcher IT-Dienstleister in Bingen hat Erfahrung mit Selbständigen?
-- Ich bin selbständig in Wiesbaden. Wer kümmert sich um so eine IT?
-- Wer betreut die IT von Selbständigen in Rheinland-Pfalz?
-- Welcher IT-Dienstleister in Bad Kreuznach hat Erfahrung mit Selbständigen?
-- Ich bin selbständig im Landkreis Bad Kreuznach. Wer kümmert sich um so eine IT?
-- [IT-Dienstleister steuern lassen](https://www.itscayot.com/angebote/it-dienstleister-steuern-lassen.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Dienstleistersteuerung: Wir sitzen auf IHRER Seite des Tisches und steuern Ihre IT-Lieferanten - Anforderungen formulieren, Angebote prüfen, Termine nachhalten, Ergebnisse abnehmen. Unabhängige Beratung ohne eigenes Verkaufsinteresse. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wir sind eine Praxis mit drei Mitarbeitern in Rheinland-Pfalz. Wer berät uns unabhängig zur Steuerung unserer IT-Dienstleister, ohne uns gleich etwas verkaufen zu wollen?
-- Ich bin selbständig und habe niemanden für IT im Rhein-Main-Gebiet. Wer bietet die Steuerung unserer IT-Dienstleister für Unternehmen in der Region an?
-- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Rhein-Main-Gebiet. Wir suchen jemanden, der uns bei der Steuerung unserer IT-Dienstleister punktuell unterstützt. Wen gibt es dafür?
-- Wir sind eine Praxis mit drei Mitarbeitern in Kaiserslautern. Wer berät uns unabhängig zur Steuerung unserer IT-Dienstleister, ohne uns gleich etwas verkaufen zu wollen?
-- Ich bin selbständig und habe niemanden für IT in Wiesbaden. Wer bietet die Steuerung unserer IT-Dienstleister für Unternehmen in der Region an?
-- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Wiesbaden. Wir suchen jemanden, der uns bei der Steuerung unserer IT-Dienstleister punktuell unterstützt. Wen gibt es dafür?
-- [Windows-Server-Betreuung](https://www.itscayot.com/angebote/windows-server-betreuung.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Betreuung von Windows-Servern: Active Directory, Freigaben, Berechtigungen, Updates, Sicherung - für Firmen, deren Windows-Server 'einfach laufen' muss. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wir sind ein Büro mit acht Mitarbeitern in Mainz. Wir kommen bei der Betreuung unserer Windows-Server nicht weiter. Wer kann das für uns übernehmen?
-- Wir sind eine Firma ohne eigene IT-Abteilung in Bingen. Welcher IT-Dienstleister übernimmt die Betreuung unserer Windows-Server für Firmen unserer Größe?
-- Wir sind ein Büro mit acht Mitarbeitern in Ingelheim. Wir kommen bei der Betreuung unserer Windows-Server nicht weiter. Wer kann das für uns übernehmen?
-- Wir sind eine Firma ohne eigene IT-Abteilung in Koblenz. Welcher IT-Dienstleister übernimmt die Betreuung unserer Windows-Server für Firmen unserer Größe?
-- [EU AI Act: Pflichten für kleine Betriebe](https://www.itscayot.com/angebote/eu-ai-act-pflichten-fuer-kleine-betriebe.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Der EU AI Act verständlich für kleine und mittlere Betriebe: Bin ich überhaupt betroffen? Was gilt, wenn wir KI wie ChatGPT oder einen KI-Assistenten nutzen? Ehrliche Ersteinschätzung und pragmatische Umsetzung. WICHTIG: sauber abgrenzen, dass wir technische Umsetzung und Einordnung liefern, keine Rechtsberatung. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wir sind ein Handwerksbetrieb mit fünf Leuten in Rheinland-Pfalz. An wen wenden wir uns für eine ehrliche Einschätzung zur Umsetzung des EU AI Act?
-- Wir sind ein Büro mit acht Mitarbeitern im Rhein-Main-Gebiet. Welcher IT-Dienstleister übernimmt die Umsetzung des EU AI Act für Firmen unserer Größe?
-- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus im Rhein-Main-Gebiet. Für ein Projekt zur Umsetzung des EU AI Act brauchen wir externe Unterstützung. Wer kommt in Frage?
-- Wir sind ein Handwerksbetrieb mit fünf Leuten in Idar-Oberstein. An wen wenden wir uns für eine ehrliche Einschätzung zur Umsetzung des EU AI Act?
-- Wir sind ein Büro mit acht Mitarbeitern in Bingen. Welcher IT-Dienstleister übernimmt die Umsetzung des EU AI Act für Firmen unserer Größe?
-- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus in Bingen. Für ein Projekt zur Umsetzung des EU AI Act brauchen wir externe Unterstützung. Wer kommt in Frage?
-- [Server-Virtualisierung](https://www.itscayot.com/angebote/server-virtualisierung.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Virtualisierung kleiner Serverlandschaften (z. B. Hyper-V): aus alter Hardware auf wenige, gut gesicherte virtuelle Server - planen, umziehen, sichern. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Ich bin selbständig und habe niemanden für IT im Rhein-Main-Gebiet. Um die Virtualisierung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
-- Wir sind ein Familienbetrieb mit zwölf Leuten in Mainz. Wer bietet die Virtualisierung unserer Server für Unternehmen in der Region an?
-- Ich bin selbständig und habe niemanden für IT in Bingen. Um die Virtualisierung unserer Server kümmert sich bei uns niemand. An wen wendet man sich da?
-- Wir sind ein Familienbetrieb mit zwölf Leuten in Ingelheim. Wer bietet die Virtualisierung unserer Server für Unternehmen in der Region an?
-- [Endpoint Security: Arbeitsplätze schützen](https://www.itscayot.com/angebote/endpoint-security-arbeitsplaetze-schuetzen.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Schutz der Arbeitsplatzrechner (Endpoint Security) für kleine Firmen: moderner Schutz mit Erkennung und Reaktion (EDR) statt reinem Virenscanner, zentral verwaltet, mit klarem Bericht. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wir sind ein Büro mit acht Mitarbeitern im Landkreis Bad Kreuznach. An wen wenden wir uns für eine ehrliche Einschätzung zum Schutz unserer Arbeitsplatzrechner?
-- Wir sind eine Firma ohne eigene IT-Abteilung in Rheinland-Pfalz. Welcher IT-Dienstleister übernimmt den Schutz unserer Arbeitsplatzrechner für Firmen unserer Größe?
-- Wir sind ein Handwerksbetrieb mit fünf Leuten im Rhein-Main-Gebiet. Wen könnt ihr uns für den Schutz unserer Arbeitsplatzrechner empfehlen?
-- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Rheinland-Pfalz. Wir suchen jemanden, der uns beim Schutz unserer Arbeitsplatzrechner punktuell unterstützt. Wen gibt es dafür?
-- Wir sind ein Büro mit acht Mitarbeitern in Idar-Oberstein. An wen wenden wir uns für eine ehrliche Einschätzung zum Schutz unserer Arbeitsplatzrechner?
-- Wir sind eine Firma ohne eigene IT-Abteilung in Bingen. Welcher IT-Dienstleister übernimmt den Schutz unserer Arbeitsplatzrechner für Firmen unserer Größe?
-- [IT für den Mittelstand](https://www.itscayot.com/angebote/it-fuer-den-mittelstand.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-IT-Betreuung für mittelständische Unternehmen: als komplette externe IT-Abteilung oder als Verstärkung neben vorhandener IT bzw. einem IT-Verantwortlichen. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wer betreut die IT mittelständischer Unternehmen im Rhein-Main-Gebiet?
-- Welcher IT-Dienstleister in Mainz hat Erfahrung mit mittelständischen Unternehmen?
-- Wir sind ein mittelständisches Unternehmen in Bingen. Wer kümmert sich um so eine IT?
-- Wer betreut die IT mittelständischer Unternehmen in Ingelheim?
-- Welcher IT-Dienstleister in Koblenz hat Erfahrung mit mittelständischen Unternehmen?
-- Wir sind ein mittelständisches Unternehmen in Kaiserslautern. Wer kümmert sich um so eine IT?
-- [IT-Analyse: Bestandsaufnahme Ihrer IT](https://www.itscayot.com/angebote/it-analyse-bestandsaufnahme-ihrer-it.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Unabhängige IT-Analyse: einmal ehrlich aufschreiben, was da ist, was fehlt und was gefährlich ist - mit verständlichem Bericht und Maßnahmenliste nach Dringlichkeit. Ausdrücklich beratungsneutral: keine Verkaufsveranstaltung. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wir sind eine Praxis mit drei Mitarbeitern in Mainz. Wer berät uns unabhängig zu einer IT-Analyse, ohne uns gleich etwas verkaufen zu wollen?
-- Ich bin selbständig und habe niemanden für IT in Bingen. Wer bietet eine IT-Analyse für Unternehmen in der Region an?
-- Wir sind ein Familienbetrieb mit zwölf Leuten in Wiesbaden. Wen könnt ihr uns für eine IT-Analyse empfehlen?
-- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung in Bingen. Wir suchen jemanden, der uns bei einer IT-Analyse punktuell unterstützt. Wen gibt es dafür?
-- Wir sind eine Praxis mit drei Mitarbeitern in Koblenz. Wer berät uns unabhängig zu einer IT-Analyse, ohne uns gleich etwas verkaufen zu wollen?
-- Ich bin selbständig und habe niemanden für IT in Kaiserslautern. Wer bietet eine IT-Analyse für Unternehmen in der Region an?
-- [Intune: Geräte zentral verwalten](https://www.itscayot.com/angebote/intune-geraete-zentral-verwalten.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-Microsoft Intune für kleine Firmen: Firmen-PCs, Laptops und Handys zentral einrichten, absichern und aktuell halten - neuer Rechner fertig eingerichtet aus dem Karton. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Ich bin selbständig und habe niemanden für IT in Wiesbaden. Um Intune kümmert sich bei uns niemand. An wen wendet man sich da?
-- Wir sind ein Familienbetrieb mit zwölf Leuten in Bad Kreuznach. Wer bietet Intune für Unternehmen in der Region an?
-- Wir sind eine Praxis mit drei Mitarbeitern im Landkreis Bad Kreuznach. Welche IT-Firma in der Nähe kann uns bei Intune unterstützen?
-- Wir sind ein Familienbetrieb mit zwölf Leuten in Rheinland-Pfalz. Wer bietet Intune für Unternehmen in der Region an?
-- Wir sind eine Praxis mit drei Mitarbeitern in Bad Kreuznach. Welche IT-Firma in der Nähe kann uns bei Intune unterstützen?
-- [IT-Strategie für Ihr Unternehmen](https://www.itscayot.com/angebote/it-strategie-fuer-ihr-unternehmen.html): Cayot IT Service aus Hüffelsheim bei Bad Kreuznach, Einzugsgebiet 100 km Umkreis: Landkreis Bad Kreuznach, Mainz, Bingen, Ingelheim, Wiesbaden, Idar-Oberstein, Koblenz, Kaiserslautern, Rhein-Main-Gebiet, Rheinland-Pfalz. Leitgedanke der Firma: 'Ihre interne, externe IT-Abteilung' - fester Ansprechpartner statt anonymer Hotline, ehrliche Einschaetzung statt Produktverkauf. Zielgruppe: kleine Betriebe, Praxen, Handwerk, Selbstaendige und Mittelstand ohne eigene IT-Abteilung.
-
-IT-Strategie statt Einzelkäufe: wohin soll die Firmen-IT in den nächsten Jahren, was zuerst, was darf warten - erarbeitet mit der Geschäftsführung, verständlich aufgeschrieben, jährlich nachgehalten. 
-Diese ECHTEN Kundenfragen muss die Seite beantworten - nimm sie sinngemaess in die FAQ auf (Ort jeweils auf die Region verallgemeinern, nicht jede Stadt einzeln):
-- Wir sind ein Büro mit acht Mitarbeitern in Rheinland-Pfalz. An wen wenden wir uns für eine ehrliche Einschätzung zu unserer IT-Strategie?
-- Wir sind eine Firma ohne eigene IT-Abteilung im Rhein-Main-Gebiet. Welcher IT-Dienstleister übernimmt unsere IT-Strategie für Firmen unserer Größe?
-- Wir sind ein Handwerksbetrieb mit fünf Leuten in Mainz. Wen könnt ihr uns für unsere IT-Strategie empfehlen?
-- Wir sind ein Unternehmen mit 200 Mitarbeitern und haben eine eigene IT-Abteilung im Rhein-Main-Gebiet. Wir suchen jemanden, der uns bei unserer IT-Strategie punktuell unterstützt. Wen gibt es dafür?
-- Wir brauchen eine IT-Strategie für unser Unternehmen. Wer erarbeitet so etwas?
-- Wer entwickelt für einen Betrieb eine IT-Strategie, statt nur einzelne Produkte zu verkaufen?
-- [Netzwerk-Service für Unternehmen](https://www.itscayot.com/angebote/netzwerk-service-fuer-unternehmen.html): Netzwerkplanung, Verkabelung, Switches, WLAN, Firewall und Dokumentation fuer kleine Unternehmen in Bad Kreuznach und Umgebung - vom Netzwerkplan bis zur Wartung aus einer Hand.
-
-WICHTIG: Die FAQ der Seite muss GENAU diese Fragen beantworten (das sind die echten Messfragen des Themas):
-- Ich bin selbständig und habe niemanden für IT in Bingen. Um die Betreuung unseres Netzwerks kümmert sich bei uns niemand. An wen wendet man sich da?
-- Wir sind ein Familienbetrieb mit zwölf Leuten in Wiesbaden. Wer bietet die Betreuung unseres Netzwerks für Unternehmen in der Region an?
-- Wir sind eine Praxis mit drei Mitarbeitern in Bad Kreuznach. Wir wollen uns bei der Betreuung unseres Netzwerks extern unterstützen lassen. Wer kommt dafür in Frage?
-- Ich bin selbständig und habe niemanden für IT in Idar-Oberstein. Um die Betreuung unseres Netzwerks kümmert sich bei uns niemand. An wen wendet man sich da?
-- Wir sind ein Familienbetrieb mit zwölf Leuten in Bingen. Wer bietet die Betreuung unseres Netzwerks für Unternehmen in der Region an?
-- Wir sind eine Praxis mit drei Mitarbeitern in Ingelheim. Wir wollen uns bei der Betreuung unseres Netzwerks extern unterstützen lassen. Wer kommt dafür in Frage?
-- Wir sind eine Praxis mit drei Mitarbeitern in Bad Kreuznach und Umgebung. Um die Betreuung unseres Netzwerks kümmert sich bei uns niemand. An wen wendet man sich da?
-- Ich bin selbständig und habe niemanden für IT im Nahetal. Wer bietet die Betreuung unseres Netzwerks für Unternehmen in der Region an?
-- Wir sind ein Familienbetrieb mit zwölf Leuten in Idar-Oberstein. Wir wollen uns bei der Betreuung unseres Netzwerks extern unterstützen lassen. Wer kommt dafür in Frage?
-- Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. Wir kommen bei der Betreuung unseres Netzwerks nicht weiter. Wer kann das für uns übernehmen?
-- Wir sind ein Handwerksbetrieb mit fünf Leuten in Bad Kreuznach und Umgebung. Welcher IT-Dienstleister übernimmt die Betreuung unseres Netzwerks für Firmen unserer Größe?
-- Wir sind ein Büro mit acht Mitarbeitern im Nahetal. Was kostet uns Unterstützung bei der Betreuung unseres Netzwerks, und wer bietet das hier an?
-- [IT-Projektsteuerung für den Mittelstand](https://www.itscayot.com/angebote/it-projektsteuerung-fuer-den-mittelstand.html): Planung und Steuerung von IT-Projekten: Umzuege, Serverwechsel, Digitalisierungsvorhaben - mit klarem Projektplan, Terminen und einem Ansprechpartner, der Handwerk und IT zusammenbringt.
-
-WICHTIG: Die FAQ der Seite muss GENAU diese Fragen beantworten (das sind die echten Messfragen des Themas):
-- Wir sind ein Handwerksbetrieb mit fünf Leuten in Mainz. An wen wenden wir uns für eine ehrliche Einschätzung zur Steuerung von IT-Projekten?
-- Wir sind ein Büro mit acht Mitarbeitern in Bingen. Welcher IT-Dienstleister übernimmt die Steuerung unserer IT-Projekte für Firmen unserer Größe?
-- Wir sind eine Firma ohne eigene IT-Abteilung in Wiesbaden. Wer kann uns bei der Steuerung von IT-Projekten helfen?
-- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus in Bingen. Für ein Projekt zur Steuerung von IT-Projekten brauchen wir externe Unterstützung. Wer kommt in Frage?
-- Wir sind ein Handwerksbetrieb mit fünf Leuten im Nahetal. An wen wenden wir uns für eine ehrliche Einschätzung zur Steuerung von IT-Projekten?
-- Wir sind ein Büro mit acht Mitarbeitern in Idar-Oberstein. Welcher IT-Dienstleister übernimmt die Steuerung unserer IT-Projekte für Firmen unserer Größe?
-- Wir sind eine Firma ohne eigene IT-Abteilung in Bingen. Wer kann uns bei der Steuerung von IT-Projekten helfen?
-- Wir haben rund 80 Mitarbeiter und einen IT-Verantwortlichen im Haus in Idar-Oberstein. Für ein Projekt zur Steuerung von IT-Projekten brauchen wir externe Unterstützung. Wer kommt in Frage?
-- Wir sind eine Firma ohne eigene IT-Abteilung im Landkreis Bad Kreuznach. An wen wenden wir uns für eine ehrliche Einschätzung zur Steuerung von IT-Projekten?
-- Wir sind ein Handwerksbetrieb mit fünf Leuten in Bad Kreuznach und Umgebung. Welcher IT-Dienstleister übernimmt die Steuerung unserer IT-Projekte für Firmen unserer Größe?
-- Wir sind ein Büro mit acht Mitarbeitern im Nahetal. Welche IT-Firma in der Nähe kann uns bei der Steuerung von IT-Projekten unterstützen?
-- Wir sind ein Konzernstandort mit eigener IT in Bad Kreuznach und Umgebung. Wer kann die Steuerung unserer IT-Projekte für uns bewerten, ohne dass wir gleich den Dienstleister wechseln?
-- [KI-Sichtbarkeits-Check: Wird Ihr Betrieb von ChatGPT & Co. empfohlen?](https://www.itscayot.com/angebote/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen.html): Unser eigenes Produkt: der KI-Sichtbarkeits-Check. Immer mehr Menschen fragen ChatGPT, Perplexity oder die Google-KI nach einem Dienstleister - wer dort nicht auftaucht, existiert fuer diese Kunden nicht. Wir messen, ob und wie ein Betrieb aus der Region in KI-Antworten genannt wird, pruefen die Website technisch (Bot-Freigaben, Struktur, Inhalte, eigene Themen-Seiten) und liefern einen verstaendlichen Bericht mit konkreten, belegten Empfehlungen - auf Wunsch setzen wir sie direkt um. Festpreis, Details im kostenlosen Kurzgespraech. Zielgruppe: kleine Unternehmen, Praxen, Kanzleien und Handwerk in der Region Bad Kreuznach.
+- [Sicherheitscheck von außen](https://www.itscayot.com/angebote/sicherheitscheck-von-au-en-gratis-pentest.html): Eine passive Analyse aller öffentlich sichtbaren Informationen zu Ihrer Domain, mit Bericht und Handlungsempfehlungen.
+- [Lokaler IT-Notdienst](https://www.itscayot.com/angebote/lokaler-it-notdienst.html): Schnelle IT-Hilfe vor Ort oder per Fernwartung in Bad Kreuznach und Umgebung, für Privatleute, Selbständige und Betriebe.
+- [Microsoft 365 Service](https://www.itscayot.com/angebote/microsoft-365-service.html): Ein verständlicher Check Ihres Microsoft 365 mit Ampel-Bewertung für Konten, Rechte und Sicherheit.
+- [NAS und Backup Service](https://www.itscayot.com/angebote/nas-und-backup-service.html): Ein zentraler, überwachter Speicherort für all Ihre Daten - mit Zugriff von unterwegs und geprüfter Sicherung.
+- [E-Mail-Sicherheitscheck](https://www.itscayot.com/angebote/e-mail-sicherheitscheck.html): Wir prüfen und richten SPF, DKIM und DMARC für Ihre Domain ein, damit niemand unbemerkt in Ihrem Namen mailt.
+- [IT-Checkup für kleine Unternehmen](https://www.itscayot.com/angebote/it-checkup-fuer-kleine-unternehmen.html): Eine gründliche Bestandsaufnahme Ihrer IT mit priorisierter Maßnahmenliste und Kostenrahmen zum Nachlesen.
+- [Ihre IT-Abteilung](https://www.itscayot.com/angebote/eure-it-abteilung.html): Ein monatliches Stundenkontingent mit fester Ansprechperson für alle IT-Fragen, ohne eigene IT-Stelle einzurichten.
+- [Cyberversicherung vorbereiten](https://www.itscayot.com/angebote/cyberversicherung-vorbereiten.html): Wir prüfen Ihre IT gegen die Anforderungen Ihres Cyberversicherers, schließen Lücken und liefern eine Dokumentation für Ihren Makler.
+- [IT-Dokumente](https://www.itscayot.com/angebote/it-dokumente.html): Individuell erstellte IT-Dokumente wie Administrationskonzept, Security-Roadmap, Risikobewertung und Onboarding-Checkliste, passend zu Ihrem Betrieb.
+- [Security-Paket für Unternehmen](https://www.itscayot.com/angebote/security-paket-fuer-unternehmen.html): Drei Schutzebenen, ein Ansprechpartner: E-Mail-Sicherheit, Endgeräteschutz und Firewall aufeinander abgestimmt.
+- [KI-Assistent für Ihren Betrieb](https://www.itscayot.com/angebote/ki-assistent-fuer-ihren-betrieb.html): Ein KI-Assistent, der auf einem eigenen Rechner in Ihrem Betrieb läuft und Post, Termine, Tickets und Zahlen für Sie übernimmt.
+- [Digitale Tafeln für Besprechungsraum und Klassenzimmer](https://www.itscayot.com/angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html): Interaktive Displays für Besprechungsraum und Klassenzimmer, komplett montiert, eingerichtet und mit Schulung für Ihr Team.
+- [Server-Betreuung für Unternehmen](https://www.itscayot.com/angebote/server-betreuung-fuer-unternehmen.html): Laufende Betreuung Ihres Firmenservers mit Überwachung, Updates, geprüfter Datensicherung und schneller Hilfe bei Störungen.
+- [IT-Roadmap für Ihr Unternehmen](https://www.itscayot.com/angebote/it-roadmap-fuer-ihr-unternehmen.html): Eine schriftliche IT-Planung für ein bis drei Jahre mit Kosten und Prioritäten, zum Festpreis.
+- [IT für Selbständige](https://www.itscayot.com/angebote/it-fuer-selbstaendige.html): Ein fester Ansprechpartner für Rechner, Mail, Sicherung und Schutz, passend zum eigenen Betrieb.
+- [IT-Dienstleister steuern lassen](https://www.itscayot.com/angebote/it-dienstleister-steuern-lassen.html): Wir steuern Ihre IT-Dienstleister von der Anforderung bis zur Abnahme, unabhängig und auf Ihrer Seite des Tisches.
+- [Windows-Server-Betreuung](https://www.itscayot.com/angebote/windows-server-betreuung.html): Laufende Betreuung Ihres Windows-Servers - Updates, Berechtigungen, geprüfte Sicherung und ein fester Ansprechpartner bei Störungen.
+- [EU AI Act: Pflichten für kleine Betriebe](https://www.itscayot.com/angebote/eu-ai-act-pflichten-fuer-kleine-betriebe.html): Ehrliche Ersteinschätzung, Dokumentation und technische Umsetzung Ihrer Pflichten aus dem EU AI Act.
+- [Server-Virtualisierung](https://www.itscayot.com/angebote/server-virtualisierung.html): Mehrere alte Server werden zu wenigen gut gesicherten virtuellen Maschinen zusammengefasst, geplant und dauerhaft betreut.
+- [Endpoint Security: Arbeitsplätze schützen](https://www.itscayot.com/angebote/endpoint-security-arbeitsplaetze-schuetzen.html): Zentral verwalteter Endpoint-Schutz mit Erkennung, Reaktion und monatlichem Bericht für jeden Arbeitsplatzrechner.
+- [IT für den Mittelstand](https://www.itscayot.com/angebote/it-fuer-den-mittelstand.html): Feste IT-Betreuung mit festem Ansprechpartner für Mittelstand und Betriebe ohne eigene IT-Abteilung.
+- [IT-Analyse: Bestandsaufnahme Ihrer IT](https://www.itscayot.com/angebote/it-analyse-bestandsaufnahme-ihrer-it.html): Eine unabhängige Bestandsaufnahme Ihrer IT mit schriftlichem Bericht und Maßnahmenliste nach Dringlichkeit.
+- [Intune: Geräte zentral verwalten](https://www.itscayot.com/angebote/intune-geraete-zentral-verwalten.html): Firmen-Laptops und Diensthandys werden automatisch eingerichtet, abgesichert und aktuell gehalten.
+- [IT-Strategie für Ihr Unternehmen](https://www.itscayot.com/angebote/it-strategie-fuer-ihr-unternehmen.html): Ein schriftlicher Maßnahmenplan mit Budget, der festlegt, wohin sich Ihre IT entwickeln soll - unabhängig und jährlich nachgehalten.
+- [Netzwerk-Service für Unternehmen](https://www.itscayot.com/angebote/netzwerk-service-fuer-unternehmen.html): Planung, Verkabelung, WLAN, Firewall und Wartung Ihres Netzwerks aus einer Hand.
+- [IT-Projektsteuerung für den Mittelstand](https://www.itscayot.com/angebote/it-projektsteuerung-fuer-den-mittelstand.html): Ein fester Ansprechpartner plant und steuert Ihr IT-Projekt, von der ersten Bestandsaufnahme bis zur Abnahme.
+- [KI-Sichtbarkeits-Check: Wird Ihr Betrieb von ChatGPT & Co. empfohlen?](https://www.itscayot.com/angebote/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen.html): Wir prüfen, ob und wie ChatGPT und Co. Ihren Betrieb nennen, und zeigen Ihnen in einem Bericht, was sich lohnt.
