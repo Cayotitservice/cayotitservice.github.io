@@ -50,8 +50,9 @@
      keine Pfeile. "Leistungen" oeffnet EIN grosses Panel mit allen 12 Angeboten
      auf einmal (Mega-Menue) - ein Blick statt vier Klapplisten. Die Leiste klebt
      oben und wird beim Scrollen leicht durchscheinend. */
-  header { position:sticky; top:0; z-index:70; background:rgba(16,27,45,.94);
-           backdrop-filter:blur(8px); border-bottom:1px solid var(--linie); }
+  header { position:sticky; top:0; z-index:70;
+           background:linear-gradient(135deg, rgba(18,34,59,.90) 0%, rgba(10,17,32,.88) 100%);
+           backdrop-filter:blur(8px); border-bottom:1px solid rgba(41,168,255,.22); }
   .kopfzeile { display:flex; align-items:center; gap:26px; height:76px; }
   .logo img { width:62px; height:auto; }
   nav.haupt { display:flex; align-items:center; gap:4px; margin-left:auto; }
@@ -96,11 +97,18 @@
             border:1px solid var(--linie); font-size:1.5rem; padding:4px 12px; cursor:pointer; }
 
   /* ── Buehne mit den schraegen Keilen des Originals ────────────────────── */
-  .buehne { position:relative; padding:70px 0 110px; overflow:hidden; }
-  .buehne::before { content:""; position:absolute; inset:0;
-    background:linear-gradient(115deg, var(--keil) 0 34%, transparent 34.2%),
-               linear-gradient(245deg, var(--keil) 0 26%, transparent 26.2%);
-    opacity:.85; }
+  /* Hero im Stil C, etwas kraeftiger als die Abschnitte; der Trapez-Lichtkegel ist einem
+     weichen Lichtschein ueber der Ueberschrift gewichen. Unten die Lichtkante F. */
+  .buehne { position:relative; padding:70px 0 110px; overflow:hidden;
+    background:
+      radial-gradient(ellipse 60% 45% at 50% 18%, rgba(41,168,255,.20), transparent 70%),
+      radial-gradient(circle at 6% 12%, rgba(41,168,255,.26), transparent 40%),
+      radial-gradient(circle at 94% 88%, rgba(61,177,245,.20), transparent 42%),
+      linear-gradient(135deg, #12223b 0%, #0a1120 100%); }
+  .buehne::before { content:""; position:absolute; left:10%; right:10%; bottom:0; height:1px;
+    pointer-events:none;
+    background:linear-gradient(90deg, transparent, rgba(41,168,255,.9), transparent);
+    box-shadow:0 0 24px 2px rgba(41,168,255,.45); }
   .buehne .schale { position:relative; text-align:center; }
   .buehne h1 { font-size:clamp(1.7rem, 4vw, 2.7rem); font-variant:small-caps;
                letter-spacing:.04em; line-height:1.25; }
