@@ -21,6 +21,7 @@
 <!-- Cinzel = die Original-Schrift der Seite (beim Umzug hosten wir die woff2 selbst,
      dann faellt der Google-Abruf weg). -->
 <link href="/assets/fonts/cinzel.css" rel="stylesheet">
+<link href="/assets/fonts/inter.css" rel="stylesheet">
 <style>
   :root { --nacht:#101b2d; --nacht2:#0b1422; --keil:#0a1120; --karte:#152238;
           --linie:#31435f; --linie2:#4a5f80; --text:#eef2f8; --gedimmt:#a8b6cc;
@@ -37,7 +38,7 @@
   .skip:focus { left:8px; }
   body { background:var(--nacht); color:var(--text);
          font-family:Georgia, "Times New Roman", serif; line-height:1.55; }
-  h1, h2, h3, .kaps, nav.haupt a, .kastenknopf, .karte li, .partner .titel,
+  h1, h2, h3, .kaps, nav.haupt a, .kastenknopf, .partner .titel,
   .abschluss .drueber, .senden { font-family:"Cinzel", Georgia, serif; }
   a { color:var(--akzent); text-decoration:none; }
   img { max-width:100%; display:block; }
@@ -108,14 +109,51 @@
   /* ── Drei Karten (Bild + Liste), zweimal verwendet ────────────────────── */
   .karten { display:grid; grid-template-columns:repeat(auto-fit, minmax(min(300px, 100%), 1fr));
             gap:22px; }
-  .karte { border:1px dashed var(--linie2); padding:14px; background:rgba(11,20,34,.55); }
-  .karte img { border:1px solid var(--linie); width:100%; aspect-ratio:3/2; object-fit:cover; }
-  .karte ul { list-style:none; margin:16px 4px 4px; }
-  .karte li { padding:4px 0 4px 26px; position:relative; color:var(--hell);
-              letter-spacing:.04em; font-size:.98rem; }
-  .karte li::before { content:"•"; position:absolute; left:8px; color:var(--akzent); }
+  /* Leistungsboxen (Marcel 09.11.2026): ruhige Karte wie im Partnerbereich, Cinzel nur fuer
+     die Ueberschrift, Stichpunkte in Inter - normal geschrieben und gut lesbar. */
+  .karte { border:1px solid var(--linie); border-radius:12px; padding:14px 14px 18px;
+           background:rgba(11,20,34,.72); display:flex; flex-direction:column; }
+  .karte img { border-radius:8px; width:100%; height:auto; aspect-ratio:3/2; object-fit:cover; }
+  .karte h3 { font-size:1.15rem; letter-spacing:.05em; margin:16px 6px 2px; color:var(--text); }
+  .karte ul { list-style:none; margin:10px 6px 4px; flex:1; }
+  .karte li { padding:5px 0 5px 24px; position:relative; color:var(--text);
+              font-family:"Inter", system-ui, "Segoe UI", Arial, sans-serif;
+              font-size:1rem; line-height:1.5; letter-spacing:0; }
+  .karte li::before { content:""; position:absolute; left:6px; top:.85em; width:7px; height:7px;
+                      border-radius:50%; background:var(--akzent); }
+  .karte .mehr { margin:12px 6px 0; font-family:"Inter", system-ui, Arial, sans-serif;
+                 font-weight:600; font-size:.95rem; color:var(--akzent); }
+  .karte .mehr:hover, .karte .mehr:focus-visible { text-decoration:underline; }
 
-  section { padding:56px 0; }
+  /* Einsatzgebiet: zwei 50-km-Kreise als eigene Grafik, keine Fremdkarte */
+  .einsatz .raster { display:grid; grid-template-columns:repeat(auto-fit, minmax(min(320px, 100%), 1fr));
+                     gap:28px; align-items:center; }
+  .einsatz ol { list-style:none; margin:18px 0 0; padding:0; display:grid; gap:14px; }
+  .einsatz li { border:1px solid var(--linie); border-radius:12px; padding:14px 16px;
+                background:rgba(11,20,34,.72); font-family:"Inter", system-ui, Arial, sans-serif;
+                color:var(--text); line-height:1.5; }
+  .einsatz li strong { display:block; font-family:"Cinzel", Georgia, serif; letter-spacing:.05em;
+                       font-size:1.05rem; margin-bottom:2px; }
+  .einsatz figure { margin:0; }
+  .einsatz svg { width:100%; height:auto; display:block; }
+
+  section { padding:56px 0; position:relative;
+            --l1x:8%; --l1y:15%; --l2x:92%; --l2y:90%;
+            background:
+              radial-gradient(circle at var(--l1x) var(--l1y), rgba(41,168,255,.18), transparent 38%),
+              radial-gradient(circle at var(--l2x) var(--l2y), rgba(61,177,245,.14), transparent 40%),
+              linear-gradient(135deg, #12223b 0%, #0a1120 100%); }
+  /* Lichtpunkte je Abschnitt leicht versetzt, damit es nicht wie eine Tapete wirkt */
+  main > section:nth-of-type(3n+2) { --l1x:88%; --l1y:12%; --l2x:10%; --l2y:86%; }
+  main > section:nth-of-type(3n)   { --l1x:22%; --l1y:88%; --l2x:78%; --l2y:10%; }
+  /* F: leuchtende Linie als Trenner zwischen den Abschnitten */
+  main > section + section::before { content:""; position:absolute; left:10%; right:10%; top:0;
+            height:1px; pointer-events:none;
+            background:linear-gradient(90deg, transparent, rgba(41,168,255,.9), transparent);
+            box-shadow:0 0 24px 2px rgba(41,168,255,.45); }
+  /* F mit Verlauf zur Mitte fuer die ruhigen Abschnitte (Einsatzgebiet, Partner) */
+  main > section.einsatz, main > section.partner {
+            background:linear-gradient(180deg, #0a1120 0%, #12233c 50%, #0a1120 100%); }
   .mittig { text-align:center; }
   h2.gross { letter-spacing:.06em;
              font-size:clamp(1.5rem, 3vw, 2.1rem); }
@@ -145,9 +183,7 @@
      (Die Logos frei auf dem Hochkant-Serverraumfoto waren auf jeder Breite anders
       zerschnitten - Chef: "Skalierungs- und Anordnungschaos". Das Foto traegt weiter
       den Abschluss-Held; hier bekommen die Partner feste Karten.) */
-  .partner { background:linear-gradient(160deg, var(--nacht2) 0%, #0d2038 100%);
-             border-top:1px solid var(--linie); border-bottom:1px solid var(--linie);
-             padding:clamp(44px, 7vw, 90px) 0; }
+  .partner { padding:clamp(44px, 7vw, 90px) 0; }
   .partner .titel { text-align:center; font-size:clamp(1.4rem, 3.4vw, 2.2rem);
                     letter-spacing:.14em; margin-bottom:clamp(24px, 4vw, 46px); }
   .partnerlogos { max-width:1180px; margin:0 auto; padding:0 22px;
@@ -315,25 +351,22 @@
   <h2 class="sr-only">Digitalisierung: Analyse, Strategie und Umsetzung</h2>
   <div class="schale karten">
     <div class="karte">
-      <img src="/assets/bilder/8ab3d9_a9f723ee7453462db63437522ea0fc1c.png" alt="Digitalisierung: Überblick auf Dashboard">
-      <ul><li>Ist-Analyse der IT</li><li>Optimierungspotenziale erkennen</li>
-          <li>Security-Check durchführen</li><li>Backup &amp; Datensicherheit testen</li>
-          <li>Skalierbarkeit messen</li><li>Ausfallsicherheit prüfen</li>
-          <li>Kosten &amp; Effizienz vergleichen</li><li>Digitalisierungsgrad festlegen</li></ul>
+      <img src="/assets/leistungen/analyse.webp" alt="Ein Arbeitsplatz vor einem offenen Serverschrank: Bestandsaufnahme der IT" width="1536" height="1024">
+      <h3>IT-Analyse</h3>
+      <ul><li>Sie wissen, wo Ihre IT heute steht</li><li>Schwachstellen und Ausfallrisiken sind erkannt</li><li>Ihre Datensicherung ist geprüft, nicht nur eingerichtet</li><li>Kosten und Einsparpotenziale liegen offen</li></ul>
+      <a class="mehr" href="https://www.itscayot.com/angebote/it-analyse-bestandsaufnahme-ihrer-it.html">Mehr erfahren →</a>
     </div>
     <div class="karte">
-      <img src="/assets/bilder/8ab3d9_58a590881e81422f8894ab2f29aff8b6.png" alt="Roadmap entwickeln zur Digitalisierung">
-      <ul><li>Gesamtstrategie ausrichten</li><li>Konkreter Umsetzungsplan</li>
-          <li>Klare Prioritäten &amp; Reihenfolge</li><li>Security &amp; Risikostrategie</li>
-          <li>Budget- &amp; Finanzplanung</li><li>Digitalisierungsmaßnahmen</li>
-          <li>Zeitplan &amp; Meilensteine</li><li>Dokumentation</li></ul>
+      <img src="/assets/leistungen/strategie.webp" alt="Aufgeschlagenes Notizbuch auf einem Besprechungstisch vor einem Serverraum" width="1536" height="1024">
+      <h3>Strategie &amp; Roadmap</h3>
+      <ul><li>Ein klarer Plan, was wann passiert</li><li>Prioritäten nach Risiko und Nutzen</li><li>Budget und Zeitplan, die zu Ihrem Betrieb passen</li><li>Alles schriftlich festgehalten</li></ul>
+      <a class="mehr" href="https://www.itscayot.com/angebote/it-roadmap-fuer-ihr-unternehmen.html">Mehr erfahren →</a>
     </div>
     <div class="karte">
-      <img src="/assets/bilder/8ab3d9_0383b570cbbe4bc48e0f478856e71097.png" alt="Digitalisierung im Prozess: Steuern und Umsetzen">
-      <ul><li>Projekte steuern &amp; koordinieren</li><li>Dienstleister führen &amp; anleiten</li>
-          <li>Eigenständige Umsetzung</li><li>Fortschritt überwachen</li>
-          <li>Interne IT-Abteilungen koordinieren</li><li>Zentrale Projektübersicht behalten</li>
-          <li>Skalierbare Lösungen umsetzen</li><li>Ergebnisse messbar machen</li></ul>
+      <img src="/assets/leistungen/umsetzung.webp" alt="Hände verbinden ein Netzwerkkabel in einem Patchpanel" width="1536" height="1024">
+      <h3>Umsetzung &amp; Projektsteuerung</h3>
+      <ul><li>Ihre Projekte laufen nach Plan</li><li>Ein Ansprechpartner steuert alle Beteiligten</li><li>Sie sehen jederzeit, wie weit es ist</li><li>Ergebnisse werden messbar</li></ul>
+      <a class="mehr" href="https://www.itscayot.com/angebote/it-projektsteuerung-fuer-den-mittelstand.html">Mehr erfahren →</a>
     </div>
   </div>
 </section>
@@ -366,26 +399,59 @@
   <h2 class="sr-only">Sicherheit, Steuerung und Wissen fuer Ihr Unternehmen</h2>
   <div class="schale karten" style="margin-top:0">
     <div class="karte">
-      <img loading="lazy" src="/assets/bilder/8ab3d9_c0ad5916eab349a2a7c3625b56efc588.png" alt="IT-Sicherheit und Compliance Dashboard">
-      <ul><li>Schutz durch moderne Sicherheitslösungen</li><li>Systeme härten &amp; absichern</li>
-          <li>Sicherheitslücken identifizieren &amp; schließen</li><li>End-of-Life-Systeme erkennen &amp; erneuern</li>
-          <li>Netzwerke &amp; Zugriffe absichern</li><li>Einführen von Sicherheitsstandards &amp; Richtlinien</li>
-          <li>Überwachung &amp; Updates der Systeme</li><li>Compliance-Anforderungen prüfen und erfüllen</li></ul>
+      <img loading="lazy" src="/assets/leistungen/sicherheit.webp" alt="Verschlossener Serverschrank mit blauen Status-Leuchten" width="1536" height="1024">
+      <h3>IT-Sicherheit &amp; Compliance</h3>
+      <ul><li>Ihre Systeme sind geschützt und aktuell</li><li>Lücken und Altsysteme sind erkannt und behoben</li><li>Netzwerk und Zugriffe sind abgesichert</li><li>Ihre Compliance-Pflichten sind erfüllt</li></ul>
+      <a class="mehr" href="https://www.itscayot.com/angebote/security-paket-fuer-unternehmen.html">Mehr erfahren →</a>
     </div>
     <div class="karte">
-      <img loading="lazy" src="/assets/bilder/8ab3d9_8148af86e83248bc88e6b31f1b2c9511.png" alt="IT-Management und Koordination Dashboard">
-      <ul><li>Zentrale Steuerung aller IT-Themen</li><li>Verantwortung für externe Partner &amp; Dienstleister</li>
-          <li>Abstimmung zwischen Geschäftsführung &amp; IT</li><li>Klare Entscheidungsgrundlagen schaffen</li>
-          <li>Transparenz über Kosten, Fortschritt &amp; Risiken</li><li>Sicherstellung reibungsloser Zusammenarbeit</li>
-          <li>Kontinuierliche Optimierung der Abläufe</li></ul>
+      <img loading="lazy" src="/assets/leistungen/management.webp" alt="Ruhiger Schreibtisch mit zwei Bildschirmen und Blick in den Serverraum" width="1536" height="1024">
+      <h3>IT-Management &amp; Koordination</h3>
+      <ul><li>Ein Ansprechpartner für alle IT-Themen</li><li>Ihre Dienstleister arbeiten abgestimmt zusammen</li><li>Klare Entscheidungsgrundlagen für die Geschäftsführung</li><li>Kosten, Fortschritt und Risiken auf einen Blick</li></ul>
+      <a class="mehr" href="https://www.itscayot.com/angebote/it-dienstleister-steuern-lassen.html">Mehr erfahren →</a>
     </div>
     <div class="karte">
-      <img loading="lazy" src="/assets/bilder/8ab3d9_45ae7bdd9784462680ba1d34780e3e3c.png" alt="IT verstehen und sicher anwenden">
-      <ul><li>Mitarbeiter gezielt schulen &amp; sensibilisieren</li><li>Geschäftsführung verständlich aufklären</li>
-          <li>IT-Themen in klare Entscheidungen übersetzen</li><li>Leitfäden &amp; Richtlinien praxisnah entwickeln</li>
-          <li>DSGVO, NIS2 &amp; ISO verständlich machen</li><li>Sicherheitsbewusstsein im Unternehmen stärken</li>
-          <li>Einführung &amp; Begleitung neuer Systeme</li><li>Kontinuierliche Betreuung &amp; Unterstützung</li></ul>
+      <img loading="lazy" src="/assets/leistungen/verstehen.webp" alt="Schulungsraum am Abend mit großem Bildschirm und Notizbüchern" width="1536" height="1024">
+      <h3>IT verstehen &amp; sicher anwenden</h3>
+      <ul><li>Ihr Team erkennt Phishing und Betrugsversuche</li><li>Die Geschäftsführung versteht, worüber sie entscheidet</li><li>DSGVO, NIS2 und ISO verständlich erklärt</li><li>Neue Systeme werden sicher eingeführt</li></ul>
+      <a class="mehr" href="https://www.itscayot.com/angebote/it-checkup-fuer-kleine-unternehmen.html">Mehr erfahren →</a>
     </div>
+  </div>
+</section>
+
+<section class="einsatz" id="einsatzgebiet" style="padding-top:24px">
+  <div class="schale raster">
+    <div>
+      <h2 class="gross">Einsatzgebiet</h2>
+      <ol>
+        <li><strong>Vor Ort</strong>Im Umkreis von 50 km um Hüffelsheim und Hochheim am Main.</li>
+        <li><strong>Projekte</strong>Im gesamten DACH-Raum: Deutschland, Österreich und die Schweiz.</li>
+        <li><strong>Fernwartung</strong>Jederzeit und überall, sicher über unsere eigene Verbindung.</li>
+      </ol>
+    </div>
+    <figure>
+      <svg viewBox="0 0 540 420" role="img" aria-labelledby="einsatz-titel einsatz-text" xmlns="http://www.w3.org/2000/svg">
+        <title id="einsatz-titel">Einsatzgebiet vor Ort</title>
+        <desc id="einsatz-text">Zwei Kreise mit je 50 km Radius um Hüffelsheim und um Hochheim am Main.</desc>
+        <defs>
+          <radialGradient id="eg-fuell" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#29a8ff" stop-opacity=".22"/>
+            <stop offset="100%" stop-color="#29a8ff" stop-opacity=".04"/>
+          </radialGradient>
+        </defs>
+        <!-- Massstab 3 px je km; Lage nach den echten Koordinaten (Hochheim 40 km oestlich, 23 km noerdlich) -->
+        <circle cx="210" cy="235" r="150" fill="url(#eg-fuell)" stroke="#29a8ff" stroke-width="2" stroke-opacity=".75"/>
+        <circle cx="329" cy="167" r="150" fill="url(#eg-fuell)" stroke="#3db1f5" stroke-width="2" stroke-opacity=".75" stroke-dasharray="7 6"/>
+        <line x1="210" y1="235" x2="60" y2="235" stroke="#eef2f8" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="4 4"/>
+        <text x="135" y="226" fill="#eef2f8" fill-opacity=".8" font-family="Inter, system-ui, Arial, sans-serif" font-size="14" text-anchor="middle">50 km</text>
+        <circle cx="210" cy="235" r="7" fill="#29a8ff"/>
+        <circle cx="210" cy="235" r="14" fill="none" stroke="#29a8ff" stroke-opacity=".5"/>
+        <text x="210" y="268" fill="#eef2f8" font-family="Inter, system-ui, Arial, sans-serif" font-size="17" font-weight="600" text-anchor="middle">Hüffelsheim</text>
+        <circle cx="329" cy="167" r="7" fill="#3db1f5"/>
+        <circle cx="329" cy="167" r="14" fill="none" stroke="#3db1f5" stroke-opacity=".5"/>
+        <text x="329" y="146" fill="#eef2f8" font-family="Inter, system-ui, Arial, sans-serif" font-size="17" font-weight="600" text-anchor="middle">Hochheim am Main</text>
+      </svg>
+    </figure>
   </div>
 </section>
 
@@ -497,13 +563,7 @@
   "telephone": "+49 176 20740729",
   "address": {"@type": "PostalAddress", "streetAddress": "Traisener Straße 3",
               "postalCode": "55595", "addressLocality": "Hüffelsheim", "addressCountry": "DE"},
-  "areaServed": [
-    {"@type": "GeoCircle",
-     "geoMidpoint": {"@type": "GeoCoordinates", "latitude": 49.8224, "longitude": 7.8025,
-                     "name": "55595 Hüffelsheim"},
-     "geoRadius": 100000},
-    {"@type": "Place", "name": "Bad Kreuznach"}
-  ],
+  "areaServed": [{"@type": "GeoCircle", "geoMidpoint": {"@type": "GeoCoordinates", "latitude": 49.8224, "longitude": 7.8025, "name": "55595 Hüffelsheim"}, "geoRadius": 50000}, {"@type": "GeoCircle", "geoMidpoint": {"@type": "GeoCoordinates", "latitude": 50.0277, "longitude": 8.3587, "name": "65239 Hochheim am Main"}, "geoRadius": 50000}, {"@type": "Country", "name": "Deutschland"}, {"@type": "Country", "name": "Österreich"}, {"@type": "Country", "name": "Schweiz"}],
   "sameAs": ["https://www.linkedin.com/in/cayotm/", "https://www.instagram.com/cayot_it_service/",
              "https://www.youtube.com/@Cayot_IT_Service", "http://facebook.com/CayotITService",
              "https://www.threads.com/@cayot_it_service", "https://www.tiktok.com/@cayot_it_service"]
