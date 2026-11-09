@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://connect.facebook.net https://gc.zgo.at; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; connect-src 'self' https://www.facebook.com https://connect.facebook.net https://*.goatcounter.com; form-action 'self' mailto:" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://connect.facebook.net https://gc.zgo.at; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; connect-src 'self' https://www.facebook.com https://connect.facebook.net https://*.goatcounter.com; form-action 'self' https://cits-kontaktformular.itscayot.workers.dev" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <title>IT-Service Bad Kreuznach &amp; Nahe – Cayot IT Service</title>
 <meta name="description" content="Wir machen IT verständlich und zuverlässig: Analyse, Strategie und Umsetzung – IT-Service, Security, KI &amp; Digitalisierung für Unternehmen im Umkreis von 50 km um Hüffelsheim und Hochheim am Main und Projekte im gesamten DACH-Raum.">
@@ -219,6 +219,7 @@
   .formfeld { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
   .formfeld label { font-size:.8rem; color:var(--gedimmt); display:block; margin-bottom:3px; }
   .formfeld .voll { grid-column:1 / -1; }
+  .formfeld .kf-falle { position:absolute; left:-10000px; width:1px; height:1px; overflow:hidden; }
   .formfeld input, .formfeld textarea { width:100%; background:var(--nacht);
       border:1px solid var(--linie); color:var(--text); padding:9px 10px;
       font-family:inherit; font-size:.95rem; }
@@ -482,27 +483,30 @@
     <div class="formkarte">
       <h3>Sprechen wir über Ihren Bedarf</h3>
       <p class="direkt" style="margin:0 0 18px"><a href="mailto:info@itscayot.com">✉ info@itscayot.com</a><a href="tel:+4917620740729">☎ 0176 20740729</a></p>
-      <!-- Kein Fremd-Formulardienst (30.10.2026): der Knopf oeffnet eine vorbefuellte Mail
-           an info@itscayot.com im Mailprogramm des Besuchers. -->
-      <form class="formfeld" id="kontaktform" action="mailto:info@itscayot.com" method="post" enctype="text/plain">
-        <div><label>*Vorname</label><input name="vorname" required></div>
-        <div><label>*Nachname</label><input name="nachname" required></div>
-        <div><label>*E-Mail-Adresse</label><input name="email" type="email" required></div>
-        <div><label>Telefonnummer</label><input name="telefon"></div>
-        <div class="voll"><label>*Nachricht</label><textarea name="nachricht" required></textarea></div>
-        <button class="senden" type="submit">Anfrage per E-Mail absenden</button>
+      <!-- Kontaktformular (Marcel 09.11.2026, Weg A): sendet an den eigenen Cloudflare Worker,
+           Carlos holt die Anfrage alle 5 Minuten ab und legt Ticket und Mail an info@ an.
+           Spamschutz ohne Captcha: verstecktes Feld "website" und Mindestzeit "t". -->
+      <form class="formfeld" id="kontaktform" action="https://cits-kontaktformular.itscayot.workers.dev/anfrage" method="post">
+        <div><label for="kf-name">*Name</label><input id="kf-name" name="name" autocomplete="name" required maxlength="200"></div>
+        <div><label for="kf-mail">*E-Mail-Adresse</label><input id="kf-mail" name="email" type="email" autocomplete="email" required maxlength="200"></div>
+        <div class="voll"><label for="kf-tel">Telefonnummer</label><input id="kf-tel" name="telefon" type="tel" autocomplete="tel" maxlength="50"></div>
+        <div class="voll"><label for="kf-text">*Nachricht</label><textarea id="kf-text" name="nachricht" required maxlength="5000"></textarea></div>
+        <div class="kf-falle" aria-hidden="true"><label for="kf-web">Website</label><input id="kf-web" name="website" tabindex="-1" autocomplete="off"></div>
+        <input type="hidden" name="t" value="">
+        <input type="hidden" name="seite" value="startseite">
+        <button class="senden" type="submit">Anfrage absenden</button>
       </form>
-      <p class="formhinweis">Der Knopf öffnet Ihr E-Mail-Programm mit der fertigen Nachricht an info@itscayot.com. Sie wird erst gesendet, wenn Sie dort auf Senden klicken.</p>
+      <p class="formhinweis" id="kf-hinweis">Wir melden uns werktags innerhalb von 24 Stunden. Hinweise zum Datenschutz: <a href="/datenschutz.html">Abschnitt 12</a>.</p>
       <script>
-      document.getElementById("kontaktform").addEventListener("submit", function (e) {
-        e.preventDefault();
-        var f = e.target, w = function (n) { return (f.elements[n].value || "").trim(); };
-        var text = "Vorname: " + w("vorname") + "\nNachname: " + w("nachname") +
-                   "\nE-Mail: " + w("email") + "\nTelefon: " + w("telefon") +
-                   "\n\n" + w("nachricht");
-        window.location.href = "mailto:info@itscayot.com?subject=" +
-          encodeURIComponent("Anfrage über itscayot.com") + "&body=" + encodeURIComponent(text);
-      });
+      (function () {
+        var f = document.getElementById("kontaktform"), start = Date.now();
+        f.addEventListener("submit", function () { f.elements.t.value = String(Date.now() - start); });
+        if (/[?&]anfrage=fehler/.test(location.search)) {
+          var h = document.getElementById("kf-hinweis");
+          h.textContent = "Die Anfrage konnte nicht gesendet werden. Bitte Name, Nachricht und E-Mail prüfen oder rufen Sie uns an: 0176 20740729.";
+          h.style.color = "#ffb4a8";
+        }
+      })();
       </script>
     </div>
     <div class="sozial" style="justify-content:center; margin-top:18px">
