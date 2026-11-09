@@ -714,7 +714,7 @@
       "assets/it-checkup-fuer-kleine-unternehmen/zweitbild.png",
       "assets/it-checkup-fuer-kleine-unternehmen/hintergrund_bild.png"
     ],
-    "hero_titel": "Klarheit über Ihre IT - in einem Tag",
+    "hero_titel": "Klarheit über Ihre IT – in nur einem Tag",
     "bildrichtung": "Weiche Lichtspuren und Bewegung über einem unscharfen Motiv, Cyan auf Anthrazit",
     "erstellt": "2026-08-07T23:13:46",
     "ueberarbeitet": "2026-08-10T00:40:37",
@@ -722,16 +722,16 @@
     "kategorie": "Beratung & Dokumente",
     "kurzbeschreibung": "Eine gründliche Bestandsaufnahme Ihrer IT mit priorisierter Maßnahmenliste und Kostenrahmen zum Nachlesen.",
     "ablauf_art": "winkel",
-    "fuer_wen_art": "trennstrich",
+    "fuer_wen_art": "zeilen",
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
-      "hero_titel": "Klarheit über Ihre IT - in einem Tag",
-      "hero_unterzeile": "Wir schauen uns Ihre gesamte Technik einmal gründlich an und legen offen, wo Handlungsbedarf besteht. Am Ende wissen Sie, was Sie haben, was dringend ist und mit welchem Kostenrahmen Sie rechnen müssen.",
+      "hero_titel": "Klarheit über Ihre IT – in nur einem Tag",
+      "hero_unterzeile": "Wir prüfen Ihre gesamte Technik an einem Tag gründlich: Rechner, Server, Netzwerk, Datensicherung und Virenschutz. Danach wissen Sie genau, was Sie haben, was dringend ist und mit welchen Kosten Sie rechnen müssen – schriftlich und verständlich erklärt.",
       "fuer_wen": [
-        "Inhaber eines kleinen Betriebs ohne eigene IT-Abteilung, der nie geprüft hat, ob Backup und Virenschutz tatsächlich funktionieren",
-        "Selbständige und Einzelunternehmer, die ihre Technik nebenbei selbst verwalten und wissen wollen, wo sie wirklich stehen",
-        "Neue Geschäftsführer oder Nachfolger, die einen Betrieb übernehmen und die vorhandene IT nicht kennen",
-        "Privatpersonen mit mehreren Geräten, NAS und Heimnetzwerk, die einen ehrlichen Überblick über Sicherheit und Datensicherung wollen"
+        "Kleine Betriebe ohne eigene IT-Abteilung",
+        "Selbstständige, die ihre Technik nebenbei betreuen",
+        "Neue Geschäftsführer und Nachfolger, die eine bestehende IT übernehmen",
+        "Privathaushalte mit NAS, mehreren Geräten und Heimnetz"
       ],
       "problem_ueberschrift": "Niemand weiß wirklich, wie es um die IT steht",
       "problem": [
@@ -835,7 +835,8 @@
       "kurzbeschreibung": "Eine gründliche Bestandsaufnahme Ihrer IT mit priorisierter Maßnahmenliste und Kostenrahmen zum Nachlesen.",
       "hero_bild": "Eine Hand hakt Punkte auf einer ausgedruckten Checkliste ab, daneben auf dem Tisch liegen ein Netzwerkkabel und ein kleiner Router",
       "zweitbild": "Von oben fotografiert: ein ausgedrucktes Dokument mit farbig markierter Prioritätsliste neben einer Tasse Kaffee auf einem Holztisch",
-      "hintergrund_bild": "Weiche Lichtspuren und Bewegung über einem unscharfen Motiv aus gestapelten Aktenordnern und einer offenen Checkliste, Cyan auf Anthrazit, ruhige Tiefe ohne erkennbare Details"
+      "hintergrund_bild": "Weiche Lichtspuren und Bewegung über einem unscharfen Motiv aus gestapelten Aktenordnern und einer offenen Checkliste, Cyan auf Anthrazit, ruhige Tiefe ohne erkennbare Details",
+      "fuer_wen_titel": "Für wen ist das?"
     },
     "bilder": {
       "hero_bild": "/assets/it-checkup-fuer-kleine-unternehmen/hero_bild.png",
