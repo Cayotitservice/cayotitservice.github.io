@@ -158,6 +158,14 @@
                          display:flex; align-items:center; justify-content:center; }
   .partnerlogos .plogo.dunkel { background:rgba(13,22,38,.92); }
   .partnerlogos img { max-height:120px; width:auto; max-width:100%; object-fit:contain; }
+  /* Logo ist der Link, darunter Name und Kurztext (Marcel 09.11.2026) - alle Karten gleich hoch */
+  .partnerlogos .pkarte { margin:0; display:flex; flex-direction:column; gap:10px; }
+  .partnerlogos .pkarte .plogo { height:170px; min-height:0; transition:border-color .2s, transform .2s; }
+  .partnerlogos .pkarte .plogo:hover, .partnerlogos .pkarte .plogo:focus-visible
+    { border-color:var(--text); transform:translateY(-2px); }
+  .partnerlogos .pkarte img { max-height:90px; }
+  .partnerlogos figcaption { text-align:center; font-size:.88rem; color:var(--hell); line-height:1.45; }
+  .partnerlogos figcaption strong { display:block; color:var(--text); font-size:.95rem; }
 
   /* ── Kontaktformular ──────────────────────────────────────────────────── */
   .formkarte { max-width:640px; margin:0 auto; background:var(--nacht2);
@@ -384,10 +392,14 @@
 <section class="partner" aria-label="Expertise und Partnerschaft">
   <h2 class="titel">Expertise &amp; Partnerschaft</h2>
   <div class="partnerlogos">
-    <div class="plogo dunkel"><img loading="lazy" src="/assets/bilder/8ab3d9_b2eadda3983d409988e44e6007b4a936.png" alt="TrendAI – AI Fearlessly"></div>
-    <div class="plogo dunkel"><img loading="lazy" src="/assets/bilder/8ab3d9_a879397050e14625bb5920856c301f56.png" alt="BNI"></div>
-    <div class="plogo dunkel"><img loading="lazy" src="/assets/bilder/8ab3d9_c41a719d1756429ca776ee2bc262c27d.png" alt="der BÜROFührer – Die Mitarbeiter machen den Unterschied"></div>
-    <div class="plogo dunkel"><img loading="lazy" src="/assets/bilder/8ab3d9_3544cd6fdf5b46bc8e3d7fcdc07a52fd.png" alt="O2 Business und RBM IT Solutions"></div>
+    <figure class="pkarte"><a class="plogo dunkel" href="https://www.trendmicro.com/de_de/business.html" target="_blank" rel="noopener" aria-label="Trend Micro – Website öffnen"><img loading="lazy" src="/assets/partner/trendmicro.png" alt="Logo Trend Micro"></a><figcaption><strong>Trend Micro</strong>IT-Sicherheit für Endgeräte, Server und E-Mail</figcaption></figure>
+    <figure class="pkarte"><a class="plogo dunkel" href="https://bni.de/de/index" target="_blank" rel="noopener" aria-label="BNI – Website öffnen"><img loading="lazy" src="/assets/partner/bni.png" alt="Logo BNI"></a><figcaption><strong>BNI</strong>Unternehmernetzwerk für Empfehlungsmarketing</figcaption></figure>
+    <figure class="pkarte"><a class="plogo dunkel" href="https://derbuerofuehrer.de/" target="_blank" rel="noopener" aria-label="derBÜROFührer – Website öffnen"><img loading="lazy" src="/assets/partner/buerofuehrer.png" alt="Logo derBÜROFührer"></a><figcaption><strong>derBÜROFührer</strong>Büroeinrichtungen und Drucksysteme</figcaption></figure>
+    <figure class="pkarte"><a class="plogo dunkel" href="https://rbm-itsolutions.de/" target="_blank" rel="noopener" aria-label="RBM IT Solutions – Website öffnen"><img loading="lazy" src="/assets/partner/rbm-o2.png" alt="Logo RBM IT Solutions"></a><figcaption><strong>RBM IT Solutions</strong>O2 Business Mobilfunk und IT-Service für Unternehmen</figcaption></figure>
+    <figure class="pkarte"><a class="plogo dunkel" href="https://www.synaxon.de/" target="_blank" rel="noopener" aria-label="SYNAXON – Website öffnen"><img loading="lazy" src="/assets/partner/synaxon.svg" alt="Logo SYNAXON"></a><figcaption><strong>SYNAXON</strong>Verbundgruppe für IT-Dienstleister und Systemhäuser</figcaption></figure>
+    <figure class="pkarte"><a class="plogo dunkel" href="https://www.ccs365.de/" target="_blank" rel="noopener" aria-label="CCS365 – Website öffnen"><img loading="lazy" src="/assets/partner/ccs365.webp" alt="Logo CCS365"></a><figcaption><strong>CCS365</strong>IT-Dienstleister für Microsoft 365, Cloud und Managed Services</figcaption></figure>
+    <figure class="pkarte"><a class="plogo dunkel" href="https://www.wortmann.de/" target="_blank" rel="noopener" aria-label="WORTMANN AG – Website öffnen"><img loading="lazy" src="/assets/partner/wortmann-terra.svg" alt="Logo WORTMANN AG"></a><figcaption><strong>WORTMANN AG</strong>Hersteller der TERRA-Computer, -Server und der TERRA CLOUD</figcaption></figure>
+    <figure class="pkarte"><a class="plogo dunkel" href="https://www.beraterium.de/" target="_blank" rel="noopener" aria-label="Beraterium – Website öffnen"><img loading="lazy" src="/assets/partner/beraterium.png" alt="Logo Beraterium"></a><figcaption><strong>Beraterium</strong>Risikomanagement für den Mittelstand</figcaption></figure>
   </div>
 </section>
 
