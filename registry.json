@@ -4,9 +4,9 @@
     "brief": "Bei unserem selbstentwickelten Public Discovery Scan wird die Erkundungsphase\r\neines Angreifers simuliert. Damit liefern wir Ihnen und Ihren Endkunden eine\r\numfassende Analyse öffentlich einsehbarer Schwachstellen und\r\nSicherheitslücken einer Domain.\r\nDabei handelt es sich um einen passiven Scan, bei dem nur öffentliche Quellen\r\ngenutzt werden.\r\nZiel:\r\n- Erkennung potenzieller Angriffsflächen und Ergreifen von\r\nSicherheitsmaßnahmen",
     "path": "angebote/sicherheitscheck-von-au-en-gratis-pentest.html",
     "assets": [
-      "assets/sicherheitscheck-von-au-en-gratis-pentest/hero_bild.png",
-      "assets/sicherheitscheck-von-au-en-gratis-pentest/zweitbild.png",
-      "assets/sicherheitscheck-von-au-en-gratis-pentest/hintergrund_bild.png"
+      "assets/sicherheitscheck-von-au-en-gratis-pentest/hero_bild.webp",
+      "assets/sicherheitscheck-von-au-en-gratis-pentest/zweitbild.webp",
+      "assets/sicherheitscheck-von-au-en-gratis-pentest/hintergrund_bild.webp"
     ],
     "hero_titel": "Was Angreifer vor dem ersten Klick sehen",
     "thema": "Bei unserem selbstentwickelten Public Discovery Scan wird die Erkundungsphase\r\neines Angreifers simuliert. Damit liefern wir Ihnen und Ihren Endkunden eine\r\numfassende Analyse öffentlich einsehbarer Schwachstellen und\r\nSicherheitslücken einer Domain.\r\nDabei handelt es sich um einen passiven Scan, bei dem nur öffentliche Quellen\r\ngenutzt werden.\r\nZiel:\r\n- Erkennung potenzieller Angriffsflächen und Ergreifen von\r\nSicherheitsmaßnahmen",
@@ -133,9 +133,9 @@
       "hintergrund_bild": "Ein dezent angedeuteter Serverraum im Halbdunkel, ein einzelner heller Lichtpunkt in Form einer leuchtenden Status-LED an einem Rack durchbricht die Dunkelheit, starker Kontrast, alle übrigen Konturen ruhig und unscharf"
     },
     "bilder": {
-      "hero_bild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/hero_bild.png",
-      "zweitbild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/zweitbild.png",
-      "hintergrund_bild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/hintergrund_bild.png"
+      "hero_bild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/hero_bild.webp",
+      "zweitbild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/zweitbild.webp",
+      "hintergrund_bild": "/assets/sicherheitscheck-von-au-en-gratis-pentest/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T15:06:07"
   },
@@ -146,9 +146,9 @@
     "produkt": "Schnelle IT-Hilfe vor Ort und per Fernwartung in Bad Kreuznach und Umgebung.",
     "path": "angebote/lokaler-it-notdienst.html",
     "assets": [
-      "assets/lokaler-it-notdienst/hero_bild.png",
-      "assets/lokaler-it-notdienst/zweitbild.png",
-      "assets/lokaler-it-notdienst/hintergrund_bild.png"
+      "assets/lokaler-it-notdienst/hero_bild.webp",
+      "assets/lokaler-it-notdienst/zweitbild.webp",
+      "assets/lokaler-it-notdienst/hintergrund_bild.webp"
     ],
     "hero_titel": "Schnelle Hilfe, wenn der Rechner streikt",
     "bildrichtung": "Aufsicht von schräg oben, geometrische Muster und klare Ordnung, dezentes Türkis",
@@ -274,9 +274,9 @@
       "hintergrund_bild": "Aufsicht von schräg oben auf ein geordnet ausgebreitetes Werkzeugset aus Schraubendrehern, Kabeln und einer Taschenlampe auf dunklem Untergrund, klare geometrische Anordnung, dezente türkise Lichtreflexion"
     },
     "bilder": {
-      "hero_bild": "/assets/lokaler-it-notdienst/hero_bild.png",
-      "zweitbild": "/assets/lokaler-it-notdienst/zweitbild.png",
-      "hintergrund_bild": "/assets/lokaler-it-notdienst/hintergrund_bild.png"
+      "hero_bild": "/assets/lokaler-it-notdienst/hero_bild.webp",
+      "zweitbild": "/assets/lokaler-it-notdienst/zweitbild.webp",
+      "hintergrund_bild": "/assets/lokaler-it-notdienst/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T15:04:11"
   },
@@ -287,9 +287,9 @@
     "produkt": "Microsoft 365 pruefen, aufraeumen und sicher einstellen - fuer Betriebe mit 2 bis 20 Mitarbeitern.",
     "path": "angebote/microsoft-365-service.html",
     "assets": [
-      "assets/microsoft-365-service/hero_bild.png",
-      "assets/microsoft-365-service/zweitbild.png",
-      "assets/microsoft-365-service/hintergrund_bild.png"
+      "assets/microsoft-365-service/hero_bild.webp",
+      "assets/microsoft-365-service/zweitbild.webp",
+      "assets/microsoft-365-service/hintergrund_bild.webp"
     ],
     "hero_titel": "Klarheit über Ihr Microsoft 365",
     "bildrichtung": "Aufsicht von schräg oben, geometrische Muster und klare Ordnung, dezentes Türkis",
@@ -415,9 +415,9 @@
       "hintergrund_bild": "Aufsicht von schräg oben auf einen aufgeräumten Besprechungstisch: ordentlich gestapelte Papiere, eine Checkliste, ein Schlüsselbund und ein Kalenderblatt in geometrischer Anordnung, dezente türkise Akzente in den Randmarkierungen"
     },
     "bilder": {
-      "hero_bild": "/assets/microsoft-365-service/hero_bild.png",
-      "zweitbild": "/assets/microsoft-365-service/zweitbild.png",
-      "hintergrund_bild": "/assets/microsoft-365-service/hintergrund_bild.png"
+      "hero_bild": "/assets/microsoft-365-service/hero_bild.webp",
+      "zweitbild": "/assets/microsoft-365-service/zweitbild.webp",
+      "hintergrund_bild": "/assets/microsoft-365-service/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T15:04:27"
   },
@@ -428,9 +428,9 @@
     "produkt": "Synology-NAS einrichten, umziehen und richtig absichern - damit die Daten zentral liegen und wirklich gesichert sind.",
     "path": "angebote/nas-und-backup-service.html",
     "assets": [
-      "assets/nas-und-backup-service/hero_bild.png",
-      "assets/nas-und-backup-service/zweitbild.png",
-      "assets/nas-und-backup-service/hintergrund_bild.png"
+      "assets/nas-und-backup-service/hero_bild.webp",
+      "assets/nas-und-backup-service/zweitbild.webp",
+      "assets/nas-und-backup-service/hintergrund_bild.webp"
     ],
     "hero_titel": "Ein Ort für alle Daten - im Büro und unterwegs",
     "bildrichtung": "Nahaufnahme mit geringer Schärfentiefe, warmes Bernsteinlicht, weicher Hintergrund",
@@ -556,9 +556,9 @@
       "hintergrund_bild": "Nahaufnahme einer halb eingeschobenen Festplatte in einem geöffneten NAS-Gehäuse, warmes Bernsteinlicht auf der Metalloberfläche, geringe Schärfentiefe, weicher unscharfer Hintergrund mit sanftem Bokeh"
     },
     "bilder": {
-      "hero_bild": "/assets/nas-und-backup-service/hero_bild.png",
-      "zweitbild": "/assets/nas-und-backup-service/zweitbild.png",
-      "hintergrund_bild": "/assets/nas-und-backup-service/hintergrund_bild.png"
+      "hero_bild": "/assets/nas-und-backup-service/hero_bild.webp",
+      "zweitbild": "/assets/nas-und-backup-service/zweitbild.webp",
+      "hintergrund_bild": "/assets/nas-und-backup-service/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T15:04:45"
   },
@@ -569,9 +569,9 @@
     "produkt": "Pruefung, ob in Eurem Namen Mails verschickt werden koennen und ob Euer Postfach sauber eingestellt ist.",
     "path": "angebote/e-mail-sicherheitscheck.html",
     "assets": [
-      "assets/e-mail-sicherheitscheck/hero_bild.png",
-      "assets/e-mail-sicherheitscheck/zweitbild.png",
-      "assets/e-mail-sicherheitscheck/hintergrund_bild.png"
+      "assets/e-mail-sicherheitscheck/hero_bild.webp",
+      "assets/e-mail-sicherheitscheck/zweitbild.webp",
+      "assets/e-mail-sicherheitscheck/hintergrund_bild.webp"
     ],
     "hero_titel": "Kontrolle darüber, wer in Ihrem Namen mailt",
     "bildrichtung": "Strenges, sich wiederholendes Raster im Detail, Grau mit einem einzelnen grünen Akzent",
@@ -697,9 +697,9 @@
       "hintergrund_bild": "Ein streng rasterförmiges Fächerregal aus grauem Metall mit vielen gleich großen Ablagefächern in Reihen, in einem einzigen Fach leuchtet ein schmaler grüner Streifen, gedämpftes Seitenlicht, geringe Schärfentiefe im Hintergrund"
     },
     "bilder": {
-      "hero_bild": "/assets/e-mail-sicherheitscheck/hero_bild.png",
-      "zweitbild": "/assets/e-mail-sicherheitscheck/zweitbild.png",
-      "hintergrund_bild": "/assets/e-mail-sicherheitscheck/hintergrund_bild.png"
+      "hero_bild": "/assets/e-mail-sicherheitscheck/hero_bild.webp",
+      "zweitbild": "/assets/e-mail-sicherheitscheck/zweitbild.webp",
+      "hintergrund_bild": "/assets/e-mail-sicherheitscheck/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T14:59:40"
   },
@@ -710,9 +710,9 @@
     "produkt": "Einmal komplett draufschauen: Wo steht Eure IT wirklich - und was ist wirklich dringend?",
     "path": "angebote/it-checkup-fuer-kleine-unternehmen.html",
     "assets": [
-      "assets/it-checkup-fuer-kleine-unternehmen/hero_bild.png",
-      "assets/it-checkup-fuer-kleine-unternehmen/zweitbild.png",
-      "assets/it-checkup-fuer-kleine-unternehmen/hintergrund_bild.png"
+      "assets/it-checkup-fuer-kleine-unternehmen/hero_bild.webp",
+      "assets/it-checkup-fuer-kleine-unternehmen/zweitbild.webp",
+      "assets/it-checkup-fuer-kleine-unternehmen/hintergrund_bild.webp"
     ],
     "hero_titel": "Klarheit über Ihre IT – in nur einem Tag",
     "bildrichtung": "Weiche Lichtspuren und Bewegung über einem unscharfen Motiv, Cyan auf Anthrazit",
@@ -839,9 +839,9 @@
       "fuer_wen_titel": "Für wen ist das?"
     },
     "bilder": {
-      "hero_bild": "/assets/it-checkup-fuer-kleine-unternehmen/hero_bild.png",
-      "zweitbild": "/assets/it-checkup-fuer-kleine-unternehmen/zweitbild.png",
-      "hintergrund_bild": "/assets/it-checkup-fuer-kleine-unternehmen/hintergrund_bild.png"
+      "hero_bild": "/assets/it-checkup-fuer-kleine-unternehmen/hero_bild.webp",
+      "zweitbild": "/assets/it-checkup-fuer-kleine-unternehmen/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-checkup-fuer-kleine-unternehmen/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T15:01:24"
   },
@@ -852,9 +852,9 @@
     "produkt": "Keine eigene IT? Kein Problem - Beratungsvertrag mit festem Stundenkontingent.",
     "path": "angebote/eure-it-abteilung.html",
     "assets": [
-      "assets/eure-it-abteilung/hero_bild.png",
-      "assets/eure-it-abteilung/zweitbild.png",
-      "assets/eure-it-abteilung/hintergrund_bild.png"
+      "assets/eure-it-abteilung/hero_bild.webp",
+      "assets/eure-it-abteilung/zweitbild.webp",
+      "assets/eure-it-abteilung/hintergrund_bild.webp"
     ],
     "hero_titel": "Eine IT-Abteilung, ohne sie einzustellen",
     "bildrichtung": "Glas und Spiegelungen, klare Linien, helles Blaugrau, viel Tageslicht",
@@ -980,9 +980,9 @@
       "hintergrund_bild": "Ein helles Besprechungszimmer mit Glaswänden, in denen sich Tageslicht in klaren, geraden Linien spiegelt, blaugraue Töne, ruhige leere Fläche im Vordergrund, im Hintergrund unscharf ein Tisch mit Papieren"
     },
     "bilder": {
-      "hero_bild": "/assets/eure-it-abteilung/hero_bild.png",
-      "zweitbild": "/assets/eure-it-abteilung/zweitbild.png",
-      "hintergrund_bild": "/assets/eure-it-abteilung/hintergrund_bild.png"
+      "hero_bild": "/assets/eure-it-abteilung/hero_bild.webp",
+      "zweitbild": "/assets/eure-it-abteilung/zweitbild.webp",
+      "hintergrund_bild": "/assets/eure-it-abteilung/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T15:00:30"
   },
@@ -993,9 +993,9 @@
     "produkt": "Den Ist-Zustand pruefen, die Anforderungen des Versicherers erfuellen und Euch zum Abschluss begleiten.",
     "path": "angebote/cyberversicherung-vorbereiten.html",
     "assets": [
-      "/assets/cyberversicherung-vorbereiten/hero_bild.png",
-      "/assets/cyberversicherung-vorbereiten/zweitbild.png",
-      "/assets/cyberversicherung-vorbereiten/hintergrund_bild.png"
+      "/assets/cyberversicherung-vorbereiten/hero_bild.webp",
+      "/assets/cyberversicherung-vorbereiten/zweitbild.webp",
+      "/assets/cyberversicherung-vorbereiten/hintergrund_bild.webp"
     ],
     "hero_titel": "Damit die Cyberversicherung im Ernstfall zahlt",
     "bildrichtung": "Weitwinkel mit starken Fluchtlinien und viel Tiefe, kühles Blau, ruhige dunkle Flächen",
@@ -1121,9 +1121,9 @@
       "hintergrund_bild": "Weitwinkelaufnahme eines langen, dunklen Flurs mit einer Reihe massiver Stahltüren, die Fluchtlinien laufen auf einen fernen, kühl blauen Lichtpunkt zu, ruhige dunkle Flächen, viel Tiefe"
     },
     "bilder": {
-      "hero_bild": "/assets/cyberversicherung-vorbereiten/hero_bild.png",
-      "zweitbild": "/assets/cyberversicherung-vorbereiten/zweitbild.png",
-      "hintergrund_bild": "/assets/cyberversicherung-vorbereiten/hintergrund_bild.png"
+      "hero_bild": "/assets/cyberversicherung-vorbereiten/hero_bild.webp",
+      "zweitbild": "/assets/cyberversicherung-vorbereiten/zweitbild.webp",
+      "hintergrund_bild": "/assets/cyberversicherung-vorbereiten/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T14:59:05"
   },
@@ -1134,9 +1134,9 @@
     "produkt": "Administrationskonzept, Security-Roadmap, Risikobewertung, Onboarding-Checklisten - auf Euren Betrieb zugeschnitten.",
     "path": "angebote/it-dokumente.html",
     "assets": [
-      "assets/it-dokumente/hero_bild.png",
-      "assets/it-dokumente/zweitbild.png",
-      "assets/it-dokumente/hintergrund_bild.png"
+      "assets/it-dokumente/hero_bild.webp",
+      "assets/it-dokumente/zweitbild.webp",
+      "assets/it-dokumente/hintergrund_bild.webp"
     ],
     "hero_titel": "IT-Unterlagen, die im Ernstfall Bestand haben",
     "bildrichtung": "Nahaufnahme mit geringer Schärfentiefe, warmes Bernsteinlicht, weicher Hintergrund",
@@ -1262,9 +1262,9 @@
       "hintergrund_bild": "Nahaufnahme eines Stapels bedruckter Dokumente mit einem darauf liegenden Stift, geringe Schärfentiefe, warmes Bernsteinlicht, weich verschwommener Hintergrund"
     },
     "bilder": {
-      "hero_bild": "/assets/it-dokumente/hero_bild.png",
-      "zweitbild": "/assets/it-dokumente/zweitbild.png",
-      "hintergrund_bild": "/assets/it-dokumente/hintergrund_bild.png"
+      "hero_bild": "/assets/it-dokumente/hero_bild.webp",
+      "zweitbild": "/assets/it-dokumente/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-dokumente/hintergrund_bild.webp"
     },
     "neu_gesetzt": "2026-08-27T15:01:57"
   },
@@ -1275,9 +1275,9 @@
     "produkt": "Rundumschutz aus einer Hand: E-Mail-Sicherheit, Endgeräteschutz und Firewall.",
     "path": "angebote/security-paket-fuer-unternehmen.html",
     "assets": [
-      "assets/security-paket-fuer-unternehmen/hero_bild.png",
-      "assets/security-paket-fuer-unternehmen/zweitbild.png",
-      "assets/security-paket-fuer-unternehmen/hintergrund_bild.png"
+      "assets/security-paket-fuer-unternehmen/hero_bild.webp",
+      "assets/security-paket-fuer-unternehmen/zweitbild.webp",
+      "assets/security-paket-fuer-unternehmen/hintergrund_bild.webp"
     ],
     "hero_titel": "Ein Sicherheitspaket, das zusammenspielt",
     "kategorie": "Sicherheit",
@@ -1402,9 +1402,9 @@
       "hintergrund_bild": "Im Vordergrund unscharf ein Schlüsselbund, dahinter scharf ein geschlossener Serverschrank mit einem kleinen Firewall-Gerät, die ganze Szene in tiefem Violett getaucht"
     },
     "bilder": {
-      "hero_bild": "/assets/security-paket-fuer-unternehmen/hero_bild.png",
-      "zweitbild": "/assets/security-paket-fuer-unternehmen/zweitbild.png",
-      "hintergrund_bild": "/assets/security-paket-fuer-unternehmen/hintergrund_bild.png"
+      "hero_bild": "/assets/security-paket-fuer-unternehmen/hero_bild.webp",
+      "zweitbild": "/assets/security-paket-fuer-unternehmen/zweitbild.webp",
+      "hintergrund_bild": "/assets/security-paket-fuer-unternehmen/hintergrund_bild.webp"
     },
     "ueberarbeitet": "2026-08-10T00:45:47",
     "neu_gesetzt": "2026-08-27T15:05:19"
@@ -1416,9 +1416,9 @@
     "produkt": "Ihr eigener Assistent, der auf Ihrem Rechner im Haus läuft - nicht in einer fremden Cloud.",
     "path": "angebote/ki-assistent-fuer-ihren-betrieb.html",
     "assets": [
-      "assets/ki-assistent-fuer-ihren-betrieb/hero_bild.png",
-      "assets/ki-assistent-fuer-ihren-betrieb/zweitbild.png",
-      "assets/ki-assistent-fuer-ihren-betrieb/hintergrund_bild.png"
+      "assets/ki-assistent-fuer-ihren-betrieb/hero_bild.webp",
+      "assets/ki-assistent-fuer-ihren-betrieb/zweitbild.webp",
+      "assets/ki-assistent-fuer-ihren-betrieb/hintergrund_bild.webp"
     ],
     "hero_titel": "Ihr eigener Assistent, der im Haus bleibt",
     "kategorie": "Netzwerk & Daten",
@@ -1543,9 +1543,9 @@
       "hintergrund_bild": "Blick von schräg unten in einen offenen Serverschrank, Kabelstränge und Lüfter ragen ins Bild, kühles stahlblaues Licht von oben, starke Tiefe im Raum"
     },
     "bilder": {
-      "hero_bild": "/assets/ki-assistent-fuer-ihren-betrieb/hero_bild.png",
-      "zweitbild": "/assets/ki-assistent-fuer-ihren-betrieb/zweitbild.png",
-      "hintergrund_bild": "/assets/ki-assistent-fuer-ihren-betrieb/hintergrund_bild.png"
+      "hero_bild": "/assets/ki-assistent-fuer-ihren-betrieb/hero_bild.webp",
+      "zweitbild": "/assets/ki-assistent-fuer-ihren-betrieb/zweitbild.webp",
+      "hintergrund_bild": "/assets/ki-assistent-fuer-ihren-betrieb/hintergrund_bild.webp"
     },
     "ueberarbeitet": "2026-08-10T00:47:05",
     "neu_gesetzt": "2026-08-27T15:03:37"
@@ -1557,13 +1557,13 @@
     "produkt": "Kindermann Displays und Zubehör",
     "path": "angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html",
     "assets": [
-      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hero_bild.png",
-      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/zweitbild.png",
-      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hintergrund_bild.png",
-      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.png",
-      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.png",
-      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.png",
-      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.png"
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hero_bild.webp",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/zweitbild.webp",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hintergrund_bild.webp",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.webp",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.webp",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.webp",
+      "assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Netzwerk & Daten",
@@ -1596,25 +1596,25 @@
           "titel": "Montage, die zum Raum passt",
           "text": "Wir hängen das Display fest an die Wand oder stellen es auf einen Rollwagen, je nachdem, wie der Raum genutzt wird. Auf Wunsch richten wir eine Höhenverstellung ein, manuell oder elektrisch, damit dieselbe Tafel im Unterricht wie im Besprechungsraum auf der richtigen Höhe steht.",
           "bild": "Techniker befestigt eine Wandhalterung für ein großes Display in einem Besprechungsraum, Blick von der Seite, Werkzeug in der Hand",
-          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.png"
+          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.webp"
         },
         {
           "titel": "Präsentieren ohne Kabel",
           "text": "Ein kleiner Sender wird an den eigenen Laptop gesteckt, ein Knopf gedrückt, das Bild erscheint auf dem Display. Es wird kein WLAN-Passwort abgefragt und keine Software installiert, auch nicht für Gäste, die zum ersten Mal im Raum sind.",
           "bild": "Nahaufnahme einer Hand, die einen kleinen USB-Sender in einen Laptop steckt, im Hintergrund unscharf ein großes Display",
-          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.png"
+          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.webp"
         },
         {
           "titel": "Die eigene Videokonferenz auf der Raumtechnik",
           "text": "Kamera und Mikrofon des Raums lassen sich drahtlos mit dem eigenen Teams-, Zoom- oder Webex-Konto verbinden. Der Gast startet seine Besprechung wie gewohnt vom eigenen Laptop, nutzt aber die Technik des Raums, ohne sich anzumelden oder etwas zu installieren.",
           "bild": "Kompakte Konferenzkamera oberhalb eines großen Displays in einem Besprechungsraum, davor ein Tisch mit Laptop, Blick von schräg unten",
-          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.png"
+          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.webp"
         },
         {
           "titel": "Ton, der auch am anderen Ende ankommt",
           "text": "Der eingebaute Lautsprecher eines Laptops reicht in einem echten Raum nicht aus. Auf Wunsch richten wir eine Lautsprecher-Tischvariante ein, damit Teilnehmer am anderen Ende der Leitung tatsächlich verstehen, was gesagt wird.",
           "bild": "Kleines Konferenzlautsprecher-Gerät auf einem Besprechungstisch, Nahaufnahme, im Hintergrund unscharf Stühle",
-          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.png"
+          "bild_pfad": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -1684,13 +1684,13 @@
       "hintergrund_bild": "Weitwinkelaufnahme eines leeren Besprechungsraums mit einem großen Display an der Stirnseite, Reihen von Tischen und Stühlen bilden starke Fluchtlinien zur Bildmitte, kühles blaues Kunstlicht, ruhige dunkle Flächen, viel Tiefe im Raum"
     },
     "bilder": {
-      "hero_bild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hero_bild.png",
-      "zweitbild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/zweitbild.png",
-      "hintergrund_bild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hintergrund_bild.png",
-      "reihe_0": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.png",
-      "reihe_1": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.png",
-      "reihe_2": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.png",
-      "reihe_3": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.png"
+      "hero_bild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hero_bild.webp",
+      "zweitbild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/zweitbild.webp",
+      "hintergrund_bild": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/hintergrund_bild.webp",
+      "reihe_0": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_0.webp",
+      "reihe_1": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_1.webp",
+      "reihe_2": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_2.webp",
+      "reihe_3": "/assets/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer/reihe_3.webp"
     },
     "hero_titel": "Displays für Besprechung und Unterricht, startklar",
     "kategorie": "Netzwerk & Daten",
@@ -1710,13 +1710,13 @@
     "produkt": "Server-Betreuung als Wartungsvertrag mit festen Stunden pro Monat oder auf Zuruf: Überwachung, Updates, geprüfte Datensicherung, Störungsbehebung - auch kurzfristig.",
     "path": "angebote/server-betreuung-fuer-unternehmen.html",
     "assets": [
-      "/assets/server-betreuung-fuer-unternehmen/hero_bild.png",
-      "/assets/server-betreuung-fuer-unternehmen/zweitbild.png",
-      "/assets/server-betreuung-fuer-unternehmen/hintergrund_bild.png",
-      "/assets/server-betreuung-fuer-unternehmen/reihe_0.png",
-      "/assets/server-betreuung-fuer-unternehmen/reihe_1.png",
-      "/assets/server-betreuung-fuer-unternehmen/reihe_2.png",
-      "/assets/server-betreuung-fuer-unternehmen/reihe_3.png"
+      "/assets/server-betreuung-fuer-unternehmen/hero_bild.webp",
+      "/assets/server-betreuung-fuer-unternehmen/zweitbild.webp",
+      "/assets/server-betreuung-fuer-unternehmen/hintergrund_bild.webp",
+      "/assets/server-betreuung-fuer-unternehmen/reihe_0.webp",
+      "/assets/server-betreuung-fuer-unternehmen/reihe_1.webp",
+      "/assets/server-betreuung-fuer-unternehmen/reihe_2.webp",
+      "/assets/server-betreuung-fuer-unternehmen/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Netzwerk & Daten",
@@ -1749,25 +1749,25 @@
           "titel": "Überwachung im Hintergrund",
           "text": "Wir behalten Speicherplatz, Auslastung und Fehlermeldungen Ihres Servers im Blick. Fällt etwas auf, melden wir uns, bevor daraus eine Störung wird.",
           "bild": "Ein Monitor zeigt eine laufende Fernwartungssitzung mit Diagrammen zur Serverauslastung, im Hintergrund ein leicht geöffneter Serverschrank",
-          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_0.png"
+          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_0.webp"
         },
         {
           "titel": "Updates zur richtigen Zeit",
           "text": "Sicherheits- und Systemupdates spielen wir gezielt ein, außerhalb Ihrer Geschäftszeiten, wenn möglich. So bleibt der Server aktuell, ohne dass der Betrieb stockt.",
           "bild": "Nahaufnahme einer Hand, die an einem Serverschrank ein Kabel prüft, kleine Kontrollleuchten leuchten ruhig",
-          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_1.png"
+          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_1.webp"
         },
         {
           "titel": "Geprüfte Datensicherung",
           "text": "Wir richten die Sicherung ein und testen regelmäßig, ob sich die Daten daraus auch wirklich zurückspielen lassen. Eine Sicherung, die niemand geprüft hat, ist im Ernstfall nur eine Vermutung.",
           "bild": "Eine Hand schiebt eine Festplatte in ein NAS-Gehäuse, daneben liegt ein zweites Laufwerk als Wechseldatenträger",
-          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_2.png"
+          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_2.webp"
         },
         {
           "titel": "Schnelle Hilfe bei Störungen",
           "text": "Spinnt der Server, melden Sie sich bei Ihrem festen Ansprechpartner, nicht bei einer anonymen Hotline. Viele Störungen lösen wir per Fernwartung, bei Bedarf kommen wir auch vor Ort.",
           "bild": "Ein Servicefahrzeug steht in der Einfahrt eines Betriebsgebäudes, eine Werkzeugtasche wird aus dem Kofferraum gehoben",
-          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_3.png"
+          "bild_pfad": "/assets/server-betreuung-fuer-unternehmen/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -1837,13 +1837,13 @@
       "hintergrund_bild": "Weite Nachtaufnahme über eine Stadt im Rheintal, unzählige kleine Lichtpunkte von Häusern und Straßen, dunkles Indigo am Himmel, ganz ruhig, keine Menschen erkennbar"
     },
     "bilder": {
-      "hero_bild": "/assets/server-betreuung-fuer-unternehmen/hero_bild.png",
-      "zweitbild": "/assets/server-betreuung-fuer-unternehmen/zweitbild.png",
-      "hintergrund_bild": "/assets/server-betreuung-fuer-unternehmen/hintergrund_bild.png",
-      "reihe_0": "/assets/server-betreuung-fuer-unternehmen/reihe_0.png",
-      "reihe_1": "/assets/server-betreuung-fuer-unternehmen/reihe_1.png",
-      "reihe_2": "/assets/server-betreuung-fuer-unternehmen/reihe_2.png",
-      "reihe_3": "/assets/server-betreuung-fuer-unternehmen/reihe_3.png"
+      "hero_bild": "/assets/server-betreuung-fuer-unternehmen/hero_bild.webp",
+      "zweitbild": "/assets/server-betreuung-fuer-unternehmen/zweitbild.webp",
+      "hintergrund_bild": "/assets/server-betreuung-fuer-unternehmen/hintergrund_bild.webp",
+      "reihe_0": "/assets/server-betreuung-fuer-unternehmen/reihe_0.webp",
+      "reihe_1": "/assets/server-betreuung-fuer-unternehmen/reihe_1.webp",
+      "reihe_2": "/assets/server-betreuung-fuer-unternehmen/reihe_2.webp",
+      "reihe_3": "/assets/server-betreuung-fuer-unternehmen/reihe_3.webp"
     },
     "hero_titel": "Ihre Server-Betreuung, ohne eigene IT-Abteilung",
     "kategorie": "Netzwerk & Daten",
@@ -1862,13 +1862,13 @@
     "produkt": "IT-Roadmap: Bestandsaufnahme, Prioritäten, Budgetplan für 1-3 Jahre, jährliche Fortschreibung - Festpreis nach Erstgespräch, keine Produktbindung.",
     "path": "angebote/it-roadmap-fuer-ihr-unternehmen.html",
     "assets": [
-      "/assets/it-roadmap-fuer-ihr-unternehmen/hero_bild.png",
-      "/assets/it-roadmap-fuer-ihr-unternehmen/zweitbild.png",
-      "/assets/it-roadmap-fuer-ihr-unternehmen/hintergrund_bild.png",
-      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.png",
-      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.png",
-      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.png",
-      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.png"
+      "/assets/it-roadmap-fuer-ihr-unternehmen/hero_bild.webp",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/zweitbild.webp",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/hintergrund_bild.webp",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.webp",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.webp",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.webp",
+      "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
@@ -1901,25 +1901,25 @@
           "titel": "Bestandsaufnahme",
           "text": "Wir sehen uns Ihre Geräte, Verträge und Software an und halten fest, was vorhanden ist und wo etwas ansteht. Das Ergebnis ist eine nachvollziehbare Liste, keine Verkaufspräsentation.",
           "bild": "Eine Hand hakt mit einem Stift Punkte auf einer Checkliste ab, im Hintergrund unscharf ein Regal mit beschrifteten Ordnern",
-          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.png"
+          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.webp"
         },
         {
           "titel": "Prioritäten und Budget",
           "text": "Aus der Bestandsaufnahme wird ein Plan für ein bis drei Jahre: was zuerst erneuert werden sollte, was warten kann und was es jeweils kosten wird.",
           "bild": "Ausgedruckter Budgetplan mit farbig markierten Abschnitten liegt auf einem Besprechungstisch, daneben ein Taschenrechner, Aufnahme von schräg oben",
-          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.png"
+          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.webp"
         },
         {
           "titel": "Festpreis, keine Bindung",
           "text": "Die Roadmap wird nach dem Erstgespräch zum Festpreis erstellt. Sie sind an keinen Hersteller und kein Produkt gebunden - die Empfehlungen richten sich nach Ihrem Betrieb, nicht nach unserem Sortiment.",
           "bild": "Ein unterschriebenes Angebot liegt auf einem Holztisch, eine Hand reicht es einer zweiten Person, Ausschnitt ohne erkennbare Gesichter",
-          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.png"
+          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.webp"
         },
         {
           "titel": "Jährliche Fortschreibung",
           "text": "Einmal im Jahr gleichen wir die Roadmap mit der tatsächlichen Entwicklung ab und passen Prioritäten und Budget an. So bleibt der Plan brauchbar, statt in der Schublade zu veralten.",
           "bild": "Ein Wandkalender mit handschriftlichen Notizen und farbigen Klebepunkten hängt neben einem Schreibtisch, Nahaufnahme",
-          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.png"
+          "bild_pfad": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -1989,13 +1989,13 @@
       "hintergrund_bild": "Im Vordergrund unscharf der Rücken eines Aktenordners, dahinter scharf ein Besprechungstisch mit ausgebreiteten Plänen und Zeitleisten, der Raum in tiefes Violett getaucht, ruhige Fläche im Hintergrund"
     },
     "bilder": {
-      "hero_bild": "/assets/it-roadmap-fuer-ihr-unternehmen/hero_bild.png",
-      "zweitbild": "/assets/it-roadmap-fuer-ihr-unternehmen/zweitbild.png",
-      "hintergrund_bild": "/assets/it-roadmap-fuer-ihr-unternehmen/hintergrund_bild.png",
-      "reihe_0": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.png",
-      "reihe_1": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.png",
-      "reihe_2": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.png",
-      "reihe_3": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.png"
+      "hero_bild": "/assets/it-roadmap-fuer-ihr-unternehmen/hero_bild.webp",
+      "zweitbild": "/assets/it-roadmap-fuer-ihr-unternehmen/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-roadmap-fuer-ihr-unternehmen/hintergrund_bild.webp",
+      "reihe_0": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_0.webp",
+      "reihe_1": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_1.webp",
+      "reihe_2": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_2.webp",
+      "reihe_3": "/assets/it-roadmap-fuer-ihr-unternehmen/reihe_3.webp"
     },
     "hero_titel": "Planung für Ihre IT der nächsten Jahre",
     "kategorie": "Beratung & Dokumente",
@@ -2014,13 +2014,13 @@
     "produkt": "Rundum-Betreuung für Selbständige: Einrichtung, Microsoft 365, Datensicherung, Virenschutz, Hilfe auf Zuruf - klein anfangen, wächst mit.",
     "path": "angebote/it-fuer-selbstaendige.html",
     "assets": [
-      "/assets/it-fuer-selbstaendige/hero_bild.png",
-      "/assets/it-fuer-selbstaendige/zweitbild.png",
-      "/assets/it-fuer-selbstaendige/hintergrund_bild.png",
-      "/assets/it-fuer-selbstaendige/reihe_0.png",
-      "/assets/it-fuer-selbstaendige/reihe_1.png",
-      "/assets/it-fuer-selbstaendige/reihe_2.png",
-      "/assets/it-fuer-selbstaendige/reihe_3.png"
+      "/assets/it-fuer-selbstaendige/hero_bild.webp",
+      "/assets/it-fuer-selbstaendige/zweitbild.webp",
+      "/assets/it-fuer-selbstaendige/hintergrund_bild.webp",
+      "/assets/it-fuer-selbstaendige/reihe_0.webp",
+      "/assets/it-fuer-selbstaendige/reihe_1.webp",
+      "/assets/it-fuer-selbstaendige/reihe_2.webp",
+      "/assets/it-fuer-selbstaendige/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Soforthilfe",
@@ -2053,25 +2053,25 @@
           "titel": "Einrichtung und erster Rundgang",
           "text": "Wir sehen uns Rechner, Drucker und Internetanschluss an und richten ein, was fehlt. Am Ende wissen Sie, was Sie haben und was noch fehlt.",
           "bild": "Hände schließen einen kleinen Router an ein Kabel an, im Hintergrund ein einfaches Büroregal mit Ordnern",
-          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_0.png"
+          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_0.webp"
         },
         {
           "titel": "Microsoft 365 eingerichtet",
           "text": "Mail, Kalender und Dateiablage laufen über ein Konto, das auf allen Geräten funktioniert. Die Anmeldung wird zusätzlich mit einem zweiten Schritt abgesichert.",
           "bild": "Eine Person tippt einen sechsstelligen Code auf dem Smartphone ein, das neben einem geöffneten Laptop auf einem kleinen Schreibtisch liegt",
-          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_1.png"
+          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_1.webp"
         },
         {
           "titel": "Datensicherung im Hintergrund",
           "text": "Rechnungen und Kundendaten werden regelmäßig auf einem zweiten Speicherort gesichert, getrennt vom Rechner. Ein Absturz kostet dann keine Daten mehr.",
           "bild": "Nahaufnahme einer Hand, die eine externe Festplatte an einen kleinen Bürorechner anschließt",
-          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_2.png"
+          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_2.webp"
         },
         {
           "titel": "Hilfe auf Zuruf",
           "text": "Bei einer Frage melden Sie sich bei Ihrem festen Ansprechpartner, nicht bei einer Warteschleife. Vieles lässt sich per Fernwartung sofort klären.",
           "bild": "Bildschirm mit einer laufenden Fernwartungssitzung, eine Person daneben telefoniert und zeigt mit dem Finger auf den Bildschirm",
-          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_3.png"
+          "bild_pfad": "/assets/it-fuer-selbstaendige/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -2141,13 +2141,13 @@
       "hintergrund_bild": "Weite nächtliche Luftaufnahme einer Kleinstadt im Rheintal, viele kleine warme Lichtpunkte einzelner Häuser, Werkstätten und Praxen, dunkles Indigo, ruhige Stimmung"
     },
     "bilder": {
-      "hero_bild": "/assets/it-fuer-selbstaendige/hero_bild.png",
-      "zweitbild": "/assets/it-fuer-selbstaendige/zweitbild.png",
-      "hintergrund_bild": "/assets/it-fuer-selbstaendige/hintergrund_bild.png",
-      "reihe_0": "/assets/it-fuer-selbstaendige/reihe_0.png",
-      "reihe_1": "/assets/it-fuer-selbstaendige/reihe_1.png",
-      "reihe_2": "/assets/it-fuer-selbstaendige/reihe_2.png",
-      "reihe_3": "/assets/it-fuer-selbstaendige/reihe_3.png"
+      "hero_bild": "/assets/it-fuer-selbstaendige/hero_bild.webp",
+      "zweitbild": "/assets/it-fuer-selbstaendige/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-fuer-selbstaendige/hintergrund_bild.webp",
+      "reihe_0": "/assets/it-fuer-selbstaendige/reihe_0.webp",
+      "reihe_1": "/assets/it-fuer-selbstaendige/reihe_1.webp",
+      "reihe_2": "/assets/it-fuer-selbstaendige/reihe_2.webp",
+      "reihe_3": "/assets/it-fuer-selbstaendige/reihe_3.webp"
     },
     "hero_titel": "Ihre IT-Abteilung, wenn Sie allein arbeiten",
     "kategorie": "Soforthilfe",
@@ -2166,13 +2166,13 @@
     "produkt": "Dienstleistersteuerung: Anforderungen und Ausschreibung, Angebotsvergleich, Projektbegleitung, Abnahme und laufende Lieferantentermine - stundenweise oder als fester monatlicher Rahmen.",
     "path": "angebote/it-dienstleister-steuern-lassen.html",
     "assets": [
-      "/assets/it-dienstleister-steuern-lassen/hero_bild.png",
-      "/assets/it-dienstleister-steuern-lassen/zweitbild.png",
-      "/assets/it-dienstleister-steuern-lassen/hintergrund_bild.png",
-      "/assets/it-dienstleister-steuern-lassen/reihe_0.png",
-      "/assets/it-dienstleister-steuern-lassen/reihe_1.png",
-      "/assets/it-dienstleister-steuern-lassen/reihe_2.png",
-      "/assets/it-dienstleister-steuern-lassen/reihe_3.png"
+      "/assets/it-dienstleister-steuern-lassen/hero_bild.webp",
+      "/assets/it-dienstleister-steuern-lassen/zweitbild.webp",
+      "/assets/it-dienstleister-steuern-lassen/hintergrund_bild.webp",
+      "/assets/it-dienstleister-steuern-lassen/reihe_0.webp",
+      "/assets/it-dienstleister-steuern-lassen/reihe_1.webp",
+      "/assets/it-dienstleister-steuern-lassen/reihe_2.webp",
+      "/assets/it-dienstleister-steuern-lassen/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
@@ -2205,25 +2205,25 @@
           "titel": "Anforderungen auf Papier",
           "text": "Wir schreiben auf, was Sie tatsächlich brauchen, technisch und wirtschaftlich. Daraus entsteht eine Anfrage, auf die Anbieter vergleichbar antworten können.",
           "bild": "Nahaufnahme einer Hand, die mit einem Stift Punkte auf einem ausgedruckten Anforderungskatalog markiert, Blatt liegt auf einem Besprechungstisch",
-          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_0.png"
+          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_0.webp"
         },
         {
           "titel": "Angebote im Vergleich",
           "text": "Wir legen eingehende Angebote nebeneinander, prüfen Positionen und Preise und zeigen Ihnen die Unterschiede in klaren Worten.",
           "bild": "Mehrere ausgedruckte Angebote nebeneinander auf einem Tisch ausgebreitet, einzelne Zeilen mit Textmarker in unterschiedlichen Farben hervorgehoben, zwei Hände zeigen auf verschiedene Blätter",
-          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_1.png"
+          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_1.webp"
         },
         {
           "titel": "Projekt im Blick",
           "text": "Während der Umsetzung halten wir Termine mit dem Lieferanten nach und melden uns, wenn sich etwas verzögert oder anders läuft als vereinbart.",
           "bild": "Ein Wandkalender mit handschriftlichen Terminnotizen und farbigen Klebepunkten, eine Hand trägt gerade einen neuen Termin ein",
-          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_2.png"
+          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_2.webp"
         },
         {
           "titel": "Abnahme vor Bezahlung",
           "text": "Bevor eine Rechnung freigegeben wird, prüfen wir, ob das Ergebnis der Vereinbarung entspricht. Was fehlt, wird nachgefordert, nicht stillschweigend hingenommen.",
           "bild": "Eine Hand unterschreibt ein Abnahmeprotokoll auf einem Klemmbrett, im unscharfen Hintergrund ein Bildschirm mit einer Liste",
-          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_3.png"
+          "bild_pfad": "/assets/it-dienstleister-steuern-lassen/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -2293,13 +2293,13 @@
       "hintergrund_bild": "Strenges, sich wiederholendes Raster aus schmalen Aktenordnern in einem Regal, alle gleich grau beschriftet, ein einzelner Ordnerrücken hebt sich in Grün ab, gleichmäßiges ruhiges Licht, Tiefe im Hintergrund unscharf"
     },
     "bilder": {
-      "hero_bild": "/assets/it-dienstleister-steuern-lassen/hero_bild.png",
-      "zweitbild": "/assets/it-dienstleister-steuern-lassen/zweitbild.png",
-      "hintergrund_bild": "/assets/it-dienstleister-steuern-lassen/hintergrund_bild.png",
-      "reihe_0": "/assets/it-dienstleister-steuern-lassen/reihe_0.png",
-      "reihe_1": "/assets/it-dienstleister-steuern-lassen/reihe_1.png",
-      "reihe_2": "/assets/it-dienstleister-steuern-lassen/reihe_2.png",
-      "reihe_3": "/assets/it-dienstleister-steuern-lassen/reihe_3.png"
+      "hero_bild": "/assets/it-dienstleister-steuern-lassen/hero_bild.webp",
+      "zweitbild": "/assets/it-dienstleister-steuern-lassen/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-dienstleister-steuern-lassen/hintergrund_bild.webp",
+      "reihe_0": "/assets/it-dienstleister-steuern-lassen/reihe_0.webp",
+      "reihe_1": "/assets/it-dienstleister-steuern-lassen/reihe_1.webp",
+      "reihe_2": "/assets/it-dienstleister-steuern-lassen/reihe_2.webp",
+      "reihe_3": "/assets/it-dienstleister-steuern-lassen/reihe_3.webp"
     },
     "hero_titel": "IT-Dienstleister führen - ohne eigene IT-Abteilung",
     "kategorie": "Beratung & Dokumente",
@@ -2318,13 +2318,13 @@
     "produkt": "Windows-Server-Betreuung: Updates und Wartungsfenster, Active Directory und Berechtigungen, Freigaben, geprüfte Sicherung, Störungsdienst - als Wartungsvertrag oder projektweise.",
     "path": "angebote/windows-server-betreuung.html",
     "assets": [
-      "/assets/windows-server-betreuung/hero_bild.png",
-      "/assets/windows-server-betreuung/zweitbild.png",
-      "/assets/windows-server-betreuung/hintergrund_bild.png",
-      "/assets/windows-server-betreuung/reihe_0.png",
-      "/assets/windows-server-betreuung/reihe_1.png",
-      "/assets/windows-server-betreuung/reihe_2.png",
-      "/assets/windows-server-betreuung/reihe_3.png"
+      "/assets/windows-server-betreuung/hero_bild.webp",
+      "/assets/windows-server-betreuung/zweitbild.webp",
+      "/assets/windows-server-betreuung/hintergrund_bild.webp",
+      "/assets/windows-server-betreuung/reihe_0.webp",
+      "/assets/windows-server-betreuung/reihe_1.webp",
+      "/assets/windows-server-betreuung/reihe_2.webp",
+      "/assets/windows-server-betreuung/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Netzwerk & Daten",
@@ -2357,25 +2357,25 @@
           "titel": "Feste Wartungsfenster",
           "text": "Wir legen einen Termin fest, an dem Updates eingespielt und der Server neu gestartet wird - außerhalb Ihrer Geschäftszeiten. So gibt es keine Überraschung mitten am Vormittag.",
           "bild": "Eine Hand öffnet nachts die Tür eines Serverschranks in einem stillen, leeren Büro.",
-          "bild_pfad": "/assets/windows-server-betreuung/reihe_0.png"
+          "bild_pfad": "/assets/windows-server-betreuung/reihe_0.webp"
         },
         {
           "titel": "Active Directory und Berechtigungen",
           "text": "Wir räumen die Benutzerkonten auf, entfernen alte Zugänge und legen fest, wer welche Freigabe sehen darf. Sie erhalten eine Übersicht, die Sie selbst lesen können.",
           "bild": "Nahaufnahme einer Hand, die mit einem Stift eine Liste von Ordnernamen auf einem ausgedruckten Blatt markiert, daneben eine Tastatur.",
-          "bild_pfad": "/assets/windows-server-betreuung/reihe_1.png"
+          "bild_pfad": "/assets/windows-server-betreuung/reihe_1.webp"
         },
         {
           "titel": "Geprüfte Sicherung",
           "text": "Die Sicherung läuft nicht nur, wir spielen sie testweise zurück und vergleichen den Inhalt mit dem Original. Erst dann gilt sie bei uns als in Ordnung.",
           "bild": "Ein Techniker vergleicht auf einem ausgedruckten Blatt eine Liste mit dem Inhalt eines geöffneten Sicherungsgeräts.",
-          "bild_pfad": "/assets/windows-server-betreuung/reihe_2.png"
+          "bild_pfad": "/assets/windows-server-betreuung/reihe_2.webp"
         },
         {
           "titel": "Störungsdienst mit festem Ansprechpartner",
           "text": "Bei einer Störung erreichen Sie jemanden, der Ihren Server bereits kennt, statt eine anonyme Warteschleife. Das spart wertvolle Zeit im Ernstfall.",
           "bild": "Ein Techniker sitzt an einem Bildschirm mit einer laufenden Fernwartungsverbindung, im Hintergrund unscharf ein Serverschrank.",
-          "bild_pfad": "/assets/windows-server-betreuung/reihe_3.png"
+          "bild_pfad": "/assets/windows-server-betreuung/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -2445,13 +2445,13 @@
       "hintergrund_bild": "Blick von unten nach oben an einem offenen Serverschrank entlang, Kabelstränge und Lüftungsschlitze im Gegenlicht, kühles Stahlblau, dunkle Tiefe im Hintergrund."
     },
     "bilder": {
-      "hero_bild": "/assets/windows-server-betreuung/hero_bild.png",
-      "zweitbild": "/assets/windows-server-betreuung/zweitbild.png",
-      "hintergrund_bild": "/assets/windows-server-betreuung/hintergrund_bild.png",
-      "reihe_0": "/assets/windows-server-betreuung/reihe_0.png",
-      "reihe_1": "/assets/windows-server-betreuung/reihe_1.png",
-      "reihe_2": "/assets/windows-server-betreuung/reihe_2.png",
-      "reihe_3": "/assets/windows-server-betreuung/reihe_3.png"
+      "hero_bild": "/assets/windows-server-betreuung/hero_bild.webp",
+      "zweitbild": "/assets/windows-server-betreuung/zweitbild.webp",
+      "hintergrund_bild": "/assets/windows-server-betreuung/hintergrund_bild.webp",
+      "reihe_0": "/assets/windows-server-betreuung/reihe_0.webp",
+      "reihe_1": "/assets/windows-server-betreuung/reihe_1.webp",
+      "reihe_2": "/assets/windows-server-betreuung/reihe_2.webp",
+      "reihe_3": "/assets/windows-server-betreuung/reihe_3.webp"
     },
     "hero_titel": "Ein Windows-Server, der einfach läuft",
     "kategorie": "Netzwerk & Daten",
@@ -2470,13 +2470,13 @@
     "produkt": "EU-AI-Act-Ersteinschätzung: Betroffenheit klären, KI-Einsatz dokumentieren, Mitarbeiter-Schulung, technische Umsetzung der Pflichten - wir bauen selbst KI-Assistenten für Unternehmen und kennen beide Seiten.",
     "path": "angebote/eu-ai-act-pflichten-fuer-kleine-betriebe.html",
     "assets": [
-      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hero_bild.png",
-      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/zweitbild.png",
-      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hintergrund_bild.png",
-      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.png",
-      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.png",
-      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.png",
-      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.png"
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hero_bild.webp",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/zweitbild.webp",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hintergrund_bild.webp",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.webp",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.webp",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.webp",
+      "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
@@ -2509,25 +2509,25 @@
           "titel": "Ersteinschätzung der Betroffenheit",
           "text": "Wir schauen uns an, wo und wie KI in Ihrem Betrieb eingesetzt wird, und ordnen ein, welche Pflichten daraus entstehen. Das Ergebnis ist ein verständlicher Bericht, keine Gesetzestexte.",
           "bild": "Zwei Personen sitzen an einem Besprechungstisch vor einer ausgedruckten Liste mit handschriftlichen Notizen, im Hintergrund erkennbar ein kleiner Handwerksbetrieb durch Werkzeug an der Wand",
-          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.png"
+          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.webp"
         },
         {
           "titel": "KI-Einsatz dokumentieren",
           "text": "Wir halten schriftlich fest, welche KI-Anwendungen genutzt werden und wofür. Diese Dokumentation liegt vor, falls sie einmal verlangt wird.",
           "bild": "Eine Hand hakt Punkte auf einer Checkliste auf einem Klemmbrett ab, daneben liegt ein aufgeschlagener Aktenordner mit beschriftetem Rücken",
-          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.png"
+          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.webp"
         },
         {
           "titel": "Mitarbeiter schulen",
           "text": "Ihr Team lernt, welche Nutzung von KI erlaubt ist und wo Grenzen liegen. Keine trockene Theorie, sondern Beispiele aus dem eigenen Arbeitsalltag.",
           "bild": "Kleine Gruppe steht an einem Stehtisch im Büro, eine Person zeigt von hinten fotografiert auf ein Flipchart mit einer einfachen Skizze, keine Gesichter erkennbar",
-          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.png"
+          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.webp"
         },
         {
           "titel": "Technische Umsetzung",
           "text": "Wo Maßnahmen nötig sind, setzen wir sie um: Zugriffsregeln, Protokollierung, saubere Trennung von Testsystemen. Wir bauen selbst KI-Assistenten für Unternehmen und kennen deshalb beide Seiten der Aufgabe.",
           "bild": "Nahaufnahme eines Bildschirms mit einer laufenden Fernwartungssitzung, eine Hand liegt auf dem Mauspad, unscharfer Büroraum im Hintergrund",
-          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.png"
+          "bild_pfad": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -2597,13 +2597,13 @@
       "hintergrund_bild": "Ein einzelner heller Lichtpunkt im halbdunklen Besprechungsraum, eine Schreibtischlampe beleuchtet einen leeren Aktenordner auf dem Tisch, starker Kontrast, der Rest des Raums liegt ruhig im Dunkel"
     },
     "bilder": {
-      "hero_bild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hero_bild.png",
-      "zweitbild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/zweitbild.png",
-      "hintergrund_bild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hintergrund_bild.png",
-      "reihe_0": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.png",
-      "reihe_1": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.png",
-      "reihe_2": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.png",
-      "reihe_3": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.png"
+      "hero_bild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hero_bild.webp",
+      "zweitbild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/zweitbild.webp",
+      "hintergrund_bild": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/hintergrund_bild.webp",
+      "reihe_0": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_0.webp",
+      "reihe_1": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_1.webp",
+      "reihe_2": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_2.webp",
+      "reihe_3": "/assets/eu-ai-act-pflichten-fuer-kleine-betriebe/reihe_3.webp"
     },
     "hero_titel": "Klarheit über Ihre Pflichten aus dem EU AI Act",
     "kategorie": "Beratung & Dokumente",
@@ -2622,13 +2622,13 @@
     "produkt": "Virtualisierung: Bestandsaufnahme, Planung, Umzug der Server in virtuelle Maschinen (z. B. Hyper-V), Sicherungskonzept, danach laufende Betreuung.",
     "path": "angebote/server-virtualisierung.html",
     "assets": [
-      "/assets/server-virtualisierung/hero_bild.png",
-      "/assets/server-virtualisierung/zweitbild.png",
-      "/assets/server-virtualisierung/hintergrund_bild.png",
-      "/assets/server-virtualisierung/reihe_0.png",
-      "/assets/server-virtualisierung/reihe_1.png",
-      "/assets/server-virtualisierung/reihe_2.png",
-      "/assets/server-virtualisierung/reihe_3.png"
+      "/assets/server-virtualisierung/hero_bild.webp",
+      "/assets/server-virtualisierung/zweitbild.webp",
+      "/assets/server-virtualisierung/hintergrund_bild.webp",
+      "/assets/server-virtualisierung/reihe_0.webp",
+      "/assets/server-virtualisierung/reihe_1.webp",
+      "/assets/server-virtualisierung/reihe_2.webp",
+      "/assets/server-virtualisierung/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Netzwerk & Daten",
@@ -2661,25 +2661,25 @@
           "titel": "Bestandsaufnahme",
           "text": "Wir sehen uns alle vorhandenen Server an: Alter, Auslastung, laufende Programme. Danach wissen Sie, was wirklich noch gebraucht wird.",
           "bild": "Eine Hand mit Taschenlampe leuchtet in einen offenen Serverschrank und prüft die Beschriftungen an alten Geräten",
-          "bild_pfad": "/assets/server-virtualisierung/reihe_0.png"
+          "bild_pfad": "/assets/server-virtualisierung/reihe_0.webp"
         },
         {
           "titel": "Planung",
           "text": "Wir legen fest, wie viele virtuelle Server nötig sind und auf welcher Hardware sie laufen sollen. Sie erhalten einen konkreten Zeitplan für den Umzug.",
           "bild": "Ein ausgedruckter Plan mit Kästchen und Linien liegt auf einem Besprechungstisch, eine Hand zeigt mit einem Stift auf einen Bereich",
-          "bild_pfad": "/assets/server-virtualisierung/reihe_1.png"
+          "bild_pfad": "/assets/server-virtualisierung/reihe_1.webp"
         },
         {
           "titel": "Umzug",
           "text": "Wir übertragen die Systeme in die virtuelle Umgebung, meist außerhalb Ihrer Geschäftszeiten. Die alten Server bleiben bis zur Prüfung als Rückfallebene stehen.",
           "bild": "Zwei Hände schieben eine Festplatte in einen neuen Servereinschub, ein ausgeschalteter alter Tower-Rechner steht daneben",
-          "bild_pfad": "/assets/server-virtualisierung/reihe_2.png"
+          "bild_pfad": "/assets/server-virtualisierung/reihe_2.webp"
         },
         {
           "titel": "Sicherungskonzept und Betreuung",
           "text": "Nach dem Umzug richten wir eine automatische Sicherung nach festem Plan ein. Wir übernehmen danach die laufende Wartung im Hintergrund.",
           "bild": "Ein NAS-Gehäuse mit mehreren Laufwerken steht in einem offenen Rack, ein Sicherungskabel ist angeschlossen",
-          "bild_pfad": "/assets/server-virtualisierung/reihe_3.png"
+          "bild_pfad": "/assets/server-virtualisierung/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -2749,13 +2749,13 @@
       "hintergrund_bild": "Weiche Lichtspuren und Bewegung über einem unscharfen Serverschrank, Cyan auf Anthrazit, als würden Daten von mehreren alten Geräten zu einem einzigen fließen"
     },
     "bilder": {
-      "hero_bild": "/assets/server-virtualisierung/hero_bild.png",
-      "zweitbild": "/assets/server-virtualisierung/zweitbild.png",
-      "hintergrund_bild": "/assets/server-virtualisierung/hintergrund_bild.png",
-      "reihe_0": "/assets/server-virtualisierung/reihe_0.png",
-      "reihe_1": "/assets/server-virtualisierung/reihe_1.png",
-      "reihe_2": "/assets/server-virtualisierung/reihe_2.png",
-      "reihe_3": "/assets/server-virtualisierung/reihe_3.png"
+      "hero_bild": "/assets/server-virtualisierung/hero_bild.webp",
+      "zweitbild": "/assets/server-virtualisierung/zweitbild.webp",
+      "hintergrund_bild": "/assets/server-virtualisierung/hintergrund_bild.webp",
+      "reihe_0": "/assets/server-virtualisierung/reihe_0.webp",
+      "reihe_1": "/assets/server-virtualisierung/reihe_1.webp",
+      "reihe_2": "/assets/server-virtualisierung/reihe_2.webp",
+      "reihe_3": "/assets/server-virtualisierung/reihe_3.webp"
     },
     "hero_titel": "Aus alten Servern wird eine sichere Maschine",
     "kategorie": "Netzwerk & Daten",
@@ -2774,13 +2774,13 @@
     "produkt": "Endpoint-Schutz mit Trend Micro (EDR), zentral von uns verwaltet: Einrichtung je Rechner, laufende Überwachung, monatlicher Bericht, Reaktion im Ernstfall.",
     "path": "angebote/endpoint-security-arbeitsplaetze-schuetzen.html",
     "assets": [
-      "/assets/endpoint-security-arbeitsplaetze-schuetzen/hero_bild.png",
-      "/assets/endpoint-security-arbeitsplaetze-schuetzen/zweitbild.png",
-      "/assets/endpoint-security-arbeitsplaetze-schuetzen/hintergrund_bild.png",
-      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.png",
-      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.png",
-      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.png",
-      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.png"
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/hero_bild.webp",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/zweitbild.webp",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/hintergrund_bild.webp",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.webp",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.webp",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.webp",
+      "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Sicherheit",
@@ -2813,25 +2813,25 @@
           "titel": "Einrichtung an jedem Rechner",
           "text": "Wir installieren Trend Micro auf jedem Arbeitsplatzrechner und stellen die Erkennung passend zu Ihrem Betrieb ein. Das läuft im Hintergrund, ohne dass Mitarbeiter etwas davon merken.",
           "bild": "Hände stecken ein Kabel an ein Rechnergehäuse unter einem Schreibtisch in einem kleinen Büro, Kabel sind sauber gebündelt",
-          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.png"
+          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.webp"
         },
         {
           "titel": "Laufende Überwachung",
           "text": "Auffälliges Verhalten auf einem Rechner wird sofort erkannt, nicht erst beim nächsten Scan. Wir sehen die Meldung, bevor sich etwas ausbreiten kann.",
           "bild": "Ein Rauchmelder an einer weißen Bürodecke aus leicht erhöhter Perspektive, ruhiges Tageslicht",
-          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.png"
+          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.webp"
         },
         {
           "titel": "Monatlicher Bericht",
           "text": "Sie erhalten einen Bericht, was geprüft wurde und was dabei aufgefallen ist. Eine Übersicht, die Sie tatsächlich lesen können, statt einer langen Log-Datei.",
           "bild": "Ausgedruckter Bericht mit farbigen Markierungen liegt auf einem Besprechungstisch, daneben eine Tasse Kaffee",
-          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.png"
+          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.webp"
         },
         {
           "titel": "Reaktion im Ernstfall",
           "text": "Schlägt die Erkennung Alarm, trennen wir den betroffenen Rechner vom Netz und schauen uns an, was passiert ist. Sie bekommen eine klare Rückmeldung, nicht nur eine Warnmeldung.",
           "bild": "Eine Hand zieht ein Netzwerkkabel aus der Rückseite eines Rechnergehäuses",
-          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.png"
+          "bild_pfad": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -2901,13 +2901,13 @@
       "hintergrund_bild": "Große Glasfassade eines modernen Büros mit klaren Linien und Spiegelungen von Schreibtischen und Bildschirmen, helles Blaugrau, viel Tageslicht, ruhige Flächen"
     },
     "bilder": {
-      "hero_bild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/hero_bild.png",
-      "zweitbild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/zweitbild.png",
-      "hintergrund_bild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/hintergrund_bild.png",
-      "reihe_0": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.png",
-      "reihe_1": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.png",
-      "reihe_2": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.png",
-      "reihe_3": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.png"
+      "hero_bild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/hero_bild.webp",
+      "zweitbild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/zweitbild.webp",
+      "hintergrund_bild": "/assets/endpoint-security-arbeitsplaetze-schuetzen/hintergrund_bild.webp",
+      "reihe_0": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_0.webp",
+      "reihe_1": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_1.webp",
+      "reihe_2": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_2.webp",
+      "reihe_3": "/assets/endpoint-security-arbeitsplaetze-schuetzen/reihe_3.webp"
     },
     "hero_titel": "Schutz für jeden Arbeitsplatzrechner",
     "kategorie": "Sicherheit",
@@ -2926,13 +2926,13 @@
     "produkt": "IT für den Mittelstand: Betreuung mit festen Monatsstunden, Projekte (Server, Microsoft 365, Sicherheit), Urlaubs- und Krankheitsvertretung für IT-Verantwortliche, Dienstleistersteuerung.",
     "path": "angebote/it-fuer-den-mittelstand.html",
     "assets": [
-      "/assets/it-fuer-den-mittelstand/hero_bild.png",
-      "/assets/it-fuer-den-mittelstand/zweitbild.png",
-      "/assets/it-fuer-den-mittelstand/hintergrund_bild.png",
-      "/assets/it-fuer-den-mittelstand/reihe_0.png",
-      "/assets/it-fuer-den-mittelstand/reihe_1.png",
-      "/assets/it-fuer-den-mittelstand/reihe_2.png",
-      "/assets/it-fuer-den-mittelstand/reihe_3.png"
+      "/assets/it-fuer-den-mittelstand/hero_bild.webp",
+      "/assets/it-fuer-den-mittelstand/zweitbild.webp",
+      "/assets/it-fuer-den-mittelstand/hintergrund_bild.webp",
+      "/assets/it-fuer-den-mittelstand/reihe_0.webp",
+      "/assets/it-fuer-den-mittelstand/reihe_1.webp",
+      "/assets/it-fuer-den-mittelstand/reihe_2.webp",
+      "/assets/it-fuer-den-mittelstand/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
@@ -2965,25 +2965,25 @@
           "titel": "Feste Monatsstunden mit festem Ansprechpartner",
           "text": "Sie buchen ein Kontingent an Stunden pro Monat. Ihr Ansprechpartner kennt Ihr Netzwerk, Ihre Software und Ihre Abläufe und muss nicht bei jedem Anruf neu erklärt werden.",
           "bild": "Eine Person sitzt am Telefon vor einem aufgeschlagenen Kalender mit farbig markierten Terminen, eine Hand zeigt auf einen Wochentag",
-          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_0.png"
+          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_0.webp"
         },
         {
           "titel": "Projekte für Server, Microsoft 365 und Sicherheit",
           "text": "Neben der laufenden Betreuung übernehmen wir einzelne Projekte: einen neuen Server einrichten, den Umzug auf Microsoft 365 begleiten oder Sicherheitslücken schließen. Klar abgegrenzt, mit festem Umfang.",
           "bild": "Techniker steht vor einem halb offenen Serverschrank und legt Kabel sauber in einen Kabelkanal",
-          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_1.png"
+          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_1.webp"
         },
         {
           "titel": "Vertretung bei Urlaub und Krankheit",
           "text": "Ist Ihr IT-Verantwortlicher nicht erreichbar, springen wir ein. Vorher übergibt er uns die wichtigen Zugänge und Ansprechpartner, damit im Ernstfall keine Zeit verloren geht.",
           "bild": "Zwei Hände übergeben sich einen Ordner mit beschrifteten Registern an einem Besprechungstisch",
-          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_2.png"
+          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_2.webp"
         },
         {
           "titel": "Ehrliche Einschätzung bei Dienstleistern und Verträgen",
           "text": "Wir prüfen Angebote von Softwareanbietern, Providern oder Hardwarehändlern aus fachlicher Sicht, bevor Sie unterschreiben. Wir verkaufen keine Produkte, deshalb ist die Einschätzung unabhängig.",
           "bild": "Eine Person sitzt an einem Tisch mit mehreren ausgedruckten Angeboten und Visitenkarten, eine Hand markiert einen Absatz mit einem Stift",
-          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_3.png"
+          "bild_pfad": "/assets/it-fuer-den-mittelstand/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -3053,13 +3053,13 @@
       "hintergrund_bild": "Weitwinkelaufnahme eines langen Bürofurs mit Aktenordnern in Regalen an beiden Seiten, starke Fluchtlinien führen in die Tiefe, kühles Blau, ruhiges Licht ohne Personen"
     },
     "bilder": {
-      "hero_bild": "/assets/it-fuer-den-mittelstand/hero_bild.png",
-      "zweitbild": "/assets/it-fuer-den-mittelstand/zweitbild.png",
-      "hintergrund_bild": "/assets/it-fuer-den-mittelstand/hintergrund_bild.png",
-      "reihe_0": "/assets/it-fuer-den-mittelstand/reihe_0.png",
-      "reihe_1": "/assets/it-fuer-den-mittelstand/reihe_1.png",
-      "reihe_2": "/assets/it-fuer-den-mittelstand/reihe_2.png",
-      "reihe_3": "/assets/it-fuer-den-mittelstand/reihe_3.png"
+      "hero_bild": "/assets/it-fuer-den-mittelstand/hero_bild.webp",
+      "zweitbild": "/assets/it-fuer-den-mittelstand/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-fuer-den-mittelstand/hintergrund_bild.webp",
+      "reihe_0": "/assets/it-fuer-den-mittelstand/reihe_0.webp",
+      "reihe_1": "/assets/it-fuer-den-mittelstand/reihe_1.webp",
+      "reihe_2": "/assets/it-fuer-den-mittelstand/reihe_2.webp",
+      "reihe_3": "/assets/it-fuer-den-mittelstand/reihe_3.webp"
     },
     "hero_titel": "Ihre externe IT-Abteilung für den Mittelstand",
     "kategorie": "Beratung & Dokumente",
@@ -3078,13 +3078,13 @@
     "produkt": "IT-Analyse zum Festpreis: Bestandsaufnahme vor Ort, Sicherheits- und Sicherungs-Check, schriftlicher Bericht mit Maßnahmenliste - auf Wunsch Umsetzung, auf Wunsch nur der Bericht.",
     "path": "angebote/it-analyse-bestandsaufnahme-ihrer-it.html",
     "assets": [
-      "/assets/it-analyse-bestandsaufnahme-ihrer-it/hero_bild.png",
-      "/assets/it-analyse-bestandsaufnahme-ihrer-it/zweitbild.png",
-      "/assets/it-analyse-bestandsaufnahme-ihrer-it/hintergrund_bild.png",
-      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.png",
-      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.png",
-      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.png",
-      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.png"
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/hero_bild.webp",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/zweitbild.webp",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/hintergrund_bild.webp",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.webp",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.webp",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.webp",
+      "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
@@ -3117,25 +3117,25 @@
           "titel": "Bestandsaufnahme vor Ort",
           "text": "Wir sehen uns Ihre Arbeitsplätze, Server, Netzwerkgeräte und Programme direkt bei Ihnen an. Am Ende steht fest, was tatsächlich im Einsatz ist - nicht nur, was auf dem Papier steht.",
           "bild": "Eine Hand notiert auf einem Klemmbrett Geräte in einem kleinen Büro, im unscharfen Hintergrund ein Router und ein Drucker.",
-          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.png"
+          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.webp"
         },
         {
           "titel": "Sicherheits-Check",
           "text": "Wir prüfen Firewall, Updates, Virenschutz und Benutzerkonten. Sie erfahren, wo ein Zugang offen steht, den niemand mehr braucht.",
           "bild": "Eine Hand prüft mit einem Schraubendreher das geöffnete Gehäuse eines kleinen Netzwerkrouters auf einem Werktisch.",
-          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.png"
+          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.webp"
         },
         {
           "titel": "Sicherungs-Check",
           "text": "Wir prüfen, ob und wie oft gesichert wird - und ob sich aus der Sicherung tatsächlich etwas wiederherstellen lässt. Eine ungetestete Sicherung ist keine Sicherung.",
           "bild": "Eine Hand zieht eine externe Festplatte aus einem Sicherungsgerät, um eine Testwiederherstellung vorzubereiten.",
-          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.png"
+          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.webp"
         },
         {
           "titel": "Bericht mit Maßnahmenliste",
           "text": "Sie erhalten einen schriftlichen Bericht mit den Ergebnissen, sortiert nach Dringlichkeit. Was Sie damit machen, entscheiden Sie - eine Umsetzung durch uns ist möglich, aber kein Muss.",
           "bild": "Ein ausgedrucktes Berichtsdokument mit Textmarker-Linien liegt auf einem Besprechungstisch, daneben ein Stift.",
-          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.png"
+          "bild_pfad": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -3205,13 +3205,13 @@
       "hintergrund_bild": "Nahaufnahme einer Hand, die mit einem Stift eine Zeile auf einer Papier-Checkliste markiert, geringe Schärfentiefe, warmes Bernsteinlicht, weicher unscharfer Bürohintergrund."
     },
     "bilder": {
-      "hero_bild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/hero_bild.png",
-      "zweitbild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/zweitbild.png",
-      "hintergrund_bild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/hintergrund_bild.png",
-      "reihe_0": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.png",
-      "reihe_1": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.png",
-      "reihe_2": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.png",
-      "reihe_3": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.png"
+      "hero_bild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/hero_bild.webp",
+      "zweitbild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-analyse-bestandsaufnahme-ihrer-it/hintergrund_bild.webp",
+      "reihe_0": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_0.webp",
+      "reihe_1": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_1.webp",
+      "reihe_2": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_2.webp",
+      "reihe_3": "/assets/it-analyse-bestandsaufnahme-ihrer-it/reihe_3.webp"
     },
     "hero_titel": "Ihre IT einmal ehrlich geprüft",
     "kategorie": "Beratung & Dokumente",
@@ -3230,13 +3230,13 @@
     "produkt": "Intune-Einrichtung und -Betrieb: Geräteregistrierung, Sicherheitsrichtlinien, App- und Update-Verteilung, Verwaltung als Teil des Microsoft-365-Service.",
     "path": "angebote/intune-geraete-zentral-verwalten.html",
     "assets": [
-      "/assets/intune-geraete-zentral-verwalten/hero_bild.png",
-      "/assets/intune-geraete-zentral-verwalten/zweitbild.png",
-      "/assets/intune-geraete-zentral-verwalten/hintergrund_bild.png",
-      "/assets/intune-geraete-zentral-verwalten/reihe_0.png",
-      "/assets/intune-geraete-zentral-verwalten/reihe_1.png",
-      "/assets/intune-geraete-zentral-verwalten/reihe_2.png",
-      "/assets/intune-geraete-zentral-verwalten/reihe_3.png"
+      "/assets/intune-geraete-zentral-verwalten/hero_bild.webp",
+      "/assets/intune-geraete-zentral-verwalten/zweitbild.webp",
+      "/assets/intune-geraete-zentral-verwalten/hintergrund_bild.webp",
+      "/assets/intune-geraete-zentral-verwalten/reihe_0.webp",
+      "/assets/intune-geraete-zentral-verwalten/reihe_1.webp",
+      "/assets/intune-geraete-zentral-verwalten/reihe_2.webp",
+      "/assets/intune-geraete-zentral-verwalten/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Microsoft 365",
@@ -3269,25 +3269,25 @@
           "titel": "Geräteregistrierung",
           "text": "Neue Rechner und Handys melden sich beim ersten Einschalten automatisch bei uns an. Ihr Mitarbeiter meldet sich nur mit dem Firmenkonto an, der Rest läuft im Hintergrund.",
           "bild": "Eine Hand nimmt ein neues Smartphone aus einer geöffneten Verpackung, daneben liegt ein Firmenausweis auf dem Tisch.",
-          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_0.png"
+          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_0.webp"
         },
         {
           "titel": "Sicherheitsrichtlinien",
           "text": "Wir legen fest, welche Apps erlaubt sind, wie stark der Zugangscode sein muss und ob ein Gerät bei Verlust aus der Ferne gesperrt werden kann. Das gilt für Laptops genauso wie für Diensthandys.",
           "bild": "Nahaufnahme einer Hand, die den Fingerabdruck-Sensor eines Smartphones berührt, das Gerät liegt auf einem dunklen Tisch.",
-          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_1.png"
+          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_1.webp"
         },
         {
           "titel": "App- und Update-Verteilung",
           "text": "Programme wie Office oder die Zeiterfassung installieren sich von selbst, sobald das Gerät registriert ist. Updates laufen abends automatisch, ohne dass jemand nachts am Rechner sitzen muss.",
           "bild": "Mehrere Firmenhandys stehen aufgereiht in einer Ladestation auf einem Regal, ein Kabel führt zu jedem einzelnen Gerät.",
-          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_2.png"
+          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_2.webp"
         },
         {
           "titel": "Laufende Verwaltung",
           "text": "Wir behalten im Blick, welche Geräte im Einsatz sind und welche Updates ausstehen. Das läuft als Teil der laufenden Microsoft-365-Betreuung, ohne zusätzlichen Aufwand für Sie.",
           "bild": "Eine Hand hält ein Klemmbrett mit einer Strichliste vor einem Regal mit mehreren Tablets und Firmenhandys.",
-          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_3.png"
+          "bild_pfad": "/assets/intune-geraete-zentral-verwalten/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -3357,13 +3357,13 @@
       "hintergrund_bild": "Aufsicht von schräg oben auf mehrere aufgeklappte Laptops und Smartphones, ordentlich in Reihen auf einem dunklen Tisch angeordnet, geometrische Muster durch die parallel ausgerichteten Geräte, dezentes türkises Licht von der Seite, ruhige Fläche ohne Personen."
     },
     "bilder": {
-      "hero_bild": "/assets/intune-geraete-zentral-verwalten/hero_bild.png",
-      "zweitbild": "/assets/intune-geraete-zentral-verwalten/zweitbild.png",
-      "hintergrund_bild": "/assets/intune-geraete-zentral-verwalten/hintergrund_bild.png",
-      "reihe_0": "/assets/intune-geraete-zentral-verwalten/reihe_0.png",
-      "reihe_1": "/assets/intune-geraete-zentral-verwalten/reihe_1.png",
-      "reihe_2": "/assets/intune-geraete-zentral-verwalten/reihe_2.png",
-      "reihe_3": "/assets/intune-geraete-zentral-verwalten/reihe_3.png"
+      "hero_bild": "/assets/intune-geraete-zentral-verwalten/hero_bild.webp",
+      "zweitbild": "/assets/intune-geraete-zentral-verwalten/zweitbild.webp",
+      "hintergrund_bild": "/assets/intune-geraete-zentral-verwalten/hintergrund_bild.webp",
+      "reihe_0": "/assets/intune-geraete-zentral-verwalten/reihe_0.webp",
+      "reihe_1": "/assets/intune-geraete-zentral-verwalten/reihe_1.webp",
+      "reihe_2": "/assets/intune-geraete-zentral-verwalten/reihe_2.webp",
+      "reihe_3": "/assets/intune-geraete-zentral-verwalten/reihe_3.webp"
     },
     "hero_titel": "Geräte fertig eingerichtet aus dem Karton",
     "kategorie": "Microsoft 365",
@@ -3382,13 +3382,13 @@
     "produkt": "IT-Strategie: Zielbild mit der Geschäftsführung, Maßnahmenplan mit Budget, Quartals- oder Jahres-Termin zum Nachhalten - unabhängig, ohne Produktbindung.",
     "path": "angebote/it-strategie-fuer-ihr-unternehmen.html",
     "assets": [
-      "/assets/it-strategie-fuer-ihr-unternehmen/hero_bild.png",
-      "/assets/it-strategie-fuer-ihr-unternehmen/zweitbild.png",
-      "/assets/it-strategie-fuer-ihr-unternehmen/hintergrund_bild.png",
-      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.png",
-      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.png",
-      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.png",
-      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.png"
+      "/assets/it-strategie-fuer-ihr-unternehmen/hero_bild.webp",
+      "/assets/it-strategie-fuer-ihr-unternehmen/zweitbild.webp",
+      "/assets/it-strategie-fuer-ihr-unternehmen/hintergrund_bild.webp",
+      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.webp",
+      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.webp",
+      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.webp",
+      "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
@@ -3421,25 +3421,25 @@
           "titel": "Zielbild mit der Geschäftsführung",
           "text": "In einem gemeinsamen Gespräch klären wir, wie Ihr Betrieb in den nächsten Jahren wachsen oder sich verändern will. Daraus ergibt sich, welche IT dafür nötig ist.",
           "bild": "Zwei Personen von der Seite an einem Besprechungstisch, gebeugt über eine ausgebreitete Skizze, Notizen und Stifte auf dem Tisch, keine Gesichter erkennbar",
-          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.png"
+          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.webp"
         },
         {
           "titel": "Maßnahmenplan mit Budget",
           "text": "Aus dem Zielbild wird eine Liste konkreter Schritte: was zuerst umgesetzt wird, was warten kann und mit welchen Kosten jeweils zu rechnen ist. Alles schriftlich und nachvollziehbar.",
           "bild": "Nahaufnahme einer Hand, die auf einem bedruckten Blatt Kästchen einer Liste abhakt, daneben liegen handschriftliche Budgetzahlen",
-          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.png"
+          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.webp"
         },
         {
           "titel": "Unabhängige Einschätzung",
           "text": "Wir sind an keinen Hersteller gebunden und empfehlen nur, was zu Ihrem Betrieb passt. Wo eine bestehende Lösung ausreicht, sagen wir das auch.",
           "bild": "Besprechungstisch mit mehreren neutralen Herstellerunterlagen und Katalogen nebeneinander ausgebreitet, keine im Vordergrund bevorzugt",
-          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.png"
+          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.webp"
         },
         {
           "titel": "Jährlicher Termin zum Nachhalten",
           "text": "Einmal im Jahr setzen wir uns zusammen, prüfen den Plan gegen die Realität und passen ihn an. So bleibt die Strategie kein Papier in der Schublade.",
           "bild": "Wandkalender mit einem markierten Termin, daneben ein aufgeschlagener Bericht auf einem Tisch",
-          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.png"
+          "bild_pfad": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -3509,13 +3509,13 @@
       "hintergrund_bild": "Unscharfe Kante eines aufgeschlagenen Aktenordners im Vordergrund, dahinter scharf ein Besprechungstisch mit ausgebreitetem Plan und Stiften, tiefes Violett im Licht"
     },
     "bilder": {
-      "hero_bild": "/assets/it-strategie-fuer-ihr-unternehmen/hero_bild.png",
-      "zweitbild": "/assets/it-strategie-fuer-ihr-unternehmen/zweitbild.png",
-      "hintergrund_bild": "/assets/it-strategie-fuer-ihr-unternehmen/hintergrund_bild.png",
-      "reihe_0": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.png",
-      "reihe_1": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.png",
-      "reihe_2": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.png",
-      "reihe_3": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.png"
+      "hero_bild": "/assets/it-strategie-fuer-ihr-unternehmen/hero_bild.webp",
+      "zweitbild": "/assets/it-strategie-fuer-ihr-unternehmen/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-strategie-fuer-ihr-unternehmen/hintergrund_bild.webp",
+      "reihe_0": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_0.webp",
+      "reihe_1": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_1.webp",
+      "reihe_2": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_2.webp",
+      "reihe_3": "/assets/it-strategie-fuer-ihr-unternehmen/reihe_3.webp"
     },
     "hero_titel": "Ein Plan, wohin sich Ihre IT entwickelt",
     "kategorie": "Beratung & Dokumente",
@@ -3534,13 +3534,13 @@
     "produkt": "",
     "path": "angebote/netzwerk-service-fuer-unternehmen.html",
     "assets": [
-      "/assets/netzwerk-service-fuer-unternehmen/hero_bild.png",
-      "/assets/netzwerk-service-fuer-unternehmen/zweitbild.png",
-      "/assets/netzwerk-service-fuer-unternehmen/hintergrund_bild.png",
-      "/assets/netzwerk-service-fuer-unternehmen/reihe_0.png",
-      "/assets/netzwerk-service-fuer-unternehmen/reihe_1.png",
-      "/assets/netzwerk-service-fuer-unternehmen/reihe_2.png",
-      "/assets/netzwerk-service-fuer-unternehmen/reihe_3.png"
+      "/assets/netzwerk-service-fuer-unternehmen/hero_bild.webp",
+      "/assets/netzwerk-service-fuer-unternehmen/zweitbild.webp",
+      "/assets/netzwerk-service-fuer-unternehmen/hintergrund_bild.webp",
+      "/assets/netzwerk-service-fuer-unternehmen/reihe_0.webp",
+      "/assets/netzwerk-service-fuer-unternehmen/reihe_1.webp",
+      "/assets/netzwerk-service-fuer-unternehmen/reihe_2.webp",
+      "/assets/netzwerk-service-fuer-unternehmen/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Netzwerk & Daten",
@@ -3573,25 +3573,25 @@
           "titel": "Netzwerkplan und Bestandsaufnahme",
           "text": "Wir nehmen auf, welche Geräte, Kabel und Anschlüsse bei Ihnen vorhanden sind, und halten es in einem Plan fest. Damit weiß auch in einem Jahr noch jemand, wie Ihr Netzwerk aufgebaut ist.",
           "bild": "Zwei Personen beugen sich über einen ausgedruckten Netzwerkplan auf einem Tisch in einem kleinen Büro, eine Hand zeigt auf eine markierte Stelle.",
-          "bild_pfad": "/assets/netzwerk-service-fuer-unternehmen/reihe_0.png"
+          "bild_pfad": "/assets/netzwerk-service-fuer-unternehmen/reihe_0.webp"
         },
         {
           "titel": "Verkabelung und Switches",
           "text": "Wir verlegen und beschriften Kabel sauber und setzen Switches passend zur Größe Ihres Betriebs ein. Erweiterungen lassen sich später ohne langes Suchen einbauen.",
           "bild": "Nahaufnahme einer Hand, die ein Netzwerkkabel sauber in einen Kabelkanal an der Wand einlegt.",
-          "bild_pfad": "/assets/netzwerk-service-fuer-unternehmen/reihe_1.png"
+          "bild_pfad": "/assets/netzwerk-service-fuer-unternehmen/reihe_1.webp"
         },
         {
           "titel": "WLAN ohne Lücken",
           "text": "Wir messen die Funkabdeckung in Ihren Räumen und setzen Access Points so, dass auch der hinterste Raum eine stabile Verbindung hat.",
           "bild": "Eine Hand montiert einen WLAN-Access-Point an einer Zimmerdecke in einem Büroraum.",
-          "bild_pfad": "/assets/netzwerk-service-fuer-unternehmen/reihe_2.png"
+          "bild_pfad": "/assets/netzwerk-service-fuer-unternehmen/reihe_2.webp"
         },
         {
           "titel": "Firewall und laufende Wartung",
           "text": "Wir richten eine Firewall ein, die Ihr Netzwerk nach außen absichert, und prüfen regelmäßig, ob Updates und Einstellungen noch passen.",
           "bild": "Eine Hand schließt ein Gerät mit mehreren Netzwerkanschlüssen in einem offenen Schaltschrank an, die Kabel sind farblich sortiert gebündelt.",
-          "bild_pfad": "/assets/netzwerk-service-fuer-unternehmen/reihe_3.png"
+          "bild_pfad": "/assets/netzwerk-service-fuer-unternehmen/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -3661,13 +3661,13 @@
       "hintergrund_bild": "Weite nächtliche Luftaufnahme einer kleinen Stadt im Nahetal, unzählige kleine Lichtpunkte einzelner Gebäude, Straßen und Fenster verteilt in dunklem Indigo, ruhige ausgedehnte Fläche ohne Gewimmel, wie ein stilles Netz aus verbundenen Punkten."
     },
     "bilder": {
-      "hero_bild": "/assets/netzwerk-service-fuer-unternehmen/hero_bild.png",
-      "zweitbild": "/assets/netzwerk-service-fuer-unternehmen/zweitbild.png",
-      "hintergrund_bild": "/assets/netzwerk-service-fuer-unternehmen/hintergrund_bild.png",
-      "reihe_0": "/assets/netzwerk-service-fuer-unternehmen/reihe_0.png",
-      "reihe_1": "/assets/netzwerk-service-fuer-unternehmen/reihe_1.png",
-      "reihe_2": "/assets/netzwerk-service-fuer-unternehmen/reihe_2.png",
-      "reihe_3": "/assets/netzwerk-service-fuer-unternehmen/reihe_3.png"
+      "hero_bild": "/assets/netzwerk-service-fuer-unternehmen/hero_bild.webp",
+      "zweitbild": "/assets/netzwerk-service-fuer-unternehmen/zweitbild.webp",
+      "hintergrund_bild": "/assets/netzwerk-service-fuer-unternehmen/hintergrund_bild.webp",
+      "reihe_0": "/assets/netzwerk-service-fuer-unternehmen/reihe_0.webp",
+      "reihe_1": "/assets/netzwerk-service-fuer-unternehmen/reihe_1.webp",
+      "reihe_2": "/assets/netzwerk-service-fuer-unternehmen/reihe_2.webp",
+      "reihe_3": "/assets/netzwerk-service-fuer-unternehmen/reihe_3.webp"
     },
     "hero_titel": "Netzwerk-Betreuung für kleine Unternehmen",
     "kategorie": "Netzwerk & Daten",
@@ -3686,13 +3686,13 @@
     "produkt": "",
     "path": "angebote/it-projektsteuerung-fuer-den-mittelstand.html",
     "assets": [
-      "/assets/it-projektsteuerung-fuer-den-mittelstand/hero_bild.png",
-      "/assets/it-projektsteuerung-fuer-den-mittelstand/zweitbild.png",
-      "/assets/it-projektsteuerung-fuer-den-mittelstand/hintergrund_bild.png",
-      "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_0.png",
-      "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_1.png",
-      "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_2.png",
-      "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_3.png"
+      "/assets/it-projektsteuerung-fuer-den-mittelstand/hero_bild.webp",
+      "/assets/it-projektsteuerung-fuer-den-mittelstand/zweitbild.webp",
+      "/assets/it-projektsteuerung-fuer-den-mittelstand/hintergrund_bild.webp",
+      "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_0.webp",
+      "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_1.webp",
+      "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_2.webp",
+      "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
@@ -3725,25 +3725,25 @@
           "titel": "Ein Plan mit Terminen",
           "text": "Wir nehmen den Ist-Zustand auf und schreiben einen Projektplan mit Reihenfolge, Terminen und Zuständigkeiten. Sie sehen von Anfang an, wann was passiert.",
           "bild": "Eine Hand zeigt auf eine ausgedruckte Zeitplan-Tabelle mit markierten Terminen, die auf einem Tisch ausgebreitet liegt",
-          "bild_pfad": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_0.png"
+          "bild_pfad": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_0.webp"
         },
         {
           "titel": "Handwerk und IT abgestimmt",
           "text": "Wir sprechen mit Elektrikern, Möbelmontage und Netzwerkbauern direkt und stimmen die Reihenfolge ab. Sie müssen nicht selbst zwischen den Gewerken vermitteln.",
           "bild": "Zwei Personen, eine in Arbeitskleidung und eine in Bürokleidung, stehen gemeinsam über einem Grundriss und zeigen auf einen Raum",
-          "bild_pfad": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_1.png"
+          "bild_pfad": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_1.webp"
         },
         {
           "titel": "Steuerung während der Umsetzung",
           "text": "Während das Projekt läuft, prüfen wir den Fortschritt gegen den Plan und melden Abweichungen sofort. Sie erfahren Probleme, bevor sie zum Terminproblem werden.",
           "bild": "Nahaufnahme einer Hand, die einen Punkt auf einer Checkliste auf einem Klemmbrett abhakt",
-          "bild_pfad": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_2.png"
+          "bild_pfad": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_2.webp"
         },
         {
           "titel": "Dokumentation zum Abschluss",
           "text": "Nach der Umsetzung bekommen Sie eine Übersicht, was gemacht wurde und wo welche Geräte und Zugänge liegen. Das hilft bei jeder späteren Nachfrage oder Erweiterung.",
           "bild": "Ein geschlossener gebundener Bericht liegt auf einem Besprechungstisch neben einem Stift",
-          "bild_pfad": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_3.png"
+          "bild_pfad": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -3813,13 +3813,13 @@
       "hintergrund_bild": "Extreme Nahaufnahme eines strengen, sich wiederholenden Rasters aus feinen Linien auf grauem Papier, wie ein Zeitplan-Gitter, alle Zeilen gleichförmig grau, eine einzelne Zelle des Rasters in kräftigem Grün hervorgehoben, ruhige Tiefe, wenig Kontrast außer im grünen Feld"
     },
     "bilder": {
-      "hero_bild": "/assets/it-projektsteuerung-fuer-den-mittelstand/hero_bild.png",
-      "zweitbild": "/assets/it-projektsteuerung-fuer-den-mittelstand/zweitbild.png",
-      "hintergrund_bild": "/assets/it-projektsteuerung-fuer-den-mittelstand/hintergrund_bild.png",
-      "reihe_0": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_0.png",
-      "reihe_1": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_1.png",
-      "reihe_2": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_2.png",
-      "reihe_3": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_3.png"
+      "hero_bild": "/assets/it-projektsteuerung-fuer-den-mittelstand/hero_bild.webp",
+      "zweitbild": "/assets/it-projektsteuerung-fuer-den-mittelstand/zweitbild.webp",
+      "hintergrund_bild": "/assets/it-projektsteuerung-fuer-den-mittelstand/hintergrund_bild.webp",
+      "reihe_0": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_0.webp",
+      "reihe_1": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_1.webp",
+      "reihe_2": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_2.webp",
+      "reihe_3": "/assets/it-projektsteuerung-fuer-den-mittelstand/reihe_3.webp"
     },
     "hero_titel": "Klare Steuerung für Ihr nächstes IT-Projekt",
     "kategorie": "Beratung & Dokumente",
@@ -3838,13 +3838,13 @@
     "produkt": "KI-Sichtbarkeits-Check",
     "path": "angebote/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen.html",
     "assets": [
-      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hero_bild.png",
-      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/zweitbild.png",
-      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hintergrund_bild.png",
-      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.png",
-      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.png",
-      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.png",
-      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.png"
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hero_bild.webp",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/zweitbild.webp",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hintergrund_bild.webp",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.webp",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.webp",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.webp",
+      "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.webp"
     ],
     "inhalt": {
       "kategorie": "Beratung & Dokumente",
@@ -3877,25 +3877,25 @@
           "titel": "Messung der Sichtbarkeit",
           "text": "Wir stellen ChatGPT, Perplexity und der Google-KI typische Fragen aus Ihrer Branche und Region, etwa nach einem Betrieb in der Nähe. Wir dokumentieren, ob und mit welchen Angaben Ihr Betrieb dabei genannt wird.",
           "bild": "Hand, die auf einem Klemmbrett eine handschriftliche Liste von Orts- und Branchenbegriffen abhakt, Bildschirm im Hintergrund unscharf",
-          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.png"
+          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.webp"
         },
         {
           "titel": "Technische Prüfung der Website",
           "text": "Wir prüfen, ob die Systeme hinter den KI-Antworten Ihre Seite überhaupt lesen dürfen, wie sie aufgebaut ist und ob eigene Seiten zu Ihren wichtigsten Themen fehlen. Das entscheidet, ob Ihre Inhalte als Quelle in Frage kommen.",
           "bild": "Zwei Personen beugen sich über einen ausgedruckten Seitenaufbau-Plan auf einem Tisch, ein Finger zeigt auf einen markierten Bereich",
-          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.png"
+          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.webp"
         },
         {
           "titel": "Bericht mit belegten Empfehlungen",
           "text": "Sie bekommen einen verständlichen Bericht: was heute schon funktioniert, was fehlt und welche Schritte am meisten bringen. Jede Empfehlung ist mit dem gemessenen Befund belegt, keine Vermutung.",
           "bild": "Ausgedruckter Bericht mit farbigen Markierungen und Haftnotizen liegt aufgeschlagen auf einem Besprechungstisch, eine Hand hält einen Stift daran",
-          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.png"
+          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.webp"
         },
         {
           "titel": "Umsetzung auf Wunsch",
           "text": "Wenn Sie möchten, setzen wir die empfohlenen Änderungen direkt um, von den technischen Freigaben bis zu neuen Themen-Seiten. Sie müssen sich nicht selbst durch die Fachbegriffe arbeiten.",
           "bild": "Zwei Personen am Besprechungstisch, eine reicht der anderen ein unterschriebenes Blatt, im Hintergrund ein aufgeklappter Ordner",
-          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.png"
+          "bild_pfad": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.webp"
         }
       ],
       "ablauf": [
@@ -3965,13 +3965,13 @@
       "hintergrund_bild": "Blick von unten nach oben an der Fassade eines kleinen Geschäftshauses, Fenster und Dachkante ragen in einen weiten Himmel, ungewöhnlicher Blickwinkel, kühles stahlblaues Licht, ruhige leere Flächen ohne Menschen"
     },
     "bilder": {
-      "hero_bild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hero_bild.png",
-      "zweitbild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/zweitbild.png",
-      "hintergrund_bild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hintergrund_bild.png",
-      "reihe_0": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.png",
-      "reihe_1": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.png",
-      "reihe_2": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.png",
-      "reihe_3": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.png"
+      "hero_bild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hero_bild.webp",
+      "zweitbild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/zweitbild.webp",
+      "hintergrund_bild": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/hintergrund_bild.webp",
+      "reihe_0": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_0.webp",
+      "reihe_1": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_1.webp",
+      "reihe_2": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_2.webp",
+      "reihe_3": "/assets/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen/reihe_3.webp"
     },
     "hero_titel": "Sichtbar in ChatGPT, Perplexity und Google-KI",
     "kategorie": "Beratung & Dokumente",
