@@ -1,36 +1,36 @@
 {
- "stand": "2026-11-11T06:30",
+ "stand": "2026-11-12T06:30",
  "beitraege": [
   {
-   "id": "18096588059670480",
-   "titel": "KI lokal oder aus der Cloud? Datenschutz gegen Leistung",
-   "bild": "/assets/instagram/18096588059670480.jpg",
-   "link": "https://www.instagram.com/reel/DfkZJZYgH-b/",
-   "datum": "2026-11-10",
+   "id": "18074349908491064",
+   "titel": "Format-Chaos beim Einfügen? Diese Tastenkombination hilft sofort",
+   "bild": "/assets/instagram/18074349908491064.jpg",
+   "link": "https://www.instagram.com/reel/Dfm-BqhiYPQ/",
+   "datum": "2026-11-11",
    "art": "VIDEO"
   },
   {
-   "id": "18116286278581290",
-   "titel": "Ein Passwort für 100 Konten – wie sicher ist ein Passwortmanager?",
-   "bild": "/assets/instagram/18116286278581290.jpg",
-   "link": "https://www.instagram.com/reel/Dfj20OyCQyX/",
-   "datum": "2026-11-10",
+   "id": "17890426299485621",
+   "titel": "Datenauskunft nach DSGVO: Reicht ein Blick ins Benutzerkonto?",
+   "bild": "/assets/instagram/17890426299485621.jpg",
+   "link": "https://www.instagram.com/reel/Dfmbmh0Ch-8/",
+   "datum": "2026-11-11",
    "art": "VIDEO"
   },
   {
-   "id": "17912885022563146",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 114",
-   "bild": "/assets/instagram/17912885022563146.jpg",
-   "link": "https://www.instagram.com/reel/DfjzYiKCeye/",
-   "datum": "2026-11-10",
+   "id": "18060207653650156",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 115",
+   "bild": "/assets/instagram/18060207653650156.jpg",
+   "link": "https://www.instagram.com/reel/DfmYKkSCiZf/",
+   "datum": "2026-11-11",
    "art": "VIDEO"
   },
   {
-   "id": "17994219645074678",
-   "titel": "Gestern lief's, heute andere Versionen? Das macht eine Lock-Datei",
-   "bild": "/assets/instagram/17994219645074678.jpg",
-   "link": "https://www.instagram.com/reel/DfjbVBFGbwY/",
-   "datum": "2026-11-10",
+   "id": "18100382048429325",
+   "titel": "API überlastet? Warum Exponential Backoff Fehlversuche entschärft",
+   "bild": "/assets/instagram/18100382048429325.jpg",
+   "link": "https://www.instagram.com/reel/DfmAKyvDPoX/",
+   "datum": "2026-11-11",
    "art": "VIDEO"
   }
  ]
