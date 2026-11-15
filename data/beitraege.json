@@ -1,36 +1,36 @@
 {
- "stand": "2026-11-14T06:30",
+ "stand": "2026-11-15T06:30",
  "beitraege": [
   {
-   "id": "17937261648414475",
-   "titel": "Ein Kabel – trotzdem zwei Netze!",
-   "bild": "/assets/instagram/17937261648414475.jpg",
-   "link": "https://www.instagram.com/reel/DfsHitnio4j/",
-   "datum": "2026-11-13",
+   "id": "18126445204932775",
+   "titel": "Drei kleine Signale, ein echter Angriff: Warum Security-Korrelation zählt",
+   "bild": "/assets/instagram/18126445204932775.jpg",
+   "link": "https://www.instagram.com/reel/DfusUi5mYbV/",
+   "datum": "2026-11-14",
    "art": "VIDEO"
   },
   {
-   "id": "17911717800570517",
-   "titel": "So entsteht eine TCP-Verbindung – und wie SYN-Flood-Angriffe funktionieren",
-   "bild": "/assets/instagram/17911717800570517.jpg",
-   "link": "https://www.instagram.com/reel/DfrlPFujw3y/",
-   "datum": "2026-11-13",
+   "id": "17955889923301107",
+   "titel": "Leitet Ihr Postfach heimlich mit? Das Risiko manipulierter Postfachregeln",
+   "bild": "/assets/instagram/17955889923301107.jpg",
+   "link": "https://www.instagram.com/reel/DfuJ_FaEWsg/",
+   "datum": "2026-11-14",
    "art": "VIDEO"
   },
   {
-   "id": "17900525715405195",
-   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 117",
-   "bild": "/assets/instagram/17900525715405195.jpg",
-   "link": "https://www.instagram.com/reel/DfrhwFYlV1D/",
-   "datum": "2026-11-13",
+   "id": "18118801397016736",
+   "titel": "Experiment: Was die KI ausgibt wenn man IT eingibt Teil 118",
+   "bild": "/assets/instagram/18118801397016736.jpg",
+   "link": "https://www.instagram.com/reel/DfuGjc7ije1/",
+   "datum": "2026-11-14",
    "art": "VIDEO"
   },
   {
-   "id": "18101012933555291",
-   "titel": "Gleich viel RAM, trotzdem unterschiedlich schnell? Single Rank vs. Dual Rank",
-   "bild": "/assets/instagram/18101012933555291.jpg",
-   "link": "https://www.instagram.com/reel/DfrJ1D2lhrW/",
-   "datum": "2026-11-13",
+   "id": "18238806244321011",
+   "titel": "Rekursion ohne Ende? Dann droht Stack Overflow!",
+   "bild": "/assets/instagram/18238806244321011.jpg",
+   "link": "https://www.instagram.com/reel/DftugtRgqO7/",
+   "datum": "2026-11-14",
    "art": "VIDEO"
   }
  ]
