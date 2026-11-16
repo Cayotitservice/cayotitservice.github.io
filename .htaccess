@@ -1,0 +1,7 @@
+# CITS-Website auf Hetzner (seit dem Umzug von GitHub Pages, November 2026).
+# Wie vorher bei GitHub: alles auf https://www.itscayot.com - ohne www und ohne https wird dauerhaft weitergeleitet.
+# ERST hochladen, wenn das Let's-Encrypt-Zertifikat für itscayot.com und www.itscayot.com aktiv ist.
+RewriteEngine On
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} !^www\.itscayot\.com$ [NC]
+RewriteRule ^ https://www.itscayot.com%{REQUEST_URI} [R=301,L]
