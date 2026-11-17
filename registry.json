@@ -3982,5 +3982,811 @@
     "fuer_wen_art": "trennstrich",
     "erstellt": "2026-08-24T14:09:19",
     "neu_gesetzt": "2026-08-27T15:03:54"
+  },
+  "managed-firewall": {
+    "titel": "Managed Firewall",
+    "stil": "Von Hand geschrieben (Bob-Werkstatt 18.11.2026), Grundlage wlw-Produkttexte.",
+    "thema": "",
+    "produkt": "",
+    "path": "angebote/managed-firewall.html",
+    "assets": [
+      "assets/managed-firewall/hero_bild.webp",
+      "assets/managed-firewall/zweitbild.webp",
+      "assets/managed-firewall/hintergrund_bild.webp"
+    ],
+    "inhalt": {
+      "kategorie": "Sicherheit",
+      "hero_titel": "Ihre Firewall, rund um die Uhr betreut",
+      "hero_unterzeile": "Wir planen, installieren und betreiben Ihre Firewall als Managed Service und überwachen sie rund um die Uhr. Das gilt für den Betrieb mit bis zu 30 Mitarbeitern genauso wie für die Enterprise-Firewall im Konzern mit mehreren Standorten.",
+      "fuer_wen": [
+        "Betriebe bis etwa 30 Mitarbeiter, deren Firewall seit der Einrichtung niemand mehr angesehen hat",
+        "Mittelständler mit Außenstellen, die sicher miteinander verbunden sein müssen",
+        "Konzerne und Unternehmensgruppen, die den Betrieb ihrer Firewalls abgeben wollen",
+        "Firmen, die Versicherern oder Prüfern zeigen müssen, wie ihr Netz abgesichert ist"
+      ],
+      "problem_ueberschrift": "Woran es meistens hakt",
+      "problem": [
+        {
+          "titel": "Eingerichtet und vergessen",
+          "text": "Die Firewall wurde beim Umzug oder beim letzten Netzwerkausbau eingerichtet. Seitdem hat niemand die Regeln angesehen. Freigaben für alte Projekte und frühere Dienstleister sind noch offen."
+        },
+        {
+          "titel": "Updates bleiben liegen",
+          "text": "Hersteller schließen Sicherheitslücken mit Firmware-Updates. Wer sie nicht einspielt, betreibt ein Gerät mit bekannten Schwachstellen. Genau die probieren Angreifer zuerst aus."
+        },
+        {
+          "titel": "Warnungen liest niemand",
+          "text": "Die Firewall meldet Auffälligkeiten per Mail. Die Mails landen in einem Postfach, das keiner regelmäßig öffnet, oder gehen im Tagesgeschäft unter."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir übernehmen",
+      "loesung": [
+        {
+          "titel": "Planung nach Ihrer Größe",
+          "text": "Wir wählen Gerät und Lizenz nach Mitarbeiterzahl, Standorten und Internetanbindung. Ein kleiner Betrieb braucht keine Konzern-Hardware, und ein Konzern kommt mit einer Bürolösung nicht aus."
+        },
+        {
+          "titel": "Installation und Regelwerk",
+          "text": "Wir bauen die Firewall ein, legen die Regeln fest und trennen das Netz in Bereiche, etwa für Büro, Gäste und Produktion. Für jede Regel ist dokumentiert, warum es sie gibt."
+        },
+        {
+          "titel": "Überwachung rund um die Uhr",
+          "text": "Die Firewall wird 24/7 überwacht. Sicherheitsmeldungen gehen an uns und nicht in ein Postfach, das niemand liest. Was auffällt, prüfen wir und sprechen es mit Ihnen ab."
+        },
+        {
+          "titel": "Pflege im laufenden Betrieb",
+          "text": "Wir spielen Updates ein, passen Regeln an und räumen alte Freigaben auf. Neue Standorte, Homeoffice-Zugänge oder Anwendungen bauen wir in das bestehende Regelwerk ein."
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns Netz, vorhandene Firewall und Standorte an und notieren, welche Verbindungen wirklich gebraucht werden."
+        },
+        {
+          "titel": "Konzept",
+          "text": "Sie bekommen einen Vorschlag für Gerät, Regelwerk und Betreuung, mit einer klaren Aufstellung der Kosten."
+        },
+        {
+          "titel": "Umstellung",
+          "text": "Wir richten die Firewall ein und schalten zu einem abgestimmten Termin um, bei Bedarf außerhalb Ihrer Arbeitszeit."
+        },
+        {
+          "titel": "Betrieb",
+          "text": "Ab dann überwachen und pflegen wir die Firewall. Jede Änderung steht in der Dokumentation."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein fester Ansprechpartner",
+          "text": "Sie wissen, wen Sie anrufen, wenn ein Zugang fehlt oder etwas seltsam aussieht."
+        },
+        {
+          "titel": "Dokumentierte Konfiguration",
+          "text": "Jede Regel ist beschrieben. Bei einer Prüfung oder einem Dienstleisterwechsel liegt alles vor."
+        },
+        {
+          "titel": "Wächst mit",
+          "text": "Kommen Mitarbeiter oder Standorte dazu, erweitern wir das Regelwerk, statt von vorn anzufangen."
+        },
+        {
+          "titel": "Weniger offene Türen",
+          "text": "Alte Freigaben werden regelmäßig entfernt. Das Netz ist so offen wie nötig und nicht weiter."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Wir haben schon eine Firewall. Müssen wir ein neues Gerät kaufen?",
+          "antwort": "Nicht unbedingt. Wenn das Gerät noch Updates vom Hersteller bekommt und zu Ihrer Größe passt, übernehmen wir es in die Betreuung. Ist es veraltet, sagen wir Ihnen das bei der Bestandsaufnahme."
+        },
+        {
+          "frage": "Mit welchen Herstellern arbeiten Sie?",
+          "antwort": "Das richtet sich nach Ihrer Umgebung. In kleinen und mittleren Betrieben setzen wir zum Beispiel Sophos ein. Für große Umgebungen wählen wir den Hersteller nach Ihren Anforderungen aus."
+        },
+        {
+          "frage": "Was heißt rund um die Uhr in der Praxis?",
+          "antwort": "Die Firewall wird ohne Pause überwacht, auch nachts und am Wochenende. Was mit einer Meldung außerhalb der Bürozeiten passiert, vereinbaren wir vorher mit Ihnen."
+        },
+        {
+          "frage": "Behalten wir den Zugriff auf unsere Firewall?",
+          "antwort": "Ja. Gerät und Dokumentation gehören Ihnen. Wer außer uns Zugriff bekommt, legen wir gemeinsam fest."
+        },
+        {
+          "frage": "Was kostet die Betreuung?",
+          "antwort": "Das hängt von der Zahl der Geräte, Standorte und Nutzer ab. Nach der Bestandsaufnahme bekommen Sie ein Angebot."
+        }
+      ],
+      "cta_titel": "Firewall-Betreuung anfragen",
+      "cta_text": "Schreiben Sie uns, wie viele Mitarbeiter und Standorte Sie haben und welche Firewall heute im Einsatz ist. Wir melden uns mit einem Termin für die Bestandsaufnahme.",
+      "seo_beschreibung": "Managed Firewall mit Überwachung rund um die Uhr: Planung, Installation, Regelwerk, Updates und Dokumentation, vom Betrieb mit 30 Mitarbeitern bis zum Konzern.",
+      "kurzbeschreibung": "Wir planen, installieren und betreiben Ihre Firewall und überwachen sie rund um die Uhr, vom kleinen Betrieb bis zum Konzern.",
+      "hero_bild": "Techniker steckt Netzwerkkabel an einem Switch im Serverschrank, darunter das Firewall-Gerät",
+      "zweitbild": "Arbeitsplatz mit zwei Bildschirmen, auf denen Netzwerkübersicht und Überwachungswerte angezeigt werden"
+    },
+    "bilder": {
+      "hero_bild": "/assets/managed-firewall/hero_bild.webp",
+      "zweitbild": "/assets/managed-firewall/zweitbild.webp",
+      "hintergrund_bild": "/assets/managed-firewall/hintergrund_bild.webp"
+    },
+    "hero_titel": "Ihre Firewall, rund um die Uhr betreut",
+    "kategorie": "Sicherheit",
+    "kurzbeschreibung": "Wir planen, installieren und betreiben Ihre Firewall und überwachen sie rund um die Uhr, vom kleinen Betrieb bis zum Konzern.",
+    "bildrichtung": "Fotorealistisch, Bilder aus der wlw-Reihe vom 18.11.2026",
+    "aufbau": "klassisch",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "zeilen",
+    "erstellt": "2026-11-18T12:00:00"
+  },
+  "vpn-homeoffice-geschaeftsreisen": {
+    "titel": "VPN für Homeoffice und Geschäftsreisen",
+    "stil": "Von Hand geschrieben (Bob-Werkstatt 18.11.2026), Grundlage wlw-Produkttexte.",
+    "thema": "",
+    "produkt": "",
+    "path": "angebote/vpn-homeoffice-geschaeftsreisen.html",
+    "assets": [
+      "assets/vpn-homeoffice-geschaeftsreisen/hero_bild.webp",
+      "assets/vpn-homeoffice-geschaeftsreisen/zweitbild.webp",
+      "assets/vpn-homeoffice-geschaeftsreisen/hintergrund_bild.webp"
+    ],
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Sicher ins Firmennetz, von zu Hause und unterwegs",
+      "hero_unterzeile": "Wir richten den VPN-Zugang für Homeoffice und Geschäftsreisen ein. Die Verbindung ist verschlüsselt und mit einem zweiten Faktor abgesichert. Neue Mitarbeiter sind schnell drin, ausgeschiedene sind sofort draußen.",
+      "fuer_wen": [
+        "Betriebe, in denen ein Teil der Leute regelmäßig von zu Hause arbeitet",
+        "Außendienst und Vertrieb, die im Hotel oder beim Kunden auf Firmendaten zugreifen",
+        "Geschäftsführer, die auf Reisen an Server und Buchhaltung müssen",
+        "Firmen, deren Fernzugang noch über ein gemeinsames Passwort läuft"
+      ],
+      "problem_ueberschrift": "Wie Fernzugriff oft aussieht",
+      "problem": [
+        {
+          "titel": "Ein Passwort für alle",
+          "text": "Der Zugang wurde vor Jahren eingerichtet, alle nutzen dieselben Anmeldedaten. Wer die Firma verlassen hat, kennt sie noch."
+        },
+        {
+          "titel": "Fremdes WLAN im Hotel",
+          "text": "Im Hotel, am Flughafen oder im Zug hängt der Laptop in einem Netz, das jeder mitbenutzt. Ohne Verschlüsselung ist das kein Ort für Kundendaten."
+        },
+        {
+          "titel": "Umwege, weil der Zugang hakt",
+          "text": "Dateien wandern über private Cloud-Speicher oder als Mail an die eigene Adresse. Danach weiß die Firma nicht mehr, wo ihre Daten liegen."
+        }
+      ],
+      "loesung_ueberschrift": "So richten wir es ein",
+      "loesung": [
+        {
+          "titel": "VPN auf Firewall und Geräten",
+          "text": "Wir richten den Zugang auf Ihrer Firewall ein und auf den Laptops, wo nötig auch auf Handys. Die Verbindung ist verschlüsselt, egal in welchem Netz das Gerät gerade hängt."
+        },
+        {
+          "titel": "Anmeldung mit zweitem Faktor",
+          "text": "Ein Passwort allein reicht nicht. Der Mitarbeiter bestätigt die Anmeldung zusätzlich, zum Beispiel mit einer App auf dem Handy. Ein gestohlenes Passwort öffnet so keine Tür."
+        },
+        {
+          "titel": "Jeder sieht, was er braucht",
+          "text": "Die Buchhaltung sieht die Buchhaltung, der Außendienst seine Kundenordner. Wir legen die Rechte je Person oder Gruppe fest, statt das ganze Netz freizugeben."
+        },
+        {
+          "titel": "Schnell dabei, sicher gesperrt",
+          "text": "Neue Mitarbeiter und Geräte binden wir zügig ein. Wer ausscheidet, wird gesperrt, sobald Sie uns Bescheid geben."
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Gespräch",
+          "text": "Wir klären, wer von wo auf welche Daten zugreifen muss und welche Firewall vorhanden ist."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Wir richten VPN und Mehr-Faktor-Anmeldung ein und testen von außen, ob alles erreichbar ist."
+        },
+        {
+          "titel": "Geräte und Einweisung",
+          "text": "Wir richten die Laptops ein und zeigen Ihren Leuten, wie die Verbindung aufgebaut wird."
+        },
+        {
+          "titel": "Dokumentation",
+          "text": "Sie bekommen eine verständliche Beschreibung. Auf Wunsch übernehmen wir auch Betrieb und Überwachung."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Arbeiten wie im Büro",
+          "text": "Server, Dateien und Anwendungen sind unterwegs so erreichbar wie am Schreibtisch."
+        },
+        {
+          "titel": "Sicher im fremden WLAN",
+          "text": "Die Verbindung ist verschlüsselt, auch im Hotel, am Flughafen oder im Zug."
+        },
+        {
+          "titel": "Klare Verhältnisse",
+          "text": "Sie wissen, wer Zugang hat. Ehemalige Mitarbeiter sind gesperrt."
+        },
+        {
+          "titel": "Schriftlich festgehalten",
+          "text": "Fragt jemand, wie Ihr Fernzugang abgesichert ist, liegt die Antwort vor."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Funktioniert das mit unserer vorhandenen Firewall?",
+          "antwort": "In vielen Fällen ja, die meisten aktuellen Firewalls beherrschen VPN. Ist Ihr Gerät zu alt oder bekommt es keine Updates mehr, sagen wir Ihnen das vorher."
+        },
+        {
+          "frage": "Brauchen die Mitarbeiter ein Firmenhandy für den zweiten Faktor?",
+          "antwort": "Meist reicht eine App auf dem Handy. Ob das ein Firmen- oder ein Privatgerät sein soll, klären wir mit Ihnen."
+        },
+        {
+          "frage": "Ist die Verbindung über VPN langsamer?",
+          "antwort": "Etwas, ja. Wie schnell es sich anfühlt, hängt vor allem von der Internetleitung im Büro und am Arbeitsort ab. Für Dateien, Mail und Buchhaltung reicht eine normale Leitung in der Regel aus."
+        },
+        {
+          "frage": "Dürfen Mitarbeiter mit privaten Laptops ins Firmennetz?",
+          "antwort": "Technisch geht das, wir raten aber davon ab. Ein privates Gerät können Sie nicht kontrollieren. Für den Fernzugriff empfehlen wir Firmengeräte, die zentral verwaltet werden."
+        },
+        {
+          "frage": "Was kostet die Einrichtung?",
+          "antwort": "Das hängt von der Zahl der Nutzer und vom Zustand der Firewall ab. Nach dem Gespräch bekommen Sie ein Angebot."
+        }
+      ],
+      "cta_titel": "VPN-Zugang anfragen",
+      "cta_text": "Schreiben Sie uns, wie viele Personen von außen arbeiten und welche Firewall Sie haben. Wir melden uns mit einem Vorschlag.",
+      "seo_beschreibung": "VPN für Homeoffice und Geschäftsreisen: verschlüsselter Zugriff auf Server und Dateien, Mehr-Faktor-Anmeldung, klare Rechte und Dokumentation, auf Wunsch mit Betrieb und Überwachung.",
+      "kurzbeschreibung": "Verschlüsselter Zugang ins Firmennetz für Homeoffice und Reisen, mit zweitem Faktor und klaren Rechten.",
+      "hero_bild": "Zugeklappter Laptop und Kaffeetasse auf einem Küchentisch, im Hintergrund ein Reisekoffer",
+      "zweitbild": "Geschäftsreisender arbeitet im Zug am Laptop, daneben liegt sein Handy"
+    },
+    "bilder": {
+      "hero_bild": "/assets/vpn-homeoffice-geschaeftsreisen/hero_bild.webp",
+      "zweitbild": "/assets/vpn-homeoffice-geschaeftsreisen/zweitbild.webp",
+      "hintergrund_bild": "/assets/vpn-homeoffice-geschaeftsreisen/hintergrund_bild.webp"
+    },
+    "hero_titel": "Sicher ins Firmennetz, von zu Hause und unterwegs",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Verschlüsselter Zugang ins Firmennetz für Homeoffice und Reisen, mit zweitem Faktor und klaren Rechten.",
+    "bildrichtung": "Fotorealistisch, Bilder aus der wlw-Reihe vom 18.11.2026",
+    "aufbau": "wechsel",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "zeilen",
+    "erstellt": "2026-11-18T12:00:01"
+  },
+  "displays-und-led-waende": {
+    "titel": "Displays und LED-Wände",
+    "stil": "Von Hand geschrieben (Bob-Werkstatt 18.11.2026), Grundlage wlw-Produkttexte.",
+    "thema": "",
+    "produkt": "",
+    "path": "angebote/displays-und-led-waende.html",
+    "assets": [
+      "assets/displays-und-led-waende/hero_bild.webp",
+      "assets/displays-und-led-waende/zweitbild.webp",
+      "assets/displays-und-led-waende/hintergrund_bild.webp"
+    ],
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Vom Fernseher im Besprechungsraum bis zur LED-Wand",
+      "hero_unterzeile": "Wir beraten, planen, liefern und montieren Displays und LED-Wände in Deutschland, Österreich und der Schweiz. Einen einzelnen Bildschirm ebenso wie ein Großprojekt.",
+      "fuer_wen": [
+        "Besprechungsräume",
+        "Empfang und Wartebereich",
+        "Showroom und Verkaufsfläche",
+        "Veranstaltungen und Messen",
+        "Leitstände und Hallen"
+      ],
+      "problem_ueberschrift": "Was bei Bildschirmprojekten schiefgeht",
+      "problem": [
+        {
+          "titel": "Gekauft, aber nicht geplant",
+          "text": "Der Fernseher ist zu klein für den Raum, das Kabel endet zwei Meter daneben, der Netzwerkanschluss fehlt. Das fällt erst auf, wenn das Gerät an der Wand hängt."
+        },
+        {
+          "titel": "Die Wand trägt das nicht",
+          "text": "Große Displays und LED-Module sind schwer. Ohne passende Halterung oder Unterkonstruktion wird aus dem Projekt ein Sicherheitsproblem."
+        },
+        {
+          "titel": "Niemand pflegt die Inhalte",
+          "text": "Das Infodisplay im Empfang zeigt seit Monaten dieselbe Folie, weil niemand weiß, wie man sie austauscht."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir übernehmen",
+      "loesung": [
+        {
+          "titel": "Beratung und Planung",
+          "text": "Wir sehen uns den Raum an und klären Größe, Sichtabstand, Helligkeit und Montageort. Bei einer LED-Wand planen wir Unterkonstruktion, Stromversorgung und den Zugang für die Wartung gleich mit."
+        },
+        {
+          "titel": "Lieferung und Montage",
+          "text": "Wir liefern die Geräte und montieren sie, mit Halterung oder Unterkonstruktion, sauber verlegten Kabeln und Anschluss ans Netzwerk. Das gilt für einen Bildschirm genauso wie für mehrere Standorte."
+        },
+        {
+          "titel": "Inhalte steuern",
+          "text": "Wir richten ein, wie Bild und Inhalte auf die Bildschirme kommen: per Kabel, drahtlos vom Laptop oder zentral gesteuert für viele Displays. Ihr Team bekommt eine Einweisung."
+        },
+        {
+          "titel": "Auch Großprojekte",
+          "text": "Wir setzen auch umfangreiche Vorhaben um, etwa eine LED-Wand im Showroom, Infodisplays in mehreren Hallen oder eine Wand im Leitstand. Termine stimmen wir mit Ihnen und den anderen Beteiligten ab."
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Sie beschreiben, was gezeigt werden soll, wo und für wen. Bei größeren Vorhaben kommen wir zum Termin vor Ort."
+        },
+        {
+          "titel": "Planung und Angebot",
+          "text": "Sie bekommen einen Vorschlag mit Geräten, Montage und Zeitplan."
+        },
+        {
+          "titel": "Montage und Inbetriebnahme",
+          "text": "Wir montieren, schließen an, richten die Steuerung ein und testen alles gemeinsam mit Ihnen."
+        },
+        {
+          "titel": "Nach der Übergabe",
+          "text": "Wir bleiben Ihr Ansprechpartner für Wartung und Erweiterungen."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Ein Ansprechpartner",
+          "text": "Von der Beratung bis zur Montage. Sie müssen nicht zwischen Händler, Monteur und IT vermitteln."
+        },
+        {
+          "titel": "Passend zum Raum",
+          "text": "Größe und Technik richten sich nach Raum und Zweck, nicht nach dem Angebot der Woche."
+        },
+        {
+          "titel": "Im Netzwerk eingebunden",
+          "text": "Wer Displays ins Firmennetz bringt, sollte sich mit Netzwerken auskennen. Das ist unser eigentliches Fach."
+        },
+        {
+          "titel": "In der ganzen DACH-Region",
+          "text": "Montage in Deutschland, Österreich und der Schweiz, auch an mehreren Standorten."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Was kostet eine LED-Wand?",
+          "antwort": "Das hängt stark von Größe, Pixelabstand, Standort und Montage ab. Nach dem Erstgespräch bekommen Sie ein Angebot für Ihr Vorhaben."
+        },
+        {
+          "frage": "Wann reicht ein Fernseher, wann braucht es ein Profi-Display oder eine LED-Wand?",
+          "antwort": "Läuft das Gerät ein paar Stunden am Tag im Besprechungsraum, reicht oft ein guter Fernseher. Läuft es den ganzen Tag, steht es im Schaufenster oder soll das Bild größer werden, als ein einzelnes Gerät es erlaubt, ist ein Profi-Display oder eine LED-Wand die bessere Wahl."
+        },
+        {
+          "frage": "Montieren Sie auch weiter weg?",
+          "antwort": "Ja. Wir montieren in Deutschland, Österreich und der Schweiz."
+        },
+        {
+          "frage": "Können wir die Inhalte selbst ändern?",
+          "antwort": "Ja. Wir richten die Steuerung so ein, dass Ihr Team Inhalte selbst austauscht, und zeigen bei der Übergabe, wie es geht."
+        },
+        {
+          "frage": "Gibt es auch interaktive Displays für Besprechung und Unterricht?",
+          "antwort": "Ja. Dafür gibt es eine eigene Seite: Digitale Tafeln für Besprechungsraum und Klassenzimmer."
+        }
+      ],
+      "cta_titel": "Display-Projekt anfragen",
+      "cta_text": "Beschreiben Sie kurz Raum, Zweck und Standort. Wir melden uns und besprechen mit Ihnen den nächsten Schritt.",
+      "seo_beschreibung": "Displays und LED-Wände für Unternehmen: Beratung, Planung, Lieferung und Montage in Deutschland, Österreich und der Schweiz, vom einzelnen Fernseher bis zum Großprojekt.",
+      "kurzbeschreibung": "Vom Fernseher bis zur LED-Wand: Beratung, Lieferung und Montage in der DACH-Region, auch für Großprojekte.",
+      "hero_bild": "Zwei Monteure setzen ein Modul in eine große Videowand in einem Foyer ein",
+      "zweitbild": "Monteur verschraubt ein LED-Modul an der Unterkonstruktion einer LED-Wand"
+    },
+    "bilder": {
+      "hero_bild": "/assets/displays-und-led-waende/hero_bild.webp",
+      "zweitbild": "/assets/displays-und-led-waende/zweitbild.webp",
+      "hintergrund_bild": "/assets/displays-und-led-waende/hintergrund_bild.webp"
+    },
+    "hero_titel": "Vom Fernseher im Besprechungsraum bis zur LED-Wand",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Vom Fernseher bis zur LED-Wand: Beratung, Lieferung und Montage in der DACH-Region, auch für Großprojekte.",
+    "bildrichtung": "Fotorealistisch, Bilder aus der wlw-Reihe vom 18.11.2026",
+    "aufbau": "klassisch",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "chips",
+    "erstellt": "2026-11-18T12:00:02"
+  },
+  "gobd-email-archivierung": {
+    "titel": "GoBD-konforme E-Mail-Archivierung",
+    "stil": "Von Hand geschrieben (Bob-Werkstatt 18.11.2026), Grundlage wlw-Produkttexte.",
+    "thema": "",
+    "produkt": "",
+    "path": "angebote/gobd-email-archivierung.html",
+    "assets": [
+      "assets/gobd-email-archivierung/hero_bild.webp",
+      "assets/gobd-email-archivierung/zweitbild.webp",
+      "assets/gobd-email-archivierung/hintergrund_bild.webp"
+    ],
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "E-Mails aufbewahren, wie es die GoBD verlangen",
+      "hero_unterzeile": "Wir richten ein Archiv ein, das jede ein- und ausgehende Mail automatisch ablegt. Dort lässt sie sich nicht mehr ändern, und Sie finden sie in Sekunden wieder. Angebunden an Microsoft 365 oder Ihren Mailserver.",
+      "fuer_wen": [
+        "Betriebe mit Microsoft 365 oder eigenem Mailserver",
+        "Firmen, die Angebote und Rechnungen per Mail verschicken",
+        "Unternehmen mit wechselnden Mitarbeitern"
+      ],
+      "problem_ueberschrift": "Warum das Postfach kein Archiv ist",
+      "problem": [
+        {
+          "titel": "Gelöscht ist gelöscht",
+          "text": "Im Postfach kann jeder Mails löschen oder verschieben. Für eine Aufbewahrung, die einer Prüfung standhält, reicht das nicht."
+        },
+        {
+          "titel": "Mitarbeiter weg, Postfach weg",
+          "text": "Verlässt jemand die Firma, wird sein Postfach oft aufgelöst. Mit ihm verschwinden Absprachen mit Kunden und Lieferanten."
+        },
+        {
+          "titel": "Suchen dauert",
+          "text": "Eine Mail von vor drei Jahren zu finden heißt oft: in alten Ordnern, Sicherungen und Exportdateien wühlen."
+        }
+      ],
+      "loesung_ueberschrift": "Was das Archiv leistet",
+      "loesung": [
+        {
+          "titel": "Automatische Ablage",
+          "text": "Jede ein- und ausgehende Mail wird beim Senden oder Empfangen ins Archiv übernommen. Niemand muss daran denken."
+        },
+        {
+          "titel": "Nachträglich nicht änderbar",
+          "text": "Was im Archiv liegt, lässt sich weder ändern noch heimlich löschen. Entfernt wird erst nach Ablauf der Aufbewahrungsfrist, die Sie festlegen."
+        },
+        {
+          "titel": "In Sekunden gefunden",
+          "text": "Sie suchen nach Absender, Betreff, Zeitraum oder Inhalt und haben die Mail sofort vor sich, auch die eines ausgeschiedenen Mitarbeiters."
+        },
+        {
+          "titel": "Betrieb und Kontrolle",
+          "text": "Wir binden das Archiv an Microsoft 365 oder Ihren Mailserver an und kümmern uns um Betrieb und Kontrolle. So fällt eine Lücke im Archiv nicht erst bei der Prüfung auf."
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir sehen uns Ihr Mailsystem an und klären, welche Postfächer archiviert werden."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Wir richten das Archiv ein und binden es an Microsoft 365 oder Ihren Mailserver an."
+        },
+        {
+          "titel": "Altbestand",
+          "text": "Auf Wunsch übernehmen wir vorhandene Mails aus den Postfächern ins Archiv."
+        },
+        {
+          "titel": "Beschreibung und Betrieb",
+          "text": "Sie bekommen eine Beschreibung, wie archiviert wird. Die brauchen Sie auch für Ihre Verfahrensdokumentation."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Nichts geht verloren",
+          "text": "Auch wenn Postfächer aufgeräumt oder aufgelöst werden, bleibt jede Mail im Archiv."
+        },
+        {
+          "titel": "Vorbereitet auf die Prüfung",
+          "text": "Fragt der Prüfer nach einer bestimmten Mail, finden Sie sie, statt zu suchen."
+        },
+        {
+          "titel": "Schlankere Postfächer",
+          "text": "Alte Mails müssen nicht im Postfach bleiben, damit man sie wiederfindet."
+        },
+        {
+          "titel": "Klare Aufteilung",
+          "text": "Wir liefern die Technik und die Beschreibung dazu. Die steuerliche Bewertung bleibt bei Ihrem Steuerberater."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Müssen wir E-Mails überhaupt archivieren?",
+          "antwort": "Hat eine Mail die Funktion eines Geschäftsbriefs oder Belegs, etwa ein Angebot, eine Auftragsbestätigung oder eine Rechnung, muss sie aufbewahrt werden. Welche Mails das bei Ihnen betrifft, klären Sie am besten mit Ihrem Steuerberater."
+        },
+        {
+          "frage": "Reicht nicht unsere normale Datensicherung?",
+          "antwort": "Nein. Eine Sicherung hält einen Stand fest, um ihn nach einem Ausfall zurückzuholen. Sie ist nicht dafür gebaut, einzelne Mails über Jahre unveränderbar aufzubewahren und schnell wiederzufinden."
+        },
+        {
+          "frage": "Funktioniert das mit Microsoft 365?",
+          "antwort": "Ja. Wir binden das Archiv an Microsoft 365 an, ebenso an einen eigenen Mailserver."
+        },
+        {
+          "frage": "Sind wir damit automatisch GoBD-konform?",
+          "antwort": "Die Technik ist eine Voraussetzung, aber nicht alles. Dazu gehören eine Verfahrensdokumentation und die passenden Abläufe im Betrieb. Wir liefern die technische Grundlage und die Beschreibung, die steuerliche Bewertung bleibt bei Ihrem Steuerberater."
+        },
+        {
+          "frage": "Wer darf im Archiv lesen?",
+          "antwort": "Im Archiv liegen auch vertrauliche Mails. Wer darauf zugreifen darf, legen wir mit Ihnen fest und halten es schriftlich fest."
+        }
+      ],
+      "cta_titel": "Mailarchiv anfragen",
+      "cta_text": "Schreiben Sie uns, welches Mailsystem Sie nutzen und wie viele Postfächer es gibt. Wir melden uns mit einem Vorschlag.",
+      "seo_beschreibung": "GoBD-konforme E-Mail-Archivierung: automatische Ablage aller Mails, nachträglich nicht änderbar und schnell durchsuchbar. Für Microsoft 365 und eigene Mailserver.",
+      "kurzbeschreibung": "Jede geschäftliche Mail automatisch archiviert, nicht mehr änderbar und schnell wiedergefunden.",
+      "hero_bild": "Laptop mit geöffnetem E-Mail-Postfach vor einem Regal mit Aktenordnern",
+      "zweitbild": "Speichersystem mit Festplatteneinschüben in einem Serverschrank"
+    },
+    "bilder": {
+      "hero_bild": "/assets/gobd-email-archivierung/hero_bild.webp",
+      "zweitbild": "/assets/gobd-email-archivierung/zweitbild.webp",
+      "hintergrund_bild": "/assets/gobd-email-archivierung/hintergrund_bild.webp"
+    },
+    "hero_titel": "E-Mails aufbewahren, wie es die GoBD verlangen",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Jede geschäftliche Mail automatisch archiviert, nicht mehr änderbar und schnell wiedergefunden.",
+    "bildrichtung": "Fotorealistisch, Bilder aus der wlw-Reihe vom 18.11.2026",
+    "aufbau": "wechsel",
+    "ablauf_art": "strang",
+    "fuer_wen_art": "trennstrich",
+    "erstellt": "2026-11-18T12:00:03"
+  },
+  "nis2-betreuung": {
+    "titel": "NIS-2-Betreuung",
+    "stil": "Von Hand geschrieben (Bob-Werkstatt 18.11.2026), Grundlage wlw-Produkttexte.",
+    "thema": "",
+    "produkt": "",
+    "path": "angebote/nis2-betreuung.html",
+    "assets": [
+      "assets/nis2-betreuung/hero_bild.webp",
+      "assets/nis2-betreuung/zweitbild.webp",
+      "assets/nis2-betreuung/hintergrund_bild.webp"
+    ],
+    "inhalt": {
+      "kategorie": "Sicherheit",
+      "hero_titel": "NIS-2 umsetzen und dauerhaft einhalten",
+      "hero_unterzeile": "Wir prüfen, ob Ihr Unternehmen unter NIS-2 fällt, setzen die Anforderungen gemeinsam mit Ihnen um und betreuen Sie danach dauerhaft. Umfang und Kosten stimmen wir nach einem Erstgespräch ab.",
+      "fuer_wen": [
+        "Mittelständische Unternehmen, die nicht sicher wissen, ob NIS-2 sie betrifft",
+        "Betriebe, die von Kunden nach ihrer Cybersicherheit gefragt werden",
+        "Geschäftsführungen, die Nachweise brauchen und keine Fachvorträge",
+        "Firmen ohne eigene Stelle für Informationssicherheit"
+      ],
+      "problem_ueberschrift": "Wo viele Unternehmen bei NIS-2 stehen",
+      "problem": [
+        {
+          "titel": "Unklar, ob man betroffen ist",
+          "text": "Ob NIS-2 gilt, hängt von Branche, Größe und Tätigkeit ab. Viele Betriebe wissen es nicht sicher und schieben das Thema deshalb vor sich her."
+        },
+        {
+          "titel": "Die Geschäftsleitung ist gefragt",
+          "text": "Die Regeln richten sich ausdrücklich an die Geschäftsleitung. Sie muss die Maßnahmen billigen und ihre Umsetzung überwachen. Abgeben und vergessen geht nicht."
+        },
+        {
+          "titel": "Maßnahmen ohne Nachweis",
+          "text": "Firewall und Virenschutz sind meist da. Es fehlen Risikoanalyse, Notfallplan, Meldeweg und die Dokumentation, mit der sich das alles belegen lässt."
+        }
+      ],
+      "loesung_ueberschrift": "Was wir mit Ihnen umsetzen",
+      "loesung": [
+        {
+          "titel": "Betroffenheit prüfen",
+          "text": "Wir klären anhand von Branche, Größe und Tätigkeit, ob und wie Sie unter NIS-2 fallen. Das Ergebnis bekommen Sie schriftlich."
+        },
+        {
+          "titel": "Risikoanalyse",
+          "text": "Wir sehen uns an, welche Systeme und Daten für Ihren Betrieb kritisch sind und wo die größten Risiken liegen. Daraus entsteht eine Liste mit Maßnahmen und Reihenfolge."
+        },
+        {
+          "titel": "Technik und Abläufe",
+          "text": "Wir setzen Schutzmaßnahmen und Zugriffsschutz um und erarbeiten mit Ihnen Notfall- und Meldeprozesse. Danach steht fest, wer im Ernstfall was tut."
+        },
+        {
+          "titel": "Dokumentation und Berichte",
+          "text": "Alles wird so dokumentiert, dass Sie es bei einer Prüfung vorlegen können. Die Geschäftsführung bekommt verständliche Berichte statt Fachchinesisch."
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Erstgespräch",
+          "text": "Wir sprechen über Ihr Unternehmen, Ihre Branche und Ihre IT und stimmen Umfang und Kosten ab."
+        },
+        {
+          "titel": "Bestandsaufnahme",
+          "text": "Wir prüfen, was schon vorhanden ist und was fehlt."
+        },
+        {
+          "titel": "Umsetzung",
+          "text": "Wir setzen die Maßnahmen in der vereinbarten Reihenfolge um, gemeinsam mit Ihren Mitarbeitern."
+        },
+        {
+          "titel": "Laufende Betreuung",
+          "text": "Wir prüfen regelmäßig, ob die Maßnahmen noch greifen, und halten die Nachweise aktuell."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Klarheit",
+          "text": "Sie wissen, ob und wie weit NIS-2 Sie betrifft, statt zu raten."
+        },
+        {
+          "titel": "Nachweise liegen vor",
+          "text": "Bei Prüfungen oder Anfragen von Kunden ist die Dokumentation da."
+        },
+        {
+          "titel": "Vorbereitet auf den Ernstfall",
+          "text": "Notfall- und Meldeprozesse sind geklärt, bevor etwas passiert."
+        },
+        {
+          "titel": "Eine Stelle für alles",
+          "text": "Technik, Abläufe und Dokumentation bleiben in einer Hand."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Woran erkenne ich, ob mein Unternehmen betroffen ist?",
+          "antwort": "Entscheidend sind Branche und Größe. Erfasst sind vor allem Unternehmen in den Sektoren, die die Richtlinie nennt, in der Regel ab 50 Beschäftigten oder ab mehr als 10 Millionen Euro Jahresumsatz und Bilanzsumme. Es gibt Ausnahmen in beide Richtungen, deshalb prüfen wir das im Einzelfall."
+        },
+        {
+          "frage": "Was kostet die NIS-2-Betreuung?",
+          "antwort": "Das hängt davon ab, wie groß Ihr Unternehmen ist und was schon vorhanden ist. Umfang und Kosten stimmen wir nach dem Erstgespräch mit Ihnen ab."
+        },
+        {
+          "frage": "Wir sind nicht direkt betroffen. Ist das Thema damit erledigt?",
+          "antwort": "Nicht unbedingt. Betroffene Unternehmen müssen auch die Sicherheit ihrer Lieferkette im Blick haben und fragen deshalb bei Zulieferern und Dienstleistern nach. Wer dann Nachweise vorlegen kann, ist im Vorteil."
+        },
+        {
+          "frage": "Ersetzt das eine Rechtsberatung?",
+          "antwort": "Nein. Wir kümmern uns um die technische und organisatorische Umsetzung. Rechtliche Einzelfragen klären Sie mit Ihrem Anwalt."
+        },
+        {
+          "frage": "Müssen wir dafür neue Technik kaufen?",
+          "antwort": "Nicht grundsätzlich. Wir bauen auf dem auf, was vorhanden ist, und ergänzen, was fehlt."
+        }
+      ],
+      "cta_titel": "Erstgespräch zu NIS-2 vereinbaren",
+      "cta_text": "Schreiben Sie uns Branche und ungefähre Mitarbeiterzahl. Wir melden uns für ein Erstgespräch.",
+      "seo_beschreibung": "NIS-2-Betreuung für Unternehmen: Betroffenheit prüfen, Risikoanalyse, Schutzmaßnahmen, Notfall- und Meldeprozesse, Dokumentation und laufende Betreuung. Umfang und Kosten nach Erstgespräch.",
+      "kurzbeschreibung": "Wir prüfen, ob NIS-2 Sie betrifft, setzen die Anforderungen um und halten sie mit Ihnen dauerhaft ein.",
+      "hero_bild": "Zwei Personen besprechen am Laptop Auswertungen und ausgedruckte Unterlagen",
+      "zweitbild": "Checkliste mit Kugelschreiber und zugeklapptem Laptop auf einem Besprechungstisch"
+    },
+    "bilder": {
+      "hero_bild": "/assets/nis2-betreuung/hero_bild.webp",
+      "zweitbild": "/assets/nis2-betreuung/zweitbild.webp",
+      "hintergrund_bild": "/assets/nis2-betreuung/hintergrund_bild.webp"
+    },
+    "hero_titel": "NIS-2 umsetzen und dauerhaft einhalten",
+    "kategorie": "Sicherheit",
+    "kurzbeschreibung": "Wir prüfen, ob NIS-2 Sie betrifft, setzen die Anforderungen um und halten sie mit Ihnen dauerhaft ein.",
+    "bildrichtung": "Fotorealistisch, Bilder aus der wlw-Reihe vom 18.11.2026",
+    "aufbau": "problem_zuerst",
+    "ablauf_art": "winkel",
+    "fuer_wen_art": "zeilen",
+    "erstellt": "2026-11-18T12:00:04"
+  },
+  "ki-telefonassistent-handwerk": {
+    "titel": "KI-Telefonassistent für Handwerksbetriebe",
+    "stil": "Von Hand geschrieben (Bob-Werkstatt 18.11.2026), Grundlage wlw-Produkttexte.",
+    "thema": "",
+    "produkt": "",
+    "path": "angebote/ki-telefonassistent-handwerk.html",
+    "assets": [
+      "assets/ki-telefonassistent-handwerk/hero_bild.webp",
+      "assets/ki-telefonassistent-handwerk/zweitbild.webp",
+      "assets/ki-telefonassistent-handwerk/hintergrund_bild.webp"
+    ],
+    "inhalt": {
+      "kategorie": "Netzwerk & Daten",
+      "hero_titel": "Das Telefon klingelt, und Sie stehen auf der Leiter",
+      "hero_unterzeile": "Ein KI-Telefonassistent nimmt Anrufe an, wenn Sie nicht können. Er fragt Anliegen, Kontaktdaten und Dringlichkeit ab und schickt Ihnen eine kurze Zusammenfassung. Ihre Telefonnummer bleibt dieselbe.",
+      "fuer_wen": [
+        "Elektro",
+        "Sanitär und Heizung",
+        "Dachdecker",
+        "Schreiner",
+        "Maler",
+        "Kfz-Werkstätten"
+      ],
+      "problem_ueberschrift": "Kennen Sie das?",
+      "problem": [
+        {
+          "titel": "Anrufe mitten in der Arbeit",
+          "text": "Sie stehen auf der Baustelle oder in der Werkstatt und haben die Hände voll. Das Telefon klingelt zum vierten Mal in der Stunde, und jedes Mal steht die Arbeit still."
+        },
+        {
+          "titel": "Verpasste Anrufe, verpasste Aufträge",
+          "text": "Wer nicht durchkommt, ruft beim nächsten Betrieb an. Ob das ein Notfall war oder ein großer Auftrag, erfahren Sie nicht."
+        },
+        {
+          "titel": "Rückrufe nach Feierabend",
+          "text": "Abends hören Sie die Mailbox ab. Die Hälfte der Nachrichten endet ohne Rückrufnummer oder ohne zu sagen, worum es geht."
+        }
+      ],
+      "loesung_ueberschrift": "Was der Assistent macht",
+      "loesung": [
+        {
+          "titel": "Nimmt ab, wenn Sie nicht können",
+          "text": "Der Assistent meldet sich mit dem Namen Ihres Betriebs. Er sagt dem Anrufer offen, dass er ein digitaler Assistent ist."
+        },
+        {
+          "titel": "Fragt das Wichtige ab",
+          "text": "Worum geht es, wie ist der Anrufer erreichbar, wie dringend ist es? Diese Fragen stellt er bei jedem Anruf."
+        },
+        {
+          "titel": "Schickt Ihnen eine Zusammenfassung",
+          "text": "Nach dem Gespräch bekommen Sie eine kurze Zusammenfassung. Sie sehen auf einen Blick, wen Sie zuerst zurückrufen."
+        },
+        {
+          "titel": "Hängt an Ihrer Nummer",
+          "text": "Wir binden den Assistenten per Rufumleitung an Ihre bestehende Nummer an, zum Beispiel nur dann, wenn Sie nicht abnehmen. Für Ihre Kunden ändert sich nichts."
+        }
+      ],
+      "ablauf": [
+        {
+          "titel": "Gespräch",
+          "text": "Wir klären, welche Anrufe bei Ihnen ankommen und was der Assistent abfragen soll."
+        },
+        {
+          "titel": "Einrichtung",
+          "text": "Wir richten den Assistenten mit Ihrem Betriebsnamen, Ihren Leistungen und Ihren Fragen ein."
+        },
+        {
+          "titel": "Probeanruf",
+          "text": "Sie rufen selbst an und hören, wie er klingt. Wir passen an, bis es stimmt."
+        },
+        {
+          "titel": "Rufumleitung",
+          "text": "Wir schalten die Umleitung auf Ihrer Nummer ein. Ab dann nimmt der Assistent ab, wenn Sie es nicht können."
+        }
+      ],
+      "vorteile": [
+        {
+          "titel": "Sie kommen zum Arbeiten",
+          "text": "Sie bleiben bei der Arbeit, statt alle zwanzig Minuten das Werkzeug abzulegen."
+        },
+        {
+          "titel": "Kein Kunde bleibt ohne Antwort",
+          "text": "Jeder Anrufer wird angenommen und weiß, dass sein Anliegen angekommen ist."
+        },
+        {
+          "titel": "Rückrufe mit allen Angaben",
+          "text": "Sie wissen vor dem Rückruf, worum es geht und wie dringend es ist."
+        },
+        {
+          "titel": "Datenschutz von Anfang an",
+          "text": "Die Ansage gegenüber Anrufern und der Umgang mit den Daten sind Teil der Einrichtung."
+        }
+      ],
+      "faq": [
+        {
+          "frage": "Merken die Anrufer, dass sie mit einer KI sprechen?",
+          "antwort": "Ja, und das ist Absicht. Der Assistent sagt zu Beginn, dass er ein digitaler Assistent ist. Das gehört zu einer ehrlichen und datenschutzgerechten Einrichtung."
+        },
+        {
+          "frage": "Muss ich meine Telefonnummer ändern?",
+          "antwort": "Nein. Wir binden den Assistenten per Rufumleitung an Ihre bestehende Nummer an."
+        },
+        {
+          "frage": "Was passiert bei einem Notfall?",
+          "antwort": "Der Assistent fragt die Dringlichkeit ab und kennzeichnet sie in der Zusammenfassung. Wie dringende Fälle bei Ihnen ankommen sollen, legen wir bei der Einrichtung gemeinsam fest."
+        },
+        {
+          "frage": "Wie steht es um den Datenschutz?",
+          "antwort": "Anrufer werden zu Beginn informiert. Welche Angaben abgefragt und wie lange sie gespeichert werden, legen wir mit Ihnen fest."
+        },
+        {
+          "frage": "Lohnt sich das für einen kleinen Betrieb?",
+          "antwort": "Wenn Sie regelmäßig Anrufe verpassen, weil Sie arbeiten, ja. Kommen nur ein paar Anrufe in der Woche, reicht eine gute Mailbox. Das sagen wir Ihnen im Gespräch offen."
+        }
+      ],
+      "cta_titel": "KI-Telefonassistent anfragen",
+      "cta_text": "Schreiben Sie uns, in welchem Gewerk Sie arbeiten und wie viele Anrufe am Tag ungefähr ankommen. Wir melden uns mit einem Vorschlag.",
+      "seo_beschreibung": "KI-Telefonassistent für Handwerksbetriebe: nimmt Anrufe an, während Sie arbeiten, fragt Anliegen, Kontaktdaten und Dringlichkeit ab und schickt eine Zusammenfassung. Per Rufumleitung auf Ihrer Nummer.",
+      "kurzbeschreibung": "Ein Telefonassistent, der Anrufe annimmt, während Sie arbeiten, und Ihnen eine kurze Zusammenfassung schickt.",
+      "hero_bild": "Handwerker mit Akkuschrauber und Zange auf der Baustelle, daneben liegt sein Handy auf der Werkbank",
+      "zweitbild": "Handy auf einer Hobelbank zwischen Stechbeiteln und Hobelspänen in einer Schreinerwerkstatt"
+    },
+    "bilder": {
+      "hero_bild": "/assets/ki-telefonassistent-handwerk/hero_bild.webp",
+      "zweitbild": "/assets/ki-telefonassistent-handwerk/zweitbild.webp",
+      "hintergrund_bild": "/assets/ki-telefonassistent-handwerk/hintergrund_bild.webp"
+    },
+    "hero_titel": "Das Telefon klingelt, und Sie stehen auf der Leiter",
+    "kategorie": "Netzwerk & Daten",
+    "kurzbeschreibung": "Ein Telefonassistent, der Anrufe annimmt, während Sie arbeiten, und Ihnen eine kurze Zusammenfassung schickt.",
+    "bildrichtung": "Fotorealistisch, Bilder aus der wlw-Reihe vom 18.11.2026",
+    "aufbau": "problem_zuerst",
+    "ablauf_art": "pfeile",
+    "fuer_wen_art": "chips",
+    "erstellt": "2026-11-18T12:00:05"
   }
 }

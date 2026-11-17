@@ -32,3 +32,9 @@
 - [Netzwerk-Service für Unternehmen](https://www.itscayot.com/angebote/netzwerk-service-fuer-unternehmen.html): Planung, Verkabelung, WLAN, Firewall und Wartung Ihres Netzwerks aus einer Hand.
 - [IT-Projektsteuerung für den Mittelstand](https://www.itscayot.com/angebote/it-projektsteuerung-fuer-den-mittelstand.html): Ein fester Ansprechpartner plant und steuert Ihr IT-Projekt, von der ersten Bestandsaufnahme bis zur Abnahme.
 - [KI-Sichtbarkeits-Check: Wird Ihr Betrieb von ChatGPT & Co. empfohlen?](https://www.itscayot.com/angebote/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen.html): Wir prüfen, ob und wie ChatGPT und Co. Ihren Betrieb nennen, und zeigen Ihnen in einem Bericht, was sich lohnt.
+- [Managed Firewall](https://www.itscayot.com/angebote/managed-firewall.html): Wir planen, installieren und betreiben Ihre Firewall und überwachen sie rund um die Uhr, vom kleinen Betrieb bis zum Konzern.
+- [VPN für Homeoffice und Geschäftsreisen](https://www.itscayot.com/angebote/vpn-homeoffice-geschaeftsreisen.html): Verschlüsselter Zugang ins Firmennetz für Homeoffice und Reisen, mit zweitem Faktor und klaren Rechten.
+- [Displays und LED-Wände](https://www.itscayot.com/angebote/displays-und-led-waende.html): Vom Fernseher bis zur LED-Wand: Beratung, Lieferung und Montage in der DACH-Region, auch für Großprojekte.
+- [GoBD-konforme E-Mail-Archivierung](https://www.itscayot.com/angebote/gobd-email-archivierung.html): Jede geschäftliche Mail automatisch archiviert, nicht mehr änderbar und schnell wiedergefunden.
+- [NIS-2-Betreuung](https://www.itscayot.com/angebote/nis2-betreuung.html): Wir prüfen, ob NIS-2 Sie betrifft, setzen die Anforderungen um und halten sie mit Ihnen dauerhaft ein.
+- [KI-Telefonassistent für Handwerksbetriebe](https://www.itscayot.com/angebote/ki-telefonassistent-handwerk.html): Ein Telefonassistent, der Anrufe annimmt, während Sie arbeiten, und Ihnen eine kurze Zusammenfassung schickt.
