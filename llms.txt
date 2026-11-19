@@ -1,6 +1,6 @@
 # Cayot IT Service - Angebote
 
-> IT-Dienstleister in Hüffelsheim bei Bad Kreuznach. Vor Ort im Umkreis von 50 km um Hüffelsheim und Hofheim am Taunus, Projekte im gesamten DACH-Raum, Fernwartung jederzeit.
+> IT-Dienstleister in Hüffelsheim bei Bad Kreuznach. Vor Ort im Umkreis von 100 km um Bad Kreuznach und um Hofheim am Taunus, also auch in Mainz, Wiesbaden und Frankfurt; Projekte im gesamten DACH-Raum, Fernwartung jederzeit.
 > Hauptseite: https://www.itscayot.com/
 
 ## Angebotsseiten
@@ -16,7 +16,7 @@
 - [IT-Dokumente](https://www.itscayot.com/angebote/it-dokumente.html): Individuell erstellte IT-Dokumente wie Administrationskonzept, Security-Roadmap, Risikobewertung und Onboarding-Checkliste, passend zu Ihrem Betrieb.
 - [Security-Paket für Unternehmen](https://www.itscayot.com/angebote/security-paket-fuer-unternehmen.html): Drei Schutzebenen, ein Ansprechpartner: E-Mail-Sicherheit, Endgeräteschutz und Firewall aufeinander abgestimmt.
 - [KI-Assistent für Ihren Betrieb](https://www.itscayot.com/angebote/ki-assistent-fuer-ihren-betrieb.html): Ein KI-Assistent, der auf einem eigenen Rechner in Ihrem Betrieb läuft und Post, Termine, Tickets und Zahlen für Sie übernimmt.
-- [Digitale Tafeln für Besprechungsraum und Klassenzimmer](https://www.itscayot.com/angebote/digitale-tafeln-fuer-besprechungsraum-und-klassenzimmer.html): Interaktive Displays für Besprechungsraum und Klassenzimmer, komplett montiert, eingerichtet und mit Schulung für Ihr Team.
+- [Medientechnik für Unternehmen und Schulen](https://www.itscayot.com/angebote/medientechnik-fuer-unternehmen-und-schulen.html): Konferenzraum-Technik, LED-Wände, interaktive Displays, kabellose Bildübertragung und Videokonferenz für Unternehmen und Schulen, vor Ort im Umkreis von 100 km um Bad Kreuznach und Hofheim am Taunus (auch Mainz, Wiesbaden, Frankfurt), Projekte in ganz Deutschland, Österreich und der Schweiz.
 - [Server-Betreuung für Unternehmen](https://www.itscayot.com/angebote/server-betreuung-fuer-unternehmen.html): Laufende Betreuung Ihres Firmenservers mit Überwachung, Updates, geprüfter Datensicherung und schneller Hilfe bei Störungen.
 - [IT-Roadmap für Ihr Unternehmen](https://www.itscayot.com/angebote/it-roadmap-fuer-ihr-unternehmen.html): Eine schriftliche IT-Planung für ein bis drei Jahre mit Kosten und Prioritäten, zum Festpreis.
 - [IT für Selbständige](https://www.itscayot.com/angebote/it-fuer-selbstaendige.html): Ein fester Ansprechpartner für Rechner, Mail, Sicherung und Schutz, passend zum eigenen Betrieb.
@@ -33,7 +33,7 @@
 - [IT-Projektsteuerung für den Mittelstand](https://www.itscayot.com/angebote/it-projektsteuerung-fuer-den-mittelstand.html): Ein fester Ansprechpartner plant und steuert Ihr IT-Projekt, von der ersten Bestandsaufnahme bis zur Abnahme.
 - [KI-Sichtbarkeits-Check: Wird Ihr Betrieb von ChatGPT & Co. empfohlen?](https://www.itscayot.com/angebote/ki-sichtbarkeits-check-wird-ihr-betrieb-von-chatgpt-co-empfohlen.html): Wir prüfen, ob und wie ChatGPT und Co. Ihren Betrieb nennen, und zeigen Ihnen in einem Bericht, was sich lohnt.
 - [Managed Firewall](https://www.itscayot.com/angebote/managed-firewall.html): Wir planen, installieren und betreiben Ihre Firewall und überwachen sie rund um die Uhr, vom kleinen Betrieb bis zum Konzern.
-- [VPN für Homeoffice und Geschäftsreisen](https://www.itscayot.com/angebote/vpn-homeoffice-geschaeftsreisen.html): Verschlüsselter Zugang ins Firmennetz für Homeoffice und Reisen, mit zweitem Faktor und klaren Rechten.
+- [VPN für Homeoffice und Geschäftsreisen](https://www.itscayot.com/angebote/vpn-homeoffice-geschaeftsreisen.html): Verschlüsselter Zugang ins Firmennetz für Homeoffice und Reisen, mit zweitem Faktor und klaren Rechten; für feste Heimarbeitsplätze als Homeoffice-Connector.
 - [Displays und LED-Wände](https://www.itscayot.com/angebote/displays-und-led-waende.html): Vom Fernseher bis zur LED-Wand: Beratung, Lieferung und Montage in der DACH-Region, auch für Großprojekte.
 - [GoBD-konforme E-Mail-Archivierung](https://www.itscayot.com/angebote/gobd-email-archivierung.html): Jede geschäftliche Mail automatisch archiviert, nicht mehr änderbar und schnell wiedergefunden.
 - [NIS-2-Betreuung](https://www.itscayot.com/angebote/nis2-betreuung.html): Wir prüfen, ob NIS-2 Sie betrifft, setzen die Anforderungen um und halten sie mit Ihnen dauerhaft ein.
