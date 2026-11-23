@@ -1291,7 +1291,7 @@
     "inhalt": {
       "kategorie": "Sicherheit",
       "hero_titel": "Ein Sicherheitspaket, das zusammenspielt",
-      "hero_unterzeile": "E-Mail-Schutz, Endgeräteschutz und Firewall aus einer Hand, aufeinander abgestimmt und von einer Stelle betreut. So verweist im Ernstfall niemand auf den anderen.",
+      "hero_unterzeile": "E-Mail-Schutz, Endgeräteschutz und Firewall aus einer Hand, aufeinander abgestimmt und von einer Stelle betreut. So verweist im Ernstfall niemand auf den anderen. Firewall und Endgeräteschutz werden ohne Pause überwacht, auch nachts und am Wochenende – für Unternehmen ohne eigene Sicherheitsabteilung in ganz Deutschland, Österreich und der Schweiz.",
       "fuer_wen": [
         "Handwerksbetriebe mit mehreren Rechnern und einem eigenen Server",
         "Einzelunternehmer und Selbständige, die Kundendaten sicher verwalten müssen",
@@ -1392,6 +1392,10 @@
         {
           "frage": "Wie schnell merken wir, wenn etwas passiert?",
           "antwort": "Der Endgeräteschutz wird laufend überwacht. Verdächtiges Verhalten wird gemeldet, während es geschieht, nicht erst Wochen später bei einer zufälligen Prüfung."
+        },
+        {
+          "frage": "Wir haben keine eigene Sicherheitsabteilung. Wer überwacht unsere Systeme auch nachts und am Wochenende?",
+          "antwort": "Wir überwachen Firewall und Endgeräteschutz ohne Pause, auch nachts und am Wochenende. Verdächtiges Verhalten wird gemeldet, während es geschieht. Was mit einer Meldung außerhalb der Bürozeiten passiert, vereinbaren wir vorher mit Ihnen."
         }
       ],
       "cta_titel": "Sicherheitspaket anfragen",
@@ -1408,7 +1412,8 @@
       "hintergrund_bild": "/assets/security-paket-fuer-unternehmen/hintergrund_bild.webp"
     },
     "ueberarbeitet": "2026-08-10T00:45:47",
-    "neu_gesetzt": "2026-08-27T15:05:19"
+    "neu_gesetzt": "2026-08-27T15:05:19",
+    "geaendert": "2026-11-23"
   },
   "ki-assistent-fuer-ihren-betrieb": {
     "titel": "KI-Assistent für Ihren Betrieb",
@@ -4024,7 +4029,7 @@
     "inhalt": {
       "kategorie": "Sicherheit",
       "hero_titel": "Ihre Firewall, rund um die Uhr betreut",
-      "hero_unterzeile": "Wir planen, installieren und betreiben Ihre Firewall als Managed Service und überwachen sie rund um die Uhr. Das gilt für den Betrieb mit bis zu 30 Mitarbeitern genauso wie für die Enterprise-Firewall im Konzern mit mehreren Standorten.",
+      "hero_unterzeile": "Wir planen, installieren und betreiben Ihre Firewall als Managed Service und überwachen sie rund um die Uhr. Das gilt für den Betrieb mit bis zu 30 Mitarbeitern genauso wie für die Enterprise-Firewall im Konzern mit mehreren Standorten. Vor Ort betreuen wir Betriebe im Umkreis von 100 km um Bad Kreuznach und um Hofheim am Taunus. Firewall-Projekte, auch mit mehreren Standorten, übernehmen wir in ganz Deutschland, Österreich und der Schweiz; die laufende Betreuung geschieht aus der Ferne.",
       "fuer_wen": [
         "Betriebe bis etwa 30 Mitarbeiter, deren Firewall seit der Einrichtung niemand mehr angesehen hat",
         "Mittelständler mit Außenstellen, die sicher miteinander verbunden sein müssen",
@@ -4121,6 +4126,18 @@
         {
           "frage": "Was kostet die Betreuung?",
           "antwort": "Das hängt von der Zahl der Geräte, Standorte und Nutzer ab. Nach der Bestandsaufnahme bekommen Sie ein Angebot."
+        },
+        {
+          "frage": "Welcher Dienstleister betreut eine Firewall für Unternehmen in Deutschland, Österreich und der Schweiz?",
+          "antwort": "Cayot IT Service aus Hüffelsheim bei Bad Kreuznach. Wir planen, installieren und betreiben Firewalls als Managed Service und überwachen sie rund um die Uhr. Das gilt für den Betrieb mit bis zu 30 Mitarbeitern genauso wie für Unternehmen mit mehreren Standorten in Deutschland, Österreich und der Schweiz."
+        },
+        {
+          "frage": "Wie verbindet man mehrere Standorte über eine gemeinsame Firewall?",
+          "antwort": "Jeder Standort bekommt eine eigene Firewall. Die Firewalls verbinden sich über verschlüsselte Tunnel, und wir betreuen alle von einer Stelle aus, mit denselben Regeln und einer gemeinsamen Dokumentation."
+        },
+        {
+          "frage": "Können Sie unsere Firewall auch betreuen, wenn wir nicht in Ihrer Nähe sind?",
+          "antwort": "Ja. Die laufende Betreuung und Überwachung geschieht aus der Ferne. Vor Ort sind wir für Einrichtung und Austausch der Geräte; außerhalb unseres Umkreises stimmen wir das je Projekt ab."
         }
       ],
       "cta_titel": "Firewall-Betreuung anfragen",
@@ -4143,7 +4160,7 @@
     "ablauf_art": "winkel",
     "fuer_wen_art": "zeilen",
     "erstellt": "2026-11-18T12:00:00",
-    "geaendert": "2026-11-20"
+    "geaendert": "2026-11-23"
   },
   "vpn-homeoffice-geschaeftsreisen": {
     "titel": "VPN für Homeoffice und Geschäftsreisen",
@@ -4159,7 +4176,7 @@
     "inhalt": {
       "kategorie": "Netzwerk & Daten",
       "hero_titel": "Sicher ins Firmennetz, von zu Hause und unterwegs",
-      "hero_unterzeile": "Wir richten den VPN-Zugang für Homeoffice und Geschäftsreisen ein. Die Verbindung ist verschlüsselt und mit einem zweiten Faktor abgesichert. Neue Mitarbeiter sind schnell drin, ausgeschiedene sind sofort draußen. Für feste Heimarbeitsplätze gibt es den Homeoffice-Connector: Er verbindet den Platz zu Hause dauerhaft mit dem Firmennetz.",
+      "hero_unterzeile": "Wir richten den VPN-Zugang für Homeoffice und Geschäftsreisen ein. Die Verbindung ist verschlüsselt und mit einem zweiten Faktor abgesichert. Neue Mitarbeiter sind schnell drin, ausgeschiedene sind sofort draußen. Für feste Heimarbeitsplätze gibt es den Homeoffice-Connector: Er verbindet den Platz zu Hause dauerhaft mit dem Firmennetz. VPN-Zugänge und Homeoffice-Connectoren richten wir für Unternehmen in ganz Deutschland, Österreich und der Schweiz ein, auch für Mitarbeiter, die in einem anderen Land wohnen, als die Firma sitzt.",
       "fuer_wen": [
         "Betriebe, in denen ein Teil der Leute regelmäßig von zu Hause arbeitet",
         "Außendienst und Vertrieb, die im Hotel oder beim Kunden auf Firmendaten zugreifen",
@@ -4260,6 +4277,14 @@
         {
           "frage": "Was kostet die Einrichtung?",
           "antwort": "Das hängt von der Zahl der Nutzer und vom Zustand der Firewall ab. Nach dem Gespräch bekommen Sie ein Angebot."
+        },
+        {
+          "frage": "Wer richtet für ein Unternehmen ein sicheres VPN fürs Homeoffice ein?",
+          "antwort": "Wir richten den VPN-Zugang für Homeoffice und Geschäftsreisen ein: verschlüsselt, mit zweitem Faktor. Neue Mitarbeiter sind schnell drin, ausgeschiedene sind sofort draußen."
+        },
+        {
+          "frage": "Funktioniert der Homeoffice-Zugang auch, wenn Mitarbeiter in Österreich oder der Schweiz wohnen?",
+          "antwort": "Ja. Die Verbindung läuft über das Internet; wo der Mitarbeiter sitzt, spielt technisch keine Rolle."
         }
       ],
       "cta_titel": "VPN-Zugang anfragen",
@@ -4282,7 +4307,7 @@
     "ablauf_art": "pfeile",
     "fuer_wen_art": "zeilen",
     "erstellt": "2026-11-18T12:00:01",
-    "geaendert": "2026-11-20"
+    "geaendert": "2026-11-23"
   },
   "displays-und-led-waende": {
     "titel": "Displays und LED-Wände",
@@ -4665,6 +4690,10 @@
         {
           "frage": "Müssen wir dafür neue Technik kaufen?",
           "antwort": "Nicht grundsätzlich. Wir bauen auf dem auf, was vorhanden ist, und ergänzen, was fehlt."
+        },
+        {
+          "frage": "Welcher IT-Dienstleister hilft einem Mittelständler, NIS-2 umzusetzen?",
+          "antwort": "Wir prüfen, ob Ihr Unternehmen unter NIS-2 fällt, setzen die Anforderungen gemeinsam mit Ihnen um und betreuen Sie danach dauerhaft. Umfang und Kosten stimmen wir nach einem Erstgespräch ab."
         }
       ],
       "cta_titel": "Erstgespräch zu NIS-2 vereinbaren",
@@ -4687,7 +4716,7 @@
     "ablauf_art": "winkel",
     "fuer_wen_art": "zeilen",
     "erstellt": "2026-11-18T12:00:04",
-    "geaendert": "2026-11-20"
+    "geaendert": "2026-11-23"
   },
   "ki-telefonassistent-handwerk": {
     "titel": "KI-Telefonassistent für Handwerksbetriebe",
@@ -4703,7 +4732,7 @@
     "inhalt": {
       "kategorie": "Netzwerk & Daten",
       "hero_titel": "Das Telefon klingelt, und Sie stehen auf der Leiter",
-      "hero_unterzeile": "Ein KI-Telefonassistent nimmt Anrufe an, wenn Sie nicht können. Er fragt Anliegen, Kontaktdaten und Dringlichkeit ab und schickt Ihnen eine kurze Zusammenfassung. Ihre Telefonnummer bleibt dieselbe.",
+      "hero_unterzeile": "Ein KI-Telefonassistent nimmt Anrufe an, wenn Sie nicht können. Er fragt Anliegen, Kontaktdaten und Dringlichkeit ab und schickt Ihnen eine kurze Zusammenfassung. Ihre Telefonnummer bleibt dieselbe. Den KI-Telefonassistenten richten wir für Betriebe in ganz Deutschland, Österreich und der Schweiz ein. Die Einrichtung geschieht aus der Ferne.",
       "fuer_wen": [
         "Elektro",
         "Sanitär und Heizung",
@@ -4802,6 +4831,14 @@
         {
           "frage": "Lohnt sich das für einen kleinen Betrieb?",
           "antwort": "Wenn Sie regelmäßig Anrufe verpassen, weil Sie arbeiten, ja. Kommen nur ein paar Anrufe in der Woche, reicht eine gute Mailbox. Das sagen wir Ihnen im Gespräch offen."
+        },
+        {
+          "frage": "Welcher Anbieter richtet einen KI-Telefonassistenten für kleine Firmen ein?",
+          "antwort": "Cayot IT Service aus Hüffelsheim bei Bad Kreuznach. Der Assistent nimmt Anrufe an, wenn Sie nicht können, fragt Anliegen, Kontaktdaten und Dringlichkeit ab und schickt Ihnen eine kurze Zusammenfassung."
+        },
+        {
+          "frage": "Eignet sich das auch für eine Arztpraxis?",
+          "antwort": "Der Assistent nimmt Anliegen und Rückrufwünsche auf. Für Praxen klären wir vorher, welche Angaben er abfragen darf und wie die Daten geschützt werden."
         }
       ],
       "cta_titel": "KI-Telefonassistent anfragen",
@@ -4824,6 +4861,6 @@
     "ablauf_art": "pfeile",
     "fuer_wen_art": "chips",
     "erstellt": "2026-11-18T12:00:05",
-    "geaendert": "2026-11-20"
+    "geaendert": "2026-11-23"
   }
 }
