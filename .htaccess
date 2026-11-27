@@ -5,3 +5,8 @@ RewriteEngine On
 RewriteCond %{HTTPS} !=on [OR]
 RewriteCond %{HTTP_HOST} !^www\.itscayot\.com$ [NC]
 RewriteRule ^ https://www.itscayot.com%{REQUEST_URI} [R=301,L]
+
+# Alte Adressen, die von außen noch verlinkt werden und sonst 404 liefern (Marcel/Brian 27.11.2026).
+# Keine eigenen Preis- oder Leistungsseiten - die Umleitung führt auf die Startseite.
+RewriteRule ^leistungen/?$ https://www.itscayot.com/#leistungen [R=301,NE,L]
+RewriteRule ^preise/?$ https://www.itscayot.com/#sicherheitscheck [R=301,NE,L]

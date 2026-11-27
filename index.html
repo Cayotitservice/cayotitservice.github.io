@@ -133,6 +133,22 @@
                  font-weight:600; font-size:.95rem; color:var(--akzent); }
   .karte .mehr:hover, .karte .mehr:focus-visible { text-decoration:underline; }
 
+  /* Kostenloser IT-Sicherheitscheck (Marcel 27.11.2026): ein Kasten, ein Knopf - keine Preise,
+     keine Pakete, keine Telefonnummer, keine Messung */
+  .check .kasten { max-width:860px; margin:0 auto; border:1px solid var(--akzent); border-radius:14px;
+                   padding:28px 24px 30px; background:rgba(11,20,34,.82); text-align:center; }
+  .check .unterzeile { color:var(--gedimmt); font-family:"Inter", system-ui, "Segoe UI", Arial, sans-serif;
+                       font-size:1.05rem; margin:8px 0 0; }
+  .check ul { list-style:none; margin:18px auto 4px; padding:0; max-width:640px; text-align:left; }
+  .check li { padding:6px 0 6px 26px; position:relative; color:var(--text);
+              font-family:"Inter", system-ui, "Segoe UI", Arial, sans-serif; font-size:1.02rem; line-height:1.5; }
+  .check li::before { content:""; position:absolute; left:6px; top:.9em; width:7px; height:7px;
+                      border-radius:50%; background:var(--akzent); }
+  .check .termin { display:inline-block; margin-top:20px; background:#3db1f5; color:#06111f; border-radius:8px;
+                   padding:14px 30px; font-family:"Cinzel", Georgia, serif; font-weight:700; font-size:1.08rem;
+                   letter-spacing:.04em; }
+  .check .termin:hover, .check .termin:focus-visible { filter:brightness(1.1); }
+
   /* Einsatzgebiet: zwei 50-km-Kreise als eigene Grafik, keine Fremdkarte */
   .einsatz .raster { display:grid; grid-template-columns:repeat(auto-fit, minmax(min(320px, 100%), 1fr));
                      gap:28px; align-items:center; }
@@ -355,7 +371,22 @@
   </div>
 </div>
 
-<section style="padding-top:0">
+<section class="check" id="sicherheitscheck" style="padding-top:8px">
+  <div class="schale">
+    <div class="kasten">
+      <h2 class="gross">Kostenloser IT-Sicherheitscheck</h2>
+      <p class="unterzeile">Für kleine Betriebe und Handwerker in der Region</p>
+      <ul>
+        <li>30 Minuten Gespräch: Wo steht Ihre IT, und wo liegt das größte Risiko?</li>
+        <li>Dazu eine Sichtprüfung Ihrer IT</li>
+        <li>Ausdrücklich ohne Zugriff auf Ihre Kundendaten oder Ihre Systeme – wir schauen hin, wir greifen nicht ein</li>
+      </ul>
+      <a class="termin" href="https://bookings.cloud.microsoft/bookwithme/user/b7cc2f79f05d478e9a0bc50f94b88b7c@itscayot.com?anonymous&amp;ismsaljsauthenabled&amp;ep=plink">Termin buchen</a>
+    </div>
+  </div>
+</section>
+
+<section id="leistungen" style="padding-top:0">
   <h2 class="sr-only">Digitalisierung: Analyse, Strategie und Umsetzung</h2>
   <div class="schale karten">
     <div class="karte">
